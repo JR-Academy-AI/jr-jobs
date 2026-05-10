@@ -1,12 +1,13 @@
 #!/usr/bin/env bun
 /**
- * Scraped Jobs Sync — push daily graduate/campus job feed to jr-academy backend.
+ * Scraped Jobs Sync — push daily AU + CN job feed to jr-academy backend.
  *
- * 由 graduate-jobs routine 每天产 src/data/scraped-jobs/{DATE}.json
+ * 由 daily-jobs routine 每天产 src/data/scraped-jobs/{DATE}.json
  * 然后 GH Actions (.github/workflows/scraped-jobs-sync.yml) 触发本脚本。
  *
- * 不绑 bootcamp、不分 tier、不调 AI 分析。纯把 5 个校招岗位 POST 到
+ * 不绑 bootcamp、不分 tier、不调 AI 分析。纯把 10-30 个 AU+CN 岗位 POST 到
  * /admin-cms/jobs/scraped-jobs/bulk 让后端 upsert 进 Job 集合（isAutoScraped=true）。
+ * Level 全档（Graduate / Junior / Mid / Senior），见 docs/prd/SCRAPED_JOBS_TAXONOMY.md。
  *
  * Usage:
  *   bun run scripts/sync-scraped-jobs.ts                # sync today's file
@@ -35,13 +36,15 @@ if (!TOKEN) {
 }
 console.log(`▶ token=${TOKEN.slice(0, 8)}... api=${API}`);
 
+type Level = 'Graduate' | 'Junior' | 'Mid' | 'Senior';
+
 interface ScrapedJob {
 	title: string;
 	company: string;
 	location?: string;
 	market?: 'AU' | 'CN';
 	category?: string;
-	level?: 'Graduate';
+	level?: Level;
 	postedAt?: string;
 	applyUrl: string;
 	snippet?: string;
@@ -66,10 +69,17 @@ const VALID_CATEGORIES = new Set([
 	'Data Scientist',
 	'Data Engineer'
 ]);
+const VALID_LEVELS = new Set<Level>(['Graduate', 'Junior', 'Mid', 'Senior']);
+const MAX_JOBS_PER_DAY = 50;
 
-function validateGraduateJobsFile(file: ScrapedJobsFile, filePath: string) {
-	if (!Array.isArray(file.jobs) || file.jobs.length !== 5) {
-		throw new Error(`${filePath} must contain exactly 5 jobs, got ${file.jobs?.length ?? 0}`);
+function validateScrapedJobsFile(file: ScrapedJobsFile, filePath: string) {
+	if (!Array.isArray(file.jobs) || file.jobs.length === 0) {
+		throw new Error(`${filePath} must contain a non-empty jobs[] array`);
+	}
+	if (file.jobs.length > MAX_JOBS_PER_DAY) {
+		throw new Error(
+			`${filePath} has ${file.jobs.length} jobs (cap ${MAX_JOBS_PER_DAY}); split or trim first`
+		);
 	}
 
 	file.jobs.forEach((job, index) => {
@@ -83,8 +93,8 @@ function validateGraduateJobsFile(file: ScrapedJobsFile, filePath: string) {
 		if (!job.category || !VALID_CATEGORIES.has(job.category)) {
 			throw new Error(`${label} invalid category "${job.category}"`);
 		}
-		if (job.level !== 'Graduate') {
-			throw new Error(`${label} level must be Graduate`);
+		if (!job.level || !VALID_LEVELS.has(job.level)) {
+			throw new Error(`${label} invalid level "${job.level}" (must be Graduate/Junior/Mid/Senior)`);
 		}
 		if (job.applyUrl.includes('linkedin.com')) {
 			throw new Error(`${label} LinkedIn URL forbidden`);
@@ -138,7 +148,7 @@ async function main() {
 		console.error('::error::jobs[] is required and must contain exactly 5 items.');
 		process.exit(1);
 	}
-	validateGraduateJobsFile(file, filePath);
+	validateScrapedJobsFile(file, filePath);
 
 	// Pre-filter: drop any LinkedIn URLs (defense in depth — routine should already filter)
 	const cleanJobs = file.jobs.filter(j => {
