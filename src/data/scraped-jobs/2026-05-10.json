@@ -1,0 +1,15 @@
+{
+  "date": "2026-05-10",
+  "generatedAt": "2026-05-10T07:30:00+10:00",
+  "auMode": "淡季",
+  "cnMode": "暑假实习+提前批",
+  "sources": [],
+  "stats": {
+    "auCandidates": 28,
+    "auLive": 0,
+    "cnCandidates": 27,
+    "cnLive": 0,
+    "note": "WebFetch tool returned HTTP 403 for all URLs (including httpbin.org and example.com) — outbound HTTP blocked at network layer. Per 宁缺勿滥 rule: 0 jobs published. Candidate pool was built (AU: 28, CN: 27) but none could be verified or have descriptions extracted."
+  },
+  "jobs": []
+}
