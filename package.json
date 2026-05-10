@@ -1,0 +1,10 @@
+{
+  "name": "jr-jobs",
+  "version": "1.0.0",
+  "description": "JR Academy 校招岗位数据 + sync workflow",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sync": "bun run scripts/sync-scraped-jobs.ts"
+  }
+}

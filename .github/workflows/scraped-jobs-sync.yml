@@ -1,0 +1,44 @@
+name: Scraped Jobs Sync
+
+# 由 graduate-jobs routine 写 src/data/scraped-jobs/{DATE}.json + push 触发
+# Push 5 个校招岗位到 jr-academy 后端（/admin-cms/jobs/scraped-jobs/bulk）
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'src/data/scraped-jobs/**/*.json'
+  workflow_dispatch:
+    inputs:
+      date:
+        description: 'Date YYYY-MM-DD (optional, defaults to today AEST)'
+        required: false
+
+permissions:
+  contents: read
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Sync (push trigger — today's file)
+        if: github.event_name == 'push'
+        env:
+          JR_SERVICE_API_KEY: ${{ secrets.JR_SERVICE_API_KEY }}
+          JR_ADMIN_TOKEN: ${{ secrets.ADMIN_TOKEN }}
+          JR_API: ${{ secrets.API_URL || 'https://api.jiangren.com.au' }}
+        run: bun run scripts/sync-scraped-jobs.ts
+
+      - name: Sync (manual dispatch — specific date)
+        if: github.event_name == 'workflow_dispatch'
+        env:
+          JR_SERVICE_API_KEY: ${{ secrets.JR_SERVICE_API_KEY }}
+          JR_ADMIN_TOKEN: ${{ secrets.ADMIN_TOKEN }}
+          JR_API: ${{ secrets.API_URL || 'https://api.jiangren.com.au' }}
+        run: bun run scripts/sync-scraped-jobs.ts ${{ inputs.date }}
