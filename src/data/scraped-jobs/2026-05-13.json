@@ -1,0 +1,186 @@
+{
+  "date": "2026-05-13",
+  "generatedAt": "2026-05-13T07:30:00+10:00",
+  "auMode": "淡季",
+  "cnMode": "暑假实习+提前批",
+  "sources": [
+    "seek.com.au",
+    "lifeatcanva.com",
+    "au.prosple.com",
+    "au.gradconnection.com",
+    "nowcoder.com"
+  ],
+  "stats": {
+    "auCandidates": 32,
+    "auLive": 7,
+    "cnCandidates": 28,
+    "cnLive": 8
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Machine Learning Engineer Intern 2026/27",
+      "company": "Canva",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.lifeatcanva.com/en/jobs/6000000000970227/machine-learning-engineer-intern-2026-27/",
+      "description": "You are based in Australia or New Zealand and have working rights. You have excellent Computing and Object-Oriented Programming (OOP) Fundamentals. You are comfortable working in Python. You have the ability to conceive and translate statistical or machine learning models to practical, scalable solutions. You have the passion to learn and grow as a technologist. You are excited to explore AI tools and use them in smart, helpful ways to boost your workflow. You are able to commit to the 12-week, full-time summer program from early December 2026 to late February 2027. Desirable Experience: Experience building and deploying machine learning models; experience with data platforms (e.g. Spark and Hadoop); experience with machine learning frameworks (e.g. Scikit learn, TensorFlow, PyTorch). Canva will not be able to sponsor visas and relocate for Early Talent roles.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Intern – Machine Learning Engineer",
+      "company": "Xero Australia",
+      "location": "Melbourne, VIC",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://au.prosple.com/graduate-employers/xero-australia/jobs-internships/intern-machine-learning-engineer-0",
+      "description": "The AI Products group exists to collaboratively build products that use AI and ML to reduce toil and deliver the right insight at the right time. Working within the Data & Science team, you will join a diverse, globally distributed team of scientists, engineers, product managers, and analysts who help Xero turn data into beautiful, insightful products. Machine Learning Engineers design and build the infrastructure and services that power AI products that serve millions of customers every day. They also work closely with Applied Scientists through the research and development process to create harnesses and interfaces to safely take models from research to production environments. Applicants should have a degree in engineering, mathematics, science or data with good interpersonal skills and the ability to quickly build effective working relationships with others. Candidates should be comfortable learning new frameworks (distributed processing, ML, etc) and applying them to real problems, have a basic understanding of cloud-based systems infrastructure, and understanding of software version control.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Data Engineer",
+      "company": "Flybuys",
+      "location": "Melbourne, VIC",
+      "category": "Data Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.seek.com.au/job/58965873",
+      "description": "Flybuys is known for being the country's most popular rewards program, making the everyday worth more for millions of Aussies. Hands-on experience working with Python programming language. Solid DevOps experience (building pipelines and using IAC infrastructure as code). Previous experience using Airflow. Relevant experience in data warehousing and data management technologies, such as Snowflake. Help to train less experienced engineers in the squad. The company values ways of working that work for everyone, and uses different strengths to make everyone stronger, aiming to ensure everyone's voice is heard and respected equally, regardless of identity, background, position, ability or lifestyle.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Data Scientist – Credit Risk Modelling",
+      "company": "Toyota Finance Australia",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Senior",
+      "applyUrl": "https://www.seek.com.au/job/57780799",
+      "description": "Contributing to financial planning processes like loss & IFRS9 compliant reserve forecasting and recovery forecasting, while partnering with Credit Risk Teams to support credit strategies through account level performance-based analytics. The role is with Toyota Finance Australia (TFA), which is the country's largest automotive financier. Responsibilities include designing appropriate champion/challenger tests and preparing policy options/changes/recommendations based on analytics and/or regulatory requirements. Candidates with a degree in quantitative disciplines such as statistics, actuarial science, etc. are preferred. Toyota Finance Australia offers development programs and recognition programs to support employee growth and wellbeing.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Machine Learning Engineer – Smart Content AI",
+      "company": "Canva",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.lifeatcanva.com/en/jobs/6000000000521646/senior-machine-learning-engineer-smart-content-ai-remote-across-anz/",
+      "description": "The Content Management & Distribution team is on a mission to revolutionise their content management experience using AI, ingesting and managing billions of images, videos, documents and design elements. As the first MLE in the team you will lay the technical foundations for our ML stack, set coding and experimentation standards, and deliver high-impact models that power content discovery and personalisation across Canva.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Machine Learning Engineer – AI Platform Enablement",
+      "company": "Canva",
+      "location": "Remote, Australia",
+      "category": "MLOps / AI Infra",
+      "level": "Senior",
+      "applyUrl": "https://www.lifeatcanva.com/en/jobs/6000000000755350/senior-machine-learning-engineer-ai-platform-enablement-anz-remote/",
+      "description": "The role sits at the intersection of solution expertise and platform engineering, requiring deep technical expertise across ML domains combined with strong platform knowledge, with the senior MLE context-switching between facilitating model evaluations, data pipelines, optimising inference performance and working directly with product teams building solutions. The nature of enablement work demands someone who operates as a force multiplier, finding satisfaction not just in solving technical problems but in enabling others to move faster. Required qualifications include strong Python expertise with experience in ML frameworks and strong communication skills with the ability to explain complex technical concepts to varied audiences. A collaborative mindset with a focus on enabling others to succeed is also important.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Graduate Data Engineer",
+      "company": "Quantium",
+      "location": "Sydney, NSW",
+      "category": "Data Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/quantium/jobs/quantium-graduate-data-engineer-feb-2026/",
+      "description": "At Quantium you will have the opportunity to be part of the impact, working with a diverse team of experts that spans actuaries, statisticians, data scientists, product leaders, strategy consultants, software engineers, delivery managers, industry experts, designers, and futurists – all dedicated to harnessing the power of data to drive transformational outcomes for our clients. Due to complete your tertiary education (i.e. you are in your final year of study) or have completed your studies in the 18 months prior to starting with us; and you have work rights. The 12-month graduate program is part of a broader Advance @ Quantium offering continuous support, Learning & Development and events. Most of the work is done at the company's physical office, though an employee may work from home for 1-2 days per week.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AIGC算法/Agent实习生",
+      "company": "快手",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/0bb7738ca0a64a14a9fefb6af42d054c",
+      "description": "多模态大模型的研发、调优和应用，包括但不限于文本/图像/视频理解和生成。将大模型能力在公司核心业务场景中应用落地，如智能化特效、AIGC创意生成、智能美颜等。算法所需训练数据、评测体系的建设，探索大模型应用前沿及新兴应用场景。包括但不限于人工智能、计算机、模式识别、自动化、数学、统计学等专业的优秀本科生、硕士生和博士生。熟悉GAN、Diffusion、Transformer、CLIP等技术原理。熟练掌握常用的深度学习模型结构及训练方法。良好的代码基础，能熟练使用Python。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI Infra开发工程师（2027届校招实习）",
+      "company": "阿里巴巴",
+      "location": "北京",
+      "category": "MLOps / AI Infra",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/a70e90c73e4f40cf94dd2dbd0071e937",
+      "description": "Building next-generation high-performance infrastructure supporting intelligent agents with large-scale, strong isolation, and high-dynamic load characteristics. Developing next-generation Agent runtime, tackling millisecond-level cold starts, high-density isolation, and Scale-to-Zero challenges. Building intelligent scheduling systems for thousands of nodes, optimizing CPU/GPU resource allocation, and creating industry-leading computational density. Building Agent full lifecycle management platform to drive large-scale application of intelligent agents across industries. Required: Solid fundamentals in algorithms, data structures, operating systems with rigorous logical thinking. Skilled in at least one language among Java/Go/C++/Rust. Familiarity with prompt engineering, Agent frameworks, and large model related technologies. Good communication and cooperation skills.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "运筹优化算法工程师实习",
+      "company": "美团",
+      "location": "北京",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/dd10210150624001ac03baa75e3859e7",
+      "description": "以提升效率和体验为目标，结合配送大数据平台，以运筹优化和机器学习为主要技术手段，构建自动化、智能化的即时配送系统。具体包括：通过运筹优化策略，优化订单分配、路径规划，服务美团多个即时配送/实时调度业务场景；深入研究供需均衡、合理订单结构、最优定价策略等，不断提升配送业务的经营效率，降低运营成本；结合深度学习、强化学习等，进行运筹优化技术的持续创新。本科及以上学历，计算机、工业工程、自动化、管理科学、应用数学、交通工程等专业；开发能力好，熟悉Java/C++/Python/Matlab等任一语言，熟悉常用的数据结构和算法；对运筹优化中的常用数学模型、求解算法、所适用的场景有深入的理解和应用经验；具备较强的数学建模能力。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "算法实习生（LLM与AI Agent方向）",
+      "company": "商汤科技",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/294620",
+      "description": "参与LLM与AI Agent方向的研究，紧跟学术界和工业界前沿，致力于构建行业内领先的LLM与Agent算法。结合产品和业务需求优化LLM和Agent模型以提高系统整体性能，与产品团队合作将LLM与Agent算法用于实际产品中，推动相关算法的落地。要求本科及以上学历，计算机科学、数据科学、统计学及相关专业，需有较强的算法开发能力，熟悉常见的深度学习框架，有模型训练和性能调优的经验，熟悉C++、python、shell等一种或多种编程语言。熟悉LLM与Agent技术领域的最新研究成果，有实际项目经验者优先。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI应用开发工程师（2026届春招）",
+      "company": "涂鸦智能",
+      "location": "杭州",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/3a9e9929305c41cf949cfa5198aa7b5a",
+      "description": "负责基于自研技术栈构建高可用的 AI Agent，设计多智能体协作逻辑及自省机制；参与构建高性能检索增强生成RAG系统，优化向量数据库检索、重排序及长文本上下文管理；将 LLM 能力解构并集成至复杂的业务系统中，通过提示词工程与逻辑调优提升系统输出的稳定性与准确率；负责核心模块的代码编写与系统重构，应用微服务架构保障系统在高并发场景下的高性能与低延迟；与产品经理、算法工程师深度配合，将前沿 AI 技术转化为可规模化的产品功能。熟练掌握 Python / Go / Java 中的至少一门，熟悉大语言模型的基本原理，了解 RAG、Function Calling、MCP等核心概念，有实际的 LangChain 或相关框架使用经验。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI研发工程师实习（2027届）",
+      "company": "淘天集团",
+      "location": "杭州",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/1888e45339d94ce0a1d51ed7f4ec7a7e",
+      "description": "淘天集团招聘2027届AI应用研发实习生，岗位涉及AI重塑电商业务，如用AI智能设计实现家装「所想即所见」，用AI运营重构自营流程，用AI导购服务亿万用户个性化需求。岗位职责包括在真实商业场景中用AI作为核心计算引擎进行工程落地，涵盖定义问题、归因与建模、架构设计、收敛问题、环境构建、工程迭代等多个方面。淘天集团自营技术供应链岗位方向包括AI研发工程师和AI算法工程师，工作地点为杭州。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法实习生",
+      "company": "小米",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/30668410acdb46e6aaf81d56b6815c68",
+      "description": "参与超级小爱的建设，算法落地新一代AI手机。基于大模型，参与研发交互式相关项目。不断探索技术新领域，推动技术能力的沉淀。熟悉大模型的原理，具备Agent、SFT、预训练、数据处理等方面的经验。熟悉自然语言处理常见算法与模型，具备深度学习技术在NLP领域的应用实践。具备良好的编程实现能力，熟悉C++、Python、Java等常用编程语言中至少一种。较强的分析问题和解决问题的能力，对解决具有挑战性问题充满激情。硕士及以上学历在读，每周至少全职工作四天，保证实习至少3个月。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "多模态预训练/大模型算法实习生",
+      "company": "蚂蚁集团",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/discuss/462299913868787712",
+      "description": "负责蚂蚁集团自研大模型的训练、评测和应用，包括预训练模型架构的调优、模型SFT、大模型压缩算法的研究，以及搭建业界领先的大模型评测体系。参与大语言模型（LLM）后训练全流程优化，实现并应用SFT/RLHF/DPO/PPO/GRPO等算法。工作地点：北京/上海/杭州。",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
