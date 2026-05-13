@@ -1,0 +1,306 @@
+{
+  "date": "2026-05-14",
+  "generatedAt": "2026-05-14T07:38:00+10:00",
+  "auMode": "淡季",
+  "cnMode": "暑假实习+提前批",
+  "sources": [
+    "seek.com.au",
+    "au.prosple.com",
+    "jobs.smartrecruiters.com",
+    "nowcoder.com"
+  ],
+  "stats": {
+    "auCandidates": 32,
+    "auLive": 14,
+    "cnCandidates": 24,
+    "cnLive": 12
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Data Scientist",
+      "company": "Rubix Solutions",
+      "location": "Melbourne, VIC",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "applyUrl": "https://www.seek.com.au/job/58053552",
+      "description": "Building creative and pleasing visualizations to communicate data asset design, maintaining Master Data and Meta Data repositories, creating and maintaining optimal data pipeline architecture, assembling large complex data sets, and identifying and implementing internal process improvements. The position is being offered through Rubix Solutions, which services a wide range of businesses across the IT industry.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Data Scientist",
+      "company": "ATWD",
+      "location": "Melbourne, VIC",
+      "category": "Data Scientist",
+      "level": "Senior",
+      "applyUrl": "https://www.seek.com.au/job/59058095",
+      "description": "As the Senior Data Scientist, you will be responsible for the planning, preparation and delivery of analysis and modelling to inform understanding of critical issues related to the teacher workforce.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Data Scientist – Credit Risk Modelling",
+      "company": "Toyota Finance Australia",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Senior",
+      "applyUrl": "https://www.seek.com.au/job/57780799",
+      "description": "Extensive experience in risk modelling, quantitative reporting, or risk analytics. Strong experience in statistical model building and scorecard development. Strong analytical skills, experience in business use of statistics, and strong working knowledge of SAS, SQL, Excel. R and Python are advantageous; strong communication skills, both written and verbal, able to articulate complex analytical information. Ability to maintain high standards of accuracy and work under pressure to achieve deadlines.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Lead Data Scientist",
+      "company": "Lendi Group",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Senior",
+      "applyUrl": "https://jobs.smartrecruiters.com/LendiGroup1/744000116507167-lead-data-scientist",
+      "description": "Lead, mentor and motivate a data science team (up to 10 people) and set the technical direction and standards and collaborate within a cross-functional digital team, including Product Management, Engineering and Design. Lendi Group is a market-leading digital platform business that is focused on revolutionising the entire property journey. Lendi Group is an ASX-listed lending group with a strong market footprint, scaling advanced AI and data capability across risk, customer, and product platforms.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Graduate Data & AI Analyst",
+      "company": "Quantium",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://au.prosple.com/graduate-employers/quantium/jobs-internships/graduate-data-ai-analyst-0",
+      "description": "The Graduate Academy offers intensive learning opportunities for the development of key analytical, technical, and commercial skills, as well as a comprehensive understanding of Quantium's business. You have a unique opportunity to play a major role in the data-driven initiatives within our global Quantium Verticals including Consumer and Retail Financial Services, Health, Telco or within one of our analytics teams within our Technology & Delivery function (e.g. Data Management, Product Analytics or Generative AI). The program includes a 12-month graduate program with a dedicated program manager and targeted learning & development workshops that support you in building your personal & professional skills. Tools include SQL, Snowflake, Python, GitHub, Tableau, Azure, GCP, Vertex AI, Claude.ai and more.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Machine Learning Intern",
+      "company": "Zendesk",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://au.prosple.com/graduate-employers/zendesk-australia/jobs-internships/machine-learning-intern",
+      "description": "collaborating closely with local and global team members to build products using Machine Learning, pairing with applied ML scientists to learn about their technology stack and architecture. Applicants should be currently enrolled or recent graduates in a university program or boot camp for Computer Science or related field, have coding skills in any language, and be passionate about Machine Learning. Applicants must be located and authorized to work in Australia. Familiarity with one of the main machine learning libraries (Tensorflow, PyTorch, or Scikit-learn) is desired, along with great written and verbal communication skills.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data Science Intern – Consulting & Analytics",
+      "company": "Visa",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://au.prosple.com/graduate-employers/visa-australia/jobs-internships/data-science-intern-consulting-analytics",
+      "description": "requires applicants to be pursuing a degree in Computer Science, Data Analytics, Data Science, Information Technology, Statistics, or a related STEM/quantitative field. Throughout the 10-12 week internship at Visa, interns take on meaningful work, get executive exposure, engage in problem-solving, and participate in social and community service activities.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Business Analyst",
+      "company": "Confidential",
+      "location": "Sydney, NSW",
+      "category": "Business Analyst",
+      "level": "Mid",
+      "applyUrl": "https://www.seek.com.au/job/58939363",
+      "description": "A position seeking a determined Business Analyst to liaise with business and technical stakeholders for delivery of current business requirements which will form the basis of change to current business processes, policies or systems.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Business Analyst",
+      "company": "Confidential",
+      "location": "Melbourne, VIC",
+      "category": "Business Analyst",
+      "level": "Senior",
+      "applyUrl": "https://www.seek.com.au/job/56382135",
+      "description": "responsible for ongoing development and implementation for projects with specific focus on delivery of the service enhancement and digital transformation objectives",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Technical Business Analyst",
+      "company": "Confidential",
+      "location": "Sydney, NSW",
+      "category": "Business Analyst",
+      "level": "Mid",
+      "applyUrl": "https://www.seek.com.au/job/58952247",
+      "description": "This role involves providing data analysis, reporting and correction of corrupt data as per business prioritization.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Technical Business Analyst",
+      "company": "Confidential",
+      "location": "Melbourne, VIC",
+      "category": "Business Analyst",
+      "level": "Mid",
+      "applyUrl": "https://www.seek.com.au/job/55047931",
+      "description": "developing data mapping designs; source to target state & develop functional and technical specifications",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist",
+      "company": "Confidential",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "applyUrl": "https://www.seek.com.au/job/58380373",
+      "description": "AI Data Scientists focused on delivering high-impact, production-ready machine learning, with roles leading strategic data science initiatives across pricing, customer analytics, and experimentation to drive commercial results",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Data Engineer",
+      "company": "Confidential",
+      "location": "Melbourne, VIC",
+      "category": "Data Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.seek.com.au/job/58965873",
+      "description": "Senior Data Engineer role requiring DevOps experience, Airflow, data warehousing technologies like Snowflake, and Python programming",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Business Analyst",
+      "company": "Confidential",
+      "location": "Melbourne, VIC",
+      "category": "Business Analyst",
+      "level": "Mid",
+      "applyUrl": "https://www.seek.com.au/job/56011547",
+      "description": "Australia's fastest growing logistics services organization, for a dynamic Business Analyst with strong excel modelling capability",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AIGC生成式模型实习生",
+      "company": "字节跳动",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/ff2fe5d8221f499aabbb7d3a60852312",
+      "description": "基于LLM的广告文案生成算法优化、基于diffusion model的视频生成和图像生成、基于多模态输入的视频混剪和视频包装大模型，以及视频理解相关算法。需要2026届及以后毕业、本科及以上学历在读，计算机、软件工程等相关专业优先；熟悉stable diffusion、视觉理解大模型或大模型相关算法优先；掌握大模型算法或CV生成模型算法者优先。每周至少3天以上工作，实习3个月以上；日薪400，免费三餐、下午茶等；地点包括北京融中心B座、杭州EFC英国中心及其他地点。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型应用开发实习生（WXG）",
+      "company": "腾讯",
+      "location": "上海",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/1722b1ffc3134f09a24364b80fcb826f",
+      "description": "参与微信大模型应用的工程设计和开发工作，包含RAG系统、Agent系统、大模型分布式推理。岗位要求包括计算机科学相关本科及以上学历，熟悉Linux开发环境和C++编程，了解数据结构和算法，以及shell或Python脚本语言经验。此次WXG开放了1000+实习岗位，是微信事业群历史上规模最大的实习招聘，不限年级，23、24届同学也可投递。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "推荐算法实习生",
+      "company": "小红书",
+      "location": "上海",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/330791",
+      "description": "小红书社区技术部算法组招聘算法实习生，工作地点在上海复兴广场C座，地铁10号线新天地地铁站直达，实习待遇为300元/天，餐补50元，还提供饮料和小零食。要求每周保证3天以上的出勤，且能连续实习不少6个月。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI产品实习生",
+      "company": "美团",
+      "location": "北京",
+      "category": "AI Product / PM",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/7ad99867e0b04baf8236b16958332011",
+      "description": "美团基础研发平台正在招聘AI产品实习生，参与数字人平台产品建设，撰写产品需求文档和功能设计文档，需要本科及以上学历在读，了解AI技术能力和基本原理，具备较强的数据分析能力和逻辑思维能力。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型基座团队算法实习生",
+      "company": "美团",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/04df0c83e38c4d839c032cbf7b350d8d",
+      "description": "Explore cutting-edge LLM research including data construction, model pretraining, model compression, inference optimization, logical reasoning, agents, MoE, scaling laws and model evaluation. Optimize and improve LLM alignment effects through data quality optimization, instruction fine-tuning, reward model optimization, and RL strategy iteration. Requirements: Master's or Ph.D. in Computer Science, Mathematics, or Statistics; proficiency in Python/Java and deep learning frameworks; 1+ years NLP experience with BERT, GPT and related models; 6+ months internship, at least 4 days/week on-site. Contact: konglingbin@meituan.com",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "金融科技大模型实习生",
+      "company": "腾讯",
+      "location": "深圳",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/e0334f4aeb31436fa71e2989c1b9029b",
+      "description": "Supporting AI search, intelligent customer service, and intelligent Q&A assistants. Responsibilities include completing SFT and DPO dataset construction and training, participating in AI automated evaluation pipeline construction, and exploring frontier large model training and inference technology including inference optimization and efficient pruning/quantization acceleration. Location: Shenzhen Binhai Building. Requirements: Master's degree or above in Computer Science, AI, Data Science, or Statistics; familiarity with LLM technologies (SFT, RLHF, DPO, Planning, Agent); deep learning framework proficiency; 3+ days/week on-site, 6+ months preferred.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI工程师实习生（26届）",
+      "company": "华为",
+      "location": "深圳",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/362602",
+      "description": "Software engineering and product development in the AI field; design and implementation of AI algorithms and systems including neural networks, machine learning, computer vision, autonomous driving, intelligent decision-making, recommendation systems, large models, and generative AI; product integration and testing. Requirements: background in computer science or AI; proficiency in C++, Java, Python, or Rust; familiarity with mainstream deep learning frameworks (TensorFlow, MindSpore, PyTorch). Work locations include Shanghai, Shenzhen, Beijing, Xi'an, and Hangzhou.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "多模态大模型算法实习生（IEG）",
+      "company": "腾讯",
+      "location": "上海",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/d8fc7e9b9ed24f8492e37ed2d92831dd",
+      "description": "Game scene multimodal large model algorithm model construction; image understanding in game scenarios; multimodal large model capability building and engineering implementation. Requirements: Computer Science, Mathematics, Statistics or related major; research foundation in multimodal large models; familiarity with mainstream multimodal large models and algorithms; strong engineering ability, proficiency in Python and PyTorch. Location: Shanghai; 6+ months internship required; 2026 and later graduates. Application: gdqi@tencent.com",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI产品经理实习生（NLP方向）",
+      "company": "百度",
+      "location": "北京",
+      "category": "AI Product / PM",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/discuss/394773901123874816",
+      "description": "Responsibilities: market research and competitive analysis for NLP technology in industry scenarios, connecting internal and external customer needs, and promoting intelligent dialogue technology applications, managing the productization of natural language processing technology platforms. Baidu's 2026 internship recruitment covers technology roles, product roles (including product manager and product operations), and professional services, with work locations in Beijing, Shanghai, Guangzhou, Shenzhen, Chengdu, and other cities.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "NLP算法工程师实习生（AI Lab）",
+      "company": "字节跳动",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/job/25133",
+      "description": "字节跳动AI Lab专注于人工智能领域的前沿技术研究，涵盖了自然语言处理、计算机视觉、语音&音频处理、机器学习等多技术研究领域。岗位职责：人工智能、机器学习前沿研究结合产品应用解决大规模工业问题，工作内容包括算法模型、数据爬取和挖掘等。岗位要求：全日制本科/硕士/博士在校生，每周出勤3天及以上，持续实习至少3个月；扎实的编程基础，熟练Linux；在机器学习、文本分类、情感分析、语法分析、机器翻译、对话等算法方面有经验者优先。薪资：400-500元/天。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法/AI Infra/高性能计算实习生",
+      "company": "华为",
+      "location": "深圳",
+      "category": "MLOps / AI Infra",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/419549",
+      "description": "华为云大模型与AI核心部镠2026届校园招聘包括以下岗位方向：AI Infra工程师（AI Infra、高性能研发）；AI算法工程师（多模态、自然语言处理/语音语义、机器学习、计算机视觉、AI算子开发）；AI数据工程（AI数据工程）；AI应用工程师（大模型应用）。招聘地点包括上海、深圳、北京、西安、杭州，薪资范围200-360元/天，要求本科学历，5天/周工作，最少实习6个月。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "北斗大模型算法实习生（Keeta国际业务）",
+      "company": "美团",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/96573e25db084ecaae00077fbec8cb47",
+      "description": "Meituan 北斗 program recruiting 2026 Master's and PhD students and 2026-2027 graduate interns for large model algorithm engineer positions specializing in multimodal/post-training/DeepSearch/RL, with base locations in Beijing, Shenzhen, or Hong Kong. The Keeta Engineering team is Meituan's S-level international business project using a Conversational AI platform with multimodal perception, voice interaction, and capabilities in intelligent customer service, smart outbound calls, and AI marketing robots. Requirements: familiarity with large model principles, data processing, fine-tuning, pre-training, and reinforcement learning.",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
