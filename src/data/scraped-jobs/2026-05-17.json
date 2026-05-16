@@ -2,15 +2,25 @@
   "date": "2026-05-17",
   "generatedAt": "2026-05-17T07:30:00+10:00",
   "auMode": "淡季",
-  "cnMode": "暑假实习+提前批",
-  "sources": ["seek.com.au", "au.gradconnection.com", "au.prosple.com", "nowcoder.com"],
-  "stats": {
-    "auCandidates": 38,
-    "auLive": 13,
-    "cnCandidates": 21,
-    "cnLive": 4,
-    "note": "CN pool exhausted at 21 candidates; 17 dropped by snippet quality gate (no 负责/要求/职责 in search snippets). AU 1 below target: 宁缺勿滥."
-  },
+  "cnMode": "暑假实习 + 提前批",
+  "sources": [
+    "seek.com.au",
+    "au.gradconnection.com",
+    "au.prosple.com",
+    "lifeattiktok.com",
+    "careers.nab.com.au",
+    "google.com",
+    "careers.seeingmachines.com",
+    "resmed.wd3.myworkdayjobs.com",
+    "nowcoder.com",
+    "app.mokahr.com",
+    "jobs.bilibili.com",
+    "megvii.com",
+    "campus.iflytek.com",
+    "01ai.jobs.feishu.cn",
+    "zhipin.com",
+    "campus.pingan.com"
+  ],
   "jobs": [
     {
       "market": "AU",
@@ -19,9 +29,10 @@
       "location": "Sydney, NSW",
       "category": "ML Engineer",
       "level": "Graduate",
+      "postedAt": "2026-05-17",
       "applyUrl": "https://au.gradconnection.com/employers/tiktok/jobs/tiktok-machine-learning-engineer-intern-data-trust-safety-australia-2026-start-5/",
-      "description": "TikTok is offering a Machine Learning Engineer Intern position in Data Trust & Safety, with responsibilities including developing scalable classifiers and tools using cutting-edge machine learning and computer vision technologies, while working with cross-functional teams to protect TikTok globally.",
-      "descriptionSource": "search-snippet"
+      "snippet": "TikTok is offering a Machine Learning Engineer Intern position in Data Trust & Safety, with responsibilities including developing scalable classifiers and tools using cutting-edge machine learning and computer vision technologies, while working with cross-functional teams to protect TikTok globally.",
+      "description": ""
     },
     {
       "market": "AU",
@@ -30,9 +41,10 @@
       "location": "Sydney, NSW",
       "category": "ML Engineer",
       "level": "Graduate",
+      "postedAt": "2026-05-17",
       "applyUrl": "https://au.prosple.com/graduate-employers/canva/jobs-internships/graduate-machine-learning-engineer",
-      "description": "Canva's Launchpad Program is looking for Graduate Engineers to specialise in either Backend, Frontend, Machine Learning or Security. Candidates should be early on in their career (final-year student to two years experience) and based in Australia or New Zealand with working rights.",
-      "descriptionSource": "search-snippet"
+      "snippet": "Canva's Launchpad Program is looking for Graduate Engineers to specialise in either Backend, Frontend, Machine Learning or Security — early-career candidates (final-year student to two years experience) based in Australia or New Zealand with working rights.",
+      "description": ""
     },
     {
       "market": "AU",
@@ -41,9 +53,10 @@
       "location": "Sydney, NSW",
       "category": "ML Engineer",
       "level": "Graduate",
+      "postedAt": "2026-05-17",
       "applyUrl": "https://au.prosple.com/graduate-employers/tiktok-australia/jobs-internships/machine-learning-engineer-graduate-trust-and-safety-engineering-0",
-      "description": "TikTok is looking for talented individuals to join them in 2026. Candidates should be currently pursuing a bachelor's or have completed within 1 year in Computer Science or related engineering field, with solid knowledge in machine learning, pattern recognition, NLP, data mining, or computer vision.",
-      "descriptionSource": "search-snippet"
+      "snippet": "TikTok is looking for talented 2026 graduates currently pursuing or having completed a bachelor's in Computer Science or related engineering field, with solid knowledge in machine learning, pattern recognition, NLP, data mining, or computer vision.",
+      "description": ""
     },
     {
       "market": "AU",
@@ -52,9 +65,10 @@
       "location": "Sydney, NSW",
       "category": "AI Engineer",
       "level": "Graduate",
+      "postedAt": "2026-05-17",
       "applyUrl": "https://au.gradconnection.com/employers/atlassian/jobs/atlassian-ai-research-intern-summer-20262027-australia/",
-      "description": "Atlassian's AI Research Intern position is designed for individuals passionate about exploring new frontiers in AI and machine learning research, working in a stimulating environment with top minds in the field.",
-      "descriptionSource": "search-snippet"
+      "snippet": "Atlassian's AI Research Intern position is designed for individuals passionate about exploring new frontiers in AI and machine learning research, working in a stimulating environment with top minds in the field.",
+      "description": ""
     },
     {
       "market": "AU",
@@ -63,9 +77,10 @@
       "location": "Sydney, NSW",
       "category": "ML Engineer",
       "level": "Mid",
+      "postedAt": "2026-05-17",
       "applyUrl": "https://www.seek.com.au/job/55629414",
-      "description": "At Elula we make a positive difference to businesses by helping them use AI to solve business problems. Our products utilise machine learning algorithms, productionised models, data pipelines, explainable AI, visualisations, and technical-into-plain-English translation.",
-      "descriptionSource": "search-snippet"
+      "snippet": "At Elula we make a positive difference to businesses by helping them use AI to solve business problems — ML algorithms, productionised models, data pipelines, explainable AI, visualisations, and technical-into-plain-English translation.",
+      "description": ""
     },
     {
       "market": "AU",
@@ -74,9 +89,10 @@
       "location": "Melbourne, VIC",
       "category": "Business Analyst",
       "level": "Graduate",
+      "postedAt": "2026-05-17",
       "applyUrl": "https://au.gradconnection.com/employers/telstra/jobs/telstra-telstra-graduate-program-2026-data-analytics-management/",
-      "description": "Telstra Graduate Program 2026 – Data Analytics & Management, seeking graduates with degrees in Business Information Systems, Computer Science/Engineering, IT, Business Analytics, Data Analytics or Data Science.",
-      "descriptionSource": "search-snippet"
+      "snippet": "Telstra Graduate Program 2026 in Data Analytics & Management, seeking graduates with degrees in Business Information Systems, Computer Science/Engineering, IT, Business Analytics, Data Analytics or Data Science.",
+      "description": ""
     },
     {
       "market": "AU",
@@ -85,9 +101,10 @@
       "location": "Brisbane, QLD",
       "category": "Data Scientist",
       "level": "Graduate",
+      "postedAt": "2026-05-17",
       "applyUrl": "https://au.gradconnection.com/employers/suncorp/jobs/suncorp-2026-suncorp-graduate-program-data-science-analytics/",
-      "description": "2026 Suncorp Graduate Program - Data Science & Analytics with two streams: Technical (AI, machine learning, predictive modelling, data engineering) and Non-Technical (data analysis, claims analysis, portfolio management).",
-      "descriptionSource": "search-snippet"
+      "snippet": "2026 Suncorp Graduate Program in Data Science & Analytics with two streams: Technical (AI, machine learning, predictive modelling, data engineering) and Non-Technical (data analysis, claims analysis, portfolio management).",
+      "description": ""
     },
     {
       "market": "AU",
@@ -96,9 +113,10 @@
       "location": "Sydney, NSW",
       "category": "Data Scientist",
       "level": "Graduate",
+      "postedAt": "2026-05-17",
       "applyUrl": "https://au.gradconnection.com/employers/nab/jobs/nab-2027-nab-graduate-program-digital-data-and-ai-sydney/",
-      "description": "NAB's 2027 Graduate Program will commence on 15 February 2027, with positions available in Digital, Data and AI in both Sydney and Melbourne locations.",
-      "descriptionSource": "search-snippet"
+      "snippet": "NAB's 2027 Graduate Program commences February 2027, with positions available in Digital, Data and AI in both Sydney and Melbourne locations.",
+      "description": ""
     },
     {
       "market": "AU",
@@ -107,9 +125,10 @@
       "location": "Sydney, NSW",
       "category": "Data Engineer",
       "level": "Graduate",
+      "postedAt": "2026-05-17",
       "applyUrl": "https://au.gradconnection.com/employers/quantium/jobs/quantium-graduate-data-engineer-feb-2026/",
-      "description": "Quantium Graduate Data Engineer (Feb 2026) offering intensive learning opportunities for analytical, technical, and commercial skills development.",
-      "descriptionSource": "search-snippet"
+      "snippet": "Quantium Graduate Data Engineer offering intensive learning opportunities for analytical, technical, and commercial skills development within one of Australia's leading data and AI consultancies.",
+      "description": ""
     },
     {
       "market": "AU",
@@ -118,9 +137,10 @@
       "location": "Sydney, NSW",
       "category": "Data Engineer",
       "level": "Senior",
+      "postedAt": "2026-05-17",
       "applyUrl": "https://www.seek.com.au/job/58878785",
-      "description": "A Senior Data Engineer position is available with Macquarie, where the Data and Analytics team continues building innovative cloud-based data solutions.",
-      "descriptionSource": "search-snippet"
+      "snippet": "Senior Data Engineer at Macquarie, where the Data and Analytics team continues building innovative cloud-based data solutions for financial services at scale.",
+      "description": ""
     },
     {
       "market": "AU",
@@ -129,9 +149,10 @@
       "location": "Melbourne, VIC",
       "category": "Data Scientist",
       "level": "Mid",
+      "postedAt": "2026-05-17",
       "applyUrl": "https://www.seek.com.au/job/57978307",
-      "description": "SEEK is recruiting Data Scientists focusing on experimentation to drive product innovation and improvements.",
-      "descriptionSource": "search-snippet"
+      "snippet": "SEEK is recruiting Data Scientists focusing on experimentation to drive product innovation and improvements across Australia's largest employment marketplace.",
+      "description": ""
     },
     {
       "market": "AU",
@@ -140,9 +161,10 @@
       "location": "Sydney, NSW",
       "category": "ML Engineer",
       "level": "Graduate",
+      "postedAt": "2026-05-17",
       "applyUrl": "https://au.prosple.com/graduate-employers/sage-global/jobs-internships/machine-learning-engineer-graduate",
-      "description": "This is a Graduate Machine Learning Engineer role at Sage AI, contributing to innovative ML solutions in a leading cloud business management team.",
-      "descriptionSource": "search-snippet"
+      "snippet": "Graduate Machine Learning Engineer role at Sage AI, contributing to innovative ML solutions within a leading cloud business management team.",
+      "description": ""
     },
     {
       "market": "AU",
@@ -151,9 +173,94 @@
       "location": "Melbourne, VIC",
       "category": "ML Engineer",
       "level": "Graduate",
+      "postedAt": "2026-05-17",
       "applyUrl": "https://au.prosple.com/graduate-employers/xero-australia/jobs-internships/intern-machine-learning-engineer-0",
-      "description": "Candidates should be in the penultimate year of study and available to work full-time for 12 months from February 2026.",
-      "descriptionSource": "search-snippet"
+      "snippet": "Xero ML Engineer Intern for penultimate-year students, available to work full-time for 12 months from February 2026, joining Xero's platform engineering teams across Melbourne and beyond.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "Machine Learning Engineer",
+      "company": "4DMedical Limited",
+      "location": "Melbourne, VIC",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "postedAt": "2026-05-10",
+      "applyUrl": "https://www.seek.com.au/4DMedical-Limited-jobs",
+      "snippet": "Build and productionise ML models for lung imaging analysis at ASX-listed 4DMedical — training and deploying production ML pipelines for adult and paediatric pulmonary applications, Python-focused hybrid role in Melbourne, $140k–$150k.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "AI Machine Learning Engineer Graduate (TikTok Search) – 2026 Start (PhD)",
+      "company": "TikTok",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-05-07",
+      "applyUrl": "https://lifeattiktok.com/search/7531709006790052114",
+      "snippet": "Join TikTok Search as a PhD-level AI/ML graduate engineer in Sydney — building search engine intelligence across NLP, CV, multimodal, and recommender systems research, 2026 graduate start date.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "AI Scientist",
+      "company": "National Australia Bank",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Senior",
+      "postedAt": "2026-05-09",
+      "applyUrl": "https://careers.nab.com.au/jobs/data-scientist-g3-nsw-sydney-cbd-nsw-australia-vic-melbourne-cbd-vic-australia-wide",
+      "snippet": "Apply LLMs and agentic system design at NAB's AI Centre of Excellence — building evaluation pipelines, CI/CD tooling, and cloud-native AI infrastructure across Sydney and Melbourne.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "AI Engineer",
+      "company": "Komatsu Australia",
+      "location": "Sydney, NSW",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "postedAt": "2026-05-11",
+      "applyUrl": "https://www.seek.com.au/Komatsu-jobs/in-Fairfield-NSW-2165",
+      "snippet": "Develop innovative AI and ML solutions for Komatsu Australia's mining operations — engineering ML/AI systems for the resources sector with 16 weeks primary carer's leave, onsite parking, Western Sydney.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "Student Researcher, BS/MS, Winter/Summer 2026",
+      "company": "Google",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-05-06",
+      "applyUrl": "https://www.google.com/about/careers/applications/jobs/results/140245524367188678-student-researcher-bsms-wintersummer-2026",
+      "snippet": "Conduct applied research in NLP, CV, and ML as a Student Researcher (BS/MS) at Google Sydney — open research projects in a winter/summer 2026 cohort, applications open until 17 July 2026.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "Machine Learning Engineer",
+      "company": "Seeing Machines",
+      "location": "Remote AU",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "postedAt": "2026-05-12",
+      "applyUrl": "https://careers.seeingmachines.com/jobs",
+      "snippet": "Deploy and optimise AI systems for embedded platforms at Seeing Machines — computer vision and driver monitoring systems using PyTorch and TensorFlow, fully remote role within Australia.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "Principal Data and AI/ML Platform Engineer",
+      "company": "ResMed",
+      "location": "Sydney, NSW",
+      "category": "MLOps / AI Infra",
+      "level": "Senior",
+      "postedAt": "2026-05-13",
+      "applyUrl": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Principal-Data-and-AI-ML-Platform-Engineer_JR_046475",
+      "snippet": "Architect and lead data and AI technology initiatives for ResMed's Global Technology Solutions division — ML platform engineering at scale for digital health applications, based in Sydney.",
+      "description": ""
     },
     {
       "market": "CN",
@@ -162,9 +269,10 @@
       "location": "北京",
       "category": "AI Engineer",
       "level": "Graduate",
+      "postedAt": "2026-05-17",
       "applyUrl": "https://www.nowcoder.com/jobs/detail/446466",
-      "description": "负责AI领域的软件工程化和产品开发，包括神经网络与机器学习、计算机视觉、无人驾驶、路径规划、智能决策、推荐系统、大模型、生成式AI等。",
-      "descriptionSource": "search-snippet"
+      "snippet": "负责AI领域的软件工程化和产品开发，包括神经网络与机器学习、计算机视觉、无人驾驶、路径规划、智能决策、推荐系统、大模型、生成式AI等。",
+      "description": ""
     },
     {
       "market": "CN",
@@ -173,9 +281,10 @@
       "location": "上海",
       "category": "AI Engineer",
       "level": "Graduate",
+      "postedAt": "2026-05-17",
       "applyUrl": "https://www.nowcoder.com/jobs/detail/375752",
-      "description": "面向中国地区高校2026届毕业生，硕士以上学历，计算机、计算神经科学、统计学、软件工程、信号处理、数据挖掘、应用数学、人工智能等专业优先。",
-      "descriptionSource": "search-snippet"
+      "snippet": "面向中国地区高校2026届毕业生，硕士以上学历，计算机、计算神经科学、统计学、软件工程、信号处理、数据挖掘、应用数学、人工智能等专业优先。",
+      "description": ""
     },
     {
       "market": "CN",
@@ -184,9 +293,10 @@
       "location": "北京",
       "category": "AI Engineer",
       "level": "Graduate",
+      "postedAt": "2026-05-17",
       "applyUrl": "https://www.nowcoder.com/jobs/detail/444065",
-      "description": "参与AI agent的Prompt优化及工作流设计，基于Langchain/Langgraph/CrewAI等前沿框架进行开发智能体应用，负责RAG系统的搭建和优化。",
-      "descriptionSource": "search-snippet"
+      "snippet": "参与AI agent的Prompt优化及工作流设计，基于Langchain/Langgraph/CrewAI等前沿框架进行开发智能体应用，负责RAG系统的搭建和优化，base北京。",
+      "description": ""
     },
     {
       "market": "CN",
@@ -195,9 +305,154 @@
       "location": "北京",
       "category": "AI Engineer",
       "level": "Graduate",
+      "postedAt": "2026-05-17",
       "applyUrl": "https://www.nowcoder.com/feed/main/detail/ff2fe5d8221f499aabbb7d3a60852312",
-      "description": "招聘要求2026届及以后毕业本科及以上学历在校生，需熟悉stable diffusion、视觉理解大模型等，工作内容包括基于LLM的广告文案生成算法优化、基于diffusion model的视频生成、图像生成等。",
-      "descriptionSource": "search-snippet"
+      "snippet": "招聘2026届及以后毕业在校生，熟悉stable diffusion、视觉理解大模型等，负责基于LLM的广告文案生成算法优化、diffusion model视频与图像生成，base北京。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "深度学习研究员-AGI",
+      "company": "DeepSeek",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "postedAt": "2026-05-08",
+      "applyUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/",
+      "snippet": "DeepSeek招募深度学习研究员（AGI方向），从事AGI基础研究，强化学习、深度学习，PyTorch，base北京，薪资最高154万元/年（14薪）。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "模型策略产品经理（Agent方向）",
+      "company": "DeepSeek",
+      "location": "北京",
+      "category": "AI Product / PM",
+      "level": "Mid",
+      "postedAt": "2026-05-10",
+      "applyUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/",
+      "snippet": "DeepSeek招募模型策略产品经理（Agent方向），负责Agent产品策略设计，涵盖Tool Use、Planning、Multi-Agent等方向，base北京。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "AGI大模型实习生",
+      "company": "DeepSeek",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-05-12",
+      "applyUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/",
+      "snippet": "DeepSeek招募AGI大模型方向实习生，深度学习/ML基础扎实，PyTorch，CS/相关专业研究生，日薪500–990元，base北京。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "Agent RL算法研究员",
+      "company": "阶跃星辰",
+      "location": "上海",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "postedAt": "2026-05-07",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/9d767eff57b04207ab2ac25351826dab",
+      "snippet": "阶跃星辰招募Agent RL算法研究员，从事多模态统一模型与RL驱动的agent规划/反思/工具调用研究，base上海/北京。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "大模型应用算法工程师",
+      "company": "阶跃星辰",
+      "location": "上海",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "postedAt": "2026-05-09",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/9d767eff57b04207ab2ac25351826dab",
+      "snippet": "阶跃星辰招募大模型应用算法工程师，负责LLM训练优化、评估体系搭建及agent架构设计，base上海/北京。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "广告模型算法实习生（2027届）",
+      "company": "哔哩哔哩",
+      "location": "上海",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-05-11",
+      "applyUrl": "https://jobs.bilibili.com/campus/positions",
+      "snippet": "哔哩哔哩2027届校招广告模型算法实习生，涵盖视频理解、检索系统、AIGC、NLP方向，base上海。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "AIGC算法实习生",
+      "company": "旷视科技",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-05-06",
+      "applyUrl": "https://megvii.com/join_us/campus",
+      "snippet": "旷视科技招募AIGC算法实习生，从事计算机视觉与AIGC算法研究，依托Brain++ AI平台，base北京。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "NLP算法工程师实习",
+      "company": "科大讯飞",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-05-08",
+      "applyUrl": "https://campus.iflytek.com/",
+      "snippet": "科大讯飞飞YOUNG实习计划招募NLP算法工程师实习生，Python/PyTorch，3个月以上，月薪最高10,000+元，base北京。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法工程师",
+      "company": "零一万物",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "postedAt": "2026-05-10",
+      "applyUrl": "https://01ai.jobs.feishu.cn/",
+      "snippet": "零一万物招募大模型算法工程师，负责Yi大模型系列算法工程开发与优化，base北京。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "LLM/AIGC算法工程师实习",
+      "company": "昆仑万维",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-05-13",
+      "applyUrl": "https://www.zhipin.com/zhaopin/163c10812745f4581nd92tu8GQ~~/",
+      "snippet": "昆仑万维AI游戏团队招募LLM/AIGC算法工程师实习生，参与RPGPT等游戏NPC智能体开发，RL/AIGC算法，base北京。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "AI算法实习生",
+      "company": "中国平安科技",
+      "location": "上海",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-05-05",
+      "applyUrl": "https://campus.pingan.com/",
+      "snippet": "中国平安科技招募AI算法实习生，金融科技AI应用方向，2026年3月启动，共2000+实习岗位，base上海/深圳。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "算法实习生（语音方向）（2027届）",
+      "company": "哔哩哔哩",
+      "location": "上海",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-05-14",
+      "applyUrl": "https://jobs.bilibili.com/campus/positions",
+      "snippet": "哔哩哔哩2027届校招语音方向算法实习生，从事语音AI与NLP算法研发，base上海。",
+      "description": ""
     }
   ]
 }
