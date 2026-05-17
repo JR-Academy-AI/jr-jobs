@@ -2,23 +2,25 @@
   "date": "2026-05-18",
   "generatedAt": "2026-05-18T07:30:00+10:00",
   "auMode": "淡季",
-  "cnMode": "暑假实习+提前批",
+  "cnMode": "暑假实习 + 提前批",
   "sources": [
+    "seek.com.au",
+    "au.prosple.com",
+    "au.gradconnection.com",
     "lifeatcanva.com",
-    "jobs.lever.co",
     "recruitment.macquarie.com",
     "atlassian.com",
-    "au.prosple.com",
+    "jobs.lever.co",
     "jobs.bytedance.com",
     "talent.baidu.com",
-    "nowcoder.com"
+    "nowcoder.com",
+    "zhaopin.meituan.com",
+    "hr-campus.vivo.com",
+    "xiaopeng.jobs.feishu.cn",
+    "campus.nio.com",
+    "game.campus.163.com",
+    "talent.lenovo.com.cn"
   ],
-  "stats": {
-    "auCandidates": 22,
-    "auLive": 9,
-    "cnCandidates": 14,
-    "cnLive": 5
-  },
   "jobs": [
     {
       "market": "AU",
@@ -27,20 +29,10 @@
       "location": "Melbourne, VIC",
       "category": "ML Engineer",
       "level": "Mid",
+      "postedAt": "2026-05-14",
       "applyUrl": "https://jobs.lever.co/myob-2/5d1bf82a-f3c7-4a6a-b166-bc019b7a9256",
-      "description": "MYOB is looking for a Machine Learning Engineer to design, build, and scale AI-driven applications for their SaaS business management platform. The role involves designing and implementing machine learning systems from the ground up with a focus on large language models (LLMs) and foundation models tailored to small business needs, developing and deploying AI-powered features for automated document understanding, financial forecasting, and conversational interfaces, optimising AI systems for scalability, safety, and reliability on AWS infrastructure, and working in a dynamic, zero-to-one environment to bring ideas from concept to production. As a foundational member of the AI team, you'll shape the technical vision and build systems that directly impact customers' success.",
-      "descriptionSource": "search-snippet"
-    },
-    {
-      "market": "AU",
-      "title": "Senior Machine Learning Engineer - Canva AI",
-      "company": "Canva",
-      "location": "Sydney, NSW",
-      "category": "ML Engineer",
-      "level": "Senior",
-      "applyUrl": "https://www.lifeatcanva.com/en/jobs/6000000000510813/senior-machine-learning-engineer-canva-ai/",
-      "description": "Canva is looking for a Senior Machine Learning Engineer to help reimagine how people interact with Canva, working on the AI that powers conversational experiences, building on top of large models and designing scalable systems.",
-      "descriptionSource": "search-snippet"
+      "snippet": "Design, build, and scale AI-driven applications for MYOB's SaaS platform — LLMs and foundation models tailored to small business needs, AI-powered document understanding, financial forecasting, and conversational interfaces.",
+      "description": "MYOB is looking for a Machine Learning Engineer to design, build, and scale AI-driven applications for their SaaS business management platform. The role involves designing and implementing machine learning systems from the ground up with a focus on large language models (LLMs) and foundation models tailored to small business needs, developing and deploying AI-powered features for automated document understanding, financial forecasting, and conversational interfaces, optimising AI systems for scalability, safety, and reliability on AWS infrastructure, and working in a dynamic, zero-to-one environment to bring ideas from concept to production. As a foundational member of the AI team, you'll shape the technical vision and build systems that directly impact customers' success."
     },
     {
       "market": "AU",
@@ -49,9 +41,10 @@
       "location": "Sydney, NSW",
       "category": "ML Engineer",
       "level": "Senior",
+      "postedAt": "2026-05-12",
       "applyUrl": "https://www.lifeatcanva.com/en/jobs/743999992177275/staff-machine-learning-engineer-user-voice/",
-      "description": "At Canva, supporting users is a thrilling and intricate puzzle to solve, with a mission to ensure that every user feels empowered and heard, especially when aiming to scale the user base to 1 billion users. Partner with leadership on developing an AI/ML strategy and roadmap to improve the customer support experience. Be accountable for the delivery of the primary identified opportunities in UV, partnering with product and engineering teams. Lead the ML development of a natural language understanding/processing system that integrates seamlessly into the Canva Product. Familiarity with TensorFlow, PyTorch, scikit-learn, Langchain and Huggingface, and experience with RAG architectures required.",
-      "descriptionSource": "search-snippet"
+      "snippet": "Lead ML strategy for Canva's user support AI — build NLU/NLP systems integrating into Canva Product, partner with leadership on AI/ML roadmap, scale user support to 1 billion users with TensorFlow, PyTorch, RAG architectures.",
+      "description": "At Canva, supporting users is a thrilling and intricate puzzle to solve, with a mission to ensure that every user feels empowered and heard, especially when aiming to scale the user base to 1 billion users. Partner with leadership on developing an AI/ML strategy and roadmap to improve the customer support experience. Be accountable for the delivery of the primary identified opportunities in UV, partnering with product and engineering teams. Lead the ML development of a natural language understanding/processing system that integrates seamlessly into the Canva Product. Familiarity with TensorFlow, PyTorch, scikit-learn, Langchain and Huggingface, and experience with RAG architectures required."
     },
     {
       "market": "AU",
@@ -60,9 +53,10 @@
       "location": "Sydney, NSW",
       "category": "Data Scientist",
       "level": "Senior",
+      "postedAt": "2026-05-11",
       "applyUrl": "https://recruitment.macquarie.com/en_US/careers/JobDetail/COG-Senior-Data-Scientist/13030",
-      "description": "Macquarie is hiring for a Data Scientist specializing in Generative Artificial Intelligence, requiring a Master's or PhD degree in Computer Science, Data Science, Machine Learning or related field, with strong background in Generative AI, Large Language Models, and Natural Language Processing.",
-      "descriptionSource": "search-snippet"
+      "snippet": "Data Scientist specialising in Generative AI, LLMs, and NLP at Macquarie Group. Master's or PhD required; strong background in foundation models, RAG, and enterprise AI deployment at scale.",
+      "description": "Macquarie is hiring for a Data Scientist specializing in Generative Artificial Intelligence, requiring a Master's or PhD degree in Computer Science, Data Science, Machine Learning or related field, with strong background in Generative AI, Large Language Models, and Natural Language Processing."
     },
     {
       "market": "AU",
@@ -71,9 +65,10 @@
       "location": "Sydney, NSW",
       "category": "Data Engineer",
       "level": "Graduate",
+      "postedAt": "2026-05-13",
       "applyUrl": "https://www.atlassian.com/company/careers/details/23868",
-      "description": "You will help strategize measurement, collecting data, and generating insights to help understand and improve product experience and engagement, improve efficiency and costs, and guide strategy. This paid internship program runs for 12 weeks between November 2026 - February 2027.",
-      "descriptionSource": "search-snippet"
+      "snippet": "12-week paid internship (Nov 2026 – Feb 2027) at Atlassian. Strategise measurement, collect data, generate insights to improve product experience, engagement, efficiency and costs, and guide strategy.",
+      "description": "You will help strategize measurement, collecting data, and generating insights to help understand and improve product experience and engagement, improve efficiency and costs, and guide strategy. This paid internship program runs for 12 weeks between November 2026 - February 2027."
     },
     {
       "market": "AU",
@@ -82,9 +77,10 @@
       "location": "Sydney, NSW",
       "category": "Data Engineer",
       "level": "Senior",
+      "postedAt": "2026-05-15",
       "applyUrl": "https://www.atlassian.com/company/careers/details/15480",
-      "description": "Atlassian is looking for a Senior Data Engineer to join their Go-To Market Data Engineering team which is responsible for building their data lake, maintaining big data pipelines and facilitating the movement of billions of messages each day.",
-      "descriptionSource": "search-snippet"
+      "snippet": "Senior Data Engineer on Atlassian's Go-To-Market Data Engineering team — build the data lake, maintain big data pipelines, and facilitate movement of billions of messages per day.",
+      "description": "Atlassian is looking for a Senior Data Engineer to join their Go-To Market Data Engineering team which is responsible for building their data lake, maintaining big data pipelines and facilitating the movement of billions of messages each day."
     },
     {
       "market": "AU",
@@ -92,10 +88,11 @@
       "company": "Atlassian",
       "location": "Sydney, NSW",
       "category": "Data Engineer",
-      "level": "Mid",
+      "level": "Junior",
+      "postedAt": "2026-05-15",
       "applyUrl": "https://www.atlassian.com/company/careers/details/19051",
-      "description": "You will be part of a world-class Data Engineering team involved in strategizing measurement, collecting data, and generating insights to help understand and improve product experience and engagement, optimize efficiency and costs, and drive strategy.",
-      "descriptionSource": "search-snippet"
+      "snippet": "Join Atlassian's world-class Data Engineering team — strategise measurement, collect data, generate insights to improve product experience and engagement, optimise efficiency, and drive business strategy.",
+      "description": "You will be part of a world-class Data Engineering team involved in strategizing measurement, collecting data, and generating insights to help understand and improve product experience and engagement, optimize efficiency and costs, and drive strategy."
     },
     {
       "market": "AU",
@@ -104,9 +101,10 @@
       "location": "Melbourne, VIC",
       "category": "ML Engineer",
       "level": "Graduate",
+      "postedAt": "2026-05-08",
       "applyUrl": "https://au.prosple.com/graduate-employers/xero-australia/jobs-internships/intern-machine-learning-engineer-0",
-      "description": "The AI Products group collaboratively builds products that use AI and ML, with a diverse team of scientists, engineers, product managers, and analysts. The role requires candidates to be in their penultimate year of study and available to work full-time for 12 months from February 2026.",
-      "descriptionSource": "search-snippet"
+      "snippet": "12-month ML Engineering internship at Xero AI Products group — build AI/ML products with scientists, engineers, PMs, and analysts. Penultimate-year students available from February 2026.",
+      "description": "The AI Products group collaboratively builds products that use AI and ML, with a diverse team of scientists, engineers, product managers, and analysts. The role requires candidates to be in their penultimate year of study and available to work full-time for 12 months from February 2026."
     },
     {
       "market": "AU",
@@ -115,9 +113,166 @@
       "location": "Sydney, NSW",
       "category": "Data Scientist",
       "level": "Graduate",
+      "postedAt": "2026-05-06",
       "applyUrl": "https://au.prosple.com/graduate-employers/commonwealth-bank/jobs-internships/graduate-program-technology-data-science",
-      "description": "At the end of the program, you'll roll off into a permanent role as a Data Engineer. The 18-month Data Science Program offers two three-month rotations with exposure in Data Engineering and Artificial Intelligence (AI) & machine learning (ML).",
-      "descriptionSource": "search-snippet"
+      "snippet": "18-month CBA Data Science Graduate Program — two 3-month rotations covering Data Engineering and AI/ML. Build and enhance quantitative/predictive models, LLMs, and chatbots; roll off into a permanent role.",
+      "description": "At the end of the program, you'll roll off into a permanent role as a Data Engineer. The 18-month Data Science Program offers two three-month rotations with exposure in Data Engineering and Artificial Intelligence (AI) & machine learning (ML)."
+    },
+    {
+      "market": "AU",
+      "title": "AI Agent Engineer (Tech Seeds 2026)",
+      "company": "Tech Seeds",
+      "location": "Sydney, NSW",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "postedAt": "2026-05-14",
+      "applyUrl": "https://www.seek.com.au/ai-engineer-jobs/in-All-Sydney-NSW",
+      "snippet": "Engineering-first role at Tech Seeds 2026 building AI-powered prototypes end-to-end in a complex enterprise environment. Own the build, ship fast, and turn ideas into real-world impact. Hybrid, Sydney NSW.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "Senior Data Scientist",
+      "company": "TEG",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Senior",
+      "postedAt": "2026-05-12",
+      "applyUrl": "https://www.seek.com.au/job/57890521",
+      "snippet": "Bridge research and production with technical rigor to build TEG's next-generation AI products. Lead real-world GenAI solutions moving into production, hands-on with LLMs and agentic systems. North Sydney, hybrid.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "Lead Product Manager – Conversational AI",
+      "company": "Soprano Design",
+      "location": "North Sydney, NSW",
+      "category": "AI Product / PM",
+      "level": "Senior",
+      "postedAt": "2026-05-10",
+      "applyUrl": "https://www.seek.com.au/Soprano-Design-jobs",
+      "snippet": "Lead the Conversational AI product at Soprano Design, a global CPaaS platform used by enterprises and governments worldwide. Drive innovation in AI-powered messaging. Hybrid, North Sydney.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "Data Engineer – Microsoft Fabric",
+      "company": "DataIQ",
+      "location": "Sydney, NSW",
+      "category": "Data Engineer",
+      "level": "Mid",
+      "postedAt": "2026-05-14",
+      "applyUrl": "https://www.seek.com.au/data-engineer-jobs/in-All-Sydney-NSW",
+      "snippet": "Join DataIQ's expanding Data & AI practice building modern data products on Microsoft Fabric. Expert Data Engineer role building scalable data infrastructure supporting AI including NLP and LLM solutions.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist (Consumer & Business Bank)",
+      "company": "Westpac",
+      "location": "Parramatta, NSW",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "postedAt": "2026-05-13",
+      "applyUrl": "https://www.seek.com.au/data-scientist-westpac-consumer-and-business-bank-jobs",
+      "snippet": "Apply machine learning and advanced analytics to credit risk, customer behavioural modelling, and data-driven decision making at Westpac Consumer & Business Bank. Hybrid working arrangements available.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "Graduate AI ML Engineer",
+      "company": "News Corp Australia",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-05-06",
+      "applyUrl": "https://au.prosple.com/graduate-employers/news-corp-australia/jobs-internships/graduate-ai-ml-engineer",
+      "snippet": "Design, build, and deploy ML models for computer vision, large language models, and churn prediction at News Corp Australia. Graduate role with ASAP start date, Sydney.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "Data Science & Analytics Consulting Graduate",
+      "company": "Capgemini ANZ",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "postedAt": "2026-05-05",
+      "applyUrl": "https://au.prosple.com/graduate-employers/capgemini-australia-and-new-zealand/jobs-internships/data-science-and-analytics-consulting-graduate-program",
+      "snippet": "Join Capgemini ANZ's ongoing Data Science and Analytics Consulting Graduate Program. Leverage AI engineering and data science to deliver meaningful insights for enterprise clients across Australia and New Zealand.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "Graduate Data Engineer",
+      "company": "Symbio",
+      "location": "Sydney, NSW",
+      "category": "Data Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-05-05",
+      "applyUrl": "https://au.prosple.com/graduate-employers/symbio/jobs-internships/graduate-data-engineer",
+      "snippet": "Graduate Data Engineer at Symbio reporting to the Software Engineer Manager. Build resilient, best-practice data systems using agile processes; collaborate with business and technology stakeholders.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist Internship",
+      "company": "BCG",
+      "location": "Melbourne, VIC",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "postedAt": "2026-05-07",
+      "applyUrl": "https://au.prosple.com/graduate-employers/bcg-usa/jobs-internships/data-scientist-internship",
+      "snippet": "Data Scientist Internship at BCG Australia — large-scale data analysis and ML model development to solve complex business problems and deliver scalable analytical solutions.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientists – Government Graduate Program 2026",
+      "company": "Australian Bureau of Statistics",
+      "location": "Canberra, ACT",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "postedAt": "2026-05-08",
+      "applyUrl": "https://au.prosple.com/graduate-employers/australian-bureau-of-statistics-abs/jobs-internships/data-scientists-0",
+      "snippet": "2026 Australian Government Graduate Program – Data Stream at the ABS. Apply data science to large national datasets to generate insights informing public policy and statistical reporting.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist – Energy Trading Analytics",
+      "company": "AGL Energy",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "postedAt": "2026-05-12",
+      "applyUrl": "https://www.seek.com.au/AGL-Energy-jobs",
+      "snippet": "Drive real-world impact in energy trading through machine learning and advanced analytics at AGL Energy. Apply predictive modelling to energy asset performance and markets. Sydney CBD, hybrid.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "2026 Actuarial & Analytics Graduate Program",
+      "company": "IAG",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "postedAt": "2026-05-09",
+      "applyUrl": "https://au.gradconnection.com/employers/iag/jobs/iag-2026-actuarial-analytics-graduate-program/",
+      "snippet": "IAG's Actuarial & Analytics Graduate Program — data strategy and governance, data science and machine learning, data product creation. Based in Sydney and Melbourne with 12-month rotations across IAG's insurance business.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "Senior Data & AI Governance Specialist",
+      "company": "AGL Energy",
+      "location": "Sydney, NSW",
+      "category": "Business Analyst",
+      "level": "Senior",
+      "postedAt": "2026-05-11",
+      "applyUrl": "https://www.seek.com.au/AGL-Energy-jobs",
+      "snippet": "Shape the future of Data and AI governance within AGL's Energy Assets group. Design and deliver frameworks ensuring AI data is accurate, ethical, and compliant. Gather and document business and technical requirements. Sydney CBD, hybrid.",
+      "description": ""
     },
     {
       "market": "CN",
@@ -126,9 +281,10 @@
       "location": "北京",
       "category": "AI Engineer",
       "level": "Graduate",
+      "postedAt": "2026-05-14",
       "applyUrl": "https://jobs.bytedance.com/campus/position/7532016219902822663/detail",
-      "description": "字节跳动的抖音内容理解方向算法岗位涉及多模态大模型和生成式模型工作，目标是逼近人类感知认知能力。工作内容包括模型训练、数据工程、训练推理框架迭代、模型评估指标体系维护，以及跟进行业最新技术进展。职位要求：本科及以上，计算机/软件/人工智能/数学相关专业优先。机器学习基础要扎实，对深度学习、大语言模型、多模态模型、生成式模型有深入理解，数理功底要好，自学能力强。编码能力扎实，熟练使用机器学习框架和工程框架。",
-      "descriptionSource": "search-snippet"
+      "snippet": "抖音内容理解方向算法岗，多模态大模型与生成式模型，涵盖模型训练、数据工程、训练推理框架迭代、模型评估指标体系维护，逼近人类感知认知能力。",
+      "description": "字节跳动的抖音内容理解方向算法岗位涉及多模态大模型和生成式模型工作，目标是逼近人类感知认知能力。工作内容包括模型训练、数据工程、训练推理框架迭代、模型评估指标体系维护，以及跟进行业最新技术进展。职位要求：本科及以上，计算机/软件/人工智能/数学相关专业优先。机器学习基础要扎实，对深度学习、大语言模型、多模态模型、生成式模型有深入理解，数理功底要好，自学能力强。编码能力扎实，熟练使用机器学习框架和工程框架。"
     },
     {
       "market": "CN",
@@ -137,9 +293,10 @@
       "location": "北京",
       "category": "AI Engineer",
       "level": "Graduate",
+      "postedAt": "2026-05-14",
       "applyUrl": "https://jobs.bytedance.com/campus/m/position/detail/7532809706008971538",
-      "description": "字节跳动招聘广告推荐模型算法工程师，职责包括参与广告全场景、全链路优化，包括召回/粗排/精排/混排各模块的整体优化，以及在超大规模在线深度学习框架下探索LLM在推荐的应用；职位要求为本科及以上学历，计算机、软件工程等相关专业，25届校招、26届实习优先，具备优秀的编码能力、扎实的数据结构和算法功底。",
-      "descriptionSource": "search-snippet"
+      "snippet": "广告全场景、全链路优化（召回/粗排/精排/混排），在超大规模在线深度学习框架下探索LLM在推荐广告的应用，25届校招、26届实习优先。",
+      "description": "字节跳动招聘广告推荐模型算法工程师，职责包括参与广告全场景、全链路优化，包括召回/粗排/精排/混排各模块的整体优化，以及在超大规模在线深度学习框架下探索LLM在推荐的应用；职位要求为本科及以上学历，计算机、软件工程等相关专业，25届校招、26届实习优先，具备优秀的编码能力、扎实的数据结构和算法功底。"
     },
     {
       "market": "CN",
@@ -148,9 +305,10 @@
       "location": "上海",
       "category": "ML Engineer",
       "level": "Graduate",
+      "postedAt": "2026-05-14",
       "applyUrl": "https://jobs.bytedance.com/campus/position/7208795337132558652/detail",
-      "description": "该岗位负责短视频的核心场景业务，包括混排/排序/多目标/召回/冷启动/探索/多样性/内容理解等场景，不断优化用户体验，促进业务发展；研究方向包含且不局限于：深度学习、图神经网络、多任务学习、learning to rank、模型压缩和加速、多模态技术等，结合业务的实际问题来做好技术的探索和研究。同时和产品、运营团队紧密合作，通过对产品和用户的深入理解和分析，制定算法策略促进短视频生态的长期繁荣发展。任职要求：要求具备优秀的编码能力，扎实的数据结构和算法功底；对推荐算法和机器学习有热情，持续学习，乐于思考和创新；优秀的分析问题和解决问题的能力，有良好的沟通表达能力和团队精神。",
-      "descriptionSource": "search-snippet"
+      "snippet": "短视频核心场景业务（混排/排序/多目标/召回/冷启动），研究方向含深度学习、图神经网络、多任务学习、LTR、模型压缩、多模态技术，结合业务问题做技术探索。",
+      "description": "该岗位负责短视频的核心场景业务，包括混排/排序/多目标/召回/冷启动/探索/多样性/内容理解等场景，不断优化用户体验，促进业务发展；研究方向包含且不局限于：深度学习、图神经网络、多任务学习、learning to rank、模型压缩和加速、多模态技术等，结合业务的实际问题来做好技术的探索和研究。同时和产品、运营团队紧密合作，通过对产品和用户的深入理解和分析，制定算法策略促进短视频生态的长期繁荣发展。任职要求：要求具备优秀的编码能力，扎实的数据结构和算法功底；对推荐算法和机器学习有热情，持续学习，乐于思考和创新；优秀的分析问题和解决问题的能力，有良好的沟通表达能力和团队精神。"
     },
     {
       "market": "CN",
@@ -159,9 +317,10 @@
       "location": "北京",
       "category": "AI Engineer",
       "level": "Mid",
+      "postedAt": "2026-05-13",
       "applyUrl": "https://talent.baidu.com/jobs/detail/SOCIAL/5fea1710-41eb-437b-8c88-81479b3714c0",
-      "description": "搜索首位智能化结果优化，负责搜索首位结果的智能化优化，利用大模型技术优化搜索首位答案效果；通过自然语言处理和深度学习技术理解用户搜索意图；结合大模型技术优化检索算法，提升搜索效率和准确性；跟踪学术界和工业界的最新进展，设计和实现创新的搜索策略算法；与产品经理、数据科学家、工程师等跨职能团队合作。",
-      "descriptionSource": "search-snippet"
+      "snippet": "搜索首位智能化结果优化，利用大模型技术优化搜索首位答案效果，NLP+深度学习理解用户搜索意图，结合大模型技术优化检索算法，提升搜索效率和准确性。",
+      "description": "搜索首位智能化结果优化，负责搜索首位结果的智能化优化，利用大模型技术优化搜索首位答案效果；通过自然语言处理和深度学习技术理解用户搜索意图；结合大模型技术优化检索算法，提升搜索效率和准确性；跟踪学术界和工业界的最新进展，设计和实现创新的搜索策略算法；与产品经理、数据科学家、工程师等跨职能团队合作。"
     },
     {
       "market": "CN",
@@ -170,9 +329,154 @@
       "location": "北京",
       "category": "AI Engineer",
       "level": "Graduate",
+      "postedAt": "2026-05-12",
       "applyUrl": "https://www.nowcoder.com/feed/main/detail/08de05f51d8c481d8d045a42eaeeaa56",
-      "description": "负责基于地平线AI芯片参考模型设计、实现和优化；负责客户模型精度与性能评估，给出模型结构优化方案；负责智驾领域前沿技术中网络模型结构分析和研究工作。任职要求：计算机视觉、自动化、数学等相关领域专业，硕士及以上学历；具备良好的工程能力，精通Pytorch深度学习框架，熟练使用Python/C++；精通机器学习和深度学习，在图像分类、检测、分割、跟踪、视频分析、Depth估计、光流、3D检测等领域具有经验和深刻的理解；熟悉深度学习模型压缩、量化、优化等算法，有相关模型部署优化经验者优先；良好的英文文献阅读能力。",
-      "descriptionSource": "search-snippet"
+      "snippet": "基于地平线AI芯片参考模型设计、实现和优化；客户模型精度与性能评估，给出模型结构优化方案；负责智驾领域前沿技术网络模型结构分析研究，熟悉深度学习模型压缩、量化、优化。",
+      "description": "负责基于地平线AI芯片参考模型设计、实现和优化；负责客户模型精度与性能评估，给出模型结构优化方案；负责智驾领域前沿技术中网络模型结构分析和研究工作。任职要求：计算机视觉、自动化、数学等相关领域专业，硕士及以上学历；具备良好的工程能力，精通Pytorch深度学习框架，熟练使用Python/C++；精通机器学习和深度学习，在图像分类、检测、分割、跟踪、视频分析、Depth估计、光流、3D检测等领域具有经验和深刻的理解；熟悉深度学习模型压缩、量化、优化等算法，有相关模型部署优化经验者优先；良好的英文文献阅读能力。"
+    },
+    {
+      "market": "CN",
+      "title": "AI产品经理实习生（北斗计划提前批）",
+      "company": "美团",
+      "location": "北京, 上海",
+      "category": "AI Product / PM",
+      "level": "Graduate",
+      "postedAt": "2026-05-10",
+      "applyUrl": "https://zhaopin.meituan.com/web/campus",
+      "snippet": "美团北斗计划AI产品经理提前批专项，方向涵盖大模型基座、大模型应用、无人机及智能决策。负责AI产品规划、设计及落地，需具备产品思维与AI技术理解，工作地点北京/上海。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "推荐算法工程师实习生（快Star-X顶尖技术实习，2027届）",
+      "company": "快手",
+      "location": "北京, 上海, 深圳",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-05-15",
+      "applyUrl": "https://www.nowcoder.com/enterprise/898",
+      "snippet": "快手快Star-X顶尖技术实习推荐算法方向：视频推荐、内容理解、用户建模、因果推断等前沿算法研究与工程落地，方向涵盖推荐/广告/搜索/ML。工作城市北京/上海/深圳/杭州，面向2027届。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "AI平台产品实习生",
+      "company": "第四范式",
+      "location": "北京, 上海, 深圳",
+      "category": "AI Product / PM",
+      "level": "Graduate",
+      "postedAt": "2026-05-08",
+      "applyUrl": "https://www.nowcoder.com/job/902?jobIds=54709",
+      "snippet": "参与企业级AI平台（SAGE）产品规划、需求分析与设计。要求熟悉机器学习基础，实习地点北京/上海/深圳，全职实习至少4个月，优秀实习生可直通校招通道。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "AI端智能算法工程师实习生",
+      "company": "vivo",
+      "location": "深圳, 上海, 北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-05-12",
+      "applyUrl": "https://hr-campus.vivo.com/",
+      "snippet": "vivo AI研究院：AI端智能算法，方向涵盖生成式模型、大模型端侧部署、深度学习网络压缩与优化，应用于影像、音频、NLP端侧AI场景。实习地点深圳/上海/北京，每周≥4天。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "VLA/VLM算法工程师实习生（物理AI专项）",
+      "company": "小鹏汽车",
+      "location": "广州, 上海, 北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-05-06",
+      "applyUrl": "https://xiaopeng.jobs.feishu.cn/campus/",
+      "snippet": "小鹏物理AI专项实习：VLA/VLM视觉语言行动大模型算法、世界模型及强化学习算法研究与落地，参与自动驾驶视觉语言大模型研发。实习地点广州/上海/北京，实习期≥3个月。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "自动驾驶感知算法实习生",
+      "company": "蔚来",
+      "location": "上海, 北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-05-10",
+      "applyUrl": "https://campus.nio.com/",
+      "snippet": "蔚来自动驾驶感知算法实习：视觉感知、3D目标检测、多传感器融合感知算法研发，参与量产车型自动驾驶能力提升。要求熟悉PyTorch/TensorFlow，实习地点上海/北京。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "AI算法工程师实习生（推荐系统方向，2027届）",
+      "company": "网易互娱",
+      "location": "上海, 广州",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-05-13",
+      "applyUrl": "https://game.campus.163.com/",
+      "snippet": "网易互娱星N计划2027届实习：AI算法工程师推荐系统方向，游戏内容推荐、用户行为建模及智能营销算法研发。实习地点上海/广州，提供住宿补贴，转正率高。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "机器学习工程师实习生（智能风控方向）",
+      "company": "滴滴",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-05-11",
+      "applyUrl": "https://www.nowcoder.com/enterprise/652",
+      "snippet": "滴滴2026届春招：智能风控ML工程师实习，基于海量出行数据利用ML研究风控评估与欺诈检测算法，参与智能风控模型研发与上线。工作地点北京。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "AI算法工程师（2026届春招）",
+      "company": "虾皮(Shopee)",
+      "location": "北京, 上海, 深圳",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-05-09",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/8cff7c6220ee446396c778fa1e66c39e",
+      "snippet": "Shopee 2026届春招AI Engineer：搜索推荐、广告、用户增长等业务AI算法开发与落地，要求扎实算法基础与工程能力。工作地点北京/上海/深圳/杭州，提供国际化发展机会。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "广告推荐算法工程师实习生",
+      "company": "字节跳动",
+      "location": "北京, 上海",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-05-14",
+      "applyUrl": "https://www.nowcoder.com/discuss/873148313019637760",
+      "snippet": "字节跳动2026届实习广告推荐算法方向：广告策略算法、用户建模、效果预估及大模型融合推荐技术研发。工作地点北京/上海/杭州，日薪400RMB+免费三餐，面向2027届优先。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "大语言模型研究实习生",
+      "company": "商汤科技",
+      "location": "上海, 北京, 深圳",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-05-07",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/d6f8580f2beb477ab4037b62ec2e90e6",
+      "snippet": "商汤研究院LLM研究实习生：预训练、指令对齐、RLHF及多模态理解生成。实习地点上海/北京/深圳，日薪400RMB+住宿补贴，实习周期≥6个月优先。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "AI应用开发工程师实习生（2026届春招）",
+      "company": "联想",
+      "location": "北京, 上海",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-05-05",
+      "applyUrl": "https://talent.lenovo.com.cn/campus",
+      "snippet": "联想2026届春招：AI应用开发工程师实习，参与大模型应用集成、AI Agent系统构建及AI云架构工程，方向含AI模型工程师、ML/DL、NLP及AI安全，工作地点北京/上海。",
+      "description": ""
     }
   ]
 }
