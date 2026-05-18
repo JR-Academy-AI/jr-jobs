@@ -1,0 +1,132 @@
+{
+  "date": "2026-05-19",
+  "generatedAt": "2026-05-19T07:53:01+10:00",
+  "auMode": "淡季",
+  "cnMode": "暑假实习+提前批",
+  "sources": [
+    "seek.com.au",
+    "lifeatcanva.com",
+    "au.gradconnection.com",
+    "au.prosple.com",
+    "nowcoder.com",
+    "shlab.org.cn"
+  ],
+  "stats": {
+    "auCandidates": 40,
+    "auLive": 7,
+    "cnCandidates": 30,
+    "cnLive": 4
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Machine Learning Engineer (Training Optimization)",
+      "company": "Canva",
+      "location": "Sydney, NSW",
+      "level": "Mid",
+      "category": "ML Engineer",
+      "applyUrl": "https://www.lifeatcanva.com/en/jobs/6000000001003945/machine-learning-engineer-training-optimization/",
+      "description": "As a Machine Learning Engineer, you'll lead efforts to scale and optimize the training system for large-scale multimodal and foundation models. You'll design distributed training systems using Megatron-LM, NVIDIA NeMo, FSDP, and Triton—pushing the limits of performance across compute, memory, and communication layers. Additional responsibilities include: Improving all aspects of performance, including GPU utilization, communication overhead, and memory efficiency; Partnering with research and modeling teams to align systems with algorithmic needs; Evaluating and applying best practices for distributed training using industry-leading frameworks; Diving deep into low-level optimization, including custom CUDA or Triton kernels. Technical skills required include: Strong background in LLMs, multimodal AI, or diffusion models and proficiency in Python; Deep knowledge of PyTorch or JAX as well as libraries such as Megatron-LM, NeMo, or DeepSpeed; Familiarity with common optimization techniques such as FSDP/ZeRO, gradient checkpointing, or low-precision data types; Hands-on experience writing custom GPU kernels in CUDA or Triton."
+    },
+    {
+      "market": "AU",
+      "title": "Senior Data Scientist (ATWD)",
+      "company": "AITSL",
+      "location": "Melbourne, VIC",
+      "level": "Senior",
+      "category": "Data Scientist",
+      "applyUrl": "https://www.seek.com.au/job/59058095",
+      "description": "The Senior Data Scientist role sits within the Australian Teacher Workforce Data (ATWD) team of the Evidence and Impact division at AITSL. As the Senior Data Scientist, you will be responsible for the planning, preparation and delivery of analysis and modelling to inform understanding of critical issues related to the teacher workforce. The ATWD is an Education Minister's Meeting endorsed national data linkage project implemented by AITSL that provides national de-identified data on the trends and characteristics of teacher supply and the teacher workforce to support teachers and school leaders across Australia. AITSL has a hybrid work environment, and the ATWD Data Science team can work remotely. Applications must be submitted via SEEK and include a resume and cover letter addressing the Key Selection Criteria, addressed to Tee Schofield, Principal ATWD – Lead Data Scientist."
+    },
+    {
+      "market": "AU",
+      "title": "2026 Applied Science Intern (Machine Learning, Recommender Systems)",
+      "company": "Amazon",
+      "location": "Melbourne, VIC",
+      "level": "Graduate",
+      "category": "ML Engineer",
+      "applyUrl": "https://au.gradconnection.com/employers/amazon/jobs/amazon-2026-applied-science-intern-machine-learning-recommender-systems/",
+      "description": "This internship is a 6-month full-time position with a start date in January-March 2026. The role is based in Amazon's Melbourne office, working in a fast-paced, cross-disciplinary team of experienced R&D scientists. Key responsibilities include developing novel solutions and building prototypes, working on complex problems in Machine Learning and Information Retrieval, contributing to research that could significantly impact Amazon operations, and collaborating with scientists on writing and submitting papers to top conferences like NeurIPS, ICML, KDD, and SIGIR. Basic Qualifications: Applicants must be currently enrolled in a PhD program in Computer Science, Electrical Engineering, Mathematics, or related field with specialization in Information Retrieval, Recommender Systems, or Machine Learning, have strong programming skills in Python and deep learning frameworks, and possess research experience in Deep Learning, Recommender Systems, Information Retrieval, or broader Machine Learning. Preferred Qualifications: Publications in top-tier conferences such as NeurIPS, ICML, ICLR, KDD, SIGIR, and RecSys, and experience with handling large datasets and distributed computing such as Spark are preferred."
+    },
+    {
+      "market": "AU",
+      "title": "Data Science and Analytics Summer Intern Program",
+      "company": "Commonwealth Bank",
+      "location": "Sydney, NSW",
+      "level": "Graduate",
+      "category": "Data Scientist",
+      "applyUrl": "https://au.gradconnection.com/employers/commonwealth-bank/jobs/commbank-2025-2026-commbank-data-science-and-analytics-summer-intern-program/",
+      "description": "You'll learn how to turn data into compelling stories by building and refining quantitative and predictive models, or by using leading-edge technology to extract and synthesise insights that influence strategic decisions. You'll use data to build and enhance quantitative and predictive models to support insights, or use leading technology to extract incredible data and influence direction of the business. Roles could include Data Analyst, Modelling Analyst, Risk Analyst, Associate Data Scientist or Pricing Analyst. Throughout the program, you'll strengthen your technical skills with tools like SQL, Python, AWS, and Teradata, and explore how AI-powered data capabilities can drive smarter, more efficient ways. You'll be supported by a dedicated Program Manager and have direct access to leaders across the business. Gain insights, mentorship, and career advice from the people driving innovation at CommBank."
+    },
+    {
+      "market": "AU",
+      "title": "Senior Business Analyst",
+      "company": "eBlueprint",
+      "location": "Melbourne, VIC",
+      "level": "Senior",
+      "category": "Business Analyst",
+      "applyUrl": "https://www.seek.com.au/job/56382135",
+      "description": "The organization has been working directly with a federal government client for the past 12 months on a large digital transformation program that will support everyday Australians. Key accountabilities include creation of technical business analysis artifacts such as interface specifications, application/process workflows, use cases, integration mapping and technical impact assessments. The position requires a documented minimum of 5 years' experience working as an Integration Analyst delivering enterprise integration solutions via technology providers in complex programs and projects, with strong understanding of system integration concepts, API practices and the National API Design Standards (NAPIDS). Due to the security sensitivity of the client, applicants must be an Australian Citizen holding a current Australian Passport or minimum requirement of Australian Permanent Resident status. For more information, interested applicants can contact Richard at richard.lynders@eblueprint.com.au."
+    },
+    {
+      "market": "AU",
+      "title": "Machine Learning Intern",
+      "company": "Zendesk",
+      "location": "Melbourne, VIC",
+      "level": "Graduate",
+      "category": "ML Engineer",
+      "applyUrl": "https://au.prosple.com/graduate-employers/zendesk-australia/jobs-internships/machine-learning-intern",
+      "description": "Opportunities for students with a background in Machine Learning to join the team remotely anywhere in Australia or co-located with offices in Melbourne. Responsibilities include writing code, building models, creating data pipelines, and deploying them to production."
+    },
+    {
+      "market": "AU",
+      "title": "Graduate Machine Learning",
+      "company": "KJR",
+      "location": "Melbourne, VIC",
+      "level": "Graduate",
+      "category": "ML Engineer",
+      "applyUrl": "https://au.gradconnection.com/employers/kjr-australia/jobs/kjr-australia-graduate-opportunities-in-machine-learning-data-science-and-it/",
+      "description": "Tasks can be varied across projects from scripting to data preparation and curation, Machine Learning model validation, reporting, dashboard production, and report automation. Requirements: A degree in computer science, preferably with natural language processing, speech processing, or computer vision experience; A passion for learning and an insatiable hunger for exploring and understanding new technologies; Comfort with collaborative teamwork and willingness to share ideas, ask questions, and engage with colleagues and customers."
+    },
+    {
+      "market": "CN",
+      "title": "算法工程师",
+      "company": "华为",
+      "location": "Shanghai",
+      "level": "Graduate",
+      "category": "ML Engineer",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/418724",
+      "description": "Algorithm Engineer at Shanghai Huawei Technologies Co., Ltd. The position is with Huawei's vehicle business unit's autonomous driving core technology R&D team. The role involves working on cutting-edge autonomous driving technologies, data loop development covering data collection through deployment, building high-performance data engines and distributed systems, exploring industry-leading technologies, and addressing mass production issues. The team has equipped over 30 mass-produced vehicle models for HarmonyOS Smart Travel and accumulated over 1 million autonomous driving system deployments."
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法工程师（模型架构与学习范式方向）",
+      "company": "上海人工智能实验室",
+      "location": "Shanghai",
+      "level": "Graduate",
+      "category": "AI Engineer",
+      "applyUrl": "https://www.shlab.org.cn/joinus/detail/7553291836396882202",
+      "description": "The position involves participating in the full process of cutting-edge large model architecture research, algorithm verification, and engineering implementation. It includes participating in large model learning and training paradigms, especially algorithm verification and engineering implementation of large-scale pre-training paradigms. The role involves optimizing algorithm details of cutting-edge architectures and optimizing the engineering implementation of Transformer and new architectures involving multiple modalities. Additionally, the engineer develops toolchains and internal algorithm libraries suitable for efficient algorithm verification of architectures and training paradigms."
+    },
+    {
+      "market": "CN",
+      "title": "数据分析师（技术方向）",
+      "company": "携程",
+      "location": "Shanghai",
+      "level": "Graduate",
+      "category": "Data Scientist",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/411795",
+      "description": "职位职责: 1. 构建多维度数据分析体系，通过海量用户行为数据挖掘潜在业务增长点，建立数据监控预警机制 2. 搭建AB实验分析框架与因果推断模型，持续迭代优化用户体验策略 3. 设计并落地数据驱动的解决方案，应用于用户增长/产品优化/精准营销等核心业务决策，并完成策略效果量化评估 职位要求: 1. 精通SQL语言，并能在一种主流数据库中运用 2. 扎实的统计学基础，有一定机器学习知识，熟练使用Python进行数据清洗、特征工程及机器学习建模 3. 良好的学习能力和沟通能力，对互联网相关新技术有热情 4. 掌握分布式大数据生态系统（Hadoop/Spark等）者优先"
+    },
+    {
+      "market": "CN",
+      "title": "Agent研发实习生",
+      "company": "上海人工智能实验室",
+      "location": "Shanghai",
+      "level": "Graduate",
+      "category": "AI Engineer",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/446093",
+      "description": "The role involves designing and implementing AI Agents for application scenarios with significant industrial value, participating in core logic implementation and optimization of AI Agents, optimizing Agents used by users including capability enhancement and engineering optimization, and tracking the development of frontier technologies to explore applications of large models and other cutting-edge technologies. Requirements: Applicants should have a bachelor's degree or above in computer science with excellent programming ability (985/211 universities preferred), be familiar with the basic principles of language models, reasoning models, and multimodal models, understand frameworks like Langchain, llamaIndex, and Dify as well as techniques like CoT and ReACT, have strong analytical and problem-solving abilities, and possess good communication and teamwork skills with rapid learning ability."
+    }
+  ]
+}
