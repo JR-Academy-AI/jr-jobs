@@ -1,0 +1,131 @@
+{
+  "date": "2026-05-20",
+  "generatedAt": "2026-05-20T07:51:12+10:00",
+  "auMode": "淡季",
+  "cnMode": "暑假实习+提前批",
+  "sources": [
+    "seek.com.au",
+    "join.atlassian.com",
+    "endeavourgroupcareers.com.au",
+    "nowcoder.com"
+  ],
+  "stats": {
+    "auCandidates": 38,
+    "auLive": 5,
+    "cnCandidates": 22,
+    "cnLive": 5,
+    "notes": "AU 淡季候选池因 listing/hub URL、公司未知、snippet 不达标、跨天重复被剔除（宁缺勿滥）AU:5/目标:15；CN 去重后 5/目标:12。"
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Senior Machine Learning Engineer",
+      "company": "Atlassian",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://join.atlassian.com/jobs/19458",
+      "description": "As a Senior Machine Learning engineer, you will work on the development and implementation of cutting edge machine learning algorithms, training sophisticated models, collaborating with product, engineering, and analytics teams. Your daily responsibilities will encompass designing system and model architectures, conducting rigorous experimentation and model evaluations, and providing guidance to junior ML engineers.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist – Innovation Lab",
+      "company": "APRA",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "applyUrl": "https://www.seek.com.au/job/57978307",
+      "description": "APRA is seeking experienced and enthusiastic Data Scientists to join the Innovation Lab team within their Cross-Industry Insights and Data Division.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data Lead Engineer",
+      "company": "Confidential",
+      "location": "Melbourne, VIC",
+      "category": "Data Engineer",
+      "level": "Mid",
+      "applyUrl": "https://www.seek.com.au/job/57771701",
+      "description": "A role based in Melbourne that will consider candidates from other Australian cities, with requirements for cloud platforms (GCP preferred), data pipelines, Python and C# proficiency, and orchestration tools like Airflow.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Data Engineer",
+      "company": "Confidential",
+      "location": "Melbourne, VIC",
+      "category": "Data Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.seek.com.au/job/58965873",
+      "description": "Senior Data Engineer position involving building CICD Pipelines and data models in Snowflake, optimizing data models, running updates, modifications and data transformation. Key requirements include solid DevOps experience with building pipelines and using Infrastructure as Code (IAC), previous experience using Airflow, relevant experience in data warehousing and data management technologies such as Snowflake, and hands-on experience working with Python programming language.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Business Analyst",
+      "company": "Confidential",
+      "location": "Sydney, NSW",
+      "category": "Business Analyst",
+      "level": "Mid",
+      "applyUrl": "https://www.seek.com.au/job/58939363",
+      "description": "A Business Analyst position seeking someone to liaise with business and technical stakeholders for delivery of business requirements.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型基座团队实习生",
+      "company": "美团",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/c83924a176af41d1ac8c991f0c39cad0",
+      "description": "美团大模型基座团队招聘实习生，岗位职责包括探索LLM前沿领域研究，涉及数据建设、模型预训练、模型压缩、推理优化、逻辑推理、智能体、MoE、Scaling law和模型评估等工作。该职位要求硕士或博士学位，熟悉Python、Java等编程语言与深度学习框架，具备1年以上NLP经验，熟悉BERT、GPT等模型。实习时长要求6个月以上，每周到岗4天以上。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI Infra 研发工程师（实习/2027届校招）",
+      "company": "阿里云",
+      "location": "北京/杭州",
+      "category": "MLOps / AI Infra",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/3784c4964ef246c08809fa532936b931",
+      "description": "Alibaba Cloud AI Infra team is recruiting R&D engineers with main responsibilities including: developing AI heterogeneous computing platforms combining domestic and international AI chips to optimize the entire AIGC deployment process; analyzing performance bottlenecks in AIGC business scenarios and achieving software-hardware collaborative optimization to implement extreme performance large model inference engines. Requirements include deep understanding of GPUs with rich CUDA programming and optimization experience, proficiency in C++ language, familiarity with mainstream deep learning frameworks like PyTorch.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI Infra 开发工程师（2027届校招）",
+      "company": "阿里巴巴",
+      "location": "杭州",
+      "category": "MLOps / AI Infra",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/d42dadbe72464221b1e7e4c18ce9aa4e",
+      "description": "Requirements include deep understanding of GPUs with rich CUDA programming and optimization experience, proficiency in C++ language with familiarity of Python and Linux environment; familiarity with mainstream deep learning frameworks like PyTorch with hands-on experience in AIGC training and inference performance optimization; and master's degree or above in computer science or electronics-related fields. Preferred qualifications include experience with TensorRT/Cutlass/Triton/VLLM/SGLang, deep learning framework development experience, and a PhD in computer science or machine learning.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "NLP大模型算法实习生",
+      "company": "百度",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/33ed35a8e783483bae02f0c90a6db13d",
+      "description": "Baidu NLP大模型算法实习生 position involves participating in Ernie-bot technology development, researching and improving large model technologies including pretraining, alignment, model evaluation, and Agent systems, with requirements for PhD/Master's students in AI/CS with Python proficiency and deep learning framework expertise.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "深度学习CVCG算法实习生",
+      "company": "NVIDIA",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/935d8df5b1f1461e82daaa9e2be5746e",
+      "description": "NVIDIA ML&AI specialist team主要方向是深度学习和AI领域的各类算法（包括ASR、NLP、CV&CG等）。工作职责：负责计算机视觉前沿研究与技术创新，技术包括但不限于视频模型、扩散模型、3D高斯、3D重建、神经渲染等方向。岗位要求：计算机基础扎实，具备良好的编码能力，熟练掌握Python或CUDA或C++，需掌握AI/DL基本技能，熟练使用TensorFlow或PyTorch。每周不少于4天，实习时间6个月以上优先。",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
