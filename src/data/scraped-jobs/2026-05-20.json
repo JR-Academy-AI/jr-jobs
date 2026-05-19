@@ -1,22 +1,140 @@
 {
   "date": "2026-05-20",
-  "generatedAt": "2026-05-20T07:51:12+10:00",
+  "generatedAt": "2026-05-20T07:30:00+10:00",
   "auMode": "淡季",
-  "cnMode": "暑假实习+提前批",
+  "cnMode": "暑假实习 + 提前批",
   "sources": [
     "seek.com.au",
     "join.atlassian.com",
-    "endeavourgroupcareers.com.au",
-    "nowcoder.com"
+    "groupcareers.singtel.com",
+    "australiansuper.com",
+    "jobs.bytedance.com",
+    "career.huawei.com",
+    "zhaopin.meituan.com",
+    "nowcoder.com",
+    "join.qq.com"
   ],
-  "stats": {
-    "auCandidates": 38,
-    "auLive": 5,
-    "cnCandidates": 22,
-    "cnLive": 5,
-    "notes": "AU 淡季候选池因 listing/hub URL、公司未知、snippet 不达标、跨天重复被剔除（宁缺勿滥）AU:5/目标:15；CN 去重后 5/目标:12。"
-  },
   "jobs": [
+    {
+      "market": "AU",
+      "title": "Data Scientist – Data Integrity",
+      "company": "Confidential",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "postedAt": "2026-05-09",
+      "applyUrl": "https://www.seek.com.au/job/58113333",
+      "snippet": "Produce innovative solutions driven by exploratory data analysis from complex and high-dimensional datasets. Work in the Product Analytics team to drive smarter products and deliver business insights through advanced data science techniques.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist – Founding Role",
+      "company": "Confidential",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "postedAt": "2026-05-10",
+      "applyUrl": "https://www.seek.com.au/job/58380373",
+      "snippet": "Founding data scientist role with real autonomy to shape technical direction. Build ML models for anomaly detection in unlabelled data at a global scale-up. Massive-scale, real-time data solving complex adversarial ML problems in Sydney or Melbourne.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "Senior Data Scientist – ATWD",
+      "company": "AITSL",
+      "location": "Melbourne, VIC",
+      "category": "Data Scientist",
+      "level": "Senior",
+      "postedAt": "2026-05-15",
+      "applyUrl": "https://www.seek.com.au/job/59058095",
+      "snippet": "Planning, preparation and delivery of analysis and modelling to inform understanding of critical issues related to the teacher workforce. Part of the Australian Teacher Workforce Data (ATWD) team at AITSL. Hybrid work environment; ATWD Data Science team can work remotely.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "Senior Data Engineer",
+      "company": "Confidential",
+      "location": "Sydney, NSW",
+      "category": "Data Engineer",
+      "level": "Senior",
+      "postedAt": "2026-05-13",
+      "applyUrl": "https://www.seek.com.au/job/58961055",
+      "snippet": "$180,000–$200,000 base + 25% bonus. Help influence and deliver AI Agent Initiatives for a major financial organisation. Hybrid Sydney/Melbourne. Build scalable data infrastructure supporting cutting-edge AI systems.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "MLOps / AI Platform Engineer",
+      "company": "Confidential",
+      "location": "Sydney, NSW",
+      "category": "MLOps / AI Infra",
+      "level": "Mid",
+      "postedAt": "2026-05-19",
+      "applyUrl": "https://www.seek.com.au/job/59663867",
+      "snippet": "Design, deploy and run reliable production AI and MLOps solutions on Azure. Own architecture and delivery of scalable ML, GenAI, and AI platforms. Lead MLOps, CI/CD, monitoring, and engineering best practices while mentoring teams.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist",
+      "company": "Confidential",
+      "location": "Melbourne, VIC",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "postedAt": "2026-05-07",
+      "applyUrl": "https://www.seek.com.au/job/58053552",
+      "snippet": "A leading global consultancy firm urgently requires an experienced Data Scientist to join their Melbourne practice on a permanent basis. Build, deploy and monitor production ML models, delivering NLP and GenAI solutions in an AWS environment.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "Product Manager – AI Products",
+      "company": "Optus",
+      "location": "Macquarie Park, NSW",
+      "category": "AI Product / PM",
+      "level": "Mid",
+      "postedAt": "2026-05-10",
+      "applyUrl": "https://groupcareers.singtel.com/job/Product-Manager-AI-Products-Sydn/1359437166/",
+      "snippet": "Lead AI strategy and product development aligned with Optus' Service and Sales strategy. Drive business and customer value through AI product roadmaps in line with squad OKRs. Deliver AI digital benefits across service and sales hubs. 2–3 years of experience in product, digital, or customer experience.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "AI Engineer",
+      "company": "Earth AI",
+      "location": "Alexandria, NSW",
+      "category": "AI Engineer",
+      "level": "Junior",
+      "postedAt": "2026-05-12",
+      "applyUrl": "https://www.seek.com.au/Earth-AI-jobs",
+      "snippet": "Graduate to early-career AI Engineer to join Earth AI's AI & Geoscience team in Alexandria, Sydney. $80,000–$95,000 per year. Work with passionate and supportive colleagues on AI solutions for mineral exploration. Quarterly performance bonus included.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "AI Engineer",
+      "company": "Henderson Advocacy",
+      "location": "Sydney, NSW",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "postedAt": "2026-05-11",
+      "applyUrl": "https://www.seek.com.au/Henderson-Advocacy-jobs",
+      "snippet": "Build real AI tools for a fast-growing property firm using Python, APIs, and ML. Design and develop AI-powered applications and automation tools. Build scalable AI solutions and integrate machine learning systems into existing platforms. Support development of internal technology tools for data analysis and workflow automation.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "Senior AI Engineer",
+      "company": "AustralianSuper",
+      "location": "Melbourne, VIC",
+      "category": "AI Engineer",
+      "level": "Senior",
+      "postedAt": "2026-05-08",
+      "applyUrl": "https://www.australiansuper.com/careers",
+      "snippet": "Senior AI Engineer at Australia's largest superannuation fund. Build and deploy cutting-edge Generative AI and machine learning solutions. Play a key role in delivering scalable, production-ready AI and advanced analytics solutions across the fund.",
+      "description": ""
+    },
     {
       "market": "AU",
       "title": "Senior Machine Learning Engineer",
@@ -24,9 +142,10 @@
       "location": "Sydney, NSW",
       "category": "ML Engineer",
       "level": "Senior",
+      "postedAt": "2026-05-15",
       "applyUrl": "https://join.atlassian.com/jobs/19458",
-      "description": "As a Senior Machine Learning engineer, you will work on the development and implementation of cutting edge machine learning algorithms, training sophisticated models, collaborating with product, engineering, and analytics teams. Your daily responsibilities will encompass designing system and model architectures, conducting rigorous experimentation and model evaluations, and providing guidance to junior ML engineers.",
-      "descriptionSource": "search-snippet"
+      "snippet": "As a Senior Machine Learning engineer, you will work on the development and implementation of cutting edge machine learning algorithms, training sophisticated models, collaborating with product, engineering, and analytics teams. Your daily responsibilities will encompass designing system and model architectures, conducting rigorous experimentation and model evaluations, and providing guidance to junior ML engineers.",
+      "description": ""
     },
     {
       "market": "AU",
@@ -35,9 +154,10 @@
       "location": "Sydney, NSW",
       "category": "Data Scientist",
       "level": "Mid",
+      "postedAt": "2026-05-08",
       "applyUrl": "https://www.seek.com.au/job/57978307",
-      "description": "APRA is seeking experienced and enthusiastic Data Scientists to join the Innovation Lab team within their Cross-Industry Insights and Data Division.",
-      "descriptionSource": "search-snippet"
+      "snippet": "APRA is seeking experienced and enthusiastic Data Scientists to join the Innovation Lab team within their Cross-Industry Insights and Data Division.",
+      "description": ""
     },
     {
       "market": "AU",
@@ -46,20 +166,10 @@
       "location": "Melbourne, VIC",
       "category": "Data Engineer",
       "level": "Mid",
+      "postedAt": "2026-05-08",
       "applyUrl": "https://www.seek.com.au/job/57771701",
-      "description": "A role based in Melbourne that will consider candidates from other Australian cities, with requirements for cloud platforms (GCP preferred), data pipelines, Python and C# proficiency, and orchestration tools like Airflow.",
-      "descriptionSource": "search-snippet"
-    },
-    {
-      "market": "AU",
-      "title": "Senior Data Engineer",
-      "company": "Confidential",
-      "location": "Melbourne, VIC",
-      "category": "Data Engineer",
-      "level": "Senior",
-      "applyUrl": "https://www.seek.com.au/job/58965873",
-      "description": "Senior Data Engineer position involving building CICD Pipelines and data models in Snowflake, optimizing data models, running updates, modifications and data transformation. Key requirements include solid DevOps experience with building pipelines and using Infrastructure as Code (IAC), previous experience using Airflow, relevant experience in data warehousing and data management technologies such as Snowflake, and hands-on experience working with Python programming language.",
-      "descriptionSource": "search-snippet"
+      "snippet": "A role based in Melbourne that will consider candidates from other Australian cities, with requirements for cloud platforms (GCP preferred), data pipelines, Python and C# proficiency, and orchestration tools like Airflow.",
+      "description": ""
     },
     {
       "market": "AU",
@@ -68,9 +178,130 @@
       "location": "Sydney, NSW",
       "category": "Business Analyst",
       "level": "Mid",
+      "postedAt": "2026-05-13",
       "applyUrl": "https://www.seek.com.au/job/58939363",
-      "description": "A Business Analyst position seeking someone to liaise with business and technical stakeholders for delivery of business requirements.",
-      "descriptionSource": "search-snippet"
+      "snippet": "A Business Analyst position seeking someone to liaise with business and technical stakeholders for delivery of business requirements.",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "大语言模型算法工程师-Top Seed",
+      "company": "字节跳动",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Junior",
+      "postedAt": "2026-05-10",
+      "applyUrl": "https://jobs.bytedance.com/campus/position/7494095386640222472/detail",
+      "snippet": "字节跳动Top Seed计划，专注大语言模型前沿研究。负责LLM预训练、SFT、RLHF、对齐优化和推理增强。顶级会议（ACL/ICLR/NeurIPS）发表经历优先，或有高Star开源大模型项目。提供行业顶级薪资和算力支持。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法实习生（数字人方向）",
+      "company": "字节跳动",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-05-08",
+      "applyUrl": "https://jobs.bytedance.com/campus/position/7472272254593452296/detail",
+      "snippet": "加入抖音直播团队，参与数字人和3D生成方向大模型算法研发。涉及AIGC算法开发，包括数字人生成、3D生成、动作驱动和智能对话产品。需熟悉深度学习和生成模型，有计算机视觉或NLP项目经验优先。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "AI Infra工程师",
+      "company": "华为",
+      "location": "北京",
+      "category": "MLOps / AI Infra",
+      "level": "Mid",
+      "postedAt": "2026-05-09",
+      "applyUrl": "https://career.huawei.com/reccampportal/portal5/campus-recruitment-detail.html?jobId=24079&dataSource=1&jobType=0&recruitType=CR&sourceType=001",
+      "snippet": "华为AI Infra工程师，负责构建华为云AI基础设施，支持大规模模型训练和推理系统，探索AI Infra前沿技术。涵盖异构计算、分布式训练框架、AI推理加速等核心方向，与顶级研究团队协同工作。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "大模型应用和智能体技术算法工程师",
+      "company": "美团",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "postedAt": "2026-05-12",
+      "applyUrl": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=2994666869&highlightType=social",
+      "snippet": "研发美团AI助手和Agent智能体系统，开发面向餐饮、配送、生活服务等场景的大模型应用。负责LLM应用架构设计、RAG系统构建和多Agent协作框架开发。要求有大模型应用开发经验，熟悉LangChain等框架。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "机器学习/数据挖掘算法工程师",
+      "company": "美团",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-05-11",
+      "applyUrl": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=1423047439&highlightType=campus",
+      "snippet": "负责美团平台核心算法研发，包括搜索排序、推荐系统、用户意图理解等方向。运用机器学习和深度学习技术解决实际业务问题，参与海量数据挖掘和特征工程。支持2026届应届毕业生投递，有机会接触超大规模生产系统。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法研究员（基座）",
+      "company": "美团",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-05-10",
+      "applyUrl": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=2518987121&highlightType=campus",
+      "snippet": "美团北斗基座大模型团队，负责基础大模型的预训练和后训练研究。探索大模型核心算法和训练策略，包括数据工程、模型架构优化、RLHF等方向。要求计算机或AI相关专业，有深度学习框架实践经验。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "机器学习算法实习生",
+      "company": "大疆",
+      "location": "深圳",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-05-07",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/19d34e31c9124f85b856a84f6c1c3527",
+      "snippet": "大疆机器学习团队招聘实习生，面向2026/2027届学生，参与NN优化/规划、数据质量、目标跟踪等方向算法研发。提供有竞争力薪资、半价员工宿舍及完善的实习福利，地点深圳总部。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "AI算法工程师实习生",
+      "company": "海康威视",
+      "location": "上海",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-05-08",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/0a1d049cf5414e5eab1cac22706f0dae",
+      "snippet": "海康威视上海研究院招聘AI算法实习生，负责模式识别、计算机视觉、视频分析及ADAS相关算法研究与实现。薪资200元/天，工作地点上海浦东新区张东路。要求本科及以上学历，熟练掌握C++/Python，具备扎实数学基础和机器学习理解。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "AI算法工程师实习生",
+      "company": "腾讯",
+      "location": "深圳",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-05-01",
+      "applyUrl": "https://join.qq.com/post.html?query=2_93,p_2",
+      "snippet": "腾讯2026暑期实习，10000+岗位开放，技术类AI相关岗位大幅扩招。技术研发类包括AI算法、大模型、计算机视觉、NLP等方向。投递时间2026/04/27至2026/05/27，招聘城市含深圳、北京、上海。连续实习不少于2个月。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "大模型应用算法工程师（转正实习）",
+      "company": "美团",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-05-13",
+      "applyUrl": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=4215619700&highlightType=campus",
+      "snippet": "美团转正实习机会，参与大模型应用核心团队，开发面向生活服务场景的AI产品。表现优秀者有机会直接转正，系统积累大模型应用工程经验。要求熟悉Python，有LLM应用或Agent开发经验优先。",
+      "description": ""
     },
     {
       "market": "CN",
@@ -79,20 +310,22 @@
       "location": "北京",
       "category": "ML Engineer",
       "level": "Graduate",
+      "postedAt": "2026-05-15",
       "applyUrl": "https://www.nowcoder.com/feed/main/detail/c83924a176af41d1ac8c991f0c39cad0",
-      "description": "美团大模型基座团队招聘实习生，岗位职责包括探索LLM前沿领域研究，涉及数据建设、模型预训练、模型压缩、推理优化、逻辑推理、智能体、MoE、Scaling law和模型评估等工作。该职位要求硕士或博士学位，熟悉Python、Java等编程语言与深度学习框架，具备1年以上NLP经验，熟悉BERT、GPT等模型。实习时长要求6个月以上，每周到岗4天以上。",
-      "descriptionSource": "search-snippet"
+      "snippet": "美团大模型基座团队招聘实习生，岗位职责包括探索LLM前沿领域研究，涉及数据建设、模型预训练、模型压缩、推理优化、逻辑推理、智能体、MoE、Scaling law和模型评估等工作。该职位要求硕士或博士学位，熟悉Python、Java等编程语言与深度学习框架，具备1年以上NLP经验，熟悉BERT、GPT等模型。实习时长要求6个月以上，每周到岗4天以上。",
+      "description": ""
     },
     {
       "market": "CN",
       "title": "AI Infra 研发工程师（实习/2027届校招）",
       "company": "阿里云",
-      "location": "北京/杭州",
+      "location": "北京",
       "category": "MLOps / AI Infra",
       "level": "Graduate",
+      "postedAt": "2026-05-15",
       "applyUrl": "https://www.nowcoder.com/feed/main/detail/3784c4964ef246c08809fa532936b931",
-      "description": "Alibaba Cloud AI Infra team is recruiting R&D engineers with main responsibilities including: developing AI heterogeneous computing platforms combining domestic and international AI chips to optimize the entire AIGC deployment process; analyzing performance bottlenecks in AIGC business scenarios and achieving software-hardware collaborative optimization to implement extreme performance large model inference engines. Requirements include deep understanding of GPUs with rich CUDA programming and optimization experience, proficiency in C++ language, familiarity with mainstream deep learning frameworks like PyTorch.",
-      "descriptionSource": "search-snippet"
+      "snippet": "阿里云AI Infra团队招聘R&D工程师，负责开发AI异构计算平台，优化AIGC全链路部署；分析AIGC业务场景性能瓶颈，实现软硬协同优化和极致性能大模型推理引擎。要求深度理解GPU，具备丰富CUDA编程和优化经验，精通C++，熟悉PyTorch等主流深度学习框架。",
+      "description": ""
     },
     {
       "market": "CN",
@@ -101,9 +334,10 @@
       "location": "杭州",
       "category": "MLOps / AI Infra",
       "level": "Graduate",
+      "postedAt": "2026-05-15",
       "applyUrl": "https://www.nowcoder.com/feed/main/detail/d42dadbe72464221b1e7e4c18ce9aa4e",
-      "description": "Requirements include deep understanding of GPUs with rich CUDA programming and optimization experience, proficiency in C++ language with familiarity of Python and Linux environment; familiarity with mainstream deep learning frameworks like PyTorch with hands-on experience in AIGC training and inference performance optimization; and master's degree or above in computer science or electronics-related fields. Preferred qualifications include experience with TensorRT/Cutlass/Triton/VLLM/SGLang, deep learning framework development experience, and a PhD in computer science or machine learning.",
-      "descriptionSource": "search-snippet"
+      "snippet": "阿里巴巴AI Infra开发工程师（2027届校招），要求深度理解GPU，具备丰富CUDA编程和优化经验，精通C++，熟悉Python和Linux环境，熟悉PyTorch等主流深度学习框架，具备AIGC训练和推理性能优化实践经验。有TensorRT/Cutlass/Triton/vLLM/SGLang经验优先。硕士或博士优先。",
+      "description": ""
     },
     {
       "market": "CN",
@@ -112,9 +346,10 @@
       "location": "北京",
       "category": "AI Engineer",
       "level": "Graduate",
+      "postedAt": "2026-05-15",
       "applyUrl": "https://www.nowcoder.com/feed/main/detail/33ed35a8e783483bae02f0c90a6db13d",
-      "description": "Baidu NLP大模型算法实习生 position involves participating in Ernie-bot technology development, researching and improving large model technologies including pretraining, alignment, model evaluation, and Agent systems, with requirements for PhD/Master's students in AI/CS with Python proficiency and deep learning framework expertise.",
-      "descriptionSource": "search-snippet"
+      "snippet": "百度NLP大模型算法实习生，参与文心一言技术研发，研究和改进大模型技术，涵盖预训练、对齐、模型评估和Agent系统。要求AI/CS方向博士或硕士在读，精通Python，具备深度学习框架实践经验。",
+      "description": ""
     },
     {
       "market": "CN",
@@ -123,9 +358,10 @@
       "location": "北京",
       "category": "AI Engineer",
       "level": "Graduate",
+      "postedAt": "2026-05-15",
       "applyUrl": "https://www.nowcoder.com/feed/main/detail/935d8df5b1f1461e82daaa9e2be5746e",
-      "description": "NVIDIA ML&AI specialist team主要方向是深度学习和AI领域的各类算法（包括ASR、NLP、CV&CG等）。工作职责：负责计算机视觉前沿研究与技术创新，技术包括但不限于视频模型、扩散模型、3D高斯、3D重建、神经渲染等方向。岗位要求：计算机基础扎实，具备良好的编码能力，熟练掌握Python或CUDA或C++，需掌握AI/DL基本技能，熟练使用TensorFlow或PyTorch。每周不少于4天，实习时间6个月以上优先。",
-      "descriptionSource": "search-snippet"
+      "snippet": "NVIDIA ML&AI团队深度学习CVCG算法实习生，负责计算机视觉前沿研究与技术创新，方向包括视频模型、扩散模型、3D高斯、3D重建、神经渲染等。要求熟练掌握Python或CUDA或C++，熟练使用TensorFlow或PyTorch。每周不少于4天，实习6个月以上优先。",
+      "description": ""
     }
   ]
 }
