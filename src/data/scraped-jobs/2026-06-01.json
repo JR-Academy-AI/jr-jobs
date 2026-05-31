@@ -1,0 +1,103 @@
+{
+  "date": "2026-06-01",
+  "generatedAt": "2026-05-31T22:00:47+10:00",
+  "auMode": "淡季",
+  "cnMode": "暑假实习+提前批",
+  "sources": ["seek.com.au", "au.prosple.com", "nowcoder.com"],
+  "stats": {
+    "auCandidates": 35,
+    "auLive": 3,
+    "cnCandidates": 28,
+    "cnLive": 5
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Artificial Intelligence (AI) – Digital Graduate Program",
+      "company": "Queensland Government Digital Graduate Program",
+      "location": "Brisbane QLD",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://au.prosple.com/graduate-employers/queensland-government-digital-graduate-program/jobs-internships/artificial-intelligence-ai-digital-graduate-program-0",
+      "description": "AI graduates are responsible for supporting the development and implementation of AI technologies within government, applying machine learning algorithms and data analytics to solve complex problems. Responsibilities include collaborating with technology and business teams to understand AI applications, working within interdisciplinary teams to implement AI solutions, and supporting the testing and deployment of new AI systems.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Business Analyst",
+      "company": "Confidential",
+      "location": "Sydney NSW",
+      "category": "Business Analyst",
+      "level": "Senior",
+      "applyUrl": "https://www.seek.com.au/job/56020043?type=standard",
+      "description": "This role manages the conversion of IT services resulting from Machinery of Government changes, with a primary focus on maintaining business continuity & user experience while transitioning functions. The ideal candidate will have 5+ years business analysis with a focus on systems transition and data migration projects.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist",
+      "company": "Atlassian",
+      "location": "Sydney NSW",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "applyUrl": "https://www.seek.com.au/job/58380373?type=standout",
+      "description": "you will be part of a team of 6-7 Data Scientists who support the product organisation across Jira Service Management and work as generalists across the entire product.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI产品经理实习生（游戏向）",
+      "company": "联想",
+      "location": "上海",
+      "category": "AI Product / PM",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/cea302f4cd9b473c80471b6f956f9564",
+      "description": "持续跟踪国内外的优秀系统工具产品和AI软硬件产品，产出行业动向趋势分析；深度参与企业战略级产品定义，设计PC端AI系统工具产品功能并跟进上线，端到端推动落地开发进度；通过数据分析和用户反馈产出产品迭代方案，保证产品上线后的用户体验。任职要求：全日制本科以上学历，对AI产品或系统工具具备一定了解，对AI技术（CV、LLM等）有一定了解；熟练使用Word、Excel、Xmind、Figma等软件；学习能力强",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "数据AI产品经理",
+      "company": "米哈游",
+      "location": "上海",
+      "category": "AI Product / PM",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/12f1571ab26547a89c7d06b8c3fe5289",
+      "description": "参与企业数据AI应用产品规划与建设、深入理解业务场景并识别用户需求、主导AI数据产品的功能规划、优化现有AI工具的用户体验、建立产品数据跟踪机制以及负责产品文档撰写。任职要求：2026届应届毕业生本科及以上学历，对AI数据应用有热情并具备基础AI认知、逻辑思维清晰、有强烈自驱力、热爱游戏行业，计算机等相关专业优先",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型推理系统工程师",
+      "company": "米哈游",
+      "location": "上海",
+      "category": "MLOps / AI Infra",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/aef54765744b40b595e2fceed2f2ee64",
+      "description": "负责各AI推理场景（LLM/多模态/视频等）的推理系统研发和性能优化、资源调度、可观测性搭建、与算法团队进行算法与系统的联合设计与优化。任职要求：本科及以上学历计算机相关专业、熟练掌握C/C++与Python、精通推理引擎、GPU资源调度或模型量化等至少一项",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "算法工程师实习",
+      "company": "平安科技",
+      "location": "上海",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/discuss/353155257213591552",
+      "description": "平安科技人工智能中心知识图谱技术团队招募算法工程师实习岗。职责包括：针对实际场景中遇到的各类数据进行分析和挖掘，利用各种人工智能、大数据分析手段对经济金融业务场景中遇到的实际问题进行建模分析，迭代优化现有模型成果，探索更有效的算法理论。任职要求：985/211本科及以上学历（计算机、统计、数据科学、金融工程等相关专业），具备数据结构、操作系统、数据库等计算机基础知识，熟练使用Python进行数据分析建模，有较好的SQL功底，理解机器学习/深度学习/时间序列分析基本理论。实习薪酬为本科生200/天，研究生300/天，工作地点在上海市浦东新区。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "数据分析日常实习生",
+      "company": "哔哩哔哩",
+      "location": "上海",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/9873f995e2be4ecfa24334cc77b64f56",
+      "description": "参与B站电商的算法研发工作，场景包括用户增长、首页推荐等；深入了解业务，通过数据分析洞察业务优化机会点，并落地优化策略。工作要求包括能够持续至少2个月以上的实习期；熟悉统计学、机器学习基础知识；熟悉python/java/go至少一种语言，对TensorFlow框架有应用经验，熟练使用sql；有相关的论文/比赛经历是加分项",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
