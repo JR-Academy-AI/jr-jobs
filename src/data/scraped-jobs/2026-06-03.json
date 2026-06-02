@@ -1,0 +1,175 @@
+{
+  "date": "2026-06-03",
+  "generatedAt": "2026-06-03T07:30:00+10:00",
+  "auMode": "淡季",
+  "cnMode": "暑假实习 + 提前批",
+  "sources": [
+    "seek.com.au",
+    "au.prosple.com",
+    "nowcoder.com"
+  ],
+  "stats": {
+    "auCandidates": 22,
+    "auLive": 6,
+    "cnCandidates": 14,
+    "cnLive": 7
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Senior Data Scientist – Credit Risk Modelling",
+      "company": "Toyota Finance Australia",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Senior",
+      "postedAt": "2026-06-03",
+      "applyUrl": "https://www.seek.com.au/job/57780799",
+      "snippet": "Senior Data Scientist role managing credit risk models (PD/LGD/EAD, IFRS9, scorecards) at Toyota Finance Australia, Sydney.",
+      "description": "Responsibilities include managing and maintaining credit risk models including PD/LGD/EAD, IFRS9 models, acquisition scorecards, collection models, and other credit risk factor models. Lead model development projects on credit scoring, IFRS9 models, and loss prediction to enhance credit decision making."
+    },
+    {
+      "market": "AU",
+      "title": "Senior Business Analyst",
+      "company": "eBlueprint",
+      "location": "Melbourne, VIC",
+      "category": "Business Analyst",
+      "level": "Senior",
+      "postedAt": "2026-06-03",
+      "applyUrl": "https://www.seek.com.au/job/56382135",
+      "snippet": "Senior Business Analyst for a federal government digital transformation program in Melbourne CBD; requires 5+ years integration analysis experience and Australian Citizenship.",
+      "description": "The position requires experienced Senior Business Analysts to join growing agile squads. The role is based in the Melbourne CBD and is part of a large digital transformation program being delivered for a federal government client over the past 12 months. Key Requirements: Applicants must have documented minimum of 5 years' experience working as an Integration Analyst delivering enterprise integration solutions via technology providers in complex programs and projects, along with strong understanding of system Integration concepts, API practices and the National API Design Standards (NAPIDS). Due to the security sensitivity of the client, the applicant must be an Australian Citizen holding a current Australian Passport."
+    },
+    {
+      "market": "AU",
+      "title": "Data Science and Analytics Graduate Program",
+      "company": "Commonwealth Bank",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "postedAt": "2026-06-03",
+      "applyUrl": "https://au.prosple.com/graduate-employers/commonwealth-bank/jobs-internships/data-science-and-analytics-graduate-program-2",
+      "snippet": "Commonwealth Bank graduate program applying ML and advanced analytics to retail banking challenges; R, SQL, SAS, Teradata; Feb 2026 intake.",
+      "description": "You'll apply techniques like exploratory data analysis and machine learning to tackle real customer challenges through descriptive insights, predictive modelling, performance monitoring, or direct customer communications, helping drive smarter, data-led outcomes. You'll work alongside business stakeholders and make a real impact—using data to solve complex problems and shape key initiatives. Throughout the program, you'll enhance your technical capability through the use of analytical tools such as R, SQL, SAS and Teradata, alongside vast datasets to develop and deliver actionable insights. Requirements: You're passionate about data and keen to learn new tech stacks, languages and frameworks; You're a proactive problem solver with a strategic mindset who loves simplifying processes; You listen to people's needs and design solutions to create better experiences protecting customers."
+    },
+    {
+      "market": "AU",
+      "title": "Technology (Data) Graduate Program",
+      "company": "Westpac",
+      "location": "Sydney, NSW",
+      "category": "Data Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-06-03",
+      "applyUrl": "https://au.prosple.com/graduate-employers/westpac-group/jobs-internships/technology-data-graduate-program-1",
+      "snippet": "Westpac Technology (Data) grad program joining the Data Platforms function; 12-month rotation across data analysis, ML, data science, and engineering; Feb 2026.",
+      "description": "Data is an area of strategic priority at Westpac, with data continuing to disrupt the way organisations operate. As data continues to grow, the company requires talent to help harness the value of its data through advanced analytics, machine learning and big data. This program offers a tailored pathway into a data-focused career, providing insight into multiple business functions. Over 12 months, participants will be part of the Data Platforms function, exploring key areas such as data analysis, machine learning, visualization, data science, engineering, and big data, with rotation after six months into another area within the data space. Eligibility Requirements: Applicants will need a STEM degree and background."
+    },
+    {
+      "market": "AU",
+      "title": "Graduate Data Scientist",
+      "company": "Xero Australia",
+      "location": "Melbourne, VIC",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "postedAt": "2026-06-03",
+      "applyUrl": "https://au.prosple.com/graduate-employers/xero-australia/jobs-internships/graduate-data-scientist",
+      "snippet": "Graduate Data Scientist at Xero Australia; contribute to ML model development and analytics across product, engineering, and marketing teams; Feb 2026.",
+      "description": "Key responsibilities you will have include: Learn how a variety of teams access, explore, and work with data, and build familiarity with data platforms, tools, and common practices; Contribute to analysis and proof-of-concept model development, and start to apply statistical and machine learning techniques with support from your team; Use dashboards, reports, and visualisation tools to communicate findings, and present your work to stakeholders in clear and compelling ways; Participate in collaborative initiatives across product, engineering, or marketing teams, learning to apply data science and analytics in a business context; Begin to explore how to apply ethical considerations in your data work, ensuring outcomes support Xero's values and customer needs."
+    },
+    {
+      "market": "AU",
+      "title": "Actuarial & Analytics Graduate Program",
+      "company": "IAG",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "postedAt": "2026-06-03",
+      "applyUrl": "https://au.prosple.com/graduate-employers/iag/jobs-internships/actuarial-analytics-graduate-program",
+      "snippet": "IAG Actuarial & Analytics grad program; rotations across pricing, Analytics & AI, and reserving teams in Sydney or Melbourne; Feb 2026 intake.",
+      "description": "As an IAG Actuarial and Analytics graduate, you will support business leaders in the delivery of high-quality advice. This is achieved through analysis of data to provide insights, leveraging mathematical algorithms from linear modelling to machine learning and other advanced analytics. Within the Graduate Program you will enjoy rotations across multiple teams, allowing you to develop various advisory and technical capabilities, whilst building strong networks throughout the organisation. Requirements: A university degree or higher (from 2023-2025) or be in your penultimate year of university with graduation expected by the end of 2025 — Actuarial, Statistics, Mathematics, Data Science, Finance, Engineering disciplines."
+    },
+    {
+      "market": "CN",
+      "title": "AI Agent研发实习生（2026届）",
+      "company": "传音控股",
+      "location": "深圳",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-06-03",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/444729",
+      "snippet": "传音控股AI Agent研发实习，LangChain/LangGraph架构设计、Prompt优化、RAG方案、Tool Calling，深圳，2026届。",
+      "description": "Agent architecture design: Participating in Agent architecture design based on LangChain, LangGraph or related frameworks, building intelligent agent systems with perception, planning, memory and execution capabilities; Prompt optimization and workflow improvement: Writing high-quality Prompts for specific business scenarios, utilizing Few-shot and Chain-of-Thought techniques to improve model output stability and accuracy; Multimodal and tool integration: Developing and debugging Tool Calling functionality for intelligent agents, enabling seamless integration between LLM and external APIs, databases and local code environments; RAG solution implementation: Optimizing retrieval-augmented generation (RAG) processes, including document parsing, vectorization strategies and reranking algorithms to improve Agent knowledge acquisition; Performance evaluation and iteration: Establishing Agent evaluation benchmarks and continuously iterating logic orchestration and model parameters through analysis of bad cases."
+    },
+    {
+      "market": "CN",
+      "title": "科研算法工程师（大模型与AIGC方向-2026）",
+      "company": "群核科技",
+      "location": "杭州",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-06-03",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/407496",
+      "snippet": "群核科技科研算法工程师，面向空间智能的多模态大模型、AIGC（文生图/视频/3D）算法研发，杭州，2026届。",
+      "description": "主要职责：负责面向空间智能的AI算法研发工作，包括但不限于多模态大模型、AIGC等相关技术；负责前沿技术的研发储备，结合实际业务场景，提供技术解决方案；与工程、产品团队和业务部门合作，推动团队的算法研发和业务落地。岗位要求：教育背景：计算机、数学或相关专业本科及以上学历，硕士博士优先；技术能力：具有扎实的代码基础，熟练掌握C++/Java/Python等至少一门语言；领域专长：在大语言模型或多模态语言模型、文生图/视频、或3D生成等领域之一有技术积累。"
+    },
+    {
+      "market": "CN",
+      "title": "预测算法工程师",
+      "company": "元戎启行",
+      "location": "深圳/北京",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "postedAt": "2026-06-03",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/100805",
+      "snippet": "元戎启行预测算法工程师，自动驾驶场景行为轨迹预测研发，熟悉LSTM/深度学习/pytorch，深圳或北京。",
+      "description": "职位职责：负责自动驾驶场景下物体（车辆/行人/自行车）的行为轨迹预测算法的研发以及系统集成。岗位要求：1、本科及以上学历；2、扎实的C++/Python编程基础，熟悉数据结构、设计模式等；3、熟悉机器学习相关算法（LR，MLP，LSTM等）；4、熟悉行为预测相关算法；5、熟悉深度学习，有pytorch/tensorflow等开发经验优先。"
+    },
+    {
+      "market": "CN",
+      "title": "研发工程师-C++/大模型开发（转正实习）",
+      "company": "饿了么",
+      "location": "上海/北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-06-03",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/377533",
+      "snippet": "饿了么大模型平台研发工程师，C++/Python构建分布式ML训练与在线推理平台（TensorFlow/PyTorch/vLLM），上海/北京，转正实习。",
+      "description": "Job Responsibilities: Participating in architecture design and construction of large-scale distributed machine learning platforms related to generative models; Participating in offline training and online inference of large-scale massive data, improving model prediction accuracy and real-time performance; Deep collaboration with algorithm departments for joint optimization of algorithms and systems. Job Requirements: Computer science, software engineering, or artificial intelligence related majors (preferred); strong programming ability with proficiency in C++/Python (preferred); practical project experience in machine learning and deep learning with familiarity of common frameworks like TensorFlow, PyTorch, and vLLM."
+    },
+    {
+      "market": "CN",
+      "title": "AI计算系统协同设计研发-阿里星",
+      "company": "阿里巴巴",
+      "location": "上海/杭州/北京",
+      "category": "MLOps / AI Infra",
+      "level": "Graduate",
+      "postedAt": "2026-06-03",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/446409",
+      "snippet": "阿里星 AI计算系统协同设计研发，构建编译与运行时中间层及跨层性能分析工具链，支持长上下文/MoE/多模态，要求计算机体系结构博士。",
+      "description": "Building load-driven collaborative design workflows based on AI workload analysis; Designing scalable compilation and runtime middleware layers for efficient mapping between algorithms and hardware; Constructing cross-layer performance analysis toolchains to identify bottlenecks from algorithms to transistors; Exploring architectural collaborative design methodologies for future workloads (such as long context, MoE, and multimodal systems). Requirements: Candidates should have A PhD in computer architecture, artificial intelligence, AI engineering or related fields."
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法工程师",
+      "company": "拼多多",
+      "location": "上海",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-06-03",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/445059",
+      "snippet": "拼多多2026届校招大模型算法工程师，生成式语言模型应用落地、预训练/SFT/多模态大模型，上海。",
+      "description": "负责生成式语言模型应用的设计、开发和落地，为用户使用场景提供更好的体验。具体职责还包括：在已部署的大模型服务中，调研不同模型与架构对服务指标的影响。招聘算法工程师，组内卡资源充足，可接触领域最新文本、多模态大模型的预训练、监督微调等工作，并在实际业务中落地，同时SD系列图像生成、AIGC等也有业务落地。"
+    },
+    {
+      "market": "CN",
+      "title": "算法工程师-风控方向",
+      "company": "虾皮",
+      "location": "深圳",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "postedAt": "2026-06-03",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/405023",
+      "snippet": "虾皮(Shopee)2026届校招风控算法工程师，机器学习/图神经网络/异常检测构建羊毛党识别与虚假交易模型，深圳。",
+      "description": "负责风控算法模型的设计与开发，结合业务风控场景（如羊毛党识别、虚假交易等），建立高效、鲁棒、可解释性的风控模型；深入理解各类风险画像及业务需求，提炼特征，优化算法效果，提升模型识别能力与实时反应能力；参与风控数据体系建设，包括特征工程、模型监控、效果评估等；推进算法落地，关注模型的线上部署、可稳定性与鲁棒性优化。任职要求：2026届应届毕业生，计算机、人工智能、电子信息、数学、统计等相关专业优先，硕士或博士学历优先；具备良好的编程能力，熟练使用Python及常用数据分析/建模工具，熟悉常用的大数据开发框架(SQL, Hive, Spark)；掌握常见的机器学习/深度学习算法，如逻辑回归、决策树、集成方法、图神经网络、表示学习、异常检测等。"
+    }
+  ]
+}
