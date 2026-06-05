@@ -309,6 +309,105 @@
       "applyUrl": "https://career.sina.com.cn/portal/home",
       "snippet": "新浪微博招募Agent算法工程师实习生，参与基于大模型的社交内容Agent系统研发，方向包括信息流智能分发、内容审核Agent与用户意图理解。",
       "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "Senior Machine Learning Engineer",
+      "company": "IAG",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://careers.iag.com.au/job/Sydney-Senior-Machine-Learning-Engineer-NSW/1133310901/",
+      "description": "You will lead the development and productionisation of AI/ML models, including containerization, deployment, versioning, and monitoring their performance. You'll develop solutions around Generative AI models, such as Large Language Models, through open-source deployment or API integration. Requirements include experience in ML engineering and operations, expertise in setting up independent end to end LLM-native solutions based on Advanced Prompt Engineering and RAG using open-source components, strong Python skills, proficiency in building data pipelines and ML pipelines, and experience with public cloud ML model development (GCP and/or AWS preferred).",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist",
+      "company": "Suncorp Group",
+      "location": "Brisbane, QLD",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "applyUrl": "https://careers.pageuppeople.com/346/ci/en/job/670950/data-scientist",
+      "description": "As a Data Scientist at Suncorp, you will be in a pivotal technical role that drives the design and implementation of complex and varied Data Science and AI projects aimed at delivering substantial business value. A bachelor's degree in a technical field such as data science, machine learning, statistics, actuarial, engineering, or mathematics is mandatory. Experience in developing and implementing Data Science or AI models is mandatory, with experience working on Databricks being highly valued. The roles offer flexible working locations in Brisbane, Sydney or Melbourne with an agile workspace offering up to 3 days work from home.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data, AI & Machine Learning – Multiple Opportunities",
+      "company": "Deloitte Australia",
+      "location": "Sydney, NSW",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "applyUrl": "https://jobs.deloitte.com.au/job/Sydney-Data,-AI,-and-Machine-Learning-Opportunities-Available-NSW/1058983166/",
+      "description": "Deloitte's AI & Data team is transforming how businesses leverage cloud-native technologies to solve complex challenges in data, machine learning, and AI, with roles where you will lead strategic initiatives, drive innovation, and deliver impactful solutions for clients. As a senior member of the team, you will work with C-suite clients to advise on customer strategy, lead the development of AI-powered decisioning platforms, and oversee transformation initiatives that deliver measurable business outcomes, while playing a critical role in business development, practice leadership, and building high-performing teams.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "2026 Graduate Program – Data Science and Analytics",
+      "company": "nbn",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/nbn/jobs/nbn-2026-nbn-graduate-program-data-science-and-analytics/",
+      "description": "Throughout the 18-month nbn Graduate Program, you will work within various business units, developing your technical and leadership skills while making a valued contribution and playing an important role in shaping the digital future of Australia. The program includes three rotations matched to your academic discipline and career interests, an 18-month tailored learning program with mentoring by industry-leading experts, and work on real projects that contribute to the future of Australia. nbn is looking for graduates who have excellent interpersonal skills, a strong work ethic and a solution-motivated approach with a proven track record of consistently achieving results.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "推荐大模型算法实习生-抖音",
+      "company": "字节跳动",
+      "location": "北京 / 上海",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://jobs.bytedance.com/campus/position/7478274963439765768/detail",
+      "description": "字节跳动抖音推荐大模型算法实习生，主要职责包括：模型训练与创新，主导大模型的持续训练、微调及优化工作，通过监督微调和强化学习等技术提升模型在社交领域的专业性；数据挖掘，构建并维护适配抖音社交场景的训练数据集，通过数据清洗、标注与增强提升数据质量；大模型评测，制定和实施全方位的大模型评估方案，建立完善的评估体系。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型应用算法实习生-AI PaaS",
+      "company": "字节跳动",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://jobs.bytedance.com/campus/m/position/detail/7460352606600382727",
+      "description": "Stone-AI PaaS团队专注研究AI/大模型应用相关领域的技术和产品，致力于创造和实现创新的人工智能平台服务，已服务于字节跳动多款产品，比如豆包、Cici、Coze、Trae等。工作职责：1. 负责AI Native形态对话式服务算法的研发、深入研究语音、图像、文本等多模态信息的融合与交互技术；2. 负责数据建设、指令微调、偏好对齐、模型优化；3. 深入调研和关注NLP/多模态/LLM等方向的前沿技术。职位要求：2026届硕士及以上学位在读，计算机/软件工程/人工智能等相关专业优先；有NLP/深度学习/机器学习领域的研究经历；在ICML/CVPR/NeurIPS/ACL等顶级期刊会议上发表论文者优先。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法实习生（金融科技）",
+      "company": "腾讯",
+      "location": "深圳",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://join.qq.com/post_detail.html?pid=2&id=176&tid=2",
+      "description": "腾讯金融科技大模型团队，业务支持场景包括AI搜索、智能客服、智能问答助手、大模型一站式平台等，提供百卡GPU训练集群资源。工作职责：能够接触并独立完成各类业务场景下的SFT、DPO数据集构造及训练；能够参与并协同搭建AI自动化评测链路，实现全链路自动化迭代；能够探索大模型前沿训练推理技术，包括推理反思优化、高效剪枝/量化加速推理技术。任职要求：计算机科学、人工智能、数据科学、统计学或相关专业硕士及以上学历；熟悉大语言模型LLM相关技术，包括SFT、RLHF、DPO、Planing、Agent等；办公地点位于深圳滨海大厦，能实习6个月以上者优先，每周到岗三天以上。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法研究员-智能座舱",
+      "company": "小米",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "applyUrl": "https://xiaomi.jobs.f.mioffice.cn/futurestar/m/position/detail/7397871785864233069",
+      "description": "Researching and developing multimodal large models for intelligent cockpits, combining vision, speech, text, intelligent devices and automotive data to perceive complex scenarios and provide innovative intelligent vehicle user experiences. Landing related multimodal products, including but not limited to model design, data processing, training, deployment and optimization. Exploring AI OS construction, providing AI capabilities as fundamental OS capabilities to applications. The position requires research and application experience with large models including training data construction, model training, and performance optimization; strong algorithm and coding abilities; first-author publications at top AI conferences such as CVPR, ICML.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型训练算法工程师",
+      "company": "上海人工智能实验室",
+      "location": "上海",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "applyUrl": "https://www.shlab.org.cn/joinus/detail/7615234376275773734?mode=social",
+      "description": "岗位职责：1. 负责垂直领域大模型的端到端训练，独立执行持续预训练（CPT）、监督微调（SFT）、强化学习对齐（RLHF/DPO）等任务；2. 负责构建和清洗高质量训练数据，包括预训练语料清洗过滤、SFT指令数据构建和比例调节、偏好数据生成；3. 使用Megatron-LM、veRL、LLaMA-Factory等框架在Ascend NPU/NV GPU平台进行模型训练和性能调优；4. 监控训练过程，及时发现并解决常见训练问题如Loss异常、梯度爆炸，产出实验分析报告；5. 参与模型评测工作，根据评测结果调整数据比例和超参数；6. 跟踪大模型训练前沿进展，复现SFT/RLHF相关论文算法，尝试应用于业务场景。",
+      "descriptionSource": "search-snippet"
     }
   ]
 }
