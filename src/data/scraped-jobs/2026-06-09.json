@@ -1,0 +1,111 @@
+{
+  "date": "2026-06-09",
+  "generatedAt": "2026-06-09T09:00:00+10:00",
+  "auMode": "淡季",
+  "cnMode": "暑假实习 + 提前批",
+  "sources": [
+    "au.gradconnection.com",
+    "au.prosple.com",
+    "careers.amp.com.au",
+    "builtin.com",
+    "www.nowcoder.com"
+  ],
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Graduate Data Engineer",
+      "company": "PEXA",
+      "location": "Melbourne, VIC",
+      "category": "Data Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-06-05",
+      "applyUrl": "https://au.gradconnection.com/employers/pexa/jobs/pexa-graduate-data-engineer/",
+      "description": "PEXA is hiring for Graduate Data Engineer positions within their ONEData team, working with tools like Snowflake, dbt, Fivetran, and AWS, gaining hands-on experience in data integration, ETL processes, data warehousing, and implementing data security measures.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "2027 Engineering and Data Science Graduate",
+      "company": "Ausgrid",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "postedAt": "2026-06-04",
+      "applyUrl": "https://au.gradconnection.com/employers/ausgrid/jobs/ausgrid-2027-engineering-and-data-science-statistics-or-mathematics-graduate-program/",
+      "description": "Over two years, graduates rotate through different teams at Ausgrid gaining hands-on experience across high-impact projects, exploring new technologies, solving real-world problems, and receiving structured training and development to grow technical and professional skills.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist Intern",
+      "company": "Valsoft Corporation",
+      "location": "Remote, AU",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "postedAt": "2026-06-06",
+      "applyUrl": "https://au.prosple.com/graduate-employers/valsoft-corporation/jobs-internships/data-scientist-intern-0",
+      "description": "This role involves integrating AI solutions within Azure services and requires pursuing a Master's or Ph.D. in Computer Science, Data Science, or a related field.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist",
+      "company": "AMP",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "postedAt": "2026-06-03",
+      "applyUrl": "https://careers.amp.com.au/mob/cw/en/job/613194/data-scientist",
+      "description": "AMP's AI Hub, where employees solve real business problems by building innovative AI solutions. The Technology Graduate Stream provides graduates with a comprehensive understanding of how technology enables AMP's strategic objectives, with rotations across key areas such as strategy development, cybersecurity, digital delivery, governance, and agile transformation.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist",
+      "company": "Latitude Financial Services",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "postedAt": "2026-06-05",
+      "applyUrl": "https://builtin.com/job/data-scientist/6317660",
+      "description": "you will be responsible for the delivery of analytics and insights solutions to solve business problems using data science techniques. You must be able to demonstrate an ability to understand business challenges and develop insight-driven analytical solutions for decision making, leveraging combination skills across data engineering, data science, business insights and stakeholder management to create customer and commercially focused outcomes. You will execute analytics activities to drive business benefit and customer experience, including data wrangling, predictive modelling, clustering, text mining, data visualisation, simulation and optimisation. Candidates should be educated to minimum degree level or higher in Mathematics, Statistics, Business Analytics, Engineering or other numerate related discipline, with 3+ years work experience in an analytics role and hands-on experience training machine learning models. Strong coding skills using SQL, Python (or R) and SAS are required, along with demonstrated ability to use tools such as Power BI, Datorama, Tableau or Qlik for data visualisation and insights presentation. This position is only open to Australian or New Zealand Permanent Residents or Citizens.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Data Engineer",
+      "company": "REA Group",
+      "location": "Melbourne, VIC",
+      "category": "Data Engineer",
+      "level": "Senior",
+      "postedAt": "2026-06-06",
+      "applyUrl": "https://builtin.com/job/senior-data-engineer/4745501",
+      "description": "The Senior Data Engineer role involves designing, developing, and maintaining scalable software products, improving data quality, and supporting production systems. This role sits in the Core Property Data portfolio of PropTrack, which functions as the property data engine room of REA.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI Agent 研发实习生（2026届）",
+      "company": "传音控股",
+      "location": "深圳",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-06-01",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/444729",
+      "description": "AI Agent R&D Intern (2026届) at Transsion Holdings, requiring students majoring in computer science, AI, mathematics, or automation. Key requirements include proficiency in Python programming, understanding of major large language models (GPT-4, Claude 3.5, Gemini, DeepSeek, etc.), and familiarity with at least one Agent development framework such as LangChain, LlamaIndex, CrewAI, or AutoGPT. Preferred qualifications include graduate-level research in NLP, multimodal learning, or reinforcement learning, personal open-source AI projects or contributions to mainstream frameworks on GitHub, experience with vector databases like Pinecone, Milvus, or Weaviate, and Docker containerization skills. The internship requires at least 3 days per week for 6+ months, with on-site work in Shenzhen. Responsibilities include Agent architecture design, prompt optimization, multimodal tool integration, RAG solution implementation, and performance evaluation.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI算法工程师",
+      "company": "传音控股",
+      "location": "深圳",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "postedAt": "2026-06-02",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/446353",
+      "description": "Transsion is actively recruiting AI algorithm talent with offerings including industry-leading compensation (no upper limit), one-on-one mentorship from research experts, deep participation in cutting-edge AI projects, and diversified international research resource support. Transsion's 2026 recruitment includes a specialized AI talent plan (顶尖AI人才计划) with positions in speech recognition/synthesis, image/video algorithms, large models, NLP, and AIGC.",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
