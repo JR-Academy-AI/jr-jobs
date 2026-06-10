@@ -1,0 +1,116 @@
+{
+  "date": "2026-06-11",
+  "generatedAt": "2026-06-10T15:00:00+10:00",
+  "stats": {
+    "auTarget": 15,
+    "auCandidates": 35,
+    "auLive": 7,
+    "cnTarget": 12,
+    "cnCandidates": 18,
+    "cnLive": 2,
+    "totalLive": 9,
+    "alreadySeenPoolSize": 742,
+    "note": "Pool heavily depleted by 742 already-seen jobs from 14-day window. 宁缺勿滥 — accepted 9 quality jobs over inflated count."
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Machine Learning Engineer Intern, Trust and Safety Engineering - 2027 Start",
+      "company": "TikTok",
+      "location": "Sydney NSW",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/tiktok/jobs/tiktok-machine-learning-engineer-intern-trust-and-safety-engineering-2027-start/",
+      "description": "The Trust & Safety (T&S) team at TikTok helps ensure that the global online community is safe and empowered to create and enjoy content across all applications, having invested heavily in human and machine-based moderation to remove harmful content quickly and often before it reaches the general community. Responsibilities include building industry-leading content safety systems for TikTok and developing highly-scalable classifiers, tools, models and algorithms leveraging cutting-edge machine learning, computer vision and data mining technologies; understanding product objectives and improving trust and safety strategy and model's performance; and working with cross-functional teams to protect TikTok globally. Minimum Qualifications: solid experience in at least one area including machine learning, pattern recognition, NLP, data mining, or computer vision.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Machine Learning Engineer Graduate (Trust and Safety Engineering) - 2027 Start (BS/MS)",
+      "company": "TikTok",
+      "location": "Sydney NSW",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/tiktok/jobs/tiktok-machine-learning-engineer-graduate-trust-and-safety-engineering-2027-start-bsms/",
+      "description": "The Trust & Safety (T&S) team at TikTok helps ensure that the global online community is safe and empowered to create and enjoy content across all applications, having invested heavily in human and machine-based moderation to remove harmful content quickly and often before it reaches the general community. Responsibilities include building industry-leading content safety systems for TikTok and developing highly-scalable classifiers, tools, models and algorithms leveraging cutting-edge machine learning, computer vision and data mining technologies; understanding product objectives and improving trust and safety strategy and model's performance; and working with cross-functional teams to protect TikTok globally. Minimum Qualifications: solid experience in at least one area including machine learning, pattern recognition, NLP, data mining, or computer vision.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Machine Learning Engineer Graduate (Trust and Safety Engineering) - 2027 Start (PhD)",
+      "company": "TikTok",
+      "location": "Sydney NSW",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/tiktok/jobs/tiktok-machine-learning-engineer-graduate-trust-and-safety-engineering-2027-start-phd/",
+      "description": "Interns will collaborate cross-functionally with Research Scientists and Machine Learning Engineers to design, implement, and evaluate experiments that advance the performance, efficiency, and scalability of modern ML and LLM systems for AI products. They will also curate, preprocess, and manage large-scale datasets for training and evaluation, ensuring data quality, diversity, and reproducibility across experiments. you will gain hands-on experience in both foundational research and practical applications, contributing to the training, evaluation and optimized inferencing of AI models that could be used by millions of customers.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "2027 ATO Graduate Program - Data or STEM",
+      "company": "Australian Taxation Office",
+      "location": "Canberra ACT",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/australian-taxation-office/jobs/australian-taxation-office-2027-ato-graduate-program-data-or-stem/",
+      "description": "You could convert data into breakthrough insights and actions to deliver value for taxpayers, staff, and partner agencies; use data analysis modelling techniques to address problems and support data-driven decision making; design, build and maintain systems to collect, process, and efficiently manage large volumes of data; and establish and oversee effective data, analytics and AI governance. As a data scientist, engineer or analyst, you'll shape your career at the ATO with predictive modelling, machine learning, data mining and prescriptive analytics. With a qualification in science, technology, engineering or mathematics (STEM), the Data stream is the perfect pathway to model your future career.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "PM&C Graduate Program - Data & STEM (Feb 2027)",
+      "company": "Department of the Prime Minister and Cabinet",
+      "location": "Canberra ACT",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/department-of-the-prime-minister-and-cabinet/jobs/department-of-the-prime-minister-and-cabinet-pmc-graduate-program-data-stem-feb-2027/",
+      "description": "As a Data or STEM Graduate, you will be part of supporting the Prime Minister through the provision of data and insights on all matters of domestic, economic, social, and international policy. You will work closely with core teams across PM&C to improve policy through bespoke analysis, creating custom data tools, and procuring data from across the government and the private sector. Graduates commencing in February 2027 will have a starting salary at the maximum of the APS 3 classification level, which will be $79,707. To be eligible to apply, you must have completed your university degree within the last eight years or be in your final year of study.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "2027 DEWR Graduate Program - STEM Stream",
+      "company": "Department of Employment & Workplace Relations",
+      "location": "Canberra ACT",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/department-of-employment-workplace-relations/jobs/department-of-employment-workplace-relations-2027-dewr-graduate-program-stem-stream/",
+      "description": "graduates to apply their analytical, numeric, and communication skills to develop policies and deliver programs that contribute to Australia's workforce and skill needs. Your degree should be in a STEM related field, with advantageous backgrounds including analytics, actuarial studies, business, commerce, computer science, data management, data science or mining, demography, economics, and other quantitative disciplines. You will undertake formal training to equip you with the foundational skills to work in the Australian Public Service. You will have the opportunity to work with and learn from subject matter experts to advance your data skills, with the Chief Data Officer arranging specific training opportunities and projects throughout the graduate year.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "2027 Graduate Program - Data Science and Analytics",
+      "company": "Macquarie Group",
+      "location": "Sydney NSW / Melbourne VIC",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/macquarie-group/jobs/macquarie-group-2027-graduate-program-data-science-and-analytics/",
+      "description": "The 2027 Graduate Program in Technology is available in Sydney or Melbourne, where you'll join a team passionate about accelerating the digital enterprise, connecting people and data, building platforms and applications and designing tomorrow's technology solutions. Enable Macquarie by defining needs and recommending solutions that deliver value to stakeholders. Help define project goals, communicate with stakeholders, and manage a project through to closure. Use your problem-solving skills and human-centred design to develop new products, services, and experiences. You'll have a degree in computer science, software engineering, data science and decisions, electrical engineering or science. You are in your final year of study or have completed your studies within 12 months of applying.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法工程师-IT",
+      "company": "字节跳动",
+      "location": "北京/上海",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://jobs.bytedance.com/campus/m/position/detail/7530862584884611335",
+      "description": "ByteDance is conducting its largest-scale recruitment campaign for 2027 graduates (those graduating between September 2026 and August 2027). Specific roles include positions responsible for optimizing multi-modal large model training efficiency, designing high-performance inference frameworks, and researching model inference acceleration techniques involving distributed training, quantization pruning, and NPU operator development. Candidates will focus on computer science, artificial intelligence, mathematics, and electronic engineering background, with proficiency in Python/C++/CUDA and PyTorch/TensorFlow frameworks.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "技术研究-自然语言处理方向",
+      "company": "腾讯",
+      "location": "深圳/北京",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "applyUrl": "https://careers.tencent.com/jobdesc.html?postId=1795438673181810688",
+      "description": "Natural Language Processing (NLP) research engineer position where responsibilities include algorithm research and development for NLP tasks such as semantic analysis, intent recognition, dialogue systems, machine translation, knowledge graphs, and named entity recognition. Ideal candidates should have a background in computer science, information engineering, pattern recognition, AI, automation, or related fields, with proficiency in NLP fundamentals and experience with programming languages like Python, Java, or C++, as well as deep learning frameworks.",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
