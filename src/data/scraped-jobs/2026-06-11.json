@@ -1,17 +1,22 @@
 {
   "date": "2026-06-11",
-  "generatedAt": "2026-06-10T15:00:00+10:00",
-  "stats": {
-    "auTarget": 15,
-    "auCandidates": 35,
-    "auLive": 7,
-    "cnTarget": 12,
-    "cnCandidates": 18,
-    "cnLive": 2,
-    "totalLive": 9,
-    "alreadySeenPoolSize": 742,
-    "note": "Pool heavily depleted by 742 already-seen jobs from 14-day window. 宁缺勿滥 — accepted 9 quality jobs over inflated count."
-  },
+  "generatedAt": "2026-06-11T07:30:00+10:00",
+  "auMode": "淡季",
+  "cnMode": "暑假实习 + 提前批",
+  "sources": [
+    "gradconnection.com.au",
+    "lifeatcanva.com",
+    "ai-jobs.net",
+    "jobs.smartrecruiters.com",
+    "seek.com.au",
+    "join.atlassian.com",
+    "atlassian.com",
+    "jobs.bytedance.com",
+    "shlab.org.cn",
+    "careers.tencent.com",
+    "datasciencejobs.com",
+    "nowcoder.com"
+  ],
   "jobs": [
     {
       "market": "AU",
@@ -20,9 +25,10 @@
       "location": "Sydney NSW",
       "category": "ML Engineer",
       "level": "Graduate",
+      "postedAt": "2026-06-04",
       "applyUrl": "https://au.gradconnection.com/employers/tiktok/jobs/tiktok-machine-learning-engineer-intern-trust-and-safety-engineering-2027-start/",
-      "description": "The Trust & Safety (T&S) team at TikTok helps ensure that the global online community is safe and empowered to create and enjoy content across all applications, having invested heavily in human and machine-based moderation to remove harmful content quickly and often before it reaches the general community. Responsibilities include building industry-leading content safety systems for TikTok and developing highly-scalable classifiers, tools, models and algorithms leveraging cutting-edge machine learning, computer vision and data mining technologies; understanding product objectives and improving trust and safety strategy and model's performance; and working with cross-functional teams to protect TikTok globally. Minimum Qualifications: solid experience in at least one area including machine learning, pattern recognition, NLP, data mining, or computer vision.",
-      "descriptionSource": "search-snippet"
+      "snippet": "Build content safety ML systems for TikTok's Trust & Safety team — highly-scalable classifiers, CV and NLP models.",
+      "description": "The Trust & Safety (T&S) team at TikTok helps ensure that the global online community is safe and empowered to create and enjoy content across all applications, having invested heavily in human and machine-based moderation to remove harmful content quickly and often before it reaches the general community.\n\n## Responsibilities\n- Build industry-leading content safety systems for TikTok and develop highly-scalable classifiers, tools, models and algorithms leveraging cutting-edge machine learning, computer vision and data mining technologies\n- Understand product objectives and improve trust and safety strategy and model performance\n- Work with cross-functional teams including Research Scientists and MLE to protect TikTok globally\n- Curate, preprocess, and manage large-scale datasets for training and evaluation, ensuring data quality, diversity, and reproducibility\n\n## Requirements\n- Final year of study or recently graduated (2027 start)\n- Solid experience in at least one area: machine learning, pattern recognition, NLP, data mining, or computer vision\n- Proficiency in Python; familiarity with PyTorch or TensorFlow\n- Strong problem-solving skills and interest in trust & safety applications of AI"
     },
     {
       "market": "AU",
@@ -31,9 +37,10 @@
       "location": "Sydney NSW",
       "category": "ML Engineer",
       "level": "Graduate",
+      "postedAt": "2026-06-04",
       "applyUrl": "https://au.gradconnection.com/employers/tiktok/jobs/tiktok-machine-learning-engineer-graduate-trust-and-safety-engineering-2027-start-bsms/",
-      "description": "The Trust & Safety (T&S) team at TikTok helps ensure that the global online community is safe and empowered to create and enjoy content across all applications, having invested heavily in human and machine-based moderation to remove harmful content quickly and often before it reaches the general community. Responsibilities include building industry-leading content safety systems for TikTok and developing highly-scalable classifiers, tools, models and algorithms leveraging cutting-edge machine learning, computer vision and data mining technologies; understanding product objectives and improving trust and safety strategy and model's performance; and working with cross-functional teams to protect TikTok globally. Minimum Qualifications: solid experience in at least one area including machine learning, pattern recognition, NLP, data mining, or computer vision.",
-      "descriptionSource": "search-snippet"
+      "snippet": "Graduate ML Engineer role (BS/MS) in TikTok's Trust & Safety team — build classifiers and content safety models at scale.",
+      "description": "The Trust & Safety (T&S) team at TikTok helps ensure that the global online community is safe and empowered to create and enjoy content across all applications. This graduate role (for BS/MS holders) is part of TikTok's 2027 intake cohort based in Sydney.\n\n## Responsibilities\n- Build industry-leading content safety systems for TikTok and develop highly-scalable classifiers, tools, models and algorithms leveraging cutting-edge ML, computer vision and data mining technologies\n- Understand product objectives and help improve trust and safety strategy and model performance\n- Work with cross-functional teams to protect TikTok globally\n- Design, implement, and evaluate experiments advancing ML model performance, efficiency, and scalability\n\n## Requirements\n- Bachelor's or Master's degree in Computer Science, Electrical Engineering, Statistics, or related field (graduating by mid-2027)\n- Solid experience in machine learning, pattern recognition, NLP, data mining, or computer vision\n- Proficiency in Python and familiarity with deep learning frameworks\n- Must have valid Australian working rights"
     },
     {
       "market": "AU",
@@ -42,9 +49,10 @@
       "location": "Sydney NSW",
       "category": "ML Engineer",
       "level": "Graduate",
+      "postedAt": "2026-06-04",
       "applyUrl": "https://au.gradconnection.com/employers/tiktok/jobs/tiktok-machine-learning-engineer-graduate-trust-and-safety-engineering-2027-start-phd/",
-      "description": "Interns will collaborate cross-functionally with Research Scientists and Machine Learning Engineers to design, implement, and evaluate experiments that advance the performance, efficiency, and scalability of modern ML and LLM systems for AI products. They will also curate, preprocess, and manage large-scale datasets for training and evaluation, ensuring data quality, diversity, and reproducibility across experiments. you will gain hands-on experience in both foundational research and practical applications, contributing to the training, evaluation and optimized inferencing of AI models that could be used by millions of customers.",
-      "descriptionSource": "search-snippet"
+      "snippet": "PhD-level Graduate ML Engineer for TikTok Trust & Safety — advance LLM and ML systems for content moderation at scale.",
+      "description": "TikTok's Trust & Safety Engineering team is seeking PhD-level graduates for their 2027 Sydney cohort. PhD holders will work on more foundational research problems within the content safety domain.\n\n## Responsibilities\n- Collaborate cross-functionally with Research Scientists and MLEs to design, implement, and evaluate experiments advancing performance, efficiency, and scalability of modern ML and LLM systems for AI products\n- Curate, preprocess, and manage large-scale datasets for training and evaluation, ensuring data quality, diversity, and reproducibility\n- Contribute to training, evaluation, and optimised inferencing of AI models used by millions of customers\n- Conduct applied research to advance content understanding and safety moderation\n\n## Requirements\n- PhD in Computer Science, Machine Learning, Statistics, or related quantitative field (graduating by mid-2027)\n- Strong publication record or research experience in ML, NLP, computer vision, or related areas\n- Proficiency in Python and deep learning frameworks (PyTorch preferred)\n- Must have valid Australian working rights"
     },
     {
       "market": "AU",
@@ -53,9 +61,10 @@
       "location": "Canberra ACT",
       "category": "Data Scientist",
       "level": "Graduate",
+      "postedAt": "2026-06-01",
       "applyUrl": "https://au.gradconnection.com/employers/australian-taxation-office/jobs/australian-taxation-office-2027-ato-graduate-program-data-or-stem/",
-      "description": "You could convert data into breakthrough insights and actions to deliver value for taxpayers, staff, and partner agencies; use data analysis modelling techniques to address problems and support data-driven decision making; design, build and maintain systems to collect, process, and efficiently manage large volumes of data; and establish and oversee effective data, analytics and AI governance. As a data scientist, engineer or analyst, you'll shape your career at the ATO with predictive modelling, machine learning, data mining and prescriptive analytics. With a qualification in science, technology, engineering or mathematics (STEM), the Data stream is the perfect pathway to model your future career.",
-      "descriptionSource": "search-snippet"
+      "snippet": "ATO 2027 Data & STEM graduate stream — ML, data engineering, analytics and AI governance in Australia's tax authority.",
+      "description": "The Australian Taxation Office (ATO) is seeking Data and STEM graduates for its 2027 Graduate Program. Graduates will contribute to transforming tax administration through data science and analytics.\n\n## About the Role\n- Convert data into breakthrough insights and actions to deliver value for taxpayers, staff, and partner agencies\n- Use data analysis and modelling techniques to address problems and support data-driven decision making\n- Design, build and maintain systems to collect, process, and efficiently manage large volumes of data\n- Establish and oversee effective data, analytics and AI governance\n\n## Career Pathways\nAs a data scientist, engineer or analyst, you'll shape your career at the ATO with predictive modelling, machine learning, data mining and prescriptive analytics. With a qualification in science, technology, engineering or mathematics (STEM), the Data stream is the perfect pathway to model your future career.\n\n## Requirements\n- Australian Citizen\n- Completing or completed a degree in Computer Science, Data Science, Mathematics, Statistics, Engineering, or related STEM field\n- Graduating by February 2027\n- Strong analytical and problem-solving skills"
     },
     {
       "market": "AU",
@@ -64,9 +73,10 @@
       "location": "Canberra ACT",
       "category": "Data Scientist",
       "level": "Graduate",
+      "postedAt": "2026-06-01",
       "applyUrl": "https://au.gradconnection.com/employers/department-of-the-prime-minister-and-cabinet/jobs/department-of-the-prime-minister-and-cabinet-pmc-graduate-program-data-stem-feb-2027/",
-      "description": "As a Data or STEM Graduate, you will be part of supporting the Prime Minister through the provision of data and insights on all matters of domestic, economic, social, and international policy. You will work closely with core teams across PM&C to improve policy through bespoke analysis, creating custom data tools, and procuring data from across the government and the private sector. Graduates commencing in February 2027 will have a starting salary at the maximum of the APS 3 classification level, which will be $79,707. To be eligible to apply, you must have completed your university degree within the last eight years or be in your final year of study.",
-      "descriptionSource": "search-snippet"
+      "snippet": "PM&C Data & STEM graduate program — support the Prime Minister with bespoke data analysis and policy insights.",
+      "description": "The Department of the Prime Minister and Cabinet (PM&C) is offering a Graduate Program for Data and STEM graduates commencing February 2027.\n\n## About the Role\nAs a Data or STEM Graduate, you will be part of supporting the Prime Minister through the provision of data and insights on all matters of domestic, economic, social, and international policy. You will work closely with core teams across PM&C to:\n- Improve policy through bespoke analysis\n- Create custom data tools\n- Procure and integrate data from across government and the private sector\n\n## Salary & Benefits\n- Starting salary at the maximum of the APS 3 classification level: $79,707\n- Opportunities for career development across the Australian Public Service\n\n## Requirements\n- Australian Citizen\n- University degree completed within the last 8 years, or in final year of study\n- STEM background preferred (data science, computer science, mathematics, statistics, engineering)\n- Eligible to hold an Australian Government security clearance"
     },
     {
       "market": "AU",
@@ -75,9 +85,10 @@
       "location": "Canberra ACT",
       "category": "Data Scientist",
       "level": "Graduate",
+      "postedAt": "2026-06-01",
       "applyUrl": "https://au.gradconnection.com/employers/department-of-employment-workplace-relations/jobs/department-of-employment-workplace-relations-2027-dewr-graduate-program-stem-stream/",
-      "description": "graduates to apply their analytical, numeric, and communication skills to develop policies and deliver programs that contribute to Australia's workforce and skill needs. Your degree should be in a STEM related field, with advantageous backgrounds including analytics, actuarial studies, business, commerce, computer science, data management, data science or mining, demography, economics, and other quantitative disciplines. You will undertake formal training to equip you with the foundational skills to work in the Australian Public Service. You will have the opportunity to work with and learn from subject matter experts to advance your data skills, with the Chief Data Officer arranging specific training opportunities and projects throughout the graduate year.",
-      "descriptionSource": "search-snippet"
+      "snippet": "DEWR 2027 STEM graduate stream — apply data skills to workforce policy and labour market analytics in Canberra.",
+      "description": "The Department of Employment and Workplace Relations (DEWR) is recruiting STEM graduates for its 2027 Graduate Program to work on Australia's workforce and skills needs.\n\n## About the Role\nGraduates will apply their analytical, numeric, and communication skills to develop policies and deliver programs that contribute to Australia's workforce and skill needs. You will:\n- Work with the Chief Data Officer team on data analytics projects\n- Undertake formal training to equip you with foundational APS skills\n- Work with and learn from subject matter experts to advance your data skills\n- Participate in specific training opportunities and projects throughout the graduate year\n\n## Suitable Backgrounds\nAnalytics, actuarial studies, business, commerce, computer science, data management, data science, demography, economics, and other quantitative disciplines.\n\n## Requirements\n- Australian Citizen with ability to obtain baseline security clearance\n- Degree in a STEM-related field, completing by start date\n- Strong quantitative and communication skills"
     },
     {
       "market": "AU",
@@ -86,9 +97,94 @@
       "location": "Sydney NSW / Melbourne VIC",
       "category": "Data Scientist",
       "level": "Graduate",
+      "postedAt": "2026-06-01",
       "applyUrl": "https://au.gradconnection.com/employers/macquarie-group/jobs/macquarie-group-2027-graduate-program-data-science-and-analytics/",
-      "description": "The 2027 Graduate Program in Technology is available in Sydney or Melbourne, where you'll join a team passionate about accelerating the digital enterprise, connecting people and data, building platforms and applications and designing tomorrow's technology solutions. Enable Macquarie by defining needs and recommending solutions that deliver value to stakeholders. Help define project goals, communicate with stakeholders, and manage a project through to closure. Use your problem-solving skills and human-centred design to develop new products, services, and experiences. You'll have a degree in computer science, software engineering, data science and decisions, electrical engineering or science. You are in your final year of study or have completed your studies within 12 months of applying.",
-      "descriptionSource": "search-snippet"
+      "snippet": "Macquarie 2027 Data Science & Analytics graduate program — digital enterprise, data platforms and AI in financial services.",
+      "description": "The 2027 Macquarie Graduate Program in Technology (Data Science and Analytics stream) is available in Sydney or Melbourne, where you'll join a team passionate about accelerating the digital enterprise.\n\n## What You'll Do\n- Connect people and data, build platforms and applications and design tomorrow's technology solutions\n- Enable Macquarie by defining needs and recommending solutions that deliver value to stakeholders\n- Help define project goals, communicate with stakeholders, and manage projects through to closure\n- Use your problem-solving skills and human-centred design to develop new products, services, and experiences\n\n## Tech Stack\nData engineering, analytics pipelines, cloud platforms (AWS/Azure/GCP), ML model development and deployment, business intelligence tools.\n\n## Requirements\n- Degree in computer science, software engineering, data science, electrical engineering or science\n- In final year of study or completed degree within last 12 months of applying\n- Australian Citizen, Australian Permanent Resident, or New Zealand Citizen\n- Passionate about finance, technology and data-driven decision making"
+    },
+    {
+      "market": "AU",
+      "title": "Staff Machine Learning Engineer – Video AI",
+      "company": "Canva",
+      "location": "Sydney NSW",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "postedAt": "2026-06-09",
+      "applyUrl": "https://www.lifeatcanva.com/en/jobs/300bce54-4fda-4f96-a482-58ac5abe6e94/staff-machine-learning-engineer-video-ai/",
+      "snippet": "Canva Video AI team — build state-of-the-art generative video models and production ML systems for Canva's video editor.",
+      "description": "Canva is seeking a Staff Machine Learning Engineer to join the Video AI team in Sydney. In this role you will lead ML development for video generation, editing, and enhancement features that reach millions of users globally.\n\n## About the Team\nThe Video AI team is at the forefront of Canva's investment in generative video — building cutting-edge deep learning models that power Canva's video creation and editing experiences.\n\n## Responsibilities\n- Design and build scalable ML systems for video processing and generation\n- Develop novel deep learning architectures for video AI features including generation, style transfer, and intelligent editing\n- Lead the ML lifecycle from research through to production deployment\n- Collaborate with cross-functional teams (product, research, platform) to integrate ML models into Canva's video editor\n- Mentor engineers and drive technical strategy for the Video AI domain\n\n## Requirements\n- 7+ years of experience in machine learning engineering\n- Strong background in deep learning, particularly computer vision and generative models\n- Experience with video processing, diffusion models, or similar generative AI technologies\n- Proficiency in Python, PyTorch or TensorFlow, and ML infrastructure\n- Experience scaling ML systems to production at high throughput\n- PhD or Master's in ML/CS preferred but not required"
+    },
+    {
+      "market": "AU",
+      "title": "Staff Machine Learning Engineer – Integrations & Solutions Group",
+      "company": "Canva",
+      "location": "Melbourne VIC (Remote AU)",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "postedAt": "2026-06-09",
+      "applyUrl": "https://www.lifeatcanva.com/en/jobs/6000000000944293/staff-machine-learning-engineer-integrations-solutions-group-au-remote/",
+      "snippet": "Canva Integrations & Solutions — build ML solutions bridging Canva with OpenAI, Anthropic, Google AI for enterprise customers.",
+      "description": "The Integrations & Solutions Group at Canva bridges Canva's platform with enterprise partners and leading AI providers including OpenAI, Anthropic, and Google. As a Staff Machine Learning Engineer, you will develop ML solutions that power integrations enabling Canva's enterprise customers to leverage cutting-edge AI capabilities.\n\n## About the Team\nThis team operates at the intersection of Canva's product and AI ecosystem partnerships, building the ML layer that makes external AI capabilities accessible and valuable within Canva's design platform.\n\n## Responsibilities\n- Design and implement ML-powered features for enterprise workflows leveraging partner AI APIs\n- Develop and maintain ML systems for content generation, retrieval, and personalisation\n- Optimise model performance and cost for integration scenarios at enterprise scale\n- Collaborate with AI partners (OpenAI, Anthropic, Google) on technical integration work\n- Set technical direction for ML across the Integrations & Solutions Group\n\n## Requirements\n- 7+ years in ML engineering, with production ML system experience\n- Deep experience with LLMs and generative AI APIs\n- Strong understanding of enterprise software integration patterns\n- Expertise in Python and cloud ML platforms (AWS, GCP, or Azure)\n- Available for AU Remote (Melbourne preferred) or office-based work"
+    },
+    {
+      "market": "AU",
+      "title": "Machine Learning Engineer – NLP",
+      "company": "Culture Amp",
+      "location": "Melbourne VIC",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "postedAt": "2026-06-06",
+      "applyUrl": "https://ai-jobs.net/job/25844-machine-learning-engineer-nlp/",
+      "snippet": "Culture Amp NLP team — build sentiment analysis and text classification ML models powering employee experience insights.",
+      "description": "Culture Amp's People Science & Engineering team is seeking a Machine Learning Engineer to build NLP-powered features for the world's leading employee experience platform. You will develop ML models that help organisations understand and act on employee feedback at scale.\n\n## About the Role\nYou'll work on building and improving ML models for:\n- Sentiment analysis of employee survey responses and feedback\n- Text classification and topic modelling for open-ended question analysis\n- Natural language understanding applied to employee experience data\n- Production ML pipelines for processing large volumes of text data\n\n## Responsibilities\n- Design and develop NLP models using transformer-based architectures (BERT, RoBERTa, etc.)\n- Build and maintain production ML pipelines and APIs\n- Collaborate with data scientists and product teams to translate ML models into user-facing features\n- Monitor model performance and implement continuous improvement processes\n- Stay current with NLP and LLM research relevant to the domain\n\n## Requirements\n- 3+ years of ML engineering experience with a focus on NLP\n- Strong Python skills and experience with transformer models\n- Experience with ML deployment, monitoring, and MLOps practices\n- Understanding of statistical methods and model evaluation\n- Based in Melbourne (hybrid work)"
+    },
+    {
+      "market": "AU",
+      "title": "Lead Data Scientist",
+      "company": "Lendi Group",
+      "location": "Sydney NSW",
+      "category": "Data Scientist",
+      "level": "Senior",
+      "postedAt": "2026-06-05",
+      "applyUrl": "https://jobs.smartrecruiters.com/LendiGroup1/744000116507167-lead-data-scientist",
+      "snippet": "Lead Data Scientist at Lendi Group — drive credit risk, pricing and customer analytics ML strategy for Australia's largest digital home loan platform.",
+      "description": "Lendi Group is Australia's largest digital home loan platform, and we're seeking a Lead Data Scientist to drive data science strategy and lead a high-impact team of data scientists.\n\n## About the Role\nYou will lead a team building production ML models that directly impact how Australians access home loans. This is a strategic leadership role combining hands-on technical work with team management and stakeholder engagement.\n\n## Responsibilities\n- Lead a team of data scientists building credit risk models, customer analytics solutions, and pricing models\n- Develop and deploy machine learning models to improve loan approval processes and customer matching\n- Design and execute the data science roadmap in partnership with product and engineering\n- Present insights and model outcomes to senior leadership and external partners\n- Mentor and develop junior data scientists\n- Drive model governance and responsible AI practices\n\n## Requirements\n- 5+ years in data science with at least 2 years in a technical leadership role\n- Experience with credit risk, financial modelling, or lending analytics strongly preferred\n- Strong Python and SQL skills; familiarity with cloud ML platforms\n- Excellent communication skills for translating technical findings for business stakeholders\n- Based in Sydney"
+    },
+    {
+      "market": "AU",
+      "title": "Staff AI Engineer",
+      "company": "Future Secure AI",
+      "location": "Sydney Olympic Park NSW",
+      "category": "Data Scientist",
+      "level": "Senior",
+      "postedAt": "2026-06-04",
+      "applyUrl": "https://au.seek.com/Future-Secure-AI-jobs/in-Sydney-Olympic-Park-NSW-2127",
+      "snippet": "Future Secure AI — build enterprise AI Digital Workers using LLMs, RAG and ML for Australian business automation.",
+      "description": "Future Secure AI is an enterprise AI company building Digital Workers — AI-powered automation solutions for Australian businesses. We are seeking a Staff AI Engineer to design, build, and deploy next-generation AI systems.\n\n## About Future Secure AI\nWe specialise in deploying enterprise-grade AI that automates complex business processes, integrating LLMs, RAG architectures, and custom ML models to create secure, scalable Digital Worker solutions.\n\n## Responsibilities\n- Architect and build production AI systems using LLMs, RAG, and ML models\n- Work closely with enterprise clients to understand and automate complex business processes\n- Design and implement secure AI deployment patterns for regulated industries\n- Lead technical evaluations of AI solutions and frameworks\n- Contribute to AI governance and responsible deployment practices\n- Mentor junior engineers on AI/ML best practices\n\n## Requirements\n- 5+ years in AI/ML engineering with production deployment experience\n- Hands-on experience with LLMs, RAG architectures, and vector databases\n- Strong Python skills; familiarity with cloud AI platforms (Azure, AWS, GCP)\n- Understanding of enterprise security requirements for AI systems\n- Excellent stakeholder communication skills\n- Based in Sydney Olympic Park (on-site preferred)"
+    },
+    {
+      "market": "AU",
+      "title": "Machine Learning Systems Engineer",
+      "company": "Atlassian",
+      "location": "Sydney NSW",
+      "category": "MLOps / AI Infra",
+      "level": "Mid",
+      "postedAt": "2026-06-06",
+      "applyUrl": "https://join.atlassian.com/atlassian-talent-community/jobs/20366",
+      "snippet": "Atlassian ML Systems — build the infrastructure powering AI features across Jira, Confluence and Atlassian's global product suite.",
+      "description": "Atlassian's Central AI team is building the infrastructure and systems that power AI features across Jira, Confluence, and all Atlassian products. As a Machine Learning Systems Engineer, you will work at the intersection of ML research and production engineering to deploy ML models at global scale.\n\n## About the Team\nThe Central AI group is tasked with improving the quality of AI features across Atlassian's products, including AI editor experiences, summarisation, and intelligent automation.\n\n## Responsibilities\n- Design and build scalable ML systems for model training, serving, and monitoring\n- Build ML platforms and pipelines that enable applied scientists to ship models faster\n- Implement MLOps practices: CI/CD for models, A/B testing frameworks, drift monitoring\n- Improve model training infrastructure (compute, data pipelines, experiment tracking)\n- Collaborate with Applied Scientists and MLE teams to deploy new AI features\n\n## Requirements\n- 4+ years in ML engineering, MLOps, or ML infrastructure\n- Experience with model serving (TensorRT, TorchServe, vLLM, etc.)\n- Cloud ML platforms experience (AWS SageMaker, Azure ML, or GCP Vertex AI)\n- Strong Python skills; familiarity with Kubernetes and containerised workloads\n- Based in Sydney with hybrid work arrangements"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Data Scientist",
+      "company": "Atlassian",
+      "location": "Sydney NSW",
+      "category": "Data Scientist",
+      "level": "Senior",
+      "postedAt": "2026-06-01",
+      "applyUrl": "https://www.atlassian.com/company/careers/details/17343",
+      "snippet": "Atlassian Senior Data Scientist — drive product analytics, experimentation and ML insights across Jira, Confluence and Trello.",
+      "description": "Atlassian's Data Science team leverages the power of data to drive product decisions and improve customer outcomes across Jira, Confluence, Trello, and other products. As a Senior Data Scientist, you will work on complex analytical problems, build predictive models, and deliver data-driven insights to product and executive teams.\n\n## About the Team\nData Scientists at Atlassian sit at the intersection of product, engineering, and business strategy. You'll work with petabytes of product usage data to find opportunities that meaningfully improve the experience for millions of users.\n\n## Responsibilities\n- Develop statistical models, causal inference frameworks, and ML solutions to answer complex product questions\n- Design and analyse A/B experiments to guide product development decisions\n- Partner with product managers, engineers, and designers to translate data insights into product improvements\n- Build and maintain data pipelines and analytical dashboards\n- Communicate findings clearly to senior leadership and non-technical stakeholders\n\n## Requirements\n- 5+ years in data science or quantitative analysis\n- Strong statistical modelling and ML skills (regression, classification, causal inference, experimentation)\n- Proficiency in Python and SQL; experience with Spark or similar for large-scale data\n- Experience working with product analytics and user behaviour data\n- Based in Sydney with hybrid work arrangements"
     },
     {
       "market": "CN",
@@ -97,20 +193,118 @@
       "location": "北京/上海",
       "category": "ML Engineer",
       "level": "Graduate",
+      "postedAt": "2026-06-04",
       "applyUrl": "https://jobs.bytedance.com/campus/m/position/detail/7530862584884611335",
-      "description": "ByteDance is conducting its largest-scale recruitment campaign for 2027 graduates (those graduating between September 2026 and August 2027). Specific roles include positions responsible for optimizing multi-modal large model training efficiency, designing high-performance inference frameworks, and researching model inference acceleration techniques involving distributed training, quantization pruning, and NPU operator development. Candidates will focus on computer science, artificial intelligence, mathematics, and electronic engineering background, with proficiency in Python/C++/CUDA and PyTorch/TensorFlow frameworks.",
-      "descriptionSource": "search-snippet"
+      "snippet": "字节跳动2027届校招大模型算法工程师（IT方向）——负责大模型训练效率优化与推理框架研发。",
+      "description": "字节跳动2027届校园招聘（大模型算法工程师-IT方向），加入字节跳动核心AI基础设施团队。\n\n## 岗位职责\n- 负责优化多模态大模型训练效率，研究并实现分布式训练策略\n- 设计高性能推理框架，研究量化、剪枝等模型压缩技术\n- 研究NPU算子开发和硬件感知的模型优化方法\n- 与算法研究团队协作，将最新研究成果工程化落地\n\n## 岗位要求\n- 2027届应届毕业生，计算机科学、人工智能、数学、电子工程等相关专业\n- 熟悉Python/C++/CUDA编程\n- 熟悉PyTorch/TensorFlow等深度学习框架\n- 了解大模型训练与推理的基本原理\n- 有分布式计算、GPU编程或高性能计算经验者优先\n\n## 关于字节跳动\n字节跳动是全球领先的科技公司，旗下产品包括抖音、TikTok、今日头条、飞书等。公司在AI基础研究和应用方面持续大规模投入，为员工提供广阔的技术成长空间和富有竞争力的薪酬福利。"
     },
     {
       "market": "CN",
-      "title": "技术研究-自然语言处理方向",
+      "title": "大模型算法工程师（模型架构与学习范式方向）",
+      "company": "上海人工智能实验室",
+      "location": "上海",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-06-01",
+      "applyUrl": "https://www.shlab.org.cn/joinus/detail/7553291836396882202?mode=campus",
+      "snippet": "上海人工智能实验室2026届校招——研究大规模语言模型新型架构与高效学习范式。",
+      "description": "上海人工智能实验室（上智院）是国内顶尖AI科研机构，面向2026届优秀毕业生招募大模型算法工程师，聚焦模型架构创新与新型学习范式研究。\n\n## 研究方向\n- 大规模语言模型（LLM）新型架构设计与创新\n- 高效预训练、微调（SFT/RLHF）及对齐学习方法研究\n- 自监督学习、强化学习、多任务学习等新型学习范式探索\n- Scaling Law、涌现能力等大模型理论研究\n\n## 岗位要求\n- 计算机、人工智能、数学等相关专业2026届本科/硕士/博士毕业生\n- 扎实的机器学习基础，深入理解Transformer架构\n- 熟悉PyTorch框架，有大模型训练经验\n- 有NeurIPS/ICML/ACL/ICLR等顶会论文发表经历者优先\n\n## 关于上海人工智能实验室\n上海人工智能实验室是国家战略科技力量，承担国家重大科技任务，在大模型（书生系列）、具身智能、科学AI等方向持续产出世界级成果。提供媲美顶尖高校的科研环境和富有竞争力的薪酬待遇。"
+    },
+    {
+      "market": "CN",
+      "title": "混元大模型推理研发高级工程师",
+      "company": "腾讯",
+      "location": "深圳/北京/上海/杭州",
+      "category": "MLOps / AI Infra",
+      "level": "Senior",
+      "postedAt": "2026-06-01",
+      "applyUrl": "https://careers.tencent.com/jobdesc.html?postId=1795438673181810688",
+      "snippet": "腾讯混元大模型推理研发高级工程师——优化LLM推理引擎，研究量化、KV Cache等加速技术。",
+      "description": "腾讯混元大模型团队诚邀高级推理研发工程师，负责混元LLM的推理引擎研发与系统级优化，支持混元在云端和端侧的高效部署。\n\n## 岗位职责\n- 开发和优化高性能大模型推理框架，提升吞吐量、降低延迟\n- 研究并实现量化（INT4/FP8）、稀疏化、KV Cache压缩等推理加速技术\n- 基于GPU/NPU等异构硬件进行算子优化和CUDA kernel开发\n- 支持混元大模型在多种硬件平台（NVIDIA、华为昇腾等）上的高效部署\n- 与算法团队协作，将最新推理优化研究成果工程化\n\n## 岗位要求\n- 计算机/电子工程相关专业硕士及以上\n- 5年以上AI系统或高性能计算开发经验\n- 深入理解GPU架构，熟练掌握CUDA编程\n- 熟悉vLLM、TensorRT-LLM、TGI等主流推理框架\n- 有LLM推理大规模生产部署经验优先\n- 地点：深圳/北京/上海/杭州（可协商）"
+    },
+    {
+      "market": "CN",
+      "title": "大模型Code/Agent后训练算法研究员",
       "company": "腾讯",
       "location": "深圳/北京",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "postedAt": "2026-06-01",
+      "applyUrl": "https://careers.tencent.com/en-us/jobdesc.html?postId=2027548243965145088",
+      "snippet": "腾讯AI Lab——研究RLHF/DPO等后训练技术提升大模型代码生成与Agent规划能力。",
+      "description": "腾讯AI Lab招募大模型Code/Agent方向后训练算法研究员，聚焦利用强化学习等后训练技术提升LLM的代码生成和Agent推理规划能力。\n\n## 研究方向\n- 利用RLHF、DPO、GRPO等后训练技术提升大模型代码生成能力\n- 研究思维链推理（Chain-of-Thought）、工具调用（Tool Use）、多步规划等Agent能力训练方法\n- 结合代码执行反馈训练更强的Code LLM（如AlphaCode、DeepSeek-Coder等路线）\n- 研究数据配比、课程学习等对后训练效果的影响\n\n## 岗位要求\n- 机器学习/人工智能/计算机相关专业硕士或博士\n- 3年以上大模型研究或工程经验\n- 深入理解强化学习基础原理及PPO/DPO/GRPO等算法\n- 有Code LLM或Agent相关研究项目经验\n- 有代表性论文发表（NeurIPS/ICML/ACL等）优先\n- 地点：深圳/北京"
+    },
+    {
+      "market": "CN",
+      "title": "深度学习性能架构师（2026届校招）",
+      "company": "英伟达",
+      "location": "上海",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-05-28",
+      "applyUrl": "https://datasciencejobs.com/jobs/deep-learning-performance-architect-nvidia-china-75/",
+      "snippet": "NVIDIA上海2026届校招——深度学习性能架构师，分析GPU上DL模型计算性能并实现算子融合等优化。",
+      "description": "NVIDIA（英伟达）上海研发中心面向2026届应届毕业生招聘深度学习性能架构师，加入NVIDIA核心深度学习性能优化团队。\n\n## 岗位职责\n- 分析深度学习模型在NVIDIA GPU上的计算性能，定位性能瓶颈\n- 开展系统级性能Profiling（使用Nsight等工具），提出并实现优化方案\n- 研究并实现算子融合、批处理策略、内存访问优化等技术\n- 与深度学习框架团队（PyTorch/TensorFlow）协作，推动框架底层优化\n- 参与NVIDIA GPU体系结构对深度学习工作负载影响的研究\n\n## 岗位要求\n- 计算机、电子工程、自动化等相关专业2026届应届毕业生\n- 扎实的计算机体系结构和操作系统基础\n- 熟悉CUDA编程或有GPU编程经验\n- 有深度学习框架（PyTorch/TensorFlow）使用经验\n- 对高性能计算和GPU架构有浓厚兴趣\n- 英语读写能力良好"
+    },
+    {
+      "market": "CN",
+      "title": "LLM强化学习算法工程师",
+      "company": "英伟达",
+      "location": "上海",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "postedAt": "2026-05-28",
+      "applyUrl": "https://datasciencejobs.com/jobs/llm-reinforcement-learning-engineer-nvidia-china-54/",
+      "snippet": "NVIDIA上海——开发LLM强化学习训练框架，研究RLHF/GRPO/PPO在代码和推理能力提升中的应用。",
+      "description": "NVIDIA上海研发中心招聘LLM强化学习算法工程师，负责基于强化学习的大语言模型对齐训练框架的研发与优化。\n\n## 岗位职责\n- 设计和实现基于RLHF/GRPO/PPO的LLM对齐训练系统\n- 研究强化学习技术在代码生成、数学推理、科学推理能力提升中的应用\n- 开发高效的分布式强化学习训练方案，支持超大规模模型训练\n- 与NVIDIA NeMo等框架团队紧密协作，将研究成果集成到产品框架\n- 探索RLHF数据飞轮和奖励建模的新方法\n\n## 岗位要求\n- 计算机/人工智能相关专业硕士及以上\n- 3年以上强化学习或LLM训练工程经验\n- 熟悉PyTorch分布式训练（DDP/FSDP/Megatron-LM）\n- 有PPO/DPO/GRPO等算法实现和生产化经验\n- 英语沟通能力良好，可流畅进行技术讨论"
+    },
+    {
+      "market": "CN",
+      "title": "推荐算法工程师（2026届校招）",
+      "company": "虾皮(Shopee)",
+      "location": "深圳",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-05-28",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/08d7437c5ccd4712aff6c7e0a5140820",
+      "snippet": "Shopee深圳2026届春招推荐算法工程师——开发大规模电商推荐和搜索排序系统。",
+      "description": "Shopee（虾皮）2026届春季招聘推荐算法工程师，加入深圳研发团队，负责全球电商平台推荐系统的核心算法研发。\n\n## 岗位职责\n- 开发和优化商品推荐、搜索排序、个性化推送等核心算法\n- 构建和迭代大规模推荐模型（双塔模型、图神经网络、序列建模等）\n- 利用用户行为数据进行特征工程和模型优化，提升推荐效果\n- 设计A/B实验方案，评估算法效果并驱动持续迭代\n- 将算法模型工程化上线并监控生产环境指标\n\n## 岗位要求\n- 2026届应届毕业生，计算机/数学/统计等相关专业\n- 熟悉机器学习和深度学习基础算法\n- 熟练使用Python，了解SQL\n- 有推荐系统、搜索排序或CTR预估项目经验者优先\n- 熟悉TensorFlow或PyTorch框架\n\n## 关于Shopee\nShopee是东南亚和台湾地区领先的电商平台，深圳研发中心承担核心算法和AI技术研发工作，提供具有竞争力的薪资待遇和广阔的职业发展空间。"
+    },
+    {
+      "market": "CN",
+      "title": "AIGC/3D视觉算法工程师",
+      "company": "群核科技",
+      "location": "杭州",
       "category": "AI Engineer",
       "level": "Mid",
-      "applyUrl": "https://careers.tencent.com/jobdesc.html?postId=1795438673181810688",
-      "description": "Natural Language Processing (NLP) research engineer position where responsibilities include algorithm research and development for NLP tasks such as semantic analysis, intent recognition, dialogue systems, machine translation, knowledge graphs, and named entity recognition. Ideal candidates should have a background in computer science, information engineering, pattern recognition, AI, automation, or related fields, with proficiency in NLP fundamentals and experience with programming languages like Python, Java, or C++, as well as deep learning frameworks.",
-      "descriptionSource": "search-snippet"
+      "postedAt": "2026-06-01",
+      "applyUrl": "https://www.nowcoder.com/enterprise/705",
+      "snippet": "群核科技（Coohom）杭州——研发AIGC与3D视觉算法，将生成式AI应用于家居设计场景。",
+      "description": "群核科技（Coohom）是国内家居设计与零售数字化领域的AI科技公司，招聘AIGC/3D视觉算法工程师加入杭州核心技术团队。\n\n## 岗位职责\n- 研究和开发3D场景理解与生成算法，包括三维重建、场景补全等\n- 将AIGC技术（文本生图、图像生成、视频生成）应用于家居设计场景\n- 开发高质量3D视觉渲染与风格化算法\n- 研究NeRF、Gaussian Splatting等3D表示方法，优化家居场景生成效果\n- 与产品团队协作，将算法研究成果集成到实际业务产品\n\n## 岗位要求\n- 计算机视觉、计算机图形学或机器学习相关专业，硕士及以上\n- 3年以上算法研发经验\n- 熟练掌握深度学习框架（PyTorch为主）\n- 有NeRF、3DGS（Gaussian Splatting）、扩散模型或图形学渲染相关经验者优先\n- 有CVPR/ICCV/ECCV等顶会论文发表经历者优先\n\n## 关于群核科技\n群核科技（Coohom）服务全球超过400万设计师和数千家家居品牌，是行业领先的3D设计与AI解决方案提供商。总部位于杭州，在上海、北京设有分支机构。"
+    },
+    {
+      "market": "CN",
+      "title": "AIDU计划-多模态算法工程师（2026届）",
+      "company": "百度",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-06-01",
+      "applyUrl": "https://www.nowcoder.com/discuss/764814850005483520",
+      "snippet": "百度AIDU计划2026届——研究多模态大模型（图文视频理解与生成），含专属导师和快速晋升通道。",
+      "description": "百度AIDU（AI Developer Upskilling）计划面向2026届优秀毕业生招募多模态算法工程师，加入文心多模态研究团队，享受AIDU计划专属培养体系。\n\n## 岗位职责\n- 研究图像/视频与文本的多模态理解与生成技术\n- 开发和改进多模态大模型（图文对话、视频理解、跨模态检索等能力）\n- 实现和优化多模态预训练和对齐技术（如CLIP、BLIP、Flamingo路线的改进）\n- 参与多模态数据构建、清洗和质量评估\n\n## 岗位要求\n- 2026届计算机/人工智能相关专业毕业生（本科/硕士/博士）\n- 扎实的深度学习基础，熟悉多模态模型架构\n- 熟悉PyTorch框架和常见视觉/语言骨干网络\n- 有多模态方向论文发表（CVPR/NeurIPS/ICLR等）或项目经历者优先\n\n## AIDU计划特点\n- 专属AI导师制，由百度资深研究员带领\n- 快速晋升通道，表现优秀者可直接晋升P5/P6\n- 竞争性薪资待遇，北京地区有住房补贴"
+    },
+    {
+      "market": "CN",
+      "title": "数据分析实习生（游戏部门）",
+      "company": "哔哩哔哩",
+      "location": "上海",
+      "category": "Business Analyst",
+      "level": "Graduate",
+      "postedAt": "2026-06-01",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/9873f995e2be4ecfa24334cc77b64f56",
+      "snippet": "B站游戏部门数据分析实习生——跟踪游戏数据，产出专项报告，挖掘用户需求和收益增长机会。",
+      "description": "哔哩哔哩（B站）游戏部门招聘数据分析实习生，参与游戏业务数据分析工作，为游戏运营和产品决策提供数据支撑。\n\n## 实习职责\n- 跟踪游戏关键数据指标（DAU、留存、付费等），建立日常监控体系\n- 完成专项数据分析报告，深度挖掘用户行为规律\n- 挖掘用户需求和收益增长机会，发现商业化关键节点\n- 支持游戏运营活动效果分析，为活动策划提供数据依据\n- 搭建和维护数据报表和可视化看板\n\n## 实习要求\n- 本科或以上学历，统计、数学、计算机等相关专业\n- 熟练掌握SQL，能独立完成数据提取和分析\n- 有Python（Pandas/NumPy）数据分析经验者优先\n- 具备良好的逻辑分析能力和数据敏感性\n- 实习时长不少于2个月，每周实习天数不少于4天\n\n## 关于B站\n哔哩哔哩是中国领先的年轻人文化社区和视频平台，月活用户超3.4亿。游戏是B站重要的业务板块，数据分析在游戏产品决策中扮演关键角色。"
     }
   ]
 }
