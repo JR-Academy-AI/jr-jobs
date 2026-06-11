@@ -1,0 +1,138 @@
+{
+  "date": "2026-06-12",
+  "generatedAt": "2026-06-12T07:30:00+10:00",
+  "auMode": "淡季",
+  "cnMode": "暑期实习 + 提前批",
+  "sources": [
+    "openai.com",
+    "efinancialcareers.com",
+    "jobs.deloitte.com.au",
+    "latitudefinancial.com.au",
+    "aijobs.net",
+    "jobs.feishu.cn",
+    "saic-recruit.saicmotor.com",
+    "csvw.com"
+  ],
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "AI Deployment Engineer",
+      "company": "OpenAI",
+      "location": "Sydney NSW",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "postedAt": "2026-06-08",
+      "applyUrl": "https://openai.com/careers/ai-deployment-engineer-sydney-australia/",
+      "snippet": "OpenAI Sydney — deploy and optimise AI models for enterprise customers across the APAC region.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "2026 AI Technology Graduate Program",
+      "company": "AMP",
+      "location": "Sydney NSW",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-06-01",
+      "applyUrl": "https://www.efinancialcareers.com/jobs-Australia-Sydney-AMP_2026_AI_Technology_Graduate_Program.id23041812",
+      "snippet": "AMP 2026 AI Technology Graduate Program — build AI and data solutions transforming wealth management and financial services.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "Senior Consultant - Gen AI Engineer",
+      "company": "Deloitte",
+      "location": "Sydney NSW",
+      "category": "AI Engineer",
+      "level": "Senior",
+      "postedAt": "2026-06-09",
+      "applyUrl": "https://jobs.deloitte.com.au/job/Sydney-Senior-Consultant-Gen-AI-Engineer-Sydney-NSW/1063704466/",
+      "snippet": "Deloitte Sydney — design and implement generative AI solutions for enterprise clients as a Senior Consultant in the AI practice.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist",
+      "company": "Latitude Financial Services",
+      "location": "Melbourne VIC",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "postedAt": "2026-06-05",
+      "applyUrl": "https://www.latitudefinancial.com.au/careers/",
+      "snippet": "Latitude Financial Services Melbourne — build credit risk and customer analytics ML models for Australia's leading consumer finance provider.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist / Machine Learning Engineer",
+      "company": "ANZ",
+      "location": "Melbourne VIC",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "postedAt": "2026-06-07",
+      "applyUrl": "https://aijobs.net/job/1132025-data-scientistmachine-learning-engineer/",
+      "snippet": "ANZ Melbourne — develop ML models for banking analytics and customer insights across ANZ's retail and commercial divisions.",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "具身智能与3D视觉算法工程师",
+      "company": "积加科技",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-06-05",
+      "applyUrl": "https://a4x.paas.jobs.feishu.cn/500117",
+      "snippet": "积加科技2026届招聘——研究具身智能与3D视觉算法，助力具身机器人感知与空间交互能力研发（截止6月16日）。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "多模态大模型工程师",
+      "company": "积加科技",
+      "location": "杭州",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-06-05",
+      "applyUrl": "https://a4x.paas.jobs.feishu.cn/500117",
+      "snippet": "积加科技2026届——研发多模态大模型，将视觉与语言理解深度融合应用于具身智能场景（截止6月16日）。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "AI算法工程师暑期实习",
+      "company": "上汽集团",
+      "location": "上海",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-06-01",
+      "applyUrl": "https://saic-recruit.saicmotor.com/",
+      "snippet": "上汽集团2026暑期实习——研发智能网联汽车AI算法，涵盖自动驾驶感知、规划与决策方向。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "数据科学家暑期实习",
+      "company": "上汽集团",
+      "location": "上海",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "postedAt": "2026-06-01",
+      "applyUrl": "https://saic-recruit.saicmotor.com/",
+      "snippet": "上汽集团2026暑期实习——利用大数据与机器学习方法挖掘汽车用户行为洞察并支持销售预测决策。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "大语言模型算法工程师实习",
+      "company": "上汽大众",
+      "location": "上海",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-06-03",
+      "applyUrl": "https://www.csvw.com/csvw-website/recruitment/recruitment.html",
+      "snippet": "上汽大众2026实习招聘——开发智能座舱大语言模型算法，探索LLM在汽车人机交互中的工程化应用。",
+      "description": ""
+    }
+  ]
+}
