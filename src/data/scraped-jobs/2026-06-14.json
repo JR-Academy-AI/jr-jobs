@@ -1,0 +1,97 @@
+{
+  "date": "2026-06-14",
+  "generatedAt": "2026-06-14T07:58:35+10:00",
+  "auMode": "淡季",
+  "cnMode": "暑假实习+提前批",
+  "sources": [
+    "builtinsydney.au",
+    "seek.com.au",
+    "dovetail.com",
+    "zhipin.com"
+  ],
+  "stats": {
+    "auCandidates": 38,
+    "auLive": 6,
+    "cnCandidates": 22,
+    "cnLive": 1
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Machine Learning Engineer - Design Generation",
+      "company": "Canva",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "applyUrl": "https://builtinsydney.au/job/machine-learning-engineer-design-generation/3631669",
+      "description": "Investigating applications of data and ML across the Canva product and contributing to the full life cycle of ML/data models including data analysis, data preprocessing, pipeline development, modelling, tuning and productization. Additional responsibilities include improving the scalability, speed and performance of existing models, working alongside data specialists, software engineers and product owners, and designing and creating new data workflows. Requirements include familiarity with tools like TensorFlow, PyTorch, scikit-learn, Kubernetes, Solr/ElasticSearch, and dataset creation, along with a strong understanding of Computer Science/Engineering fundamentals.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Machine Learning Engineer - ML Platform",
+      "company": "Canva",
+      "location": "Sydney, NSW",
+      "category": "MLOps / AI Infra",
+      "level": "Mid",
+      "applyUrl": "https://builtinsydney.au/job/machine-learning-engineer-ml-platform/3782617",
+      "description": "Part of Canva's GenAI Platform Group, responsible for delivering capabilities that support ML and AI initiatives, from early ideation and prototyping through to scaling to meet the needs of millions of Canva users in production. Technical requirements include deep expertise in Python development, experience with modern development tools like Bazel or Nix, containerization and Terraform, GitOps principles, and familiarity with the AWS ecosystem including ECS, EKS, ECR, and Kinesis.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Machine Learning Engineer - Video AI",
+      "company": "Canva",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "applyUrl": "https://builtinsydney.au/job/machine-learning-engineer-video-ai-remote-across-anz/3532466",
+      "description": "Video at Canva is embarking on a journey to redefine video editing and social media content creation. You'll be joining the video-ai team which is a fast moving cross-functional team, researching, spiking, building and shipping, machine learning-driven, video editing features to users and staff. The role involves building user-driven ML features for Canva's Video editor, doing hands-on ML algorithmic work involving audio and/or visual cues. Requirements include: Proven industry experience in a machine learning / software engineering role. Strong understanding of Computer Science / Engineering fundamentals and first principles.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Machine Learning Engineer - Layout AI",
+      "company": "Canva",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://builtinsydney.au/job/senior-machine-learning-engineer-layout-ai/3386733",
+      "description": "As the Senior Machine Learning Engineer in Layout AI, you will work closely with a cross functional team of Frontend, Backend and Machine Learning Engineers to improve understanding of designs and build new Design AI capabilities and experiences. Layout AI is essential in fulfilling Canva's mission to 'empower the world to design' by using AI to automate design decisions for our users. Requirements: You are proficient in Python coding; familiarity with PyTorch, Kubernetes, Docker, Solr/ElasticSearch, SQL; solid understanding of Computer Science/Engineering fundamentals; Bachelor's degree in Computer Engineering / Science or Mathematics.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior AI Engineer",
+      "company": "Dovetail",
+      "location": "Sydney, NSW",
+      "category": "AI Engineer",
+      "level": "Senior",
+      "applyUrl": "https://dovetail.com/careers/senior-ai-engineer/",
+      "description": "You'll be a crucial part of their AI team, working closely with your engineering manager and other engineers to evolve Dovetail's AI feature set. Enabling and empowering others to build and improve AI features across the product teams and greater organization. Practical knowledge in productionizing chatbots or real-time LLM systems. Experience in optimizing costs for model deployment and maintenance. Experience in building and optimizing recommendation systems, including search result ranking and custom homepages. Sydney works in-person for collaboration and speed.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Business Analyst",
+      "company": "Findex",
+      "location": "Melbourne, VIC",
+      "category": "Business Analyst",
+      "level": "Mid",
+      "applyUrl": "https://www.seek.com.au/job/55658454",
+      "description": "In an agile environment, you will be responsible for undertaking a range of requirement gathering activities - working closely with the product owner, development team and subject matter experts to deliver the best product and customer outcomes.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI Agent算法专家",
+      "company": "荣耀",
+      "location": "北京/深圳",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "applyUrl": "https://www.zhipin.com/job_detail/d2821b5cbe71a53e1H192dq1FVJR.html",
+      "description": "跟进大模型前沿进展（LLM/VLM/VLA/Speech LLM/Reasoning/Diffusion LLM/Agentic LLM等），结合场景落地与流程标准化；构建大模型、智能体、推理能力的自动评测体系与数据方法。要求：扎实的大语言模型学术背景与文献阅读能力，有竞赛获奖或论文发表更佳；熟练掌握Python/C/C++/Java中至少一种语言，熟悉主流深度学习框架（PyTorch/TensorFlow等）。",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
