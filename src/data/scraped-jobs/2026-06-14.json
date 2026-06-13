@@ -1,19 +1,30 @@
 {
   "date": "2026-06-14",
-  "generatedAt": "2026-06-14T07:58:35+10:00",
+  "generatedAt": "2026-06-14T07:30:00+10:00",
   "auMode": "淡季",
-  "cnMode": "暑假实习+提前批",
+  "cnMode": "暑假实习 + 提前批",
   "sources": [
     "builtinsydney.au",
     "seek.com.au",
+    "careers.salesforce.com",
+    "databricks.com",
     "dovetail.com",
+    "greenhouse.io",
+    "linktr.ee",
+    "nowcoder.com",
+    "campus.niuqizp.com",
+    "campus.xpeng.com",
+    "zhipu-ai.jobs.feishu.cn",
+    "shushuqiuzhi.com",
+    "minimaxi.com",
+    "hr.sensetime.com",
     "zhipin.com"
   ],
   "stats": {
-    "auCandidates": 38,
-    "auLive": 6,
-    "cnCandidates": 22,
-    "cnLive": 1
+    "auCandidates": 42,
+    "auLive": 13,
+    "cnCandidates": 28,
+    "cnLive": 9
   },
   "jobs": [
     {
@@ -24,7 +35,7 @@
       "category": "ML Engineer",
       "level": "Mid",
       "applyUrl": "https://builtinsydney.au/job/machine-learning-engineer-design-generation/3631669",
-      "description": "Investigating applications of data and ML across the Canva product and contributing to the full life cycle of ML/data models including data analysis, data preprocessing, pipeline development, modelling, tuning and productization. Additional responsibilities include improving the scalability, speed and performance of existing models, working alongside data specialists, software engineers and product owners, and designing and creating new data workflows. Requirements include familiarity with tools like TensorFlow, PyTorch, scikit-learn, Kubernetes, Solr/ElasticSearch, and dataset creation, along with a strong understanding of Computer Science/Engineering fundamentals.",
+      "description": "Investigating applications of data and ML across the Canva product and contributing to the full life cycle of ML/data models including data analysis, data preprocessing, pipeline development, modelling, tuning and productization. Improving the scalability, speed and performance of existing models, working alongside data specialists, software engineers and product owners.",
       "descriptionSource": "search-snippet"
     },
     {
@@ -35,7 +46,7 @@
       "category": "MLOps / AI Infra",
       "level": "Mid",
       "applyUrl": "https://builtinsydney.au/job/machine-learning-engineer-ml-platform/3782617",
-      "description": "Part of Canva's GenAI Platform Group, responsible for delivering capabilities that support ML and AI initiatives, from early ideation and prototyping through to scaling to meet the needs of millions of Canva users in production. Technical requirements include deep expertise in Python development, experience with modern development tools like Bazel or Nix, containerization and Terraform, GitOps principles, and familiarity with the AWS ecosystem including ECS, EKS, ECR, and Kinesis.",
+      "description": "Part of Canva's GenAI Platform Group, responsible for delivering capabilities that support ML and AI initiatives, from early ideation and prototyping through to scaling to meet the needs of millions of Canva users in production. Deep expertise in Python, containerization, Terraform, GitOps, and the AWS ecosystem including ECS, EKS, ECR, and Kinesis required.",
       "descriptionSource": "search-snippet"
     },
     {
@@ -46,7 +57,7 @@
       "category": "ML Engineer",
       "level": "Mid",
       "applyUrl": "https://builtinsydney.au/job/machine-learning-engineer-video-ai-remote-across-anz/3532466",
-      "description": "Video at Canva is embarking on a journey to redefine video editing and social media content creation. You'll be joining the video-ai team which is a fast moving cross-functional team, researching, spiking, building and shipping, machine learning-driven, video editing features to users and staff. The role involves building user-driven ML features for Canva's Video editor, doing hands-on ML algorithmic work involving audio and/or visual cues. Requirements include: Proven industry experience in a machine learning / software engineering role. Strong understanding of Computer Science / Engineering fundamentals and first principles.",
+      "description": "Join the Video AI team researching, spiking, building and shipping machine learning-driven video editing features. Build user-driven ML features for Canva's Video editor with hands-on ML algorithmic work involving audio and visual cues.",
       "descriptionSource": "search-snippet"
     },
     {
@@ -57,7 +68,7 @@
       "category": "ML Engineer",
       "level": "Senior",
       "applyUrl": "https://builtinsydney.au/job/senior-machine-learning-engineer-layout-ai/3386733",
-      "description": "As the Senior Machine Learning Engineer in Layout AI, you will work closely with a cross functional team of Frontend, Backend and Machine Learning Engineers to improve understanding of designs and build new Design AI capabilities and experiences. Layout AI is essential in fulfilling Canva's mission to 'empower the world to design' by using AI to automate design decisions for our users. Requirements: You are proficient in Python coding; familiarity with PyTorch, Kubernetes, Docker, Solr/ElasticSearch, SQL; solid understanding of Computer Science/Engineering fundamentals; Bachelor's degree in Computer Engineering / Science or Mathematics.",
+      "description": "Work closely with a cross functional team of Frontend, Backend and ML Engineers to improve understanding of designs and build new Design AI capabilities. Layout AI is essential in fulfilling Canva's mission to empower the world to design by using AI to automate design decisions.",
       "descriptionSource": "search-snippet"
     },
     {
@@ -67,8 +78,9 @@
       "location": "Sydney, NSW",
       "category": "AI Engineer",
       "level": "Senior",
+      "postedAt": "2026-06-02",
       "applyUrl": "https://dovetail.com/careers/senior-ai-engineer/",
-      "description": "You'll be a crucial part of their AI team, working closely with your engineering manager and other engineers to evolve Dovetail's AI feature set. Enabling and empowering others to build and improve AI features across the product teams and greater organization. Practical knowledge in productionizing chatbots or real-time LLM systems. Experience in optimizing costs for model deployment and maintenance. Experience in building and optimizing recommendation systems, including search result ranking and custom homepages. Sydney works in-person for collaboration and speed.",
+      "description": "Crucial part of Dovetail's AI team evolving the product's AI feature set. Practical knowledge in productionising chatbots or real-time LLM systems, experience in optimising costs for model deployment, and building recommendation systems including search result ranking and custom homepages. Sydney in-person role.",
       "descriptionSource": "search-snippet"
     },
     {
@@ -79,7 +91,91 @@
       "category": "Business Analyst",
       "level": "Mid",
       "applyUrl": "https://www.seek.com.au/job/55658454",
-      "description": "In an agile environment, you will be responsible for undertaking a range of requirement gathering activities - working closely with the product owner, development team and subject matter experts to deliver the best product and customer outcomes.",
+      "description": "In an agile environment, undertake a range of requirement gathering activities working closely with the product owner, development team and subject matter experts to deliver the best product and customer outcomes.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Forward Deployed Engineer",
+      "company": "Salesforce",
+      "location": "Sydney, NSW",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "postedAt": "2026-05-31",
+      "applyUrl": "https://careers.salesforce.com/en/jobs/jr343861/forward-deployed-engineer/",
+      "description": "Seeking highly skilled Agentforce Forward Deployed Engineers to drive transformative AI solutions by designing, developing, and directly implementing bespoke solutions leveraging the Agentforce platform for enterprise customers.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Agentic Data Specialist",
+      "company": "Salesforce",
+      "location": "Sydney, NSW",
+      "category": "MLOps / AI Infra",
+      "level": "Senior",
+      "postedAt": "2026-06-04",
+      "applyUrl": "https://careers.salesforce.com/en/jobs/jr305559/agentic-data-specialist/",
+      "description": "Design, build, and manage the data and integrations that enable Agentforce agents to take meaningful, autonomous actions, including RAG systems, vector databases, and knowledge bases. 5+ years data engineering experience required.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Forward Deployment Engineer",
+      "company": "Databricks",
+      "location": "Sydney, NSW",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "postedAt": "2026-06-06",
+      "applyUrl": "https://www.databricks.com/company/careers/professional-services-operations/forward-deployment-engineer-8251125002",
+      "description": "Embed directly with strategic customers to design and deliver custom fullstack applications and solutions on the Databricks Data Intelligence Platform, spanning data engineering, AI, and application development.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Principal ML/AI Engineer",
+      "company": "Nine Entertainment",
+      "location": "North Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "postedAt": "2026-06-03",
+      "applyUrl": "https://builtin.com/job/principal-ml-ai-engineer/7078944",
+      "description": "Lead design and implementation of MLOps pipelines and AI systems at Australia's largest locally owned media company. Manage ML teams and build recommendation and content intelligence systems across Nine's digital properties.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Machine Learning Engineer",
+      "company": "Culture Amp",
+      "location": "Melbourne, VIC",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "postedAt": "2026-06-07",
+      "applyUrl": "https://job-boards.greenhouse.io/cultureamp/jobs/7573350",
+      "description": "Accelerate ML platform capability using Gen AI at the world's leading employee experience platform. Work on in-context summarisation, bias detection, and sensitive comments detection, partnered with Google Vertex AI. 5-7 years experience required.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Data Scientist",
+      "company": "Culture Amp",
+      "location": "Melbourne, VIC",
+      "category": "Data Scientist",
+      "level": "Senior",
+      "postedAt": "2026-06-05",
+      "applyUrl": "https://job-boards.greenhouse.io/cultureamp/jobs/7483143",
+      "description": "Drive creation of data assets and AI-powered products at Culture Amp, serving 6,500+ companies and 25 million employees globally. Focus on statistical modelling and predictive analytics to improve employee experience outcomes.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Data Scientist, Trust",
+      "company": "Linktree",
+      "location": "Melbourne, VIC",
+      "category": "Data Scientist",
+      "level": "Senior",
+      "postedAt": "2026-06-06",
+      "applyUrl": "https://linktr.ee/s/about/careers",
+      "description": "Apply expertise in data science and statistical modeling to build and scale the core measurement framework underpinning Trust at Linktree, helping detect and mitigate platform abuse at scale.",
       "descriptionSource": "search-snippet"
     },
     {
@@ -90,7 +186,103 @@
       "category": "AI Engineer",
       "level": "Mid",
       "applyUrl": "https://www.zhipin.com/job_detail/d2821b5cbe71a53e1H192dq1FVJR.html",
-      "description": "跟进大模型前沿进展（LLM/VLM/VLA/Speech LLM/Reasoning/Diffusion LLM/Agentic LLM等），结合场景落地与流程标准化；构建大模型、智能体、推理能力的自动评测体系与数据方法。要求：扎实的大语言模型学术背景与文献阅读能力，有竞赛获奖或论文发表更佳；熟练掌握Python/C/C++/Java中至少一种语言，熟悉主流深度学习框架（PyTorch/TensorFlow等）。",
+      "description": "跟进大模型前沿进展（LLM/VLM/VLA/Speech LLM/Reasoning/Diffusion LLM/Agentic LLM等），结合场景落地与流程标准化；构建大模型、智能体、推理能力的自动评测体系与数据方法。要求扎实的大语言模型学术背景，熟练掌握Python/C/C++/Java中至少一种语言，熟悉主流深度学习框架。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "后台AIGC研发工程师实习",
+      "company": "阶跃星辰",
+      "location": "上海",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-06-05",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/69e5c1e72b7444e599cc53fc219da009",
+      "description": "加入阶跃星辰头部大模型团队，参与AIGC后台研发工程，构建大规模生成式AI推理和应用系统，探索AIGC与真实业务场景的深度融合。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型强化学习算法工程师实习",
+      "company": "阶跃星辰",
+      "location": "上海",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-06-03",
+      "applyUrl": "https://campus.niuqizp.com/schedule-2UrywY5CL.html",
+      "description": "研究大模型RLHF阶段的强化学习算法及智能体算法，要求985/211高校计算机/AI/自动化/数学等相关专业，日薪300元，上海实习，2027届毕业生可投。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "VLA/VLM算法实习生（通用智能板块）",
+      "company": "小鹏汽车",
+      "location": "广州/上海",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-06-08",
+      "applyUrl": "https://campus.xpeng.com",
+      "description": "参与多模态大模型在人形机器人上的VLA/VLM算法研究与开发，归属通用智能板块，2027届毕业生可投，提供住宿补贴，可获2027届秋招绿色通道。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法工程师实习（推理优化方向）",
+      "company": "摩尔线程",
+      "location": "北京/上海",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-06-06",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/b2a7d07e9b9940579ed3415498c4482d",
+      "description": "在国产GPU（MUSA架构）上探索大模型推理优化、多模态及视频生成方向，支持多地实习（北京/上海/杭州/深圳），提供有竞争力的实习薪资。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "多模态大模型算法实习生",
+      "company": "智谱AI",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-06-02",
+      "applyUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
+      "description": "加入智谱华章多模态大模型团队，参与CogVLM等多模态模型预训练与后训练算法研发，要求985院校硕士及以上，熟悉PyTorch/transformers/megatron框架，有CCF-A多模态论文者优先，均有转正机会。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AGI大模型实习生",
+      "company": "DeepSeek",
+      "location": "杭州/北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-06-10",
+      "applyUrl": "https://www.shushuqiuzhi.com/article/19832",
+      "description": "深度求索招聘AGI大模型算法实习生，日薪500-990元，在杭州/北京参与前沿LLM架构与训练策略研究。要求计算机相关专业研究生，熟悉PyTorch，顶会论文或开源贡献者优先，优秀者可转正。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法实习生",
+      "company": "MiniMax",
+      "location": "上海",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-06-07",
+      "applyUrl": "https://www.nowcoder.com/enterprise/21985",
+      "description": "加入千亿市值MiniMax，参与新一代统一多模态大模型系统算法研发，涵盖语音生成、视频理解与多模态融合方向，2026/2027届均可，上海办公，表现优秀者可获转正机会。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "多模态数据算法实习生",
+      "company": "商汤科技",
+      "location": "上海/北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-06-04",
+      "applyUrl": "https://hr.sensetime.com/SU60fa3bdabef57c1023fc1cbc/pb/interns.html",
+      "description": "商汤研究院基础多模态大模型组招聘数据算法实习生，与算法团队并肩探索多模态模型优化所需数据策略，分析数据获取与清洗方法，北京/上海双城招募。",
       "descriptionSource": "search-snippet"
     }
   ]
