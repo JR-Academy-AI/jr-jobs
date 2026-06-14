@@ -1,0 +1,120 @@
+{
+  "date": "2026-06-15",
+  "generatedAt": "2026-06-15T09:15:00+10:00",
+  "auMode": "淡季",
+  "cnMode": "暑假实习 + 提前批",
+  "sources": [
+    "groupcareers.singtel.com",
+    "recruitment.macquarie.com",
+    "nowcoder.com"
+  ],
+  "stats": {
+    "auCandidates": 24,
+    "auLive": 4,
+    "cnCandidates": 17,
+    "cnLive": 5
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Product Manager - AI Products",
+      "company": "Singtel",
+      "location": "Sydney, NSW",
+      "category": "AI Product / PM",
+      "level": "Mid",
+      "postedAt": "2026-03-31",
+      "applyUrl": "https://groupcareers.singtel.com/job/Product-Manager-AI-Products-Sydn/1359437166/",
+      "description": "Singtel/Optus is looking for an AI Product Manager to support the development and delivery of AI products within their Customer, Enabling, or Technology product portfolios. Reporting to the Senior Director of AI Product, you'll be accountable for supporting product strategy execution and roadmap delivery for a single AI product or squad, aligned to Optus.ai objectives and business goals. Responsibilities include contributing to product backlogs by writing clear user stories and acceptance criteria that translate business requirements into actionable development work, conducting user research initiatives including interviews, surveys, usability testing, and behavioural analysis to understand user needs and validate solutions, and collaborating with cross-functional squads including engineering, data science, design, and business stakeholders through the product development lifecycle. Required qualifications include demonstrated experience supporting product development from concept to launch, proficiency in product analytics and using data insights to drive product decisions, understanding of AI/ML concepts and ability to work effectively with technical teams. Experience working with AI/ML products or platforms is desirable.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Lead Data Scientist - Agentic AI",
+      "company": "Macquarie Group",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Senior",
+      "applyUrl": "https://recruitment.macquarie.com/en_US/careers/JobDetail/Lead-Data-Scientist-Agentic-AI/18854",
+      "description": "As the Lead Data Scientist at Macquarie Asset Management, you will partner with business leaders, engineering, and cross-functional teams to architect the future of AI and data science, owning the end-to-end strategy, influencing executive and board-level decisions, and shaping how AI transforms the business. You will lead, inspire, and grow a high-performing global team, fostering technical excellence, diversity of thought, and a culture of ambitious experimentation. Leveraging modern platforms, you will pioneer production-grade agentic AI and digital co-worker capabilities by harnessing advanced machine learning, natural language processing (NLP), and large language models (LLMs) to solve complex challenges and drive innovation across investment management, client servicing, fund management, and corporate operations. Key requirements include experience with Agentic AI platforms, familiarity with Google Gemini and the Agent Development Kit (ADK), proven track record of implementing data science and AI solutions with measurable ROI, and relevant tertiary qualification (Master's or Doctorate preferred) in Data Science, Mathematics, Statistics, Computer Science or equivalent practical experience. Domain experience in Private Markets and Private Credit is highly desirable.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "AI Native Platform Engineer",
+      "company": "Macquarie Group",
+      "location": "Sydney, NSW",
+      "category": "MLOps / AI Infra",
+      "level": "Junior",
+      "postedAt": "2026-03-06",
+      "applyUrl": "https://recruitment.macquarie.com/en_US/careers/JobDetail/AI-Native-Platform-Engineer/20962",
+      "description": "As a junior member of the AI SDLC Developer Productivity and Enablement team, you will help build and maintain the SCM, CI/CD pipelines, and developer productivity tooling that engineering teams rely on daily, and contribute to maintaining the organisation's GitHub Actions runner fleet, developing reusable workflows, and ensuring internal integrations work seamlessly for business application teams. You will apply agentic engineering principles as a core part of your daily workflow to deliver quality, maintainable solutions. Collaborating closely with development teams, you will identify pain points in their delivery processes, help design customised automation where it adds value, and contribute to embedding agentic engineering principles into the organisation's developer workflows. Requirements include demonstrated ability and enthusiasm for agentic engineering using tools such as Claude Code and GitHub Copilot, awareness of source control management practices, and experience using AI agents as collaborative partners across the full development lifecycle from design through implementation, testing, and review.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Software Engineer - AI Enablement",
+      "company": "Macquarie Group",
+      "location": "Sydney, NSW",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "applyUrl": "https://recruitment.macquarie.com/en_US/careers/JobDetail/Software-Engineer-AI-Enablement/19632",
+      "description": "As a software engineer in the enterprise AI enablement team, you will be at the forefront of designing and building the robust, scalable backend systems that power AI-native solutions. With a primary focus on software engineering excellence, you will spend the majority of your time writing production-grade code and automating complex workflows to create a resilient foundation for an agentic AI ecosystem. You will take end-to-end ownership of your products in a modern DevOps culture, responsible for architecture, design, development, testing, and operations. Working in a multi-disciplinary team alongside data scientists, you will apply your engineering expertise to implement LLMOps best practices and streamline the deployment and monitoring of cutting-edge AI models. Requirements include 5+ years of experience as a software engineer in an agile DevOps environment using an object-oriented development language (Python preferred).",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "算法工程师-机器学习（暑期实习）",
+      "company": "阿里云",
+      "location": "杭州/北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/b8cddf5df0ce45239cbb465b8a2d53d7",
+      "description": "阿里云2026届实习生招聘，技术岗位占比90%，AI岗位占比80%，涵盖5大职类、50多个岗位，分布在海内外20多个城市。计算平台基础工程技术团队招聘算法工程师-机器学习暑期实习生，提供阿里云算法工程师统一待遇，有超高转正机会。工作内容包括：智能调度系统研发（构建国内最大规模的云资源调度系统，日均处理百万级ECS实例调度决策）、时序预测与资源规划等。岗位要求：掌握常见算法和机器学习理论，能够将其应用于业务场景的自动化和智能化；适应快速变化的创业环境，愿意寻求挑战和自我提升；清晰的思维与强大的沟通、表达能力和跨团队协调能力。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI搜索算法实习生",
+      "company": "小红书",
+      "location": "上海/北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/4f40cb0fad634a37a214670833443bb5",
+      "description": "参与小红书AI搜索相关算法和系统研发，通过最新的生成式AI等技术打造新一代智能化搜索引擎；参与生成式问答答案生成模型优化，涉及大模型sft、cot、agent等技术。岗位要求出色的机器学习、NLP和数据挖掘基础，对查询分析、相关性、机器学习排序有深刻的理解和应用经验；具有出色的编码能力，至少熟练掌握Java/C++/Python中的一种。工作地点：上海/北京，面向2026/2027届毕业生。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI算法工程师（实习）",
+      "company": "安克创新",
+      "location": "深圳/上海/苏州",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/39bd99e090d04a7e86f513a220932cdc",
+      "description": "安克创新2026届暑期实习招聘人工智能/算法岗位，招聘城市为苏州、杭州、长沙、深圳、北京、上海。岗位要求候选人具备AI工具实战经验，简历中应体现与AI工具协作的实战过程，毕业时间需在2026年9月1日至2027年12月31日之间。安克创新为全球消费电子领域领先企业，旗下拥有Anker、Eufy、Soundcore等知名品牌，业务覆盖100多个国家和地区。申请流程包括：简历投递、在线测评&笔试、3-4轮面试沟通及Offer审批。优秀实习生可获得留用校招Offer，正式入职时还可获得专属留用奖金，并享有双导师制培养及200+免费内部课程学习资源。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "算法工程师（数据挖掘方向）实习",
+      "company": "SHEIN",
+      "location": "深圳/广州/上海",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/26022e6f54f14fa39a3869a0879635b5",
+      "description": "SHEIN 2026年日常实习计划涵盖算法等多个方向，算法工程师（数据挖掘方向）实习岗位面向2026/2027届及以后毕业在校生，提供深圳、广州、上海等地实习机会，每年3月-6月按需开放投递。岗位涉及推荐算法开发，数据挖掘面试内容包括推荐系统冷启动、特征设计方法、推荐效果相关指标等核心知识点。候选人需熟悉推荐算法并具备扎实的数据挖掘基础。招聘流程共四轮，包括同事面、交叉面、主管面及CTO面。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "算法实习生（AI Agent方向）",
+      "company": "哔哩哔哩",
+      "location": "上海/北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/948d6fee49444ebbaa03cedc167bb20a",
+      "description": "哔哩哔哩招聘算法实习生（AI Agent方向），主要职责包括：AI Agent产品构建（负责视频创作场景下的Agent设计与搭建，运用LLM、多模态等技术，解决视频创作、编辑、分发等环节的实际痛点）；商业化产品的Agent功能开发和优化，涵盖Agent监控、Agent评估、Agent策略、Agent后训练等方向的工作。岗位要求：本科及以上学历，每周到岗工作时间保证至少4个工作日；需要精通数据库操作，熟练使用Python，熟悉AI Agent开发框架如LangGraph、LangChain等；了解大模型领域的知识，包括SFT、PEFT、prompt/context engineering、RAG、AI Agent等的原理。",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
