@@ -4,17 +4,218 @@
   "auMode": "淡季",
   "cnMode": "暑假实习 + 提前批",
   "sources": [
+    "optiver.com",
+    "lifeatcanva.com",
+    "kasada.io",
     "groupcareers.singtel.com",
     "recruitment.macquarie.com",
+    "join.mhfunds.com",
+    "app.mokahr.com",
+    "campus.webank.com",
+    "chinaamc.zhiye.com",
+    "gaoxiaojob.com",
+    "wind.com.cn",
     "nowcoder.com"
   ],
   "stats": {
-    "auCandidates": 24,
-    "auLive": 4,
-    "cnCandidates": 17,
-    "cnLive": 5
+    "auCandidates": 33,
+    "auLive": 10,
+    "cnCandidates": 26,
+    "cnLive": 15
   },
   "jobs": [
+    {
+      "market": "AU",
+      "title": "AI Engineer",
+      "company": "Optiver",
+      "location": "Sydney, NSW",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "postedAt": "2026-06-08",
+      "applyUrl": "https://optiver.com/working-at-optiver/career-opportunities/8019646002/",
+      "snippet": "Design and deploy intelligent AI agents at Optiver Sydney, owning the full lifecycle from prototyping to production, with a focus on impactful business outcomes.",
+      "description": "## About Optiver\n\nOptiver is a global market maker founded in Amsterdam in 1986, with offices in Sydney, London, Chicago, Amsterdam, Hong Kong, and Singapore. The Sydney office is one of Optiver's primary locations for Asia-Pacific markets, trading a range of products across equities, options, and fixed income.\n\n## About the Role\n\nAs an AI Engineer at Optiver Sydney, you will design and deploy intelligent AI agents that drive real business outcomes. You'll own the full lifecycle — from prototyping and experimentation through to production deployment — with a strong emphasis on impact measurement and iteration. The role sits at the intersection of software engineering, machine learning, and quantitative problem-solving.\n\n## Responsibilities\n\n- Build and deploy AI agent systems in a high-performance trading environment\n- Pair-programme on agentic workflows and develop AI solutions using modern LLM and orchestration frameworks\n- Collaborate with quants, traders, and software engineers to identify and solve business problems\n- Manage the full ML lifecycle: data exploration, model development, deployment, and monitoring\n- Design scalable architectures for AI workflows and agentic pipelines\n\n## Requirements\n\n- Bachelor's degree in Computer Science, Engineering, or a related technical field\n- Strong Python expertise with production software engineering skills\n- Familiarity with LLM frameworks, agent orchestration (LangGraph, DSPy, etc.), and RAG pipelines\n- Experience shipping production AI systems in cloud environments (AWS, GCP, or Azure)\n- Interest in financial markets; prior finance knowledge is not required\n\n## Tech Stack\n\nPython, LLM frameworks (LangChain/LangGraph/DSPy), cloud ML platforms, Docker/Kubernetes, CI/CD pipelines\n\n## Benefits\n\n- Highly competitive remuneration\n- Breakfast, lunch, and in-house barista at Sydney HQ\n- Gym membership and chair massages\n- Professional development and mentorship\n- Collaborative, high-performance culture"
+    },
+    {
+      "market": "AU",
+      "title": "Machine Learning Research Engineer",
+      "company": "Optiver",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "postedAt": "2026-06-03",
+      "applyUrl": "https://optiver.com/working-at-optiver/career-opportunities/7807930002/",
+      "snippet": "Join a pivotal AI initiative at Optiver Sydney, driving ML infrastructure, training, and inference challenges to advance futures trading strategies.",
+      "description": "## About Optiver\n\nOptiver is a technology-driven global market maker powering millions of trades a day. The ML Research team at Optiver advances the state of the art in applied machine learning for quantitative finance, working alongside world-class researchers and engineers.\n\n## About the Role\n\nJoining a pivotal AI initiative, the Machine Learning Research Engineer will drive ML infrastructure, training, and inference challenges that underpin Optiver's trading strategies. You'll work closely with quantitative researchers and traders on new ML experiments, capabilities, and data sources, and have the opportunity to blend your own development expertise with the best open-source frameworks and tools.\n\n## Responsibilities\n\n- Design and implement improvements to ML training and inference pipelines at massive scale\n- Optimise researcher productivity through tooling and infrastructure improvements\n- Collaborate on integrating deep learning models into live trading systems\n- Contribute to internal ML frameworks and keep pace with the frontier of ML research\n- Tackle core ML infrastructure, training, and inference challenges\n\n## Requirements\n\n- Strong publication record at top ML venues (NeurIPS, ICML, ICLR, CVPR, or similar)\n- Deep expertise in PyTorch, JAX, or TensorFlow internals\n- Experience with large-scale distributed training and model optimisation\n- Solid Python and C++ engineering skills\n- PhD or equivalent research experience in Machine Learning or related field\n- Interest in quantitative finance applications\n\n## Tech Stack\n\nPyTorch/JAX/TensorFlow, CUDA, distributed training frameworks, Python, C++\n\n## Benefits\n\n- Highly competitive salary and profit-sharing\n- Professional development budget and conference travel\n- Flexible working arrangements\n- Sydney CBD office with outstanding amenities"
+    },
+    {
+      "market": "AU",
+      "title": "Graduate Machine Learning Modelling Engineer",
+      "company": "Optiver",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-06-08",
+      "applyUrl": "https://optiver.com/working-at-optiver/career-opportunities/8031272002/",
+      "snippet": "Graduate ML engineering role at Optiver Sydney — apply ML to real quantitative trading problems, contributing to compute platforms and large-scale model training.",
+      "description": "## About Optiver\n\nOptiver is a global electronic market maker where graduates take on real ownership and impact from day one. The Sydney office is a key hub for Asia-Pacific markets, housing world-class researchers, engineers, and traders.\n\n## About the Role\n\nAs a Graduate ML Modelling Engineer, you will work alongside experienced researchers and engineers to build and iterate on ML models that inform Optiver's trading strategies. By the end of your first year, you'll have a clear and practical understanding of how ML techniques are applied in the quantitative trading industry.\n\n## Responsibilities\n\n- Develop and maintain machine learning models for quantitative trading strategies\n- Collaborate with quants on backtesting, model evaluation, and iteration\n- Contribute to compute platforms supporting large-scale ML training workloads\n- Apply modern ML techniques to real quantitative trading problems\n- Build and enhance data pipelines for model development\n\n## Requirements\n\n- Bachelor's or Master's in Computer Science, Mathematics, Statistics, Engineering, or related quantitative field\n- Strong foundation in Machine Learning fundamentals (optimisation, deep learning, statistics)\n- Proficiency in Python; experience with PyTorch or TensorFlow is a plus\n- Graduating 2026 or early 2027 with Australian or New Zealand working rights\n- Team player with genuine interest in quantitative finance (prior finance knowledge not required)\n\n## Tech Stack\n\nPython, PyTorch/TensorFlow, NumPy/pandas, distributed computing\n\n## Benefits\n\n- Highly competitive graduate remuneration package\n- Structured mentorship and Optiver-provided training program\n- Collaborative, intellectually stimulating team culture\n- Catered daily meals and wellbeing benefits"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Machine Learning Engineer",
+      "company": "Optiver",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "postedAt": "2026-06-10",
+      "applyUrl": "https://optiver.com/working-at-optiver/career-opportunities/8371647002/",
+      "snippet": "Senior ML Engineer at Optiver Sydney building production ML systems that power millions of trades daily across global financial markets.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "Senior Data Scientist",
+      "company": "Kasada",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Senior",
+      "postedAt": "2026-06-13",
+      "applyUrl": "https://www.kasada.io/join-our-team/",
+      "snippet": "Senior Data Scientist at Kasada — apply SQL, AWS, and ML to safeguard millions of online interactions from automated threats and adversarial bots.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "Staff Data Scientist – Central Data team",
+      "company": "Canva",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Senior",
+      "postedAt": "2026-06-02",
+      "applyUrl": "https://www.lifeatcanva.com/en/jobs/6000000000839500/staff-data-scientist-central-data-team/",
+      "snippet": "Staff Data Scientist in Canva's Central Data team, designing and implementing robust experimentation, measurement, and analytical frameworks at global scale.",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "AI算法研究实习生（2026实习）",
+      "company": "明汯投资",
+      "location": "上海, Shanghai",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-06-01",
+      "applyUrl": "https://join.mhfunds.com/index/m/position/detail/7346409322086320447",
+      "snippet": "明汯投资AI算法研究实习生，聚焦量化交易中的机器学习与深度学习研究，优秀实习生可转正。",
+      "description": "## 关于明汯投资\n\n明汯投资是中国顶级量化私募之一，成立于2014年，管理规模超千亿元，专注于大数据与AI驱动的量化投资策略研究。在上海、北京、香港均设有办公室，团队汇聚国内外顶尖高校的技术与研究人才。\n\n## 岗位职责\n\n- 研究并实现先进的机器学习与深度学习算法，并将其应用于量化投资场景\n- 参与量化因子挖掘、选股模型及策略开发\n- 利用大数据技术处理海量金融市场数据，构建特征工程流水线\n- 配合研究员完成模型回测、优化、验证及上线\n- 跟踪学术前沿（NeurIPS、ICML等顶会成果）并探索在量化领域的应用\n\n## 任职要求\n\n- 在读本科/硕士/博士，计算机、数学、统计、物理、金融工程等STEM方向\n- 扎实的机器学习基础，熟悉Python（numpy/pandas/scikit-learn/PyTorch）\n- 具备良好的数学功底（线性代数、概率统计、优化理论）\n- 热爱量化投资，对AI在金融领域的应用有浓厚兴趣\n- 实习周期至少3个月，每周至少4天到岗（上海/北京均可）\n\n## 薪资待遇\n\n- 日薪300–500元（根据水平面议）\n- 优秀实习生可获得转正机会\n- 完善的导师制度与培训体系\n- 定期团建与技术分享"
+    },
+    {
+      "market": "CN",
+      "title": "AI基础架构开发实习生（2026实习）",
+      "company": "明汯投资",
+      "location": "上海, Shanghai",
+      "category": "MLOps / AI Infra",
+      "level": "Graduate",
+      "postedAt": "2026-06-01",
+      "applyUrl": "https://join.mhfunds.com/index/m/position/detail/7346412614246238491",
+      "snippet": "明汯投资AI基础架构开发实习，负责量化AI平台的基础设施建设，包括分布式训练、推理优化及数据平台建设。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "AI算法研究员（2026校招）",
+      "company": "明汯投资",
+      "location": "上海, Shanghai",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "postedAt": "2026-06-05",
+      "applyUrl": "https://join.mhfunds.com/index/m/position/7538744193184893223/detail",
+      "snippet": "明汯投资2026届全职AI算法研究员，主攻大模型与机器学习在量化投资中的前沿应用，年薪极具竞争力。",
+      "description": "## 关于明汯投资\n\n明汯投资是业内领先的量化私募基金，连续多年业绩名列前茅。技术团队由来自MIT、CMU、Caltech等顶尖高校的博士及研究人员组成，持续在AI、大数据、量化金融三个维度深耕。\n\n## 岗位职责\n\n- 独立研究前沿AI/ML算法并将其落地于量化投资实践\n- 主导大模型、强化学习、图神经网络等新方法在金融场景中的探索与应用\n- 构建高质量量化因子与预测模型，不断优化组合收益风险特征\n- 与交易、研究团队深度协作，推进策略从研究到上线的全链路落地\n\n## 任职要求\n\n- 顶尖高校计算机、数学、统计、物理或金融工程专业本科及以上，2026届毕业\n- 扎实的算法基础与机器学习理论知识\n- 熟练掌握Python/C++编程\n- 有顶会论文（NeurIPS/ICML/ICLR等）或量化研究项目经验者优先\n- 对量化金融有浓厚兴趣与深度思考\n\n## 薪资待遇\n\n- 极具竞争力的全职年薪（面议）\n- 年度绩效奖金\n- 六险一金+补充医疗\n- 上海/北京两地办公可选"
+    },
+    {
+      "market": "CN",
+      "title": "AI算法研究员（梧桐计划）",
+      "company": "九坤投资",
+      "location": "北京, Beijing",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "postedAt": "2026-06-03",
+      "applyUrl": "https://app.mokahr.com/m/campus_apply/ubiquantrecruit/37031",
+      "snippet": "九坤投资梧桐计划，为量化业务全链路培养顶尖AI算法人才，年薪百万起，聚焦深度学习与大模型在量化交易中的创新应用。",
+      "description": "## 关于九坤投资\n\n九坤投资（Ubiquant）成立于2012年，是中国规模最大的量化私募之一，旗下设有数据实验室、AI实验室（iQuestLab）和水滴实验室，在大数据驱动的策略研究方面处于行业领先地位。2026年初，九坤AI研究院发布了高效开源大模型iQuest-Coder-V1，展现出深厚的AI研发实力。\n\n## 梧桐计划简介\n\n梧桐计划是九坤面向顶尖应届毕业生的专项人才培养项目，涵盖AI算法研究、量化实现等核心方向，设有明确的成长通道和极具竞争力的薪资待遇（年薪百万量级），并同步开放向优秀候选人内推。\n\n## 岗位职责\n\n- 研究深度学习、强化学习等前沿AI技术并应用于量化策略开发\n- 参与LLM、多模态、图神经网络等新方法在金融场景中的探索\n- 与交易和研究团队深度合作，推动策略从实验室到生产的全链路落地\n- 构建并优化高性能量化AI模型，提升策略超额收益\n\n## 任职要求\n\n- 顶尖高校（含海外知名高校）计算机、数学、统计、物理等专业本硕博\n- 扎实的算法与机器学习理论基础\n- 熟练Python/C++编程；具备ML框架（PyTorch等）使用经验\n- 有竞赛获奖（ACM/ICPC、Kaggle Top等）或顶会论文者优先"
+    },
+    {
+      "market": "CN",
+      "title": "风险模型算法工程师实习",
+      "company": "微众银行",
+      "location": "深圳, Shenzhen",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-06-08",
+      "applyUrl": "https://campus.webank.com/campus-recruitment/webankhr/18005",
+      "snippet": "微众银行2026暑期实习，招募风险模型算法工程师实习生，基于海量金融数据构建AI风控模型体系。",
+      "description": "## 关于微众银行\n\n微众银行（WeBank）成立于2014年，是国内首家互联网银行，总部位于深圳，在区块链、人工智能、大数据和云计算等关键技术领域持续投入。微众银行已构建超过600个风控模型，并在联邦学习、可解释AI等前沿方向取得国际认可的技术成果（FATE联邦学习框架）。\n\n## 岗位职责\n\n- 参与贷前准入、贷中审核、贷后监测等全流程AI风控模型的开发与优化\n- 基于海量金融行为数据进行特征工程，构建欺诈识别、信用评分等核心模型\n- 利用机器学习及深度学习方法提升风控策略的精准度和覆盖率\n- 配合研究员完成模型实验、A/B测试和上线验收\n\n## 任职要求\n\n- 统计学、计算机、数学、金融工程等相关专业在读本硕博，2027届及以后毕业\n- 熟悉Python机器学习常用框架（scikit-learn、XGBoost、LightGBM、PyTorch等）\n- 有金融数据分析或量化风控实习经历者优先\n- 每周到岗至少4天，实习周期3个月以上\n\n## 薪资待遇\n\n- 日薪200–400元\n- 优秀实习生可转为校招正式员工\n- 深圳总部办公，餐补及交通补贴"
+    },
+    {
+      "market": "CN",
+      "title": "AI算法研究工程师",
+      "company": "华夏基金",
+      "location": "北京, Beijing",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "postedAt": "2026-06-07",
+      "applyUrl": "https://chinaamc.zhiye.com/gzpp",
+      "snippet": "华夏基金AI算法研究工程师，深耕金融垂类大模型训练与智能投研系统开发，覆盖量化策略、智能投顾等前沿应用场景。",
+      "description": "## 关于华夏基金\n\n华夏基金（China Asset Management，简称\"华夏基金\"）是中国规模最大、历史最悠久的公募基金公司之一，管理规模超万亿元，总部位于北京。华夏基金拥有国内最早成立的量化投资团队之一，在AI+指数增强策略、NLP智能投研、知识图谱等方向持续深耕，正在从传统资管向AI原生资管转型。\n\n## 岗位职责\n\n- 研究并落地金融垂类大模型（LLM）：覆盖智能投研助手、量化因子挖掘、报告生成等场景\n- 开发和维护基于NLP/ML的量化信号体系，提升选股和资产配置策略\n- 构建RAG检索增强系统，实现对海量研报、财务数据的智能问答\n- 与量化研究、投资决策团队深度协作，推动AI技术在投研流程中的落地\n\n## 任职要求\n\n- 计算机、数学、统计、金融工程等相关专业硕士及以上，知名高校背景\n- 扎实的机器学习/深度学习基础，熟练掌握Python及主流框架（PyTorch/TensorFlow）\n- 熟悉大模型微调（SFT/RLHF）、RAG、Agent等技术栈\n- 有量化研究、NLP算法或金融科技项目经验者优先\n- 预期2025年10月至2026年9月毕业\n\n## 工作地点\n\n北京（含上海分公司）"
+    },
+    {
+      "market": "CN",
+      "title": "大模型应用工程师实习",
+      "company": "华夏基金",
+      "location": "北京, Beijing",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-06-07",
+      "applyUrl": "https://chinaamc.zhiye.com/gzpp",
+      "snippet": "华夏基金大模型应用工程师暑期实习，参与金融AI智能体开发与大模型应用落地，探索AI+量化投资的前沿方向。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "大语言模型算法工程师",
+      "company": "航天科工集团智能科技研究院",
+      "location": "北京, Beijing",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "postedAt": "2026-06-10",
+      "applyUrl": "https://www.gaoxiaojob.com/announcement/detail/385402.html",
+      "snippet": "航天科工集团智能科技研究院2026届校招，招募大语言模型算法工程师，面向智能国防与航天领域的AI系统研发。",
+      "description": "## 关于航天科工集团智能科技研究院\n\n航天科工集团智能科技研究院有限公司（北京）是中国航天科工集团旗下专注于人工智能与智能系统研究的核心研究院，承担国防、航天、工业智能等领域的前沿AI技术攻关与工程化工作。\n\n## 岗位职责\n\n- 负责大语言模型（LLM）在国防及工业场景中的算法研究与系统设计\n- 参与智能指挥系统、知识图谱、多模态感知等AI核心模块开发\n- 开展LLM微调（SFT/RLHF）、领域适配与部署优化工作\n- 与算法团队协同完成从原型到生产的全链路工程化\n\n## 任职要求\n\n- 人工智能、计算机科学与技术、电子科学与技术等相关专业硕士/博士，2026届\n- 年龄要求：硕士不超过30岁，博士不超过35岁\n- 熟练掌握Python/C++，具备深度学习框架（PyTorch等）实战经验\n- 有NLP、大模型或智能系统工程项目经验者优先\n- 北京市户籍可协助落户\n\n## 投递方式\n\n简历发送至：casichtznzhaopin@163.com\n邮件命名格式：姓名+毕业院校+专业+硕士/博士+岗位编号\n\n## 福利待遇\n\n- 餐补、住房补贴、健康体检\n- 带薪年假、节日福利\n- 北京市正式编制（部分岗位）"
+    },
+    {
+      "market": "CN",
+      "title": "AI算法工程师（金融大模型）",
+      "company": "万得信息技术",
+      "location": "上海, Shanghai",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "postedAt": "2026-06-04",
+      "applyUrl": "https://www.wind.com.cn/mobile/JoinUS/RecruitDetail/zh.html",
+      "snippet": "万得信息技术（Wind）AI算法工程师，聚焦金融垂类大模型开发与智能投研助手构建，覆盖Wind金融终端的AI能力升级。",
+      "description": "## 关于万得信息技术（Wind）\n\n万得信息技术股份有限公司（Wind资讯）是中国领先的金融数据、信息和软件服务企业，Wind终端是国内金融机构的主流工具，覆盖超过95%的国内金融机构。万得正在将AI大模型深度融入其金融数据产品生态，构建下一代智能投研基础设施。\n\n## 岗位职责\n\n- 负责面向金融场景的LLM微调、RAG系统设计与优化\n- 构建金融知识图谱与智能问答系统，赋能Wind终端AI化升级\n- 开发面向量化研究的AI Agent，实现海量金融数据的自动化检索与分析\n- 参与金融垂类大模型（FinLLM）的预训练、后训练及评估体系建设\n\n## 任职要求\n\n- 计算机、数学、统计等相关专业本科及以上，知名院校背景\n- 熟悉LLM微调（SFT/RLHF）、RAG、Agent等主流技术栈\n- 具备Python及主流深度学习框架（PyTorch/HuggingFace）实战经验\n- 有金融数据处理、量化研究或自然语言处理项目经历者优先\n- 本次招聘截止日期为2026年6月（春招），建议尽早投递\n\n## 工作地点\n\n上海（含北京部分岗位）"
+    },
+    {
+      "market": "CN",
+      "title": "算法工程师（AI for Science / 大模型方向）",
+      "company": "晶泰科技",
+      "location": "上海, Shanghai",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "postedAt": "2026-06-06",
+      "applyUrl": "https://app.mokahr.com/campus_apply/jingtai/2143",
+      "snippet": "晶泰科技AI算法工程师，用大模型与深度学习驱动药物与材料科学研发，在AI for Science前沿领域实现商业化突破。",
+      "description": "## 关于晶泰科技（XtalPi）\n\n晶泰科技（XtalPi）由三位MIT物理学家于2015年创立，是以量子物理为根基、人工智能为引擎、机器人为执行载体的新型科研平台，专注于AI驱动的药物研发与先进材料科学。总部在深圳，上海研发中心位于张江综合创新园，研究人员占员工总数超70%。晶泰科技是\"AI for Science\"赛道的代表性企业，已完成多轮融资，投资方包括腾讯、Google等。\n\n## 岗位职责\n\n- 开发并应用深度学习模型（Transformer、图神经网络、扩散模型等）解决药物分子设计问题\n- 参与大模型（LLM）在化学、生物学垂直领域的微调与应用开发\n- 构建端到端的AI实验自动化管线，实现科研工作流的智能化\n- 与实验科学家、计算化学团队协作，迭代优化模型性能\n\n## 任职要求\n\n- 计算机、AI/ML、应用数学、计算化学或相关STEM专业本科及以上\n- 掌握Python及主流深度学习框架（PyTorch/JAX/TensorFlow）\n- 有图神经网络（GNN）、分子生成、蛋白质结构预测等方向经验者优先\n- 具备良好的科研能力和代码工程素养\n- 2026届及以后毕业，或有丰富相关工作经验\n\n## 工作地点\n\n上海（张江）、深圳、北京（多地同步招聘）"
+    },
     {
       "market": "AU",
       "title": "Product Manager - AI Products",
@@ -24,7 +225,7 @@
       "level": "Mid",
       "postedAt": "2026-03-31",
       "applyUrl": "https://groupcareers.singtel.com/job/Product-Manager-AI-Products-Sydn/1359437166/",
-      "description": "Singtel/Optus is looking for an AI Product Manager to support the development and delivery of AI products within their Customer, Enabling, or Technology product portfolios. Reporting to the Senior Director of AI Product, you'll be accountable for supporting product strategy execution and roadmap delivery for a single AI product or squad, aligned to Optus.ai objectives and business goals. Responsibilities include contributing to product backlogs by writing clear user stories and acceptance criteria that translate business requirements into actionable development work, conducting user research initiatives including interviews, surveys, usability testing, and behavioural analysis to understand user needs and validate solutions, and collaborating with cross-functional squads including engineering, data science, design, and business stakeholders through the product development lifecycle. Required qualifications include demonstrated experience supporting product development from concept to launch, proficiency in product analytics and using data insights to drive product decisions, understanding of AI/ML concepts and ability to work effectively with technical teams. Experience working with AI/ML products or platforms is desirable.",
+      "description": "Singtel/Optus is looking for an AI Product Manager to support the development and delivery of AI products within their Customer, Enabling, or Technology product portfolios. Reporting to the Senior Director of AI Product, you'll be accountable for supporting product strategy execution and roadmap delivery for a single AI product or squad, aligned to Optus.ai objectives and business goals. Responsibilities include contributing to product backlogs by writing clear user stories and acceptance criteria that translate business requirements into actionable development work, conducting user research initiatives including interviews, surveys, usability testing, and behavioural analysis to understand user needs and validate solutions, and collaborating with cross-functional squads including engineering, data science, design, and business stakeholders through the product development lifecycle. Required qualifications include demonstrated experience supporting product development from concept to launch, proficiency in product analytics and using data insights to drive product decisions, and understanding of AI/ML concepts and ability to work effectively with technical teams.",
       "descriptionSource": "search-snippet"
     },
     {
@@ -35,7 +236,7 @@
       "category": "Data Scientist",
       "level": "Senior",
       "applyUrl": "https://recruitment.macquarie.com/en_US/careers/JobDetail/Lead-Data-Scientist-Agentic-AI/18854",
-      "description": "As the Lead Data Scientist at Macquarie Asset Management, you will partner with business leaders, engineering, and cross-functional teams to architect the future of AI and data science, owning the end-to-end strategy, influencing executive and board-level decisions, and shaping how AI transforms the business. You will lead, inspire, and grow a high-performing global team, fostering technical excellence, diversity of thought, and a culture of ambitious experimentation. Leveraging modern platforms, you will pioneer production-grade agentic AI and digital co-worker capabilities by harnessing advanced machine learning, natural language processing (NLP), and large language models (LLMs) to solve complex challenges and drive innovation across investment management, client servicing, fund management, and corporate operations. Key requirements include experience with Agentic AI platforms, familiarity with Google Gemini and the Agent Development Kit (ADK), proven track record of implementing data science and AI solutions with measurable ROI, and relevant tertiary qualification (Master's or Doctorate preferred) in Data Science, Mathematics, Statistics, Computer Science or equivalent practical experience. Domain experience in Private Markets and Private Credit is highly desirable.",
+      "description": "As the Lead Data Scientist at Macquarie Asset Management, you will partner with business leaders, engineering, and cross-functional teams to architect the future of AI and data science, owning the end-to-end strategy, influencing executive and board-level decisions, and shaping how AI transforms the business. You will lead, inspire, and grow a high-performing global team, fostering technical excellence, diversity of thought, and a culture of ambitious experimentation. Leveraging modern platforms, you will pioneer production-grade agentic AI and digital co-worker capabilities by harnessing advanced machine learning, natural language processing (NLP), and large language models (LLMs) to solve complex challenges and drive innovation across investment management, client servicing, fund management, and corporate operations. Key requirements include experience with Agentic AI platforms, familiarity with Google Gemini and the Agent Development Kit (ADK), proven track record of implementing data science and AI solutions with measurable ROI, and relevant tertiary qualification (Master's or Doctorate preferred) in Data Science, Mathematics, Statistics, or Computer Science.",
       "descriptionSource": "search-snippet"
     },
     {
@@ -47,7 +248,7 @@
       "level": "Junior",
       "postedAt": "2026-03-06",
       "applyUrl": "https://recruitment.macquarie.com/en_US/careers/JobDetail/AI-Native-Platform-Engineer/20962",
-      "description": "As a junior member of the AI SDLC Developer Productivity and Enablement team, you will help build and maintain the SCM, CI/CD pipelines, and developer productivity tooling that engineering teams rely on daily, and contribute to maintaining the organisation's GitHub Actions runner fleet, developing reusable workflows, and ensuring internal integrations work seamlessly for business application teams. You will apply agentic engineering principles as a core part of your daily workflow to deliver quality, maintainable solutions. Collaborating closely with development teams, you will identify pain points in their delivery processes, help design customised automation where it adds value, and contribute to embedding agentic engineering principles into the organisation's developer workflows. Requirements include demonstrated ability and enthusiasm for agentic engineering using tools such as Claude Code and GitHub Copilot, awareness of source control management practices, and experience using AI agents as collaborative partners across the full development lifecycle from design through implementation, testing, and review.",
+      "description": "As a junior member of the AI SDLC Developer Productivity and Enablement team, you will help build and maintain the SCM, CI/CD pipelines, and developer productivity tooling that engineering teams rely on daily, and contribute to maintaining the organisation's GitHub Actions runner fleet, developing reusable workflows, and ensuring internal integrations work seamlessly for business application teams. You will apply agentic engineering principles as a core part of your daily workflow to deliver quality, maintainable solutions. Collaborating closely with development teams, you will identify pain points in their delivery processes, help design customised automation where it adds value, and contribute to embedding agentic engineering principles into the organisation's developer workflows. Requirements include demonstrated ability and enthusiasm for agentic engineering using tools such as Claude Code and GitHub Copilot, awareness of source control management practices, and experience using AI agents as collaborative partners across the full development lifecycle.",
       "descriptionSource": "search-snippet"
     },
     {
@@ -91,7 +292,7 @@
       "category": "AI Engineer",
       "level": "Graduate",
       "applyUrl": "https://www.nowcoder.com/feed/main/detail/39bd99e090d04a7e86f513a220932cdc",
-      "description": "安克创新2026届暑期实习招聘人工智能/算法岗位，招聘城市为苏州、杭州、长沙、深圳、北京、上海。岗位要求候选人具备AI工具实战经验，简历中应体现与AI工具协作的实战过程，毕业时间需在2026年9月1日至2027年12月31日之间。安克创新为全球消费电子领域领先企业，旗下拥有Anker、Eufy、Soundcore等知名品牌，业务覆盖100多个国家和地区。申请流程包括：简历投递、在线测评&笔试、3-4轮面试沟通及Offer审批。优秀实习生可获得留用校招Offer，正式入职时还可获得专属留用奖金，并享有双导师制培养及200+免费内部课程学习资源。",
+      "description": "安克创新2026届暑期实习招聘人工智能/算法岗位，招聘城市为苏州、杭州、长沙、深圳、北京、上海。岗位要求候选人具备AI工具实战经验，简历中应体现与AI工具协作的实战过程，毕业时间需在2026年9月1日至2027年12月31日之间。申请流程包括：简历投递、在线测评&笔试、3-4轮面试沟通及Offer审批。优秀实习生可获得留用校招Offer，正式入职时还可获得专属留用奖金，并享有双导师制培养及200+免费内部课程学习资源。",
       "descriptionSource": "search-snippet"
     },
     {
