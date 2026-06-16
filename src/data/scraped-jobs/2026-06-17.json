@@ -1,0 +1,164 @@
+{
+  "date": "2026-06-17",
+  "generatedAt": "2026-06-17T07:31:00+10:00",
+  "auMode": "淡季",
+  "cnMode": "暑假实习+提前批",
+  "sources": [
+    "au.prosple.com",
+    "au.gradconnection.com",
+    "wisetechglobal.com",
+    "nowcoder.com"
+  ],
+  "stats": {
+    "auCandidates": 40,
+    "auLive": 5,
+    "cnCandidates": 30,
+    "cnLive": 7
+  },
+  "jobs": [
+    {
+      "id": "atlassian-ml-engineer-graduate-2026-prosple",
+      "title": "Machine Learning Engineer, 2026 Graduate",
+      "company": "Atlassian",
+      "market": "AU",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://au.prosple.com/graduate-employers/atlassian-australia/jobs-internships/machine-learning-engineer-graduate-0",
+      "descriptionSource": "search-snippet",
+      "description": "The role focuses on AI/ML applications and new generative AI experiences, involving building and fine-tuning machine learning models to assess AI response quality, translating business problems into technical solutions, and collaborating with the AI Experience team and broader Central AI group. You'll also work with ML engineers, back-end, platform, and front-end engineering teams. Candidates must be currently enrolled in a full-time degree program, preferably a Master's, graduating by January 2026, and have experience in writing software with minimal bugs in Python or Java. Experience with SQL is a bonus. You must have Australian or New Zealand citizenship or Permanent Residency. Atlassian offers health coverage, paid volunteer days, wellness resources, and more to support employees and their families."
+    },
+    {
+      "id": "canva-data-scientist-internship-prosple",
+      "title": "Data Analytics Internship",
+      "company": "Canva",
+      "market": "AU",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://au.prosple.com/graduate-employers/canva/jobs-internships/data-scientist-internship-anz",
+      "descriptionSource": "search-snippet",
+      "description": "The internship involves working alongside other data scientists, software engineers, and product managers to build understanding of how the product works, building and maintaining data models in the data warehouse, and analyzing A/B tests to uncover the best direction for the product. Additional responsibilities include helping understand both Canva and customers with creative insights rather than standard metrics, and suggesting, setting up, and running experiments that meaningfully move metrics. Creating predictive models to help understand future direction. You must be currently enrolled and completing studies between 2025 and mid-2026, and be based in Australia or New Zealand with working rights. Canva will not be able to sponsor visas and relocate for Early Talent roles. The Canva internship is a 12-week remote-friendly program running from the first week of December to the last week of February, with an opportunity to meet your team in person at their flagship Sydney campus."
+    },
+    {
+      "id": "suncorp-graduate-data-science-analytics-2026-gradconnection",
+      "title": "2026 Graduate Program – Data Science & Analytics",
+      "company": "Suncorp",
+      "market": "AU",
+      "location": "Brisbane, QLD",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/suncorp/jobs/suncorp-2026-suncorp-graduate-program-data-science-analytics/",
+      "descriptionSource": "search-snippet",
+      "description": "The Data Science (Technical) role involves working on AI and machine learning projects, predictive modelling, data engineering, and the development of tools that shape the future of the business. Skills valued include curiosity about AI and data ethics, strong analytical and coding ability (Python a plus), and confidence engaging stakeholders. This is a two-year graduate program offering the chance to work on projects that matter, from building predictive models and unlocking insights to advancing AI safety and governance. Participants will learn from experts, experiment with new technologies, and help bring bold ideas to life in a supportive and collaborative environment. Preferred degrees include Data Science, Mathematics, Statistics, Computer Science, IT, or Engineering. Based in Brisbane, with hybrid work options."
+    },
+    {
+      "id": "valsoft-exeevo-data-scientist-intern-prosple",
+      "title": "Data Scientist Intern",
+      "company": "Valsoft Corporation (Exeevo)",
+      "market": "AU",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://au.prosple.com/graduate-employers/valsoft-corporation/jobs-internships/data-scientist-intern-0",
+      "descriptionSource": "search-snippet",
+      "description": "Exeevo is offering a Data Scientist Intern position to develop AI-driven solutions using LLMs and Azure technologies for the Life Sciences industry. Responsibilities include collaborating with cross-functional teams to design and implement AI/ML models using Python, developing and fine-tuning Large Language Models (LLMs) for specific Life Sciences use cases, implementing Retrieval-Augmented Generation (RAG) pipelines to improve information retrieval and response generation, integrating AI solutions within Azure services including Azure Machine Learning and Azure Cognitive Services, and working with Model Context Protocol (MCP) servers to manage model contexts and ensure efficient deployment. Requirements: Master's or Ph.D. in Computer Science or Data Science, proficiency in Python and ML libraries, experience with Azure ecosystem, understanding of LLM architectures, RAG methodologies, and MCP server functionalities."
+    },
+    {
+      "id": "wisetech-senior-ml-engineer-sydney",
+      "title": "Senior Machine Learning Engineer",
+      "company": "WiseTech Global",
+      "market": "AU",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://wisetechglobal.com/careers/current-openings/senior-machine-learning-engineer-in-sydney/ce7b71c7-ae29-4861-8b30-b76f9816f488",
+      "descriptionSource": "search-snippet",
+      "description": "WiseTech Global is seeking a Senior Machine Learning Engineer to bring state-of-art machine learning models from ideas into production, take ownership of complex projects, and deliver well-structured, well-tested, production-ready solutions. Responsibilities include taking a leading role in designing and building innovative machine learning and other algorithmic solutions, API services and data pipelines. WiseTech Global is a renowned Australian software development company specializing in advanced solutions for the logistics industry, and prides itself on its flat structure and collaborative culture, giving engineers the autonomy to drive meaningful projects."
+    },
+    {
+      "id": "huawei-cloud-ai-engineer-cv-nowcoder-c1aa6a61",
+      "title": "AI工程师（计算机视觉）",
+      "company": "华为云",
+      "market": "CN",
+      "location": "深圳",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/c1aa6a617b544c119a4d5371e51c8f4b?sourceSSR=post",
+      "descriptionSource": "search-snippet",
+      "description": "华为云26届校招-AI工程师（计算机视觉）-深圳-上海-东莞-杭州。岗位职责：负责计算机视觉、模式识别、多媒体内容分析等方向的应用研究和开发工作，如3D重建、图像超分、OCR、多目标跟踪、场景识别等；负责计算视觉核心算法及平台的设计与研发，提升产品的核心竞争力和用户体验。岗位要求：计算机科学、机器学习、统计学、应用数学等相关专业；掌握计算机视觉和图像处理基本算法，并在检测、识别、OCR、分类、语义分割、图像处理等方向有较深入研究；有良好的研究背景和成果，对算法研究兴趣浓厚；具备较强的编程能力，精通C++/Java/Python等主流编程语言；在高水平国际会议和学术期刊发表过相关论文或有高水平竞赛获奖经历。"
+    },
+    {
+      "id": "xiaomi-ai-agent-algorithm-engineer-nowcoder-7e2afa7f",
+      "title": "AI算法工程师-AI Agents方向",
+      "company": "小米",
+      "market": "CN",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/7e2afa7f9c33472aa7af6e7e3ac44d15",
+      "descriptionSource": "search-snippet",
+      "description": "小米集团AI人才专项招聘：AI算法工程师— AI Agents方向。岗位职责：负责基于自研技术栈构建高可用的AI Agent、设计多智能体协作逻辑及自省机制；参与构建高性能检索增强生成RAG系统；将LLM能力解构并集成至复杂业务系统；负责核心模块代码编写与系统重构；与产品经理、算法工程师深度配合；追踪OpenAI、Anthropic等社区最新动态。任职要求：熟练掌握Python/Go/Java中至少一门；熟悉大语言模型基本原理和RAG、Function Calling、MCP等核心概念；具备分布式系统知识；在AI领域具备卓越的文献阅读能力和快速上手新技术的能力；逻辑清晰且具备团队合作精神。工作地点：北京/杭州。"
+    },
+    {
+      "id": "baichuan-ai-llm-algorithm-engineer-nowcoder-67ce3b34",
+      "title": "大模型算法工程师",
+      "company": "百川智能",
+      "market": "CN",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/67ce3b341f7741c3ba68ee21afd018f9",
+      "descriptionSource": "search-snippet",
+      "description": "内推｜百川智能（大模型）内推--社招。百川智能现正招募以下专业人才：算法类包括大模型算法工程师，专注于预训练、多模态、强化学习、SFT、医疗、安全、文生图等领域；工程类包括Infra工程师，负责分布式训练、推理、调度等方向；产品类包括医学产品经理、大模型产品经理。团队成员均来自百度、字节跳动、阿里等顶级科技公司，负责大模型训练和效果调优、超岗型业务场景适配、训练方法和大模型框架持续优化。工作地点：北京。"
+    },
+    {
+      "id": "iflytek-ai-research-algorithm-cognitive-llm-nowcoder-73397406",
+      "title": "AI研究算法工程师（认知大模型方向）",
+      "company": "科大讯飞",
+      "market": "CN",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/733974062b74447899a558328253e0bb",
+      "descriptionSource": "search-snippet",
+      "description": "科大讯飞2026届春季校园招聘全面启动！AI研究算法工程师（认知大模型方向）。技术类岗位包括机器学习、大模型算法、模型训练等方向。Responsible for AI research algorithm development covering cognitive large models, speech large models, and planning algorithms. Requirements include bachelor's degree or above in computer science or electronic information engineering, proficiency in machine learning and deep learning, and programming skills in Python/C++. 招聘城市：北京、上海、合肥、深圳等，技术岗实习月薪1万元+。"
+    },
+    {
+      "id": "xiaohongshu-aigc-algorithm-intern-2026-nowcoder-790e6160",
+      "title": "AIGC算法工程师（2026暑期实习）",
+      "company": "小红书",
+      "market": "CN",
+      "location": "上海",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/790e6160dcf445b6a3ce2ac7014ae0ef",
+      "descriptionSource": "search-snippet",
+      "description": "小红书2026校招内推。招募AIGC算法工程师（2026暑期实习），面向2027届在校生。职责包括：开发和部署大规模多模态检索、内容质量评估、电商内容理解、生态审核和视频结构化算法；进行计算机视觉和多模态算法研究，包括多模态检索、细粒度分类、人脸识别、目标检测、分割、度量学习和质量评估；优化图像/视频/3D生成模型，AIGC模型训练和优化，探索前沿生成技术，关注工业落地和学术发表。工作地点：上海/北京/杭州。"
+    },
+    {
+      "id": "horizon-robotics-world-model-intern-nowcoder-a13eff02",
+      "title": "自动驾驶世界模型算法实习生",
+      "company": "地平线 (Horizon Robotics)",
+      "market": "CN",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/a13eff0253c44247aa28327cc7e99a3f",
+      "descriptionSource": "search-snippet",
+      "description": "地平线春季2026届实习生招聘。地平线世界模型团队招聘自动驾驶多模态世界模型算法实习生，地点为北京市和上海市。岗位职责：探索生成式多模态算法方案在自动驾驶领域的世界模型上的验证，包括但不限于3D gaussian、NERF、Diffusion等方向；探索基于世界模型的端到端自动驾驶算法验证与研发，包括感知、预测、规控等领域的落地应用；参与面向自动驾驶领域的数据场景建设，包括数据集的收集整理、标注、算法验证等。岗位要求：硕士及以上学历，专业方向为计算机科学、图形学、自动化、人工智能相关领域，且具有3D视觉、视频生成相关算法研发经验。实习薪资：6000-7000元+1000元房补。"
+    },
+    {
+      "id": "baidu-office-agent-pm-intern-nowcoder-d7a3bba6",
+      "title": "办公Agent产品经理实习生",
+      "company": "百度",
+      "market": "CN",
+      "location": "北京",
+      "category": "AI Product / PM",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/d7a3bba6c6a54dc6824e3282ef6c463f",
+      "descriptionSource": "search-snippet",
+      "description": "百度2026届暑期实习生招聘正式启动。办公Agent产品经理实习生岗位职责：协助产品团队梳理办公Agent的产品需求，参与需求调研、用户反馈收集与分析，提炼用户痛点，输出需求分析报告与优化建议。参与办公类Agent竞品调研，跟踪行业内相关产品动态和技术趋势，撰写竞品分析报告以支持产品策略制定。协助撰写产品需求文档（PRD）、产品说明书等相关文档，跟进产品研发、测试、上线全流程，协调跨团队沟通（设计、研发、测试、市场），推动需求落地，收集上线后用户反馈和数据表现，整理迭代优化清单。招聘目标：2026届毕业生（毕业时间2025年9月-2026年8月）。工作地点：北京。"
+    }
+  ]
+}
