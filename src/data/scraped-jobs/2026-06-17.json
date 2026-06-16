@@ -7,13 +7,16 @@
     "au.prosple.com",
     "au.gradconnection.com",
     "wisetechglobal.com",
-    "nowcoder.com"
+    "nowcoder.com",
+    "jobs.ashbyhq.com",
+    "seek.com.au",
+    "appen.com"
   ],
   "stats": {
-    "auCandidates": 40,
-    "auLive": 5,
-    "cnCandidates": 30,
-    "cnLive": 7
+    "auCandidates": 70,
+    "auLive": 12,
+    "cnCandidates": 50,
+    "cnLive": 13
   },
   "jobs": [
     {
@@ -159,6 +162,162 @@
       "applyUrl": "https://www.nowcoder.com/feed/main/detail/d7a3bba6c6a54dc6824e3282ef6c463f",
       "descriptionSource": "search-snippet",
       "description": "百度2026届暑期实习生招聘正式启动。办公Agent产品经理实习生岗位职责：协助产品团队梳理办公Agent的产品需求，参与需求调研、用户反馈收集与分析，提炼用户痛点，输出需求分析报告与优化建议。参与办公类Agent竞品调研，跟踪行业内相关产品动态和技术趋势，撰写竞品分析报告以支持产品策略制定。协助撰写产品需求文档（PRD）、产品说明书等相关文档，跟进产品研发、测试、上线全流程，协调跨团队沟通（设计、研发、测试、市场），推动需求落地，收集上线后用户反馈和数据表现，整理迭代优化清单。招聘目标：2026届毕业生（毕业时间2025年9月-2026年8月）。工作地点：北京。"
+    },
+    {
+      "id": "neara-senior-machine-learning-engineer",
+      "title": "Senior Machine Learning Engineer",
+      "company": "Neara",
+      "market": "AU",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://jobs.ashbyhq.com/neara/1ea30af7-974f-49cf-8742-edcfc4230c52",
+      "descriptionSource": "search-snippet",
+      "description": "Create ML models driving digitisation of real-world infrastructure from LIDAR, imagery, and vector data at Series C utility-AI scale-up."
+    },
+    {
+      "id": "xero-engineer-ai-platform",
+      "title": "Engineer, AI Platform",
+      "company": "Xero",
+      "market": "AU",
+      "location": "Sydney, NSW",
+      "category": "MLOps / AI Infra",
+      "level": "Mid",
+      "applyUrl": "https://jobs.ashbyhq.com/xero/42672767-6055-4ac2-b499-3b34a9a4448f",
+      "descriptionSource": "search-snippet",
+      "description": "Build and operate Xero's internal agentic AI platform — LLM gateways, shared SDKs, Kubernetes-based inference — enabling ML teams across the company."
+    },
+    {
+      "id": "mckinsey-company-data-scientist-quantumblack",
+      "title": "Data Scientist (QuantumBlack)",
+      "company": "McKinsey & Company",
+      "market": "AU",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "applyUrl": "https://www.mckinsey.com/capabilities/quantumblack/careers-and-community/data-scientist",
+      "descriptionSource": "search-snippet",
+      "description": "Build and deploy production ML and AI solutions for top-tier global clients at QuantumBlack, McKinsey's AI arm — Sydney office."
+    },
+    {
+      "id": "mckinsey-company-machine-learning-engineer-quantumblack",
+      "title": "Machine Learning Engineer (QuantumBlack)",
+      "company": "McKinsey & Company",
+      "market": "AU",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "applyUrl": "https://www.mckinsey.com/capabilities/quantumblack/careers-and-community/machine-learning-engineer",
+      "descriptionSource": "search-snippet",
+      "description": "Build production ML infrastructure and pipelines at QuantumBlack to power enterprise AI solutions deployed at global scale — Sydney."
+    },
+    {
+      "id": "mckinsey-company-ai-intern-quantumblack-anz",
+      "title": "AI Intern – QuantumBlack ANZ",
+      "company": "McKinsey & Company",
+      "market": "AU",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://au.prosple.com/graduate-employers/mckinsey-company/jobs-internships/ai-by-mckinsey-intern-quantumblack",
+      "descriptionSource": "search-snippet",
+      "description": "4–8 week paid internship at QuantumBlack, McKinsey's AI practice in Sydney — build real AI solutions with senior data scientists and ML engineers."
+    },
+    {
+      "id": "australian-payments-plus-data-engineer",
+      "title": "Data Engineer",
+      "company": "Australian Payments Plus",
+      "market": "AU",
+      "location": "Sydney, NSW",
+      "category": "Data Engineer",
+      "level": "Mid",
+      "applyUrl": "https://apply.workable.com/auspayplus/j/355439B29E",
+      "descriptionSource": "search-snippet",
+      "description": "Build data pipelines and infrastructure powering Australia's national payments ecosystem — BPAY, NPP, and next-gen real-time payments rails."
+    },
+    {
+      "id": "appen-research-intern-genai",
+      "title": "Research Intern – GenAI",
+      "company": "Appen",
+      "market": "AU",
+      "location": "Chatswood, NSW",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.appen.com/careers",
+      "descriptionSource": "search-snippet",
+      "description": "Join Appen's GenAI research team to advance multilingual AI, adversarial prompting, and agentic AI systems — hands-on dataset curation and model evaluation in Sydney."
+    },
+    {
+      "id": "",
+      "title": "大模型应用开发实习生",
+      "company": "阿里巴巴灵犀互娱",
+      "market": "CN",
+      "location": "上海",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/enterprise/12502",
+      "descriptionSource": "search-snippet",
+      "description": "参与灵犀互娱大模型应用研发，聚焦通用大模型、多模态理解、智能助手及产业AI应用，探索AI在游戏娱乐场景的创新落地。"
+    },
+    {
+      "id": "",
+      "title": "算法实习生（多模态/大模型方向）",
+      "company": "阿里巴巴灵犀互娱",
+      "market": "CN",
+      "location": "广州",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/695220df0eb741a59f7f8737d00da705",
+      "descriptionSource": "search-snippet",
+      "description": "聚焦多模态大模型算法研发，参与LLM后训练、多模态内容理解与生成，在游戏娱乐场景探索AIGC技术应用。"
+    },
+    {
+      "id": "",
+      "title": "抖音搜索算法工程师（大模型应用方向，暑期实习）",
+      "company": "字节跳动",
+      "market": "CN",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/f31bae5534794ea1b072bd75f4b4a331",
+      "descriptionSource": "search-snippet",
+      "description": "加入抖音搜索算法团队，利用大模型技术构建端到端智能问答，提升搜索质量与多模态召排能力。"
+    },
+    {
+      "id": "ai-agent",
+      "title": "AI Agent算法工程师（大模型方向）实习",
+      "company": "淘天集团",
+      "market": "CN",
+      "location": "杭州",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/05e205ff1d9548d2a47a8ee990e14c8a",
+      "descriptionSource": "search-snippet",
+      "description": "主导淘天AI Agent全生命周期研发，运用SFT/RL后训练方法构建电商智能体，推动智慧电商落地。"
+    },
+    {
+      "id": "ai",
+      "title": "AI应用算法实习生（大模型方向）",
+      "company": "淘天集团",
+      "market": "CN",
+      "location": "杭州",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/enterprise/23798",
+      "descriptionSource": "search-snippet",
+      "description": "探索端侧大模型与领域大模型前沿，构建面向淘宝研发上下文的AI应用，参与高性能轻量化端侧模型攻关。"
+    },
+    {
+      "id": "2027",
+      "title": "金融智能体研发实习生（2027届）",
+      "company": "阿里云",
+      "market": "CN",
+      "location": "杭州",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/1086ab6dec554de2ac265ca1698d8c03",
+      "descriptionSource": "search-snippet",
+      "description": "加入阿里云金融智能体团队，将大模型与Agent技术应用于金融场景，开发智慧金融AI解决方案。"
     }
   ]
 }
