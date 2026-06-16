@@ -1,0 +1,171 @@
+{
+  "date": "2026-06-17",
+  "generatedAt": "2026-06-17T07:30:00+10:00",
+  "auMode": "淡季",
+  "cnMode": "暑假实习 + 提前批",
+  "sources": [
+    "ashbyhq.com",
+    "apply.workable.com",
+    "mckinsey.com",
+    "appen.com",
+    "nowcoder.com"
+  ],
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Senior Machine Learning Engineer",
+      "company": "Neara",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "postedAt": "2026-06-10",
+      "applyUrl": "https://jobs.ashbyhq.com/neara/1ea30af7-974f-49cf-8742-edcfc4230c52",
+      "snippet": "Create ML models driving digitisation of real-world infrastructure from LIDAR, imagery, and vector data at Series C utility-AI scale-up.",
+      "description": "## About Neara\n\nNeara is a high-growth, venture-backed Series C technology company headquartered in Sydney, Australia, named in the TIME100 Most Influential Companies of 2024. The company builds 3D physics-enabled digital twins of critical infrastructure networks (power, water, telecoms) to help utilities run simulations and assess risk, working with 75% of utilities in Australia and New Zealand and rapidly expanding across the US and Europe.\n\n## Role Overview\n\nAs a Senior Machine Learning Engineer at Neara, you will create machine learning models that drive the digitisation of real-world infrastructure from a variety of data sources including LIDAR point clouds, aerial imagery, and vector geospatial data. You will work across every stage of the ML lifecycle — from data collection and quality assurance through model training, deployment, and production monitoring.\n\n## Key Responsibilities\n\n- Design and develop computer vision and geospatial ML models to extract structured information from raw infrastructure data\n- Build and maintain end-to-end ML pipelines for data ingestion, feature engineering, training, evaluation, and inference\n- Collaborate closely with infrastructure domain experts, software engineers, and product teams to translate real-world problems into ML solutions\n- Establish best practices for model monitoring, retraining workflows, and performance tracking in production\n- Contribute to Neara's core ML platform, improving tooling and infrastructure for the broader team\n\n## Requirements\n\n- 5+ years experience in applied machine learning, with production deployment track record\n- Strong Python skills and proficiency with ML frameworks (PyTorch or TensorFlow)\n- Experience with computer vision, point cloud processing, or geospatial ML preferred\n- Hands-on experience with cloud ML infrastructure (AWS, GCP, or Azure) and MLOps practices\n- Ability to work effectively in a fast-paced, mission-driven environment\n\n## Tech Stack\n\nPython, PyTorch, AWS/GCP, MLOps tooling, geospatial data processing, LIDAR processing libraries\n\n## Benefits\n\n- Competitive salary + equity in a high-growth Series C\n- Hybrid working from Neara's Sydney office\n- Mission-driven work with real-world impact on critical infrastructure resilience"
+    },
+    {
+      "market": "AU",
+      "title": "Engineer, AI Platform",
+      "company": "Xero",
+      "location": "Sydney, NSW",
+      "category": "MLOps / AI Infra",
+      "level": "Mid",
+      "postedAt": "2026-06-12",
+      "applyUrl": "https://jobs.ashbyhq.com/xero/42672767-6055-4ac2-b499-3b34a9a4448f",
+      "snippet": "Build and operate Xero's internal agentic AI platform — LLM gateways, shared SDKs, Kubernetes-based inference — enabling ML teams across the company.",
+      "description": "## About Xero\n\nXero is a global small-business platform used by over 4 million subscribers in 180+ countries. Based in the heart of Sydney CBD with views of the Harbour Bridge, Xero's engineering teams work on accounting, payroll, and AI-powered features that help small businesses thrive.\n\n## Role Overview\n\nAs an Engineer on the AI Platform team, you will build and evolve Xero's internal agentic AI platform, providing the shared infrastructure that allows ML engineers, data scientists, and product engineers to ship AI-powered features reliably at scale. This role can be performed remotely anywhere in Australia or from Xero offices in Sydney, Melbourne, or Brisbane.\n\n## Key Responsibilities\n\n- Design and build platform components using Python, AWS, Terraform, and Kubernetes to support AI workloads at scale\n- Develop and maintain shared infrastructure including secure LLM gateways, shared AI SDKs, and agent orchestration frameworks\n- Build observability tooling for AI systems — latency tracking, cost monitoring, safety guardrails\n- Collaborate with ML engineers and product teams to understand platform needs and prioritise improvements\n- Drive reliability, security, and efficiency improvements across Xero's AI infrastructure\n\n## Requirements\n\n- 3+ years software engineering experience with a focus on platform, infrastructure, or MLOps\n- Strong Python skills; familiarity with cloud infrastructure on AWS\n- Experience with Kubernetes, Terraform, and CI/CD pipelines\n- Understanding of LLM APIs, RAG systems, or AI agent patterns is a strong plus\n- Excellent communication skills and ability to work across teams\n\n## Tech Stack\n\nPython, AWS, Terraform, Kubernetes, LLM APIs (OpenAI/Anthropic/Bedrock), monitoring tooling\n\n## Benefits\n\n- Flexible remote-first working across Australia\n- Comprehensive health and wellbeing benefits\n- Share scheme and competitive salary\n- Learning and development budget"
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist (QuantumBlack)",
+      "company": "McKinsey & Company",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "postedAt": "2026-06-08",
+      "applyUrl": "https://www.mckinsey.com/capabilities/quantumblack/careers-and-community/data-scientist",
+      "snippet": "Build and deploy production ML and AI solutions for top-tier global clients at QuantumBlack, McKinsey's AI arm — Sydney office.",
+      "description": "## About QuantumBlack, AI by McKinsey\n\nQuantumBlack is McKinsey's artificial intelligence and data science division, employing 1,500+ engineers, data scientists, product managers, and designers who build AI solutions for the world's most complex business problems. The Sydney team works across financial services, resources, healthcare, and government sectors.\n\n## Role Overview\n\nAs a Data Scientist at QuantumBlack in Sydney, you will design, develop, and deploy AI and machine learning solutions for McKinsey's global client base. You will work at the intersection of data science, software engineering, and business strategy, translating client challenges into production-ready technical solutions.\n\n## Key Responsibilities\n\n- Build predictive models, recommendation systems, and GenAI applications for enterprise clients\n- Work across the full ML lifecycle: problem framing, data engineering, model development, evaluation, and production deployment\n- Partner with management consultants and client teams to ensure AI solutions deliver measurable business impact\n- Contribute to QuantumBlack's internal platforms, tools, and reusable AI assets\n- Mentor junior data scientists and contribute to the Sydney team's technical community\n\n## Requirements\n\n- 3–7 years of experience in data science or applied ML in production environments\n- Strong Python skills (pandas, scikit-learn, PyTorch/TensorFlow) and proficiency with SQL\n- Track record of deploying ML models to production; MLOps experience valued\n- Experience with GenAI, LLMs, or RAG systems is a significant advantage\n- Excellent communication skills to translate technical results to non-technical stakeholders\n- Bachelor's or Master's degree in Computer Science, Mathematics, Statistics, or related field\n\n## Tech Stack\n\nPython, SQL, PyTorch/TensorFlow, cloud platforms (AWS/GCP/Azure), dbt, Spark, MLflow\n\n## Benefits\n\n- Highly competitive salary and performance bonus\n- Exposure to world-class problems across industries\n- Access to McKinsey's global learning programs\n- Sydney CBD office with flexible working"
+    },
+    {
+      "market": "AU",
+      "title": "Machine Learning Engineer (QuantumBlack)",
+      "company": "McKinsey & Company",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "postedAt": "2026-06-08",
+      "applyUrl": "https://www.mckinsey.com/capabilities/quantumblack/careers-and-community/machine-learning-engineer",
+      "snippet": "Build production ML infrastructure and pipelines at QuantumBlack to power enterprise AI solutions deployed at global scale — Sydney.",
+      "description": "## About QuantumBlack, AI by McKinsey\n\nQuantumBlack is McKinsey & Company's AI and data science practice, operating at the forefront of applied AI to solve complex real-world business challenges. The Sydney office serves clients across the Asia-Pacific region.\n\n## Role Overview\n\nAs a Machine Learning Engineer at QuantumBlack, you will build the systems and infrastructure that make AI solutions production-ready and scalable. You will partner with data scientists to productionise models and with platform engineers to build reusable components for future client engagements.\n\n## Key Responsibilities\n\n- Design and implement ML pipelines for data ingestion, feature engineering, training, evaluation, and serving\n- Build model deployment infrastructure including containers, serving endpoints, monitoring dashboards, and retraining workflows\n- Develop reusable MLOps tooling and frameworks to accelerate delivery across projects\n- Collaborate with data scientists and client-facing consultants to translate research prototypes into robust production systems\n- Ensure reliability, performance, and security of ML systems in production\n\n## Requirements\n\n- 3–6 years of software engineering or ML engineering experience\n- Strong Python skills; experience with ML frameworks (PyTorch, TensorFlow, scikit-learn)\n- Solid understanding of cloud infrastructure (AWS, GCP, or Azure) and containerisation (Docker, Kubernetes)\n- Experience with MLOps tools — MLflow, Kubeflow, Airflow, or similar\n- Understanding of LLM fine-tuning, RAG pipelines, or agent architectures is a plus\n\n## Tech Stack\n\nPython, PyTorch/TensorFlow, AWS/GCP, Docker, Kubernetes, MLflow, Airflow\n\n## Benefits\n\n- Competitive compensation and merit bonus\n- Work on a diverse portfolio of AI projects across industries\n- Access to McKinsey's global training programs and internal AI community\n- Hybrid working from Sydney CBD"
+    },
+    {
+      "market": "AU",
+      "title": "AI Intern – QuantumBlack ANZ",
+      "company": "McKinsey & Company",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-06-08",
+      "applyUrl": "https://au.prosple.com/graduate-employers/mckinsey-company/jobs-internships/ai-by-mckinsey-intern-quantumblack",
+      "snippet": "4–8 week paid internship at QuantumBlack, McKinsey's AI practice in Sydney — build real AI solutions with senior data scientists and ML engineers.",
+      "description": "## About the Internship\n\nQuantumBlack, AI by McKinsey offers internship positions for talented graduates and final-year students in the ANZ region. The program runs for 4–8 weeks and is designed to give interns real, client-facing project experience — not internal busywork. High-performing interns receive offers to join full-time as Data Scientists, ML Engineers, or Software Engineers.\n\n## What You'll Do\n\n- Work alongside senior data scientists and ML engineers on live AI projects for major clients\n- Contribute to model development, data engineering, or AI system deployment tasks\n- Participate in client workshops and solution presentations\n- Explore the intersection of business strategy and cutting-edge AI technology\n- Receive mentorship from QuantumBlack practitioners and McKinsey consultants\n\n## Requirements\n\n- Currently enrolled in a Bachelor's or Master's degree in Computer Science, Data Science, Statistics, Mathematics, Engineering, or related field\n- Graduating in 2026 or 2027\n- Proficiency in Python and demonstrated interest in machine learning or data science\n- Strong analytical mindset and excellent communication skills\n- Australian Permanent Residency or Citizenship preferred\n\n## Tech Stack\n\nPython, SQL, data science libraries, cloud platforms (exposure during internship)\n\n## Benefits\n\n- Competitive internship salary\n- Structured mentorship and performance feedback\n- Strong conversion pathway to full-time Data Scientist or ML Engineer role\n- Sydney CBD office with McKinsey's global network access"
+    },
+    {
+      "market": "AU",
+      "title": "Data Engineer",
+      "company": "Australian Payments Plus",
+      "location": "Sydney, NSW",
+      "category": "Data Engineer",
+      "level": "Mid",
+      "postedAt": "2026-06-09",
+      "applyUrl": "https://apply.workable.com/auspayplus/j/355439B29E",
+      "snippet": "Build data pipelines and infrastructure powering Australia's national payments ecosystem — BPAY, NPP, and next-gen real-time payments rails.",
+      "description": "## About Australian Payments Plus\n\nAustralian Payments Plus (AP+) is the national payments infrastructure company formed through the merger of BPAY Group, eftpos Australia, and NPP Australia. AP+ operates the payment systems used by millions of Australians daily, including BPAY, PayID/Osko (NPP), and eftpos, and is driving Australia's payments roadmap into the next decade.\n\n## Role Overview\n\nAs a Data Engineer at AP+, you will design, build, and maintain the data pipelines and infrastructure that underpin AP+'s analytical and operational capabilities. You will work with large-scale payments transaction data, helping AP+ and its member institutions gain insight into Australia's payments landscape.\n\n## Key Responsibilities\n\n- Build and maintain ELT/ETL data pipelines using modern data stack tooling\n- Design scalable data models supporting analytics, regulatory reporting, and AI/ML workloads\n- Collaborate with data scientists and analysts to deliver data products that enable fraud detection, behavioural analytics, and strategic planning\n- Ensure data quality, governance, and lineage across AP+'s data platform\n- Contribute to the adoption of cloud-native data infrastructure on AWS\n\n## Requirements\n\n- 3–5 years of data engineering experience\n- Strong SQL and Python skills\n- Experience with cloud data platforms (Snowflake, BigQuery, or Redshift) and orchestration tools (Airflow, dbt)\n- Understanding of event-driven data architecture and streaming (Kafka experience a plus)\n- Exposure to payments, fintech, or financial services data is advantageous\n\n## Tech Stack\n\nPython, SQL, AWS, Snowflake/Redshift, dbt, Apache Airflow, Kafka\n\n## Benefits\n\n- Competitive salary + superannuation\n- Meaningful work at the heart of Australia's financial infrastructure\n- Flexible hybrid working from Sydney CBD\n- Professional development support"
+    },
+    {
+      "market": "AU",
+      "title": "Research Intern – GenAI",
+      "company": "Appen",
+      "location": "Chatswood, NSW",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-06-10",
+      "applyUrl": "https://www.appen.com/careers",
+      "snippet": "Join Appen's GenAI research team to advance multilingual AI, adversarial prompting, and agentic AI systems — hands-on dataset curation and model evaluation in Sydney.",
+      "description": "## About Appen\n\nAppen Limited (ASX: APX) is a global leader in high-quality AI training data, founded in Sydney in 1996. Over 30 years, Appen has built a platform connecting 1 million+ crowd contributors worldwide to create the data that powers AI models at Google, Meta, Microsoft, Amazon, and hundreds of other companies. Appen's Sydney headquarters houses its research and technology teams.\n\n## Role Overview\n\nAppens's GenAI Research Team is seeking Research Interns to support cutting-edge research in Generative AI, multilingual AI technologies, and agentic AI systems. You will contribute to projects that advance the safety, inclusiveness, and effectiveness of AI systems across languages and modalities.\n\n## Key Responsibilities\n\n- Conduct literature reviews on topics including adversarial prompting, multilingual LLM evaluation, and agentic AI behaviour\n- Assist in dataset curation, annotation workflow design, and quality assurance for speech, text, and multimodal data\n- Support model evaluation experiments including prompt engineering, red teaming, and safety benchmarking\n- Collaborate with research scientists to analyse model outputs and identify failure modes\n- Document research findings and contribute to internal technical reports\n\n## Requirements\n\n- Currently enrolled in a Bachelor's, Master's, or PhD in Computer Science, Linguistics, AI, or related field\n- Understanding of multilingual NLP, speech technologies, or agentic AI systems\n- Python proficiency; experience with HuggingFace, PyTorch, or similar ML frameworks preferred\n- Strong analytical and writing skills\n- Genuine interest in AI safety, evaluation, and responsible AI development\n\n## Tech Stack\n\nPython, HuggingFace Transformers, PyTorch, annotation tooling, evaluation frameworks\n\n## Benefits\n\n- Paid internship in Appen's Chatswood (Sydney) office\n- Mentorship from senior AI researchers\n- Exposure to production-scale AI data pipelines\n- Opportunity to contribute to publishable research"
+    },
+    {
+      "market": "CN",
+      "title": "大模型应用开发实习生",
+      "company": "阿里巴巴灵犀互娱",
+      "location": "上海",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-06-05",
+      "applyUrl": "https://www.nowcoder.com/enterprise/12502",
+      "snippet": "参与灵犀互娱大模型应用研发，聚焦通用大模型、多模态理解、智能助手及产业AI应用，探索AI在游戏娱乐场景的创新落地。",
+      "description": "## 关于阿里巴巴灵犀互娱\n\n灵犀互娱是阿里巴巴集团旗下核心AI大模型与智能交互业务主体，聚焦通用大模型、多模态理解、智能助手、产业AI应用等方向研发与商业化。团队汇聚顶尖AI与游戏人才，在游戏AI、角色智能体、虚拟数字人等领域持续突破创新。\n\n## 岗位描述\n\n本岗位面向2026/2027届在校生（暑期实习），参与大模型在互动娱乐领域的应用研发，推动AI技术与业务场景深度融合。\n\n## 主要职责\n\n- 参与大模型应用系统开发，包括对话式AI、角色驱动智能体、游戏AI辅助等方向\n- 负责大模型Prompt工程设计、RAG系统搭建及AI应用性能优化\n- 协同算法和工程团队，推动大模型技术在游戏场景的落地\n- 参与AI应用的效果评测、数据分析及迭代优化\n\n## 岗位要求\n\n- 计算机科学、人工智能、软件工程等相关专业在读（本科/硕士）\n- 熟练掌握Python，有大模型应用开发或LLM fine-tuning经验者优先\n- 了解Transformer架构，对大模型技术栈（如LangChain、RAG、Agent）有基本认知\n- 学习能力强，对AI在游戏/娱乐领域的创新应用有热情\n- 可实习至少3个月，每周至少4天\n\n## 技术栈\n\nPython, PyTorch/TensorFlow, LangChain, RAG, LLM API, 向量数据库\n\n## 福利待遇\n\n- 有竞争力的实习薪资\n- 阿里生态优质资源与成长机会\n- 转正机会，绩效优秀者可获得大厂offer"
+    },
+    {
+      "market": "CN",
+      "title": "算法实习生（多模态/大模型方向）",
+      "company": "阿里巴巴灵犀互娱",
+      "location": "广州",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-06-05",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/695220df0eb741a59f7f8737d00da705",
+      "snippet": "聚焦多模态大模型算法研发，参与LLM后训练、多模态内容理解与生成，在游戏娱乐场景探索AIGC技术应用。",
+      "description": "## 关于团队\n\n阿里巴巴灵犀互娱AI算法团队专注通用大模型与多模态技术研究，探索AI技术在互动娱乐领域的前沿应用，涵盖视觉生成、角色动画、多模态理解等方向。团队紧跟业界最新研究进展，鼓励算法创新与技术突破。\n\n## 岗位描述\n\n招募多模态/大模型算法方向实习生，参与前沿技术研究与工程落地，开放城市包括广州、上海、北京。\n\n## 主要职责\n\n- 参与多模态大模型（视觉-语言、图像生成等）的算法研究与工程实现\n- 探索LLM Alignment、RLHF、DPO等后训练技术在娱乐场景的应用\n- 负责算法原型验证、实验设计及效果分析\n- 跟踪AIGC、多模态领域顶会论文，结合业务场景进行技术转化\n\n## 岗位要求\n\n- 人工智能、机器学习、计算机视觉、自然语言处理等相关专业硕博在读（2027届优先）\n- 扎实的机器学习理论基础，熟悉深度学习框架（PyTorch）\n- 有多模态、AIGC或大模型相关科研/项目经历者优先\n- 具备良好的代码能力与算法工程化落地意识\n- 可实习至少3个月\n\n## 技术栈\n\nPython, PyTorch, Transformers, 多模态模型（LLaVA/GPT-4V等），RLHF/DPO\n\n## 福利待遇\n\n- 有竞争力的日薪（约300-500元/天）\n- 阿里系优质技术环境\n- 绩效优秀者可获转正机会"
+    },
+    {
+      "market": "CN",
+      "title": "抖音搜索算法工程师（大模型应用方向，暑期实习）",
+      "company": "字节跳动",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-06-12",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/f31bae5534794ea1b072bd75f4b4a331",
+      "snippet": "加入抖音搜索算法团队，利用大模型技术构建端到端智能问答，提升搜索质量与多模态召排能力。",
+      "description": "## 关于抖音搜索团队\n\n抖音搜索是字节跳动旗下核心技术团队之一，专注于为亿级用户提供高质量的搜索体验。随着大模型技术的迅猛发展，团队正探索将LLM与信息检索深度融合，打造下一代智能搜索引擎。\n\n## 岗位描述\n\n本岗位招募大模型应用方向的暑期实习生，参与抖音搜索的大模型化技术攻关，涉及搜索召回、排序、多模态理解等核心领域。\n\n## 主要职责\n\n- 利用大模型技术（RAG、ReRank、LLM重写）提升搜索召回质量\n- 参与端到端智能问答（AI搜索）系统的算法研发\n- 探索多模态检索（图文搜索、视频搜索）与大模型融合\n- 设计实验方案，迭代优化模型效果，持续提升搜索指标\n\n## 岗位要求\n\n- 计算机、AI、统计等相关专业硕士/博士在读（2026/2027届）\n- 扎实的机器学习基础，熟悉深度学习、NLP或信息检索技术\n- 有大模型相关项目（RAG、LLM应用、Agent）经验者优先\n- 熟练Python编程，有良好的算法工程化能力\n- 暑期实习，至少2个月\n\n## 技术栈\n\nPython, PyTorch, 向量检索（FAISS/Milvus）, LLM API, RAG框架\n\n## 福利待遇\n\n- 字节跳动标准实习薪资（约200-350元/天）\n- 字节全套实习福利（餐补/交通补贴）\n- 表现优秀可转正至抖音搜索核心算法团队"
+    },
+    {
+      "market": "CN",
+      "title": "AI Agent算法工程师（大模型方向）实习",
+      "company": "淘天集团",
+      "location": "杭州",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-06-11",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/05e205ff1d9548d2a47a8ee990e14c8a",
+      "snippet": "主导淘天AI Agent全生命周期研发，运用SFT/RL后训练方法构建电商智能体，推动智慧电商落地。",
+      "description": "## 关于淘天集团\n\n淘天集团（淘宝天猫商业集团）是阿里巴巴集团旗下核心电商业务，旗下包括淘宝、天猫、淘特等平台，服务亿级商家与消费者。集团正大力投入AI技术，将大模型与Agent技术深度融入电商全链路，打造下一代智慧电商体验。\n\n## 岗位描述\n\n招募AI Agent算法工程师方向实习生，参与电商场景下AI Agent的全生命周期研发与落地，工作地点在杭州。\n\n## 主要职责\n\n- 主导基于大模型的AI Agent系统设计与工程研发，涵盖电商导购、客服、内容创作等场景\n- 运用SFT（监督微调）、RL（强化学习）、DPO等Post-training方法提升Agent能力\n- 构建多步规划、工具调用、记忆管理等Agent核心模块\n- 设计实验评估体系，持续迭代Agent效果与可靠性\n- 与算法、工程、产品团队紧密协作，推动Agent技术规模化落地\n\n## 岗位要求\n\n- 人工智能、计算机科学、自动化等相关专业硕博在读（2027届优先）\n- 深入理解Transformer架构及大模型训推原理\n- 有LLM后训练、Agent开发或强化学习经验者优先\n- Python编程能力扎实，具备工程落地能力\n- 可实习至少3个月，每周至少4天\n\n## 技术栈\n\nPython, PyTorch, LLM后训练框架（如LLaMA-Factory/DeepSpeed），Agent框架（LangChain/AutoGPT），向量数据库\n\n## 福利待遇\n\n- 有竞争力的实习薪资\n- 阿里系完整实习配套福利\n- 优秀实习生可获正式offer"
+    },
+    {
+      "market": "CN",
+      "title": "AI应用算法实习生（大模型方向）",
+      "company": "淘天集团",
+      "location": "杭州",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-06-11",
+      "applyUrl": "https://www.nowcoder.com/enterprise/23798",
+      "snippet": "探索端侧大模型与领域大模型前沿，构建面向淘宝研发上下文的AI应用，参与高性能轻量化端侧模型攻关。",
+      "description": "## 关于团队\n\n淘天集团AI应用算法团队专注于将大模型技术深度融入淘宝、天猫等电商平台的各类业务场景，包括智能推荐、商品理解、内容生成、开发者赋能等方向。团队技术积累深厚，致力于在边缘端和云端部署高效的AI应用。\n\n## 岗位描述\n\n招募大模型方向AI应用算法暑期实习生，27届优先，工作地点杭州/北京。\n\n## 主要职责\n\n- 方向一：构建深度理解淘宝研发上下文的领域大模型，面向代码生成、研发效率、技术文档等研发场景\n- 方向二：探索端侧AI前沿边界，构建高性能轻量化端侧大模型，支持在移动设备上高效推理\n- 开展大模型能力评估、数据工程及模型微调实验\n- 参与工程化落地，将研究成果转化为产品级AI功能\n\n## 岗位要求\n\n- 人工智能、计算机科学等相关专业本硕博在读（2026/2027届）\n- 掌握深度学习框架（PyTorch/TensorFlow）及大模型基础知识\n- 有模型压缩、量化、知识蒸馏或端侧推理优化经验者优先\n- 或有领域大模型预训练/微调项目经验者优先\n- 可实习至少2个月\n\n## 技术栈\n\nPython, PyTorch, 模型量化工具（GPTQ/AWQ/llama.cpp），端侧推理框架（ONNX/TFLite），LLM微调\n\n## 福利待遇\n\n- 有竞争力的实习薪资\n- 参与亿级用户规模的真实产品研发\n- 绩优转正通道"
+    },
+    {
+      "market": "CN",
+      "title": "金融智能体研发实习生（2027届）",
+      "company": "阿里云",
+      "location": "杭州",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-06-13",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/1086ab6dec554de2ac265ca1698d8c03",
+      "snippet": "加入阿里云金融智能体团队，将大模型与Agent技术应用于金融场景，开发智慧金融AI解决方案。",
+      "description": "## 关于阿里云金融智能体团队\n\n阿里云金融智能体团队专注于将大模型与AI Agent技术深度融合，为银行、保险、证券、基金等金融机构提供智能化解决方案。团队具备业界一流的大模型训推能力和金融领域数据积累，正在主导下一代金融AI系统的架构设计与落地实践。\n\n## 岗位描述\n\n面向2027届在校生（可提前批投递），招募金融智能体研发实习生，参与面向金融场景的大模型Agent系统研发，工作地点杭州。\n\n## 主要职责\n\n- 参与金融智能体（AI Agent）核心系统的研发，包括多步推理、工具调用、记忆管理、任务规划等模块\n- 针对金融数据（财报分析、行情理解、风控决策等）进行大模型能力增强与微调\n- 构建金融领域RAG知识系统，支持智能投顾、合规查询等业务场景\n- 设计智能体效果评测体系，持续优化Agent在金融场景的可靠性\n\n## 岗位要求\n\n- 计算机、人工智能、金融工程等相关专业硕博在读（2027届）\n- 熟悉Transformer架构及大模型基本原理\n- 有LLM应用开发、Agent框架或金融NLP项目经验者优先\n- Python编程扎实，具备良好的算法工程化能力\n- 对金融科技和AI结合有浓厚兴趣\n- 可实习至少3个月\n\n## 技术栈\n\nPython, PyTorch, LangChain/LlamaIndex, 向量数据库（Milvus/Chroma），金融数据API, 阿里云PAI平台\n\n## 福利待遇\n\n- 有竞争力的阿里实习薪资\n- 阿里云世界级技术环境\n- 提前批机会，早投递早拿offer"
+    }
+  ]
+}
