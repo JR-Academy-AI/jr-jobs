@@ -1,0 +1,174 @@
+{
+  "date": "2026-06-18",
+  "generatedAt": "2026-06-18T07:54:28+10:00",
+  "auMode": "淡季",
+  "cnMode": "暑假实习+提前批",
+  "stats": {
+    "auCandidates": 35,
+    "auLive": 7,
+    "cnCandidates": 25,
+    "cnLive": 9
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "2026 Graduate Program – Technology & Transformation – Data & Analytics",
+      "company": "Deloitte",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "location": "Sydney, NSW",
+      "applyUrl": "https://au.gradconnection.com/employers/deloitte/jobs/deloitte-2026-graduate-program-technology-transformation-data-analytics/",
+      "description": "In this stream, graduates help clients turn information into insight, building predictive models and unlocking hidden opportunities to see how data transforms decision-making and drives real business outcomes. Deloitte is hiring across both their Graduate Program (starting 2026) and their Vacationer Program (internships typically over summer 2025/26), and international students are welcome to apply."
+    },
+    {
+      "market": "AU",
+      "title": "2026 Graduate Program – Tech Strategy & Transformation",
+      "company": "Deloitte",
+      "category": "Business Analyst",
+      "level": "Graduate",
+      "location": "Melbourne, VIC",
+      "applyUrl": "https://au.gradconnection.com/employers/deloitte/jobs/deloitte-2026-graduate-program-tech-strategy-transformation-melbourne/",
+      "description": "Within the Tech Strategy & Transformation team, you'll collaborate closely with senior technology and business leaders in large organisations, chart out strategies and roadmaps for technology-driven transformational change, and help organisations drive increased value from their technology functions. This role requires a degree in (Business) Information Systems, Information Technology, Data Science, Computer Science, or Cyber Security."
+    },
+    {
+      "market": "AU",
+      "title": "2027 CommBank Graduate Program: Advanced Analytics",
+      "company": "Commonwealth Bank",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "location": "Sydney, NSW",
+      "applyUrl": "https://au.gradconnection.com/employers/commonwealth-bank/jobs/commbank-2027-commbank-graduate-program-advanced-analytics-2/",
+      "description": "CommBank offers graduate programs where you'll use data to build and enhance quantitative and predictive models, large language models and chatbots and gain exposure in Decision Science, Artificial Intelligence (AI), Gen AI & machine learning (ML), Data Engineering. The Advanced Analytics program provides broad exposure across the Advanced Analytics spectrum, commencing with an Advanced Analytics Bootcamp, then applying techniques like exploratory data analysis and machine learning to tackle real customer challenges."
+    },
+    {
+      "market": "AU",
+      "title": "2026 Technology (Cloud) Graduate Program",
+      "company": "Westpac",
+      "category": "Data Engineer",
+      "level": "Graduate",
+      "location": "Sydney, NSW; Melbourne, VIC",
+      "applyUrl": "https://au.gradconnection.com/employers/westpac/jobs/westpac-group-2026-technology-cloud-graduate-program-sydney-melbourne/",
+      "description": "This program offers graduates hands-on training, including globally recognised certifications, while gaining exposure to cloud security, automation, Data & AI, cloud-native apps, and platform engineering. Over 12 months, you'll be embedded in Cloud & Infrastructure teams. Eligibility: you should be in your final year of study or have completed a degree no more than three years ago, and be an Australian or New Zealand Citizen or Permanent Resident."
+    },
+    {
+      "market": "AU",
+      "title": "2026 Project Grace: Business Analyst Graduate Program",
+      "company": "FDM Group",
+      "category": "Business Analyst",
+      "level": "Graduate",
+      "location": "Sydney, NSW",
+      "applyUrl": "https://au.gradconnection.com/employers/fdm-group/jobs/fdm-group-2026-project-grace-business-analyst-graduate-program/",
+      "description": "The program offers up to 12 weeks of training in Excel, SQL, Python, data tools, stakeholder management & AI, with real client projects at Australia's Big 4 banks, consulting, insurers, retailers, and more. You'll learn practical skills such as Excel, SQL, BI tools, stakeholder management, agile delivery, project planning/execution, risk and change management and using AI to enhance workplace productivity, exploring positions such as Business Analyst, Project Officer, Risk Analyst."
+    },
+    {
+      "market": "AU",
+      "title": "2026 ANZ Plus Graduate Program",
+      "company": "ANZ",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "location": "Sydney, NSW; Melbourne, VIC",
+      "applyUrl": "https://au.gradconnection.com/employers/anz/jobs/anz-2026-anz-plus-graduate-program/",
+      "description": "ANZ Plus Graduate Program offers opportunities in areas including cybersecurity, data analysis, cloud, engineering, or artificial intelligence (AI) through ANZ's new digital proposition for Australian Retail customers. The program features six monthly rotations to show you what's possible at ANZ, with pathways across Design, Digital, Data and Analytics, AI and more."
+    },
+    {
+      "market": "AU",
+      "title": "2027 Defence Graduate Program – Research and Innovation Pathway",
+      "company": "Department of Defence",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "location": "Canberra, ACT",
+      "applyUrl": "https://au.gradconnection.com/employers/department-of-defence/jobs/department-of-defence-2027-defence-graduate-program-research-and-innovation-pathway/",
+      "description": "The Defence Graduate Program includes Artificial Intelligence and Machine Learning opportunities focused on driving automation and predictive capabilities. Graduates work on nationally significant projects contributing to Australia's defence capability, with pathways into AI research, data science, and software engineering."
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法工程师实习生",
+      "company": "快手",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "location": "北京",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/9465691b980141919619d8ee78bcfc2f",
+      "description": "工作职责：1. 负责通过大模型的微调、创新结构设计和开发、全新训练和推理范式等技术，将大模型的生成、理解、交互能力在公司核心业务场景应用落地 2. 负责公司内LLM及衍生应用的相关技术模块的搭建，包括但不限于Agents、RAG等，探索大模型应用前沿及新兴应用场景 3. 负责对行业前沿技术的跟踪调研、落地，对业务场景进行优化。任职要求：1. 计算机或相关方向在读博士、硕士，机器学习、人工智能、自然语言处理或相关领域的专业背景 2. 有较强的工程实现能力，熟悉LLM基本原理、大模型微调等技术，熟悉C/C++、Python、Java等至少一门主流编程语言 3. 能保证6个月及以上的长期实习，实习表现优秀者可留用。"
+    },
+    {
+      "market": "CN",
+      "title": "大模型基座算法工程师实习生",
+      "company": "美团",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "location": "北京",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/c83924a176af41d1ac8c991f0c39cad0",
+      "description": "探索LLM前沿领域研究（数据建设、模型预训练、模型压缩、推理优化等），负责优化LLM对齐效果，以及参与LLM在客服、搜索、办公效率等业务场景的应用工作。岗位要求：计算机科学、数学、统计学或相关领域的硕士或博士学位，熟悉Python、Java等编程语言与深度学习框架，以及具备1年以上NLP经验，熟悉BERT、GPT等模型。实习要求为6个月以上，每周到岗4天以上。"
+    },
+    {
+      "market": "CN",
+      "title": "推荐算法工程师实习（2025/2026届）",
+      "company": "小红书",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "location": "北京",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/330791",
+      "description": "负责持续优化算法模型，将最前沿的技术运用到小红书的推荐场景中。要求：至少6个月的实习时长，具备强大的数据分析能力，思维清晰，乐于学习。负责小红书社区推荐算法的研发，持续提升用户体验与内容分发效率，具备机器学习或深度学习的扎实理论功底。"
+    },
+    {
+      "market": "CN",
+      "title": "NLP算法工程师（2026届春招）",
+      "company": "搜狐畅游",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "location": "北京",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/434850",
+      "description": "探索NLP前沿领域，包括数据构建、模型训练、智能体以及对话系统；优化模型有效性；参与NLP在游戏场景中的应用，如智能NPC和AI+游戏。要求：硕士及以上学历（计算机科学、数学、统计学等相关专业），有至少3个月的NLP/LLM项目经验，熟练掌握Python，能熟练使用PyTorch、TensorFlow等深度学习框架。"
+    },
+    {
+      "market": "CN",
+      "title": "NLP研究算法工程师（飞星计划）",
+      "company": "科大讯飞",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "location": "北京; 合肥; 上海",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/9b1249ace6d448709a0a1e6be7656113",
+      "description": "参与NLP相关算法研究与落地实现。要求：计算机、电子、模式识别、应用数学等相关专业（大三以上），至少熟悉C、C++、Python等中一门编程语言，熟悉深度学习算法，能熟练使用PyTorch复现论文，具有良好动手能力者优先。飞星计划是针对国内外顶尖高校应届硕博毕业生的招聘专项，旨在挑选并培养算法领域的杰出人才。"
+    },
+    {
+      "market": "CN",
+      "title": "LLM算法研究员（后训练方向）",
+      "company": "米哈游",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "location": "上海",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/102bd6982b264c4b9e2523b1d72ccbad",
+      "description": "负责LLM后训练算法研究，探索LLM Agent在游戏场景中的应用，收集后训练数据，利用强化学习技术开发后训练策略。要求：ML/AI/NLP/Computer Vision方向的硕博研究生，有强化学习、RLHF、DPO等后训练方法的研究经验，熟悉PyTorch框架，有大规模LLM后训练实践经验者优先。"
+    },
+    {
+      "market": "CN",
+      "title": "多模态/AIGC算法工程师（商业化技术）",
+      "company": "字节跳动",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "location": "北京; 上海",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/d21db82c018c41dca0d4e3277333f2fc",
+      "description": "岗位base在北京/上海/新加坡/温哥华。岗位职责包括：负责广告、电商、直播等相关内容理解（图片、文本、视频、音频等）；负责数据挖掘与特征工程，构建机器学习模型；面对大规模业务和受限资源场景优化模型计算效率；依托海量业务数据探索并落地前沿技术；负责基础模型和AIGC的探索与落地，构建新一代基于AIGC的商业生态体系。"
+    },
+    {
+      "market": "CN",
+      "title": "AI应用开发工程师（2026届春招）",
+      "company": "涂鸦智能",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "location": "杭州",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/3a9e9929305c41cf949cfa5198aa7b5a",
+      "description": "负责基于自研技术栈构建高可用的 AI Agent，设计多智能体协作逻辑及自省机制；参与构建高性能检索增强生成RAG系统，优化向量数据库检索、重排序及长文本上下文管理；将 LLM 能力解构并集成至复杂的业务系统中；负责核心模块的代码编写与系统重构，应用微服务架构。任职要求：熟练掌握 Python / Go / Java 中的至少一门，熟悉大语言模型的基本原理，了解 RAG、Function Calling、MCP等核心概念，有实际的 LangChain 或相关框架使用经验。"
+    },
+    {
+      "market": "CN",
+      "title": "计算机视觉多模态算法工程师（上海）",
+      "company": "小红书",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "location": "上海",
+      "applyUrl": "https://www.nowcoder.com/discuss/468071333118738432",
+      "description": "Responsible for large-scale multimodal image/video retrieval algorithm model optimization and exploring multimodal image detection and classification problems at scale. The role requires familiarity with multimodal joint modeling, self-supervised learning, multi-frame fusion, cross-modal retrieval, and various NLP techniques including text understanding and knowledge extraction."
+    }
+  ]
+}
