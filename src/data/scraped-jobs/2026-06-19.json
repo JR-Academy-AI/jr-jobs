@@ -1,0 +1,299 @@
+{
+  "date": "2026-06-19",
+  "generatedAt": "2026-06-19T07:55:39+10:00",
+  "auMode": "淡季",
+  "cnMode": "暑假实习+提前批",
+  "sources": [
+    "seek.com.au",
+    "lifeatcanva.com",
+    "gradconnection.com.au",
+    "jobs.deloitte.com.au",
+    "careers.airwallex.com",
+    "groupcareers.singtel.com",
+    "au.prosple.com",
+    "nowcoder.com"
+  ],
+  "stats": {
+    "auCandidates": 35,
+    "auLive": 15,
+    "cnCandidates": 20,
+    "cnLive": 10
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Senior Machine Learning Engineer - AI Enablement",
+      "company": "Canva",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.lifeatcanva.com/en/jobs/6000000001086387/senior-machine-learning-engineer-ai-enablement-au-remote/",
+      "description": "Acts as a solution expert across ML domains including evaluations, training, inference, data pipelines, labelling, and optimization, providing critical solution expertise to researchers and AI builders globally.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Machine Learning Engineer - Canva AI",
+      "company": "Canva",
+      "location": "Brisbane, QLD",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.lifeatcanva.com/en/jobs/6000000000512483/senior-machine-learning-engineer-canva-ai/",
+      "description": "Helps reimagine how people interact with Canva, working on the AI that powers conversational experiences and building scalable systems.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Machine Learning Engineer - Marketing AI",
+      "company": "Canva",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.lifeatcanva.com/en/jobs/6000000000219568/senior-machine-learning-engineer-marketing-ai/",
+      "description": "Uses advanced machine learning and programming skills with Product Managers to develop ways of leveraging data to make better, smarter product decisions.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Staff Machine Learning Engineer - Integrations & Solutions Group",
+      "company": "Canva",
+      "location": "Melbourne, VIC",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.lifeatcanva.com/en/jobs/6000000000944293/staff-machine-learning-engineer-integrations-solutions-group-au-remote/",
+      "description": "Builds Canva's AI integration layer—the infrastructure that connects Canva's design capabilities to the world's leading AI assistants, owning the MCP platform, AI-optimized tools and APIs, and evaluation frameworks.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Machine Learning Engineer - Evaluations (Design Generation)",
+      "company": "Canva",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.lifeatcanva.com/en/jobs/6000000000743065/senior-machine-learning-engineer-evaluations-design-generation/",
+      "description": "Canva's Design Generation systems use AI to create complete designs from text descriptions, generating millions of designs monthly, making reliable quality evaluation critical.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Product Manager - AI Products",
+      "company": "Optus",
+      "location": "Sydney, NSW",
+      "category": "AI Product / PM",
+      "level": "Mid",
+      "applyUrl": "https://groupcareers.singtel.com/job/Product-Manager-AI-Products-Sydn/1359437166/",
+      "description": "Optus is looking for an AI Product Manager to support the development and delivery of AI products within their Customer, Enabling, or Technology product portfolios. The role involves contributing to the end-to-end product lifecycle for a single AI product or squad, working within a defined product strategy and being accountable for supporting product strategy execution and roadmap delivery for a single AI product or squad, aligned to Optus.ai objectives and business goals.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "2027 NAB Graduate Program - Digital, Data and AI (Sydney)",
+      "company": "NAB",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/nab/jobs/nab-2027-nab-graduate-program-digital-data-and-ai-sydney/",
+      "description": "NAB's graduate roles in Digital, Data and AI are primarily based in Melbourne and Sydney. During your time on the graduate program, you will have the opportunity to rotate across any of the specialist areas where you will work on a variety of meaningful projects including Data Analytics Rotations - Apply analytics and modelling to solve business problems.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data, AI, and Machine Learning – Multiple Opportunities Available",
+      "company": "Deloitte",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "applyUrl": "https://jobs.deloitte.com.au/job/Sydney-Data,-AI,-and-Machine-Learning-Multiple-Opportunities-Available-NSW/1058983166/",
+      "description": "Deloitte seeks candidates with experience in Data and/or ML Engineering with hands-on experience in Python or SQL, along with hands-on development experience in major cloud platforms like AWS, Google Cloud, Microsoft Azure, Databricks, and Snowflake.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist, GTM",
+      "company": "Airwallex",
+      "location": "Melbourne, VIC",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "applyUrl": "https://careers.airwallex.com/job/db223096-8938-4646-a336-865443278617/data-scientist-gtm/",
+      "description": "Senior Data Scientist positions are available to develop machine learning models and predictive analytics to shape growth strategy, enhancing customer acquisition, engagement, and retention. A Data Scientist, GTM role requires 3+ years of industry experience and an advanced degree (MS or PhD) in a quantitative field.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Risk & Fraud Data Scientist, Algorithm",
+      "company": "Airwallex",
+      "location": "Melbourne, VIC",
+      "category": "Data Scientist",
+      "level": "Senior",
+      "applyUrl": "https://careers.airwallex.com/job/a38e7dc0-1003-4346-9724-acb594b62b35/senior-machine-learning-engineer-risk/",
+      "description": "Senior Machine Learning Engineer positions tackle challenging machine learning problems in the international payment risk domain and help build industry-leading model systems.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Staff Data Scientist",
+      "company": "Airwallex",
+      "location": "Melbourne, VIC",
+      "category": "Data Scientist",
+      "level": "Senior",
+      "applyUrl": "https://careers.airwallex.com/job/595542eb-58aa-4e67-9ad7-5846de31bcca/staff-data-scientist/",
+      "description": "Staff Data Scientist position requires 7+ years industry experience and an advanced degree (PhD or MS) in a quantitative field, with experience communicating analyses to leadership teams.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data Engineer – Climate Data Services",
+      "company": "CSIRO",
+      "location": "Sydney, NSW",
+      "category": "Data Engineer",
+      "level": "Mid",
+      "applyUrl": "https://www.seek.com.au/job/57518145",
+      "description": "A Data Engineer position at CSIRO in Sydney where you would conduct innovative research leading to scientific achievements aligned with CSIRO's strategies. Applications open to Australian Citizens, New Zealand Citizens and Australian Permanent Residents only.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "2026 Technology (Rotational) Graduate Program",
+      "company": "Westpac",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/westpac/jobs/westpac-group-2026-technology-rotational-graduate-program-sydney-adelaide-melbourne-brisbane-gold-coast-perth/",
+      "description": "Westpac is recruiting for their 2026 Technology (Engineering) Graduate Program, which includes opportunities in data-related fields. Opportunities span engineering, application development, cyber security, data science, architecture, cloud computing, service management, robotics, and project management. Rotations could include: cyber security, data science, application development, service management, strategy, and architecture.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Business Analyst",
+      "company": "Attribute Group",
+      "location": "Sydney, NSW",
+      "category": "Business Analyst",
+      "level": "Mid",
+      "applyUrl": "https://www.seek.com.au/job/58939363",
+      "description": "A contract role seeking a determined Business Analyst to liaise with business and technical stakeholders for delivery of current business requirements. The day rate is up to $950 p/day including Super (+ GST) for a 12-month rolling contract.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Graduate Data Scientist",
+      "company": "Xero",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://au.prosple.com/graduate-employers/xero-australia/jobs-internships/graduate-data-scientist",
+      "description": "Graduate Data Scientist program where graduates participate in collaborative initiatives across product, engineering, or marketing teams, learn to apply data science and analytics, and develop core skills.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "文心一言-大模型Agent算法实习生",
+      "company": "百度",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/341784",
+      "description": "该职位的主要工作职责包括：参与文心一言核心技术建设，探索和改进现有的LLM-powered Agent技术，包括指令对齐、RLHF、模型评估、Agent机制研发等；跟进最前沿的大模型技术和顶会论文，推动算法策略的实现与落地；实际工作表现优异者有机会获得实习转正名额。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型应用算法实习生",
+      "company": "美团",
+      "location": "北京/上海",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/d1bce6831f224f52a97dd5f1ff79e0b7",
+      "description": "岗位职责包括建设大模型基础能力，研发包括指令遵循、推理规划、知识注入等大模型基础通用能力；结合大模型，研发对话交互场景的大模型Agent，支持智能客服、语音智能分析等项目。要求每周至少全职工作四天，保证实习至少6个月。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AIGC算法/Agent实习生",
+      "company": "快手",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/0bb7738ca0a64a14a9fefb6af42d054c",
+      "description": "快手AIGC算法/Agent实习生，部门直推。Visual AIGC algorithm internships (special effects direction) involving research and development of multimodal large models, including text/image/video understanding and generation, and application of large model capabilities to core business scenarios. Candidates should be familiar with technologies like GAN, Diffusion, Transformer, CLIP, proficiency in deep learning model structures and training methods, and strong coding skills in Python.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法工程师（2026届校招）",
+      "company": "拼多多",
+      "location": "上海",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/9dc085b0f9c643b698c42ddb0c74cb0b",
+      "description": "拼多多2026年校园招聘在上海地点，招聘岗位包括大模型算法工程师。大模型算法工程师是拼多多集团校园招聘的技术岗位之一。招聘要求包括：热爱计算机和互联网，对技术有追求，2026届本科及以上学历毕业生。实习面试通过可获得优先留用机会，提前锁定秋招正式offer，并有牛人导师一对一专人辅导，技术成长快。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "首页搜索算法实习生",
+      "company": "京东",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/01a9b1afaf5d4842b14466dd3bd1f19d",
+      "description": "基于海量的用户和商家数据，优化商品搜索的ctr、cvr预估模型；用户和文本的向量表示学习，优化个性化向量检索模型；模型样本选取、结构设计、特征选择、优化算法、用户长短期行为建模等；与搜索架构、产品和运营同学合作，推动算法系统和产品方案落地。任职要求：计算机、数学、自然语言处理、机器学习及相关专业研究生、博士生；熟悉C/C++与Linux开发，熟悉Python/Shell等脚本语言。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "自动驾驶算法工程师（规控/感知/预测/端到端大模型）",
+      "company": "滴滴",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/397993",
+      "description": "该职位要求2026届毕业本科及以上学历，计算机、人工智能等相关专业硕士或博士学位优先；熟悉机器学习相关算法，熟练利用流行的ML框架如JAX、PyTorch或TensorFlow；熟练掌握Python/C++，具有很强的代码开发与实践能力；搭建大规模数据平台，了解分布式系统，具备大规模批处理能力；具有ML评估、量化、优化，设计产品化评估体系的意识。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "深度学习CVCG算法实习生",
+      "company": "英伟达 (NVIDIA)",
+      "location": "北京/上海",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/935d8df5b1f1461e82daaa9e2be5746e",
+      "description": "ML&AI specialist team is recruiting computer vision/computer graphics (CV/CG) direction interns, requiring full-time students (PhD preferred), with at least 4 days per week commitment and 6+ months internship duration preferred. The position involves research and innovation in computer vision including video models, diffusion models, 3D Gaussian, 3D reconstruction, neural rendering, and requires solid computer fundamentals, proficiency in Python or CUDA/C++, and knowledge of AI/deep learning frameworks like TensorFlow or PyTorch.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "算法工程师（机器学习）26届转正实习",
+      "company": "蚂蚁集团",
+      "location": "杭州/北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/discuss/734040170328076288",
+      "description": "蚂蚁集团风险管理部致力于运用最前沿的算法技术，基于蚂蚁、阿里的海量数据，打造信贷风控的智能引擎，涉及机器学习、深度学习、数据挖掘、图计算、大模型、知识图谱、可解释学习等技术。岗位要求：计算机、数学、统计、运筹学、金融、经济学或相关专业，硕士及以上学历优先；熟悉机器学习、数据挖掘、统计学、运筹学中至少一个方向的主流算法及原理；良好的编程功底，至少熟练使用Python等主流编程语言。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "搜索&推荐算法工程师实习",
+      "company": "月之暗面 (Moonshot AI)",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/0258d45a29484f21a34bf0d20666f865",
+      "description": "月之暗面在北京招聘实习生，包括Backend Development Interns和Search & Recommendation Engineering Interns，工作地点包括北京、上海、深圳。对于搜索&推荐工程师实习生职位，候选人需要本科及以上学历，优先毕业时间为2025年或之后，热爱AI，熟悉Golang和Python语言，具有扎实的编程基础。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI 3D数据算法工程师实习",
+      "company": "vivo",
+      "location": "深圳",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/47d69a2bfb144f36be09759e741dabdd",
+      "description": "vivo 2026春招暑期实习中，有AI 3D数据相关岗位，工作职责包括：参与AI3D数据体系建设、数据采集、标注规范制定、数据筛查与处理，以及协助整理和分析3D相关数据，构建模型测试集与基础评测指标。任职要求为本科或硕士在读，计算机、人工智能等相关专业，具备Python基础和数据敏感度，对AI与3D技术有浓厚兴趣。",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
