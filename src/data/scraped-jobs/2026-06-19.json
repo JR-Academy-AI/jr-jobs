@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generatedAt": "2026-06-19T07:55:39+10:00",
+  "generatedAt": "2026-06-19T08:15:00+10:00",
   "auMode": "淡季",
   "cnMode": "暑假实习+提前批",
   "sources": [
@@ -11,13 +11,15 @@
     "careers.airwallex.com",
     "groupcareers.singtel.com",
     "au.prosple.com",
-    "nowcoder.com"
+    "nowcoder.com",
+    "hrss.zte.com.cn",
+    "boczp.com"
   ],
   "stats": {
     "auCandidates": 35,
     "auLive": 15,
-    "cnCandidates": 20,
-    "cnLive": 10
+    "cnCandidates": 28,
+    "cnLive": 12
   },
   "jobs": [
     {
@@ -292,7 +294,29 @@
       "category": "AI Engineer",
       "level": "Graduate",
       "applyUrl": "https://www.nowcoder.com/feed/main/detail/47d69a2bfb144f36be09759e741dabdd",
-      "description": "vivo 2026春招暑期实习中，有AI 3D数据相关岗位，工作职责包括：参与AI3D数据体系建设、数据采集、标注规范制定、数据筛查与处理，以及协助整理和分析3D相关数据，构建模型测试集与基础评测指标。任职要求为本科或硕士在读，计算机、人工智能等相关专业，具备Python基础和数据敏感度，对AI与3D技术有浓厚兴趣。",
+      "description": "vivo 2026春招暑期实习中，有AI3D数据相关岗位，工作职责包括：参与AI3D数据体系建设、数据采集、标注规范制定、数据筛查与处理，以及协助整理和分析3D相关数据，构建模型测试集与基础评测指标。任职要求为本科或硕士在读，计算机、人工智能等相关专业，具备Python基础和数据敏感度，对AI与3D技术有浓厚兴趣。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI大模型算法工程师",
+      "company": "中兴通讯",
+      "location": "深圳",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "applyUrl": "https://hrss.zte.com.cn/",
+      "description": "中兴通讯招聘AI大模型算法工程师，负责面向5G/6G网络场景的大模型技术研究与落地，包括网络智能运维、多模态故障诊断及知识图谱构建，要求熟悉LLM预训练与微调技术，有通信领域AI应用经验者优先，工作地点深圳。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "数据分析岗（数字资产运营中心）",
+      "company": "中国银行",
+      "location": "北京",
+      "category": "Business Analyst",
+      "level": "Graduate",
+      "applyUrl": "https://www.boczp.com/campus",
+      "description": "中国银行总行数字资产运营中心招募数据分析岗应届生，负责数字人民币及数字资产业务的数据建模、用户行为分析与运营策略制定，要求统计学、计算机、金融或相关专业本科及以上学历，熟悉SQL和Python数据分析工具，有较强的数据敏感度与逻辑分析能力。",
       "descriptionSource": "search-snippet"
     }
   ]
