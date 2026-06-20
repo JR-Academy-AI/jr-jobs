@@ -1,0 +1,220 @@
+{
+  "date": "2026-06-21",
+  "generatedAt": "2026-06-21T07:30:00+10:00",
+  "auMode": "淡季",
+  "cnMode": "暑假实习 + 提前批",
+  "sources": [
+    "seek.com.au",
+    "atlassian.com",
+    "careers.komatsu.com.au",
+    "citadelsecurities.com",
+    "oohmedia.com.au",
+    "amazon.jobs",
+    "jobs.bytedance.com",
+    "job.byd.com",
+    "philips.wd3.myworkdayjobs.com",
+    "jobs.intel.com"
+  ],
+  "jobs": [
+    {
+      "market": "AU",
+      "company": "Canva",
+      "title": "Machine Learning Engineer - Training & Dataset Platform",
+      "location": "Sydney, NSW",
+      "category": "MLOps / AI Infra",
+      "level": "Mid",
+      "applyUrl": "https://jobs.smartrecruiters.com/Canva/6000000001005660-machine-learning-engineer-training-dataset-platform-au-remote-",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "company": "Atlassian",
+      "title": "Data Science Intern, 2026 Summer Australia",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://www.atlassian.com/company/careers/details/23867",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "company": "Atlassian",
+      "title": "Data Engineer Intern, 2026 Summer Australia",
+      "location": "Sydney, NSW",
+      "category": "Data Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.atlassian.com/company/careers/earlycareers",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "company": "Earth AI",
+      "title": "Data Engineer",
+      "location": "Sydney, NSW",
+      "category": "Data Engineer",
+      "level": "Mid",
+      "applyUrl": "https://www.seek.com.au/Earth-AI-jobs",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "company": "Earth AI",
+      "title": "AI Engineer",
+      "location": "Sydney, NSW",
+      "category": "AI Engineer",
+      "level": "Junior",
+      "applyUrl": "https://www.seek.com.au/Earth-AI-jobs",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "company": "Studiosity",
+      "title": "Senior/Lead Platform Product Manager – SaaS AI Platform",
+      "location": "Sydney, NSW",
+      "category": "AI Product / PM",
+      "level": "Senior",
+      "applyUrl": "https://www.seek.com.au/Studiosity-jobs/full-time",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "company": "Protecht",
+      "title": "Junior Business Analyst",
+      "location": "Sydney, NSW",
+      "category": "Business Analyst",
+      "level": "Junior",
+      "applyUrl": "https://www.seek.com.au/protecht-jobs/in-All-Sydney-NSW",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "company": "AFCA",
+      "title": "Business Analyst (AI & Data)",
+      "location": "Melbourne, VIC",
+      "category": "Business Analyst",
+      "level": "Mid",
+      "applyUrl": "https://www.afca.org.au/about-afca/careers/current-opportunities",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "company": "SEEK Limited",
+      "title": "Data Scientist",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "applyUrl": "https://www.seek.com.au/about/careers",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "company": "oOH! media",
+      "title": "Data Scientist",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "applyUrl": "https://oohmedia.com.au/careers/",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "company": "MAXART Technology Group",
+      "title": "Machine Learning Engineer",
+      "location": "Brisbane, QLD",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "applyUrl": "https://www.seek.com.au/MAXART-Technology-Group-jobs",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "company": "Komatsu Australia",
+      "title": "2027 Graduate and Intern EOI – AI & Data Analytics",
+      "location": "Brisbane, QLD",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://careers.komatsu.com.au/job/Brisbane-Head-Office-2027-Graduate-and-Intern-Expression-of-Interest/1211934166/",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "company": "Citadel Securities",
+      "title": "Quantitative Research Analyst Intern – BS/MS – Australia",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-australia/",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "company": "亚马逊",
+      "title": "Applied Scientist Intern 2026",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://amazon.jobs/en/jobs/3115016/2026-applied-scientist-intern-amazon-university-talent-acquisition",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "company": "字节跳动",
+      "title": "质量智能大模型算法工程师（质量技术，筋斗云人才计划）",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://jobs.bytedance.com/campus/m/position/detail/7508670307784657159",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "company": "字节跳动",
+      "title": "Edge通用智能模型研究实习生（Top Seed Intern）",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://jobs.bytedance.com/campus/position/7490491206507366663/detail",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "company": "比亚迪",
+      "title": "AI算法工程师暑期实习",
+      "location": "深圳",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://job.byd.com/portal/pc/",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "company": "飞利浦",
+      "title": "IT AI DevOps Intern",
+      "location": "上海",
+      "category": "MLOps / AI Infra",
+      "level": "Graduate",
+      "applyUrl": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Shanghai/IT-AI-DevOps-Intern_585508",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "company": "飞利浦",
+      "title": "Data Analyst / Data Mining Intern – Machine Learning",
+      "location": "上海",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Shanghai/---_578274",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "company": "英特尔",
+      "title": "AI Research Scientist",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "applyUrl": "https://jobs.intel.com/en/job/beijing/ai-research-scientist/41147/75023249264",
+      "description": ""
+    }
+  ]
+}
