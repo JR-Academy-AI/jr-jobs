@@ -1,0 +1,211 @@
+{
+  "date": "2026-06-22",
+  "generatedAt": "2026-06-22T07:30:00+10:00",
+  "auMode": "淡季",
+  "cnMode": "暑假实习 + 提前批",
+  "sources": [
+    "seek.com.au",
+    "groupcareers.singtel.com",
+    "jobs.fintechaustralia.org.au",
+    "jobs-au.pwc.com",
+    "thoughtworks.com",
+    "recruitment.macquarie.com",
+    "campus.pony.ai",
+    "www.kunlun.com",
+    "microsoft.com",
+    "careers.iqiyi.com",
+    "yingjiesheng.com",
+    "campus.didiglobal.com",
+    "jobs.bytedance.com",
+    "job.10086.cn"
+  ],
+  "jobs": [
+    {
+      "market": "AU",
+      "company": "Optus",
+      "title": "Associate Director, AI Product (IT and Security)",
+      "location": "Sydney, NSW",
+      "category": "AI Product / PM",
+      "level": "Senior",
+      "applyUrl": "https://groupcareers.singtel.com/job/Associate-Director,-AI-Product-(IT-and-Security)-Sydn/1331665366/",
+      "description": "",
+      "snippet": "The AI Centre of Excellence at Optus seeks an Associate Director to lead enterprise-grade AI initiatives in IT & Security portfolios, guiding cross-functional squads in discovering and delivering innovative AI products and services. Drive strategic impact and shape the future of AI at Optus."
+    },
+    {
+      "market": "AU",
+      "company": "MYOB",
+      "title": "Machine Learning Engineer",
+      "location": "Melbourne, VIC",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "applyUrl": "https://jobs.fintechaustralia.org.au/companies/myob/jobs/66762183-machine-learning-engineer",
+      "description": "",
+      "snippet": "Design and implement ML systems from the ground up, focus on LLMs and foundation models for small business needs; deploy AI-powered features for automated document understanding, financial forecasting, and conversational interfaces on AWS infrastructure."
+    },
+    {
+      "market": "AU",
+      "company": "MYOB",
+      "title": "Senior Machine Learning Engineer",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://jobs.fintechaustralia.org.au/companies/myob/jobs/65707101-senior-machine-learning-engineer",
+      "description": "",
+      "snippet": "Senior ML Engineer to build powerful AI solutions for MYOB's Data & AI Team, developing and broadening applications with MYOB's product ecosystem to compose AI-powered experiences for SMEs and Enterprises."
+    },
+    {
+      "market": "AU",
+      "company": "PwC Australia",
+      "title": "AI Engineer, Manager, Data & AI",
+      "location": "Sydney, NSW",
+      "category": "AI Engineer",
+      "level": "Senior",
+      "applyUrl": "https://jobs-au.pwc.com/experiencedhires/au/en/job/PWAUAU663213WDEXPERIENCEDHIRESENAU/AI-Engineer-Manager-Data-AI",
+      "description": "",
+      "snippet": "Design, construct and deploy production-grade AI and Generative AI solutions at PwC's AI Centre of Excellence; hands-on work with complex datasets, focus on deploying and refining advanced GenAI solutions."
+    },
+    {
+      "market": "AU",
+      "company": "ThoughtWorks",
+      "title": "Lead Data Scientist",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Senior",
+      "applyUrl": "https://www.thoughtworks.com/careers/jobs/6387847",
+      "description": "",
+      "snippet": "Lead data science work at ThoughtWorks Australia; collaborative people-centric culture with emphasis on robust software engineering practices complementing data engineering expertise."
+    },
+    {
+      "market": "AU",
+      "company": "Macquarie Group",
+      "title": "ML Platform Engineer",
+      "location": "Sydney, NSW",
+      "category": "MLOps / AI Infra",
+      "level": "Senior",
+      "applyUrl": "https://recruitment.macquarie.com/en_US/careers/JobDetail/ML-Platform-Engineer-Sydney-BFS13157/10042",
+      "description": "",
+      "snippet": "Work with data scientists to build ML-powered solutions and implement MLOps to streamline model experimentation and workflows; 5+ years of software engineering experience in agile DevOps environments with AWS SageMaker."
+    },
+    {
+      "market": "AU",
+      "company": "NobleOak",
+      "title": "Automation and AI Engineer",
+      "location": "Sydney, NSW",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "applyUrl": "https://www.seek.com.au/NobleOak-jobs",
+      "description": "",
+      "snippet": "Full-time, permanent Automation and AI Engineer role in the IT department at NobleOak Life Insurance Sydney; impactful work with broad exposure in insurance technology."
+    },
+    {
+      "market": "AU",
+      "company": "Earth AI",
+      "title": "Data Engineer",
+      "location": "Alexandria, Sydney NSW",
+      "category": "Data Engineer",
+      "level": "Mid",
+      "applyUrl": "https://www.seek.com.au/Earth-AI-jobs",
+      "description": "",
+      "snippet": "Early to mid-career Data Engineer to join Earth AI's AI & Geoscience team in Alexandria, Sydney. Salary $130,000–$160,000 per year. Work at the intersection of AI and mineral exploration."
+    },
+    {
+      "market": "AU",
+      "company": "SEEK",
+      "title": "Staff Data Engineer",
+      "location": "Melbourne, VIC",
+      "category": "Data Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.seek.com.au/SEEK-jobs",
+      "description": "",
+      "snippet": "SEEK is hiring a Staff Data Engineer to build high-quality data assets and enhance experiences for individuals and organizations; architect scalable data pipelines and infrastructure."
+    },
+    {
+      "market": "CN",
+      "company": "小马智行 (Pony.ai)",
+      "title": "算法实习生（世界仿真方向）",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://campus.pony.ai/",
+      "description": "",
+      "snippet": "Pony.ai自动驾驶团队招募算法实习生，专注L4 Robotaxi系统的仿真算法，涉及轨迹规划/预测、生成模型、强化学习和扩散模型。实习报酬为正式薪资的80%，优秀者可获全职Offer。"
+    },
+    {
+      "market": "CN",
+      "company": "昆仑万维 (Kunlun Wanwei)",
+      "title": "LLM/AIGC算法工程师",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "applyUrl": "https://www.kunlun.com/",
+      "description": "",
+      "snippet": "昆仑万维AI团队招募LLM/AIGC/强化学习算法工程师，团队成员来自北大、中科大、浙大、上交等顶尖高校，致力于AI游戏和大模型应用研发。"
+    },
+    {
+      "market": "CN",
+      "company": "微软亚洲研究院 (MSRA)",
+      "title": "AI研究实习生（视觉生成方向）",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.microsoft.com/zh-cn/aprd/recruitment",
+      "description": "",
+      "snippet": "MSRA明日之星实习生项目，开放视觉生成模型与世界模型研究方向实习岗位，全职实习6个月以上，地点北京丹棱街5号微软大厦。"
+    },
+    {
+      "market": "CN",
+      "company": "爱奇艺 (iQIYI)",
+      "title": "AI产品经理实习生（AI助手）",
+      "location": "北京",
+      "category": "AI Product / PM",
+      "level": "Graduate",
+      "applyUrl": "https://careers.iqiyi.com/intern/m/position/detail/7507567707521632522",
+      "description": "",
+      "snippet": "爱奇艺招募AI产品经理实习生，负责AI助手产品规划与设计，参与推荐系统、大模型和AIGC方向的产品创新，工作地点北京。"
+    },
+    {
+      "market": "CN",
+      "company": "中国电信研究院",
+      "title": "AI算法研发工程师",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "applyUrl": "https://www.yingjiesheng.com/job-007-347-293.html",
+      "description": "",
+      "snippet": "中国电信股份有限公司研究院招聘AI算法研发工程师，负责AI算法研究与工程实现，工作地点北京。"
+    },
+    {
+      "market": "CN",
+      "company": "滴滴 (Didi)",
+      "title": "数据分析师实习生",
+      "location": "北京",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://campus.didiglobal.com/campus_apply/didiglobal/24429",
+      "description": "",
+      "snippet": "滴滴2026暑期实习招募数据分析师实习生，参与国际业务数据分析与建模，本科生200元/天，研究生300元/天，优先录取2026届毕业生。"
+    },
+    {
+      "market": "CN",
+      "company": "字节跳动 (ByteDance)",
+      "title": "大语言模型算法工程师-Top Seed",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "applyUrl": "https://jobs.bytedance.com/campus/position/7494095386640222472/detail",
+      "description": "",
+      "snippet": "字节跳动Top Seed大模型方向校园招聘，大语言模型算法工程师，覆盖大模型基础研究、工程架构、产品与应用及AI安全对齐，面向2026-2027届毕业生。"
+    },
+    {
+      "market": "CN",
+      "company": "中国移动 (China Mobile)",
+      "title": "AI工程师 梦想+实习生",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://job.10086.cn/touch/personal/campus/",
+      "description": "",
+      "snippet": "中国移动2026梦想+实习生计划，AI工程师岗位，覆盖1600+岗位，工作地点北京/上海，面向2026-2027届在校学生。"
+    }
+  ]
+}
