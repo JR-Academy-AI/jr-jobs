@@ -1,0 +1,242 @@
+{
+  "date": "2026-06-23",
+  "generatedAt": "2026-06-23T07:30:00+10:00",
+  "auMode": "淡季",
+  "cnMode": "暑假实习+提前批",
+  "sources": [
+    "atlassian.com",
+    "groupcareers.singtel.com",
+    "seek.com.au",
+    "au.gradconnection.com",
+    "nowcoder.com",
+    "shlab.org.cn"
+  ],
+  "stats": {
+    "auCandidates": 44,
+    "auLive": 10,
+    "cnCandidates": 24,
+    "cnLive": 10
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Data Engineer Intern, 2026 Summer Australia",
+      "company": "Atlassian",
+      "location": "Sydney, AU",
+      "category": "Data-Engineer",
+      "level": "intern",
+      "applyUrl": "https://www.atlassian.com/company/careers/details/23868",
+      "description": "commitment to a 12-week full-time program (40 hours per week) running from November 2026 through February 2027. Candidates should have demonstrated interest in the Data Engineering field through academic coursework, previous work or internship experience, or personal projects. An understanding of the SaaS business model and data structures or experience in Enterprise Software product development is also required.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Machine Learning Intern, Summer 2026/2027",
+      "company": "Atlassian",
+      "location": "Sydney, AU",
+      "category": "MLE",
+      "level": "intern",
+      "applyUrl": "https://au.gradconnection.com/employers/atlassian/jobs/atlassian-machine-learning-intern-summer-20262027-australia/",
+      "description": "12-week full-time (40hrs/week) program from November 2026 - February 2027. report to a manager in Core Machine Learning within the broader Analytics group. The team pursues opportunities that produce revenue or MAU improvements, partnering across the company to scale insights into automated ML solutions with strong velocity from ideation to output. Key responsibilities include building machine learning and predictive models to solve product and growth problems. Currently enrolled full-time in a degree program (Master's preferred) and returning to the program after completion of the internship, graduating by January 2028. Experience writing software in Python, Scala, or Spark; experience with SQL is a plus.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Machine Learning Intern (Software Engineering), Summer 2026/2027",
+      "company": "Atlassian",
+      "location": "Sydney, AU",
+      "category": "MLE",
+      "level": "intern",
+      "applyUrl": "https://au.gradconnection.com/employers/atlassian/jobs/atlassian-machine-learning-intern-software-engineering-summer-20262027-australia/",
+      "description": "building machine learning and predictive models to solve product and growth problems. Experience writing software in Python, Scala, or Spark; experience with SQL is a plus. Coursework or projects in model development, evaluation, and productionisation, and experience with experimentation, feature engineering, and data pipelines are required. Applications accepted from Australian and New Zealand Citizens and Australian Permanent Residents.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Manager, AI Product",
+      "company": "Optus",
+      "location": "Sydney, AU",
+      "category": "Product",
+      "level": "senior",
+      "applyUrl": "https://groupcareers.singtel.com/job/Senior-Manager,-AI-Product-Sydn/1329918066/",
+      "description": "The AI Centre Of Excellence at Optus is looking for a Senior Product Manager to lead the development of enterprise-grade AI products. You'll lead a cross-functional squad to discover and deliver new products and services in either the IT & Networks or Empowered Employee Portfolios. You'll own and lead an AI product through its full lifecycle - from discovery and experimentation to scaled delivery and continuous improvement. You'll define and execute product strategies and quarterly OKRs, ensuring alignment with Optus' AI transformation goals, and translate complex business problems into elegant, AI-powered solutions that deliver measurable commercial and customer outcomes.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Business Analyst",
+      "company": "Findex DNA",
+      "location": "Melbourne, AU",
+      "category": "Data-Analyst",
+      "level": "mid",
+      "applyUrl": "https://www.seek.com.au/job/55658454",
+      "description": "responsible for undertaking requirement gathering activities in an agile environment, working closely with the product owner, development team and subject matter experts. Findex DNA is the digital arm of Findex, focused on solving customer problems through technology and data in an agile delivery setting.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Business Analyst (multiple roles)",
+      "company": "eBlueprint",
+      "location": "Melbourne, AU",
+      "category": "Data-Analyst",
+      "level": "senior",
+      "applyUrl": "https://www.seek.com.au/job/56382135",
+      "description": "eBlueprint is a recognised professional services company with leading capabilities in digital, cloud and automation. Growing agile squads currently have a need for experienced Senior Business Analysts. This role is based in the Melbourne CBD and responsible for ongoing development and implementation for projects with specific focus on delivery of the service enhancement and digital transformation objectives. The position requires documented minimum of 5 years' experience working as an Integration Analyst delivering enterprise integration solutions via technology providers in complex programs and projects.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Digital Data Analyst",
+      "company": "Westpac",
+      "location": "Adelaide, AU",
+      "category": "Data-Analyst",
+      "level": "mid",
+      "applyUrl": "https://www.seek.com.au/job/55649486",
+      "description": "focused on enabling Westpac to become data-driven by infusing information and analytics across the business and unlocking value from data and analytics assets. Key responsibilities include extracting and analysing data for digital initiatives, developing understanding of Westpac databases and data structures, and presenting optimization results to stakeholders. Required skills include excellent SQL and MS application proficiency, as well as experience working in agile environments with knowledge of Scrum Agile Methodology.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "2026/2027 Summer Internship Technology Program",
+      "company": "Macquarie Group",
+      "location": "Sydney, AU",
+      "category": "Data-Engineer",
+      "level": "intern",
+      "applyUrl": "https://au.gradconnection.com/employers/macquarie-group/jobs/macquarie-group-20262027-macquarie-summer-internship-technology-program-sydney-and-brisbane-technology-it/",
+      "description": "grow your skills and network while playing an active role in solving complex technical problems and driving technological innovation for teams and customers. You're in your second last year of study of degrees such as computer science, software engineering, data science and decisions, electrical engineering, mechatronics engineering, engineering, information technology, cyber security, information systems. No prior financial experience is required, just an innate curiosity and eagerness to learn. Applications close 12pm AEST on Tuesday 4th August 2026.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Winter Vacationer – Technology",
+      "company": "PwC Australia",
+      "location": "Sydney, AU",
+      "category": "AI-Engineer",
+      "level": "intern",
+      "applyUrl": "https://au.gradconnection.com/employers/pwc/jobs/pwc-winter-vacationer-technology/",
+      "description": "joining Technology & AI to help clients harness the power of innovation, working with cutting-edge tools, data, and artificial intelligence to solve real-world problems, drive transformation, and create lasting value. A 4-week winter paid internship that is a proven pathway to a PwC graduate role. Employees are allowed to work remotely some of the time but most of the work is done at the company's physical office.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "2026/27 KPMG Vacationer Program – Technology & Digital",
+      "company": "KPMG",
+      "location": "Sydney, AU",
+      "category": "AI-Engineer",
+      "level": "intern",
+      "applyUrl": "https://au.gradconnection.com/employers/kpmg/jobs/kpmg-202627-kpmg-vacationer-program-technology-digital/",
+      "description": "KPMG teams work across cyber security, cloud, data, AI, digital transformation, technology strategy, engineering and more — helping clients modernise systems, strengthen resilience, and create better experiences for their customers and communities. You might analyse data, explore new digital tools, support cyber initiatives or help implement tech solutions that drive meaningful change. Additionally, you might be analysing data to identify trends and insights, developing AI and machine learning models, enhancing digital customer experiences, integrating new technologies into existing systems. Start work in November 2026 with a 3-8 week role.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "算法工程师-风控方向（26届秋招）",
+      "company": "虾皮(Shopee)",
+      "location": "深圳",
+      "category": "Algorithm",
+      "level": "graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/405023",
+      "description": "负责风控算法模型的设计与开发，结合业务风控场景如羊毛党识别、虚假交易等，建立高效、鲁棒、可解释性的风控模型；应聘者需要是2026届应届毕业生，计算机、人工智能等相关专业，硕士或博士学历优先。虾皮2026秋招内推岗位包括业务安全策略工程师，工作地点为深圳、北京、上海。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "具身算法实习生",
+      "company": "智元机器人",
+      "location": "上海",
+      "category": "Algorithm",
+      "level": "intern",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/436302",
+      "description": "Design and develop innovative imitation learning and reinforcement learning algorithms for humanoid robot task scenarios with generalization capabilities. Research and build multimodal perception and decision-making large models with vision, tactile, and language capabilities, enabling robot physical interaction in open-world environments. Requirements: Master's or Ph.D. in computer vision, multimodal large models, or related fields; Proficient in Python programming, familiar with PyTorch, TensorFlow and other deep learning frameworks; Familiar with robot imitation learning and reinforcement learning theory.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法实习生(2026届校招/2027届实习)",
+      "company": "拼多多",
+      "location": "上海",
+      "category": "Algorithm",
+      "level": "intern",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/442598",
+      "description": "participating in billion-parameter scale model training and inference optimization, exploring applications across NLP, multimodal technology, recommendation systems, search optimization and related areas. Work on scenarios in e-commerce, finance, and advertising, and collaborate with top technical teams to explore cutting-edge AGI applications. The company provides one-on-one mentorship from senior experts, technical sharing opportunities, internal training, and conference participation.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AIGC算法策略工程师-Ads Core",
+      "company": "字节跳动",
+      "location": "杭州",
+      "category": "Algorithm",
+      "level": "mid",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/390261",
+      "description": "the team (Ads core-creative) supports ByteDance's advertising creative ecosystem and production across various platforms including Douyin (TikTok), Toutiao (Headline), Xigua, and Pangle, with focus on creative optimization and AIGC technology. Key responsibilities include: building next-generation creative production and deployment AI agents based on large language models for cross-modal (text-image-video) creative generation, customizing and optimizing models for various commercial scenarios, and establishing real-time feedback mechanisms for creative evolution and personalized delivery.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "26届校招-量化研究",
+      "company": "中欧基金",
+      "location": "上海",
+      "category": "Data-Science",
+      "level": "graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/436259",
+      "description": "using statistical and machine learning methods to discover effective factors, explore Alpha, and develop quantitative stock selection strategies, as well as optimizing strategies and iterating on factors and models with support from a mature factor library and research framework. Additional responsibilities include assisting fund managers in optimizing investment portfolios and tracking academic and industry frontiers to explore new data sources and modeling methods. Candidates should be 2026 graduates with a master's degree or higher in mathematics, statistics, computer science, physics, financial engineering or related fields, with proficiency in Python.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI产品经理",
+      "company": "上海人工智能实验室",
+      "location": "上海",
+      "category": "Product",
+      "level": "mid",
+      "applyUrl": "https://www.shlab.org.cn/joinus/detail/7496818450335336723?mode=social",
+      "description": "connecting with clients/solution teams, understanding business scenarios, guiding and clarifying requirements, independently outputting product requirement documents, coordinating R&D, testing, and design teams to push requirements on schedule, completing product development, testing, and launch work, and monitoring and evaluating data after product launch.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型强化学习算法实习生",
+      "company": "上海人工智能实验室",
+      "location": "上海",
+      "category": "Algorithm",
+      "level": "intern",
+      "applyUrl": "https://www.shlab.org.cn/joinus/detail/7474835615747705126?mode=campus",
+      "description": "Candidates would participate in multi-modal large model post-training phase reinforcement learning algorithm R&D, including optimization of reinforcement learning algorithms based on human, AI, and environmental feedback, multi-objective reinforcement learning training algorithm development for multiple tasks.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI Infra工程师-容器方向（2027届实习生）",
+      "company": "阿里巴巴集团",
+      "location": "北京",
+      "category": "MLOps",
+      "level": "intern",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/445822",
+      "description": "AI container scheduling and orchestration optimization, including optimizing Kubernetes schedulers for GPU topology-aware computing allocation. High-performance storage and network infrastructure for AI, optimizing container storage mounting performance for large-scale checkpoint and data reading scenarios. AI engineering platform architecture design and efficiency improvement. AI infrastructure extreme acceleration, including developing lightweight container runtimes for AI inference and Agent execution. Requirements: computer science or software engineering background, strong fundamentals in data structures and algorithms, and ideally experience with Kubernetes or container-related open source projects (Kubernetes/KubeFlow/Volcano/OpenKruise).",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "算法工程师-AIOps（A Star）（27届硕士实习）",
+      "company": "阿里云",
+      "location": "杭州",
+      "category": "MLOps",
+      "level": "intern",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/434898",
+      "description": "Develop core observable operators for designing and developing core algorithm operators for massive observable data, achieving efficient preprocessing and feature extraction; Participate in AIOps Agent design and development, responsible for core algorithm research of LLM-driven AIOps Agent using multi-Agent architecture; and Build AIOps Benchmark systems, explore advanced model training techniques like SFT and RLHF, and track cutting-edge technologies like LLM, Agent, knowledge graphs, GNNs, and causal inference. Strong professional background in computer science, AI, software engineering, pattern recognition, or statistics required.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "自动驾驶决策规划控制算法工程师（暑期实习）",
+      "company": "百度",
+      "location": "北京",
+      "category": "Algorithm",
+      "level": "intern",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/391643",
+      "description": "developing and debugging Baidu's autonomous driving systems, designing core driving scenario processing strategies, and collaborating with other engineers on system integration. Requirements include a master's degree or higher in computer science, automotive, or automation, proficiency in C++, and familiarity with common machine learning and deep learning algorithms. Qualified interns who perform well will have priority consideration for full-time conversion.",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
