@@ -1,0 +1,211 @@
+{
+  "date": "2026-06-24",
+  "generatedAt": "2026-06-24T07:32:00+10:00",
+  "auMode": "淡季",
+  "cnMode": "暑假实习+提前批",
+  "sources": [
+    "seek.com.au",
+    "lifeatcanva.com",
+    "atlassian.com",
+    "au.prosple.com",
+    "recruitment.macquarie.com",
+    "cba.wd3.myworkdayjobs.com",
+    "careers.nab.com.au",
+    "nowcoder.com"
+  ],
+  "stats": {
+    "auCandidates": 32,
+    "auLive": 8,
+    "cnCandidates": 26,
+    "cnLive": 9
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Senior Machine Learning Engineer - Inspire & Create",
+      "company": "Canva",
+      "location": "Remote, AU",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.lifeatcanva.com/en/jobs/6000000000935008/senior-machine-learning-engineer-inspire-create-au-remote/",
+      "description": "You're a highly skilled machine learning engineer with a proven track record of delivering ML-powered product features in production, bringing deep technical expertise across the ML lifecycle - from data wrangling and model development.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist, 2026 Graduate Australia & New Zealand",
+      "company": "Atlassian",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://www.atlassian.com/company/careers/details/18905",
+      "description": "graduating by January 2026 with a Bachelor, Masters, or PhD in a quantitative discipline (such as statistics, mathematics, physics, econometrics, engineering or computer science), have experience manipulating data using SQL, R, Python or other languages, and be able to translate business questions into technical solutions and communicate analytical results to broad audiences.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Graduate Machine Learning Engineer",
+      "company": "Canva",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://au.prosple.com/graduate-employers/canva/jobs-internships/graduate-machine-learning-engineer",
+      "description": "Canva's Launchpad Program is looking for graduate engineers to specialise in machine learning among other areas.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Software Engineer - AI Enablement",
+      "company": "Macquarie Group",
+      "location": "Sydney, NSW",
+      "category": "MLOps / AI Infra",
+      "level": "Mid",
+      "applyUrl": "https://recruitment.macquarie.com/en_US/careers/JobDetail/Software-Engineer-AI-Enablement/19632",
+      "description": "focus is on software engineering excellence, writing production-grade code and automating complex workflows, taking end-to-end ownership of products in a modern DevOps culture, and working alongside data scientists to implement LLMOps best practices and streamline the deployment and monitoring of cutting-edge AI models.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Machine Learning Engineer Intern",
+      "company": "Xero Australia",
+      "location": "Melbourne, VIC",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://au.prosple.com/graduate-employers/xero-australia/jobs-internships/intern-machine-learning-engineer-0",
+      "description": "penultimate year students available to work full-time for 12 months from February 2026. Candidates should be studying engineering, mathematics, science or data.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Data Scientist",
+      "company": "Commonwealth Bank",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Senior",
+      "applyUrl": "https://cba.wd3.myworkdayjobs.com/en-US/CommBank_Careers/job/Senior-Data-Scientist_REQ223729",
+      "description": "As a Data Scientist at CommBank, you'll help design, develop and improve AI solutions that turn data into safe, reliable decisions, enhancing customer experiences, lifting productivity and reducing risk. CommBank is on a mission to lead in Generative AI and Agentic AI, shaping the future of banking through innovation and impact.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior AI Scientist",
+      "company": "NAB",
+      "location": "Sydney, NSW",
+      "category": "AI Engineer",
+      "level": "Senior",
+      "applyUrl": "https://careers.nab.com.au/jobs/senior-ai-data-scientist-nsw-sydney-cbd-nsw-australia-vic-melbourne-cbd-vic-australia-wide",
+      "description": "a delivery-focused role for Senior AI Scientists who thrive beyond experimentation-delivering business outcomes using advanced AI capabilities (LLMs, agentic systems) in production-grade systems at enterprise scale. At this level, you will not only build but also lead the design and implementation of AI solutions across multiple squads, guiding how systems are developed, evaluated, and scaled.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Data Scientist",
+      "company": "Suncorp",
+      "location": "Melbourne, VIC",
+      "category": "Data Scientist",
+      "level": "Senior",
+      "applyUrl": "https://www.seek.com.au/job/52076285?type=standard",
+      "description": "Suncorp is seeking Data Scientists to help build the next generation of AI-enabled natural hazard models that support communities, based in Melbourne VIC with hybrid working arrangements. Drive meaningful change through advanced AI solutions at Suncorp while growing your career and empowering teams to deliver impactful outcomes.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "算法工程师（校招）",
+      "company": "华为",
+      "location": "上海",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/418724",
+      "description": "算法工程师职位主要涉及智驾技术、大模型和端到端学习等前沿技术。薪资30-110K，工作地点包括北京、上海、深圳。focuses on large models, autonomous driving algorithms, and machine learning methods.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法工程师（2026届春招）",
+      "company": "贝壳找房",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/436929",
+      "description": "Master's degree or above, with graduation between September 2025 and August 2026, preferably in AI, Computer Science, or Mathematics. Solid foundations in NLP/machine learning algorithms with practical experience in large language models or multimodal large models, including Prompt Engineering, RAG, Agents, Post-training, and RLHF. Proficiency with mainstream Transformer architectures and machine learning frameworks like PyTorch or TensorFlow.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型/Agent评测工程师-飞书Aily",
+      "company": "字节跳动",
+      "location": "上海",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/429487",
+      "description": "Shanghai, salary 28-45k, focusing on designing and developing evaluation systems for large models and agents within the Feishu Aily team.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "产品经理-AI方向",
+      "company": "小米集团",
+      "location": "北京",
+      "category": "AI Product / PM",
+      "level": "Mid",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/368404",
+      "description": "requires master's degree or above in computer vision, pattern recognition, deep learning or related AI fields, with technical knowledge of software/hardware and preferably prior PM internship experience.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "多模态算法工程师",
+      "company": "腾讯",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/218649",
+      "description": "负责基于多模态的文本和视频内容理解，以及多模态预训练、表示学习等算法实现。薪资250-350，地点：北京（PCG视频搜索业务）。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "研发工程师-C++/大模型开发（转正实习）",
+      "company": "饿了么",
+      "location": "上海",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/377533",
+      "description": "iterating on generative large model training and inference capabilities in Ele.me's search and recommendation scenarios, participating in the architecture design and construction of large-scale distributed machine learning platforms, and engaging in large-scale massive data offline training and online inference to improve model prediction accuracy and real-time performance. Key requirements include background in computer science, software engineering, or artificial intelligence; strong programming ability with proficiency in C++/Python; actual project experience in machine learning and deep learning.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型训练推理框架研发工程师",
+      "company": "太初元碁",
+      "location": "北京",
+      "category": "MLOps / AI Infra",
+      "level": "Junior",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/352492",
+      "description": "designing and developing machine learning model training/inference frameworks and tools, implementing algorithms, testing and debugging, collaborating with team members on projects. The role involves participating in AI technology development, learning latest deep learning techniques, and helping build and optimize frameworks for training and deploying large AI models.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI应用工程师（暑期实习）",
+      "company": "华为云",
+      "location": "上海",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/434272",
+      "description": "requires computer science or AI background with experience in deep learning frameworks like Tensorflow, PyTorch, and familiarity with machine learning algorithms. Locations available: Shanghai, Beijing, Chengdu, Dongguan, Nanjing, Hangzhou, Wuhan, Xi'an.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI算法工程师",
+      "company": "小米集团",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/74438",
+      "description": "Requires computer science background, strong math skills, deep CV algorithm knowledge, and proficiency in deep learning frameworks like Caffe, TensorFlow, or PyTorch.",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
