@@ -1,0 +1,25 @@
+{
+  "date": "2026-06-03",
+  "generatedAt": "2026-06-02T14:05:18.716Z",
+  "jobScope": "国企/央企 IT·AI·Data 精选(开放 API 匿名采集,限量)",
+  "sources": [
+    "iguopin.com",
+    "ncss.cn"
+  ],
+  "jobs": [
+    {
+      "title": "AI智能训练师-大数据分类",
+      "company": "中穆海诚（山东）科技有限公司",
+      "location": "浙江",
+      "market": "CN",
+      "category": "Data Engineer",
+      "level": "Mid",
+      "postedAt": "2026-06-02",
+      "applyUrl": "https://www.ncss.cn/student/jobs/jobsdetail/CeeSmqWsVubuEQHBE7DSPL",
+      "snippet": "AI智能训练师-大数据分类 · 中穆海诚（山东）科技有限公司 · 浙江",
+      "description": "AI智能训练师-大数据分类（专科及以上，100-499人）",
+      "sourcePlatform": "ncss",
+      "companyType": "民营企业"
+    }
+  ]
+}
