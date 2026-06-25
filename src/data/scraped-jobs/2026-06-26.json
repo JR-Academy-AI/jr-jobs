@@ -1,0 +1,158 @@
+{
+  "date": "2026-06-26",
+  "generatedAt": "2026-06-26T07:30:00+10:00",
+  "auMode": "淡季",
+  "cnMode": "暑假实习+提前批",
+  "sources": [
+    "cba.wd3.myworkdayjobs.com",
+    "au.gradconnection.com",
+    "jobs.bytedance.com",
+    "talent.baidu.com",
+    "www.nowcoder.com"
+  ],
+  "jobs": [
+    {
+      "market": "AU",
+      "company": "Commonwealth Bank",
+      "title": "Data Scientist, People Analytics",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "applyUrl": "https://cba.wd3.myworkdayjobs.com/en-US/CommBank_Careers/job/Data-Scientist--People-Analytics_REQ259563",
+      "description": "CommBank is on a mission to lead in Generative AI and Agentic AI, shaping the future of banking through innovation and impact, with a team driving this ambition and tackling some of Australia's most complex, high impact data challenges. There is a Data Scientist position available in People Analytics, seeking an inquisitive and experienced data science professional with a genuine passion for solving complex workforce problems through data, analytics, machine learning and AI.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "company": "Commonwealth Bank",
+      "title": "2026 CommBank Data Science and Analytics Graduate Program",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/commonwealth-bank/jobs/commbank-2026-commbank-data-science-and-analytics-graduate-program/",
+      "description": "CommBank offers a 12 to 18-month Data Science Program with three rotations available in Sydney, Melbourne & Adelaide, providing exposure in Decision and Behavioural Science, Quantitative & Predictive Modelling, Artificial Intelligence (AI) & Machine Learning (ML), Data Engineering, and more. After the program you can land a role at CommBank as a Data Scientist, Insights Analytics Analyst or Data Engineer.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "company": "Deloitte",
+      "title": "Data & Analytics Graduate Program 2027",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/deloitte/jobs/deloitte-data-analytics-graduate-program-2027/",
+      "description": "Data & Analytics is hands-on and deeply collaborative, and you'll work with multidisciplinary teams and clients to tackle problems that matter, using data to inform decisions. These teams specialise in work that spans analytics, artificial intelligence, machine learning and visualisation, and you might support customer analytics, forecasting, operational optimisation or performance improvement initiatives across public and private sector organisations.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "company": "Amazon",
+      "title": "2025 Applied Scientist Intern (Machine Learning, Recommender Systems)",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/amazon/jobs/amazon-2025-applied-scientist-intern-machine-learning-recommender-systems/",
+      "description": "Interns will collaborate with scientists on writing and submitting papers to top conferences like NeurIPS, ICML, KDD, and SIGIR, as well as present research findings to both technical and non-technical audiences. Candidates must be currently enrolled in a PhD program in Computer Science, Electrical Engineering, Mathematics, or related field with specialization in Information Retrieval, Recommender Systems, or Machine Learning, and must have strong programming skills (such as Python and deep learning frameworks) and research experience in Deep Learning, Recommender Systems, Information Retrieval, or broader Machine Learning.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "company": "字节跳动",
+      "title": "AIGC图像生成算法实习生-火山方舟",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://jobs.bytedance.com/campus/m/position/detail/7601819055809825077",
+      "description": "字节跳动正在招聘 AIGC 图像生成算法实习生，面向 2027 届本科及以上学历在读的候选人，计算机、软件工程等相关专业优先。候选人需要在多模态、AIGC 等领域有较深入的研究，熟悉生成相关技术路线（扩散模型、自回归模型等），有大规模训练经验，具有熟练的 C/C++ 和 Python 编程能力。实习生需要优化 Seedream 系列模型，为模型的通用能力提升相关技术负责，包含图像理解、图像生成、图像编辑等前沿技术，并推动技术在内容创作、特效、素材生成等领域的应用。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "company": "字节跳动",
+      "title": "大语言模型算法工程师-Top Seed",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "applyUrl": "https://jobs.bytedance.com/campus/position/7494095386640222472/detail",
+      "description": "大语言模型算法工程师-Top Seed - 加入字节跳动。面向在校生及应届生招聘大语言模型算法工程师，参与豆包大模型核心研发。岗位要求：熟练掌握深度学习技术，有大模型预训练、微调或推理经验，精通Python/C++等编程语言。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "company": "字节跳动",
+      "title": "广告算法实习生-内容消费与非闭环电商",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://jobs.bytedance.com/campus/m/position/detail/7598579878266521861",
+      "description": "广告算法实习生-内容消费与非闭环电商 - 字节跳动校招。面向2027届应届生，负责内容消费场景广告算法研究与优化，包括CTR预估、CVR预估、排序策略等方向，需要熟悉机器学习、深度学习基础算法。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "company": "百度",
+      "title": "搜索算法工程师 (J82911)",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "applyUrl": "https://talent.baidu.com/jobs/detail/SOCIAL/5fea1710-41eb-437b-8c88-81479b3714c0",
+      "description": "搜索算法工程师（J82911）在北京MEG部门，负责搜索首位智能化结果优化、通过自然语言处理（NLP）和深度学习技术深入理解用户搜索意图、检索增强与模型优化、算法研究与创新等工作内容。岗位要求包括：计算机科学、人工智能、机器学习、数据科学等相关领域的硕士或博士学位；熟悉大模型、NLP、深度学习、机器学习等技术；精通Python、C++等编程语言；熟悉TensorFlow、PyTorch等深度学习框架。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "company": "蚂蚁集团",
+      "title": "风控算法工程师",
+      "location": "上海",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/327879",
+      "description": "【社招】蚂蚁集团-数字科技-数科技术部-反内卷先锋-风控算法。薪资：25-50k，地点：上海。要求：硕士及以上学历（人工智能、机器学习等相关专业优先），在机器学习领域有扎实知识储备和丰富实战项目经验，熟悉Python/Java编程，在NLP、知识图谱、风控建模、图学习、因果推断、小样本学习等方向有知识背景和项目经验优先",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "company": "蚂蚁集团",
+      "title": "算法评测工程师",
+      "location": "上海",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/379290",
+      "description": "蚂蚁集团招聘算法评测工程师，主要负责AI/算法类产品质量（如智能引擎、大模型应用），参与产品系统架构建设和规划。要求：计算机或数学相关专业的硕士或博士，精通Python、Java、C++等编程语言，掌握模型剪枝、量化、蒸馏的常见方法",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "company": "蚂蚁集团",
+      "title": "AI应用研发工程师",
+      "location": "上海",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/379292",
+      "description": "AI应用研发工程师_蚂蚁集团社招。要求一年以上算法研发经验，有大模型训练、微调或应用落地经验，熟练掌握PyTorch/DeepSpeed等常用AI开发框架，精通Python/Java开发，熟悉分布式系统开发和K8s/Redis/Kafka等中间件",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "company": "蚂蚁集团",
+      "title": "大模型应用研发-数字员工数字分身",
+      "location": "上海",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/318006",
+      "description": "（蚂蚁集团）大模型应用研发-数字员工数字分身_蚂蚁集团校招。地点在上海，要求硕士或博士学位，计算机专业，掌握 Java 或 Python，熟练数据结构和算法。主要职责包括AI系统结构设计、大模型训练数据构建、大模型能力评测、大模型推理效果和效率优化。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "company": "传音控股",
+      "title": "AI Agent 研发实习生",
+      "location": "深圳",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/444729",
+      "description": "设计企业级智能系统，将大模型技术转化为可落地的自动化生产力工具，包括智能体架构设计、Prompt优化、多模态融合、RAG实现、性能评估等。要求计算机科学、人工智能、数学或自动化专业2026年毕业生，Python熟练，了解GPT-4、Claude 3.5、Gemini、DeepSeek等主流大模型，至少掌握一个Agent开发框架",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
