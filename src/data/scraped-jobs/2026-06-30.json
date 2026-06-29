@@ -1,0 +1,150 @@
+{
+  "date": "2026-06-30",
+  "generatedAt": "2026-06-30T07:55:29+10:00",
+  "auMode": "淡季",
+  "cnMode": "暑假实习+提前批",
+  "sources": ["lifeatcanva.com", "recruitment.macquarie.com", "nowcoder.com"],
+  "stats": { "auCandidates": 42, "auLive": 11, "cnCandidates": 35, "cnLive": 3 },
+  "jobs": [
+    {
+      "market": "AU",
+      "company": "Canva",
+      "title": "Senior Machine Learning Engineer - Marketing AI",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.lifeatcanva.com/en/jobs/6000000000219568/senior-machine-learning-engineer-marketing-ai/",
+      "description": "using advanced machine learning and programming skills with Product Managers and Engineering Managers to develop ways of leveraging data to make better, smarter product decisions and outcomes across Martech domains"
+    },
+    {
+      "market": "AU",
+      "company": "Canva",
+      "title": "Senior Machine Learning Engineer - AI Enablement (AU remote)",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.lifeatcanva.com/en/jobs/6000000001086387/senior-machine-learning-engineer-ai-enablement-au-remote/",
+      "description": "acts as a solution expert across ML domains including evaluations, training, inference, data pipelines, labelling, and optimisation, with the AI Enablement teams providing critical solution expertise to researchers and AI builders globally"
+    },
+    {
+      "market": "AU",
+      "company": "Canva",
+      "title": "Senior Machine Learning Engineer - Smart Content AI",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.lifeatcanva.com/en/jobs/6000000000521646/senior-machine-learning-engineer-smart-content-ai-remote-across-anz/",
+      "description": "lay the technical foundations for the ML stack, set coding and experimentation standards, and deliver high-impact models that power content discovery and personalisation across Canva"
+    },
+    {
+      "market": "AU",
+      "company": "Canva",
+      "title": "Senior Machine Learning Engineer - Evaluations (Design Generation)",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.lifeatcanva.com/en/jobs/6000000000743065/senior-machine-learning-engineer-evaluations-design-generation/",
+      "description": "build the infrastructure that enables quality monitoring across Design Generation and serve as an expert who understands evaluation methodologies deeply and builds the infrastructure to scale them across the organization"
+    },
+    {
+      "market": "AU",
+      "company": "Canva",
+      "title": "Senior Machine Learning Engineer - Multimedia Group",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.lifeatcanva.com/en/jobs/6000000000449199/senior-machine-learning-engineer-multimedia-group/",
+      "description": "staying current with multimodal research, designing and deploying models for creator-facing features, establishing evaluation frameworks for agentic workflows, and mentoring engineers"
+    },
+    {
+      "market": "AU",
+      "company": "Canva",
+      "title": "Senior Machine Learning Engineer - Growth",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.lifeatcanva.com/en/jobs/6000000000519733/senior-machine-learning-engineer-growth/",
+      "description": "Revenue Fraud Prevention team responsible for understanding how Canva's business attracts fraud works with other teams around the company, with platform support including consultation on new product launches, modelling known and emerging fraud vectors, and engineering automated systems to identify, prevent, and remediate fraud at scale. Developing and deploying fraud detection models to prevent revenue leakage across Canva's monetisation channels, and collaborating with backend engineers, data scientists and product managers to build and iterate on fraud prevention strategies. Shaping Canva's fraud ML strategy, using a strong product + platform mindset."
+    },
+    {
+      "market": "AU",
+      "company": "Macquarie Group",
+      "title": "Software Engineer - AI Enablement",
+      "location": "Sydney, NSW",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "applyUrl": "https://recruitment.macquarie.com/en_US/careers/JobDetail/Software-Engineer-AI-Enablement/19632",
+      "description": "As a software engineer in the enterprise AI enablement team, you will be at the forefront of designing and building the robust, scalable backend systems that power our AI-native solutions. You will spend the majority of your time writing production-grade code and automating complex workflows to create a resilient foundation for our agentic AI ecosystem. You'll take end-to-end ownership of your products in a modern DevOps culture, responsible for architecture, design, development, testing, and operations. Working in a multi-disciplinary team alongside our data scientists, you will apply your engineering expertise to implement LLMOps best practices and streamline the deployment and monitoring of cutting-edge AI models. 5+ years of experience as a software engineer in an agile DevOps environment using an object-oriented development language (python preferred)"
+    },
+    {
+      "market": "AU",
+      "company": "Macquarie Group",
+      "title": "Machine Learning Platform Engineer",
+      "location": "Sydney, NSW",
+      "category": "MLOps / AI Infra",
+      "level": "Mid",
+      "applyUrl": "https://recruitment.macquarie.com/en_US/careers/JobDetail/ML-Platform-Engineer-Sydney-BFS13157/10042",
+      "description": "designing, building and operating Machine Learning solutions in Macquarie's Banking and Financial services group. Demonstrated proficiency using cloud technologies and integrating with ML services including GCP Vertex AI, DataRobot or AWS SageMaker, along with experience with SQL and Python environments"
+    },
+    {
+      "market": "AU",
+      "company": "Macquarie Group",
+      "title": "AI Native Platform Engineer",
+      "location": "Sydney, NSW",
+      "category": "AI Engineer",
+      "level": "Junior",
+      "applyUrl": "https://recruitment.macquarie.com/en_US/careers/JobDetail/AI-Native-Platform-Engineer/20962",
+      "description": "As a junior member of the AI SDLC Developer Productivity and Enablement team, you will help build and maintain the SCM, CI/CD pipelines, and developer productivity tooling that engineering teams rely on daily. You will contribute to maintaining the organisation's GitHub Actions runner fleet, developing reusable workflows, and ensuring internal integrations work seamlessly for business application teams. You will apply agentic engineering principles as a core part of your daily workflow to deliver quality, maintainable solutions. Collaborating closely with development teams, you will identify pain points in their delivery processes, help design customised automation where it adds value, and contribute to embedding agentic engineering principles into the organisation's developer workflows. Demonstrated ability and enthusiasm for agentic engineering using tools such as Claude Code and GitHub Copilot with proper engineering discipline is essential."
+    },
+    {
+      "market": "AU",
+      "company": "Macquarie Group",
+      "title": "AI Engineer – Technology Risk Management",
+      "location": "Sydney, NSW",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "applyUrl": "https://recruitment.macquarie.com/en_US/careers/JobDetail/AI-Engineer-Technology-Risk-Management/17828",
+      "description": "As an AI Engineer you will develop and deploy innovative AI solutions that enhance technology risk management at Macquarie. You will design scalable platforms and applications to improve how we monitor, assess, and respond to operational risks, collaborating with engineers, risk analysts, and data specialists to integrate AI models into our ecosystem. Your role will involve leveraging large language models (LLMs) and generative AI to provide deeper risk insights, building tools to monitor AI systems, and ensuring compliance with governance standards. You will also establish best practices for AI adoption, aligning with Macquarie's broader technology and risk strategies to drive innovation in risk management. Technical expertise in Python, with hands-on experience in AI frameworks such as LangChain, OpenAI API, Anthropic Claude, Amazon Bedrock, or Google Vertex; proven experience deploying generative AI applications in production environments, including prompt engineering, model integration, and system monitoring."
+    },
+    {
+      "market": "AU",
+      "company": "Macquarie Group",
+      "title": "Data and AI Enablement Analyst",
+      "location": "Sydney, NSW",
+      "category": "Business Analyst",
+      "level": "Mid",
+      "applyUrl": "https://recruitment.macquarie.com/en_US/careers/JobDetail/Data-and-AI-Enablement-Analyst/21054",
+      "description": "Data and AI Enablement Skilling team builds the organisation's confidence and capability in using data and AI by strengthening mindsets, skills, and tools, helping people experiment responsibly and adopt AI safely"
+    },
+    {
+      "market": "CN",
+      "company": "ByteDance",
+      "title": "Agent/RL方向大模型算法实习生",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/d28cf1fc8c044de7b86bacd77fb01808",
+      "description": "字节跳动商业信任与安全算法团队面向2027届毕业生（2026年9月-2027年8月期间毕业）招聘实习生，为符合岗位要求的同学提供转正机会。该团队通过AI技术（包括大模型/Agent/多模态等）识别治理问题广告内容与广告主。职位涉及搭建风险感知、风险研判、审核策略优化等智能体能力，支持交互类智能体训练；参与审核链路的完全自主进化体系构建；跟踪Agent前沿技术并进行可行性验证（如Preference-based RL、多智能体协作、DeepResearch、数据和模型的scaling、轻量化模型新RL范式）。需要27届硕士或博士在读，计算机、电子信息或相关专业；有扎实的代码能力、数据结构和基础算法功底，熟练掌握C/C++或Python编程语言；熟悉机器学习和大模型基础原理，有大模型预训练、微调、强化学习、Agent搭建经验者优先。工作地点为北京/上海。"
+    },
+    {
+      "market": "CN",
+      "company": "ByteDance",
+      "title": "大语言模型AI搜索Agent算法工程师实习生",
+      "location": "上海",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/386085",
+      "description": "主要职责包括：设计并实现基于LLM的搜索总结Agent，提升搜索结果的理解、推理与结构化总结能力；探索LLM Reasoning技术（如思维链、多步推理），优化复杂查询的Deep Research模式；构建端到端系统，涵盖意图识别、知识检索、结果生成与偏好对齐。字节跳动豆包大模型团队（Seed）成立于2023年，致力于寻找通用智能的新方法，追求智能上限，并探索新的交互。团队研究方向涵盖LLM、语音、视觉、世界模型、基础架构等。内推码：U2E7BQU，面向2025年9月及以后毕业的博士及本硕在读同学。薪资：300-1000元/天，地点：上海。"
+    },
+    {
+      "market": "CN",
+      "company": "Tencent",
+      "title": "多模态大模型与Agent算法实习生",
+      "location": "深圳",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/7b34a29c3e904cc996147974027409b8",
+      "description": "岗位职责：1. 多模态内容安全大模型研发 - 负责游戏内文本、语音、图像、视频的多模态内容理解与风险识别模型的算法设计与迭代，探索大模型在游戏内容安全场景的应用 2. 安全Agent系统开发 - 构建基于LLM/多模态大模型的智能对抗Agent，用于自动识别、处置和溯源游戏内违规内容与行为 3. 数据与模型优化 - 利用海量游戏内容数据进行多模态数据清洗、分析与建模，针对游戏场景进行模型轻量化、部署优化与效果调优。岗位要求：计算机、人工智能、电子工程等相关专业硕士及以上学历（实习岗为本科及以上在校生），编程能力熟练掌握Python，熟悉Linux开发环境，算法基础熟悉深度学习、自然语言处理、计算机视觉或多模态学习的基础模型"
+    }
+  ]
+}
