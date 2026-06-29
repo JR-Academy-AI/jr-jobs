@@ -76,6 +76,42 @@
     },
     {
       "market": "AU",
+      "title": "AI Native Platform Engineer",
+      "company": "Macquarie Group",
+      "location": "Sydney, NSW",
+      "category": "AI Engineer",
+      "level": "Junior",
+      "postedAt": "2026-06-19",
+      "applyUrl": "https://recruitment.macquarie.com/en_US/careers/JobDetail/AI-Native-Platform-Engineer/20962",
+      "snippet": "Join Macquarie's AI SDLC Developer Productivity and Enablement team as a junior AI platform engineer. Build and maintain AI-native development tools and platforms that accelerate software delivery cycles across Macquarie Group's global engineering teams.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "AI Engineer – Technology Risk Management",
+      "company": "Macquarie Group",
+      "location": "Sydney, NSW",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "postedAt": "2026-06-17",
+      "applyUrl": "https://recruitment.macquarie.com/en_US/careers/JobDetail/AI-Engineer-Technology-Risk-Management/17828",
+      "snippet": "Develop and deploy innovative AI solutions for technology risk management at Macquarie. Build models and AI systems that enhance risk detection, monitoring, and governance across Macquarie's global technology infrastructure.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "Data and AI Enablement Analyst",
+      "company": "Macquarie Group",
+      "location": "Sydney, NSW",
+      "category": "Business Analyst",
+      "level": "Mid",
+      "postedAt": "2026-06-20",
+      "applyUrl": "https://recruitment.macquarie.com/en_US/careers/JobDetail/Data-and-AI-Enablement-Analyst/21054",
+      "snippet": "Build Macquarie Group's data and AI capability through the AI Enablement Skilling team. Design and deliver training programs, toolkits, and frameworks that help Macquarie staff confidently use data and AI across banking, financial services, and advisory operations.",
+      "description": ""
+    },
+    {
+      "market": "AU",
       "title": "2026 Technology (Cloud) Graduate Program",
       "company": "Westpac",
       "location": "Sydney, NSW",
