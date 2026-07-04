@@ -1,0 +1,108 @@
+{
+  "date": "2026-07-05",
+  "generatedAt": "2026-07-05T07:30:00+10:00",
+  "auMode": "淡季",
+  "cnMode": "暑假实习+提前批",
+  "sources": [
+    "au.gradconnection.com",
+    "aijobsaustralia.com.au",
+    "nowcoder.com",
+    "feishu.cn",
+    "app.mokahr.com"
+  ],
+  "stats": {
+    "total": 7,
+    "au": 4,
+    "cn": 3,
+    "by_category": {
+      "Data Scientist": 3,
+      "ML Engineer": 2,
+      "MLOps / AI Infra": 1,
+      "AI Engineer": 1
+    },
+    "by_level": {
+      "Graduate": 5,
+      "Senior": 1,
+      "Mid": 1
+    }
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Data & Analytics Vacationer Program 2026/27",
+      "company": "Deloitte",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/deloitte/jobs/deloitte-data-analytics-vacateur-program-202627/",
+      "snippet": "Deloitte's Data & Analytics Vacationer Program 2026/27 opens 1–22 July. Work alongside the Analytics & Cognitive team on real client data and analytics projects; exposure spans data wrangling, visualisation, and AI-assisted insights delivery. Open to penultimate-year students in data, statistics, or computer science. Roles across Sydney and Melbourne.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "Technical Lead, Machine Learning Engineering",
+      "company": "carsales",
+      "location": "Melbourne, VIC",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.aijobsaustralia.com.au/jobs/18b08256-4ceb-4aeb-97e4-e58d610e48d7",
+      "snippet": "Senior technical lead for carsales ML engineering function: act as reference point for MLEs and Data Scientists on distributed training, serving architectures, CI/CD, and model monitoring. Translate ML trade-offs into business language and ensure engineering choices are anchored in measurable product outcomes. Melbourne-based hybrid role.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "2026/27 EY Vacationer Program – Data Analytics",
+      "company": "EY",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/ey/jobs/ey-202627-ey-vacationer-program-data-analytics/",
+      "snippet": "EY's 2026/27 Vacationer Program in Data Analytics gives penultimate-year students hands-on exposure to AI and Data teams on client engagements. Includes structured L&D sessions from EY's Campus Recruitment and service-line experts; outstanding vacationers may receive a graduate offer. Applications open July 2026.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "Analytics Vacationer Program",
+      "company": "PwC",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/pwc/jobs/pwc-analytics-vacationer-program-2/",
+      "snippet": "PwC's Analytics Vacationer Program for students graduating in 2027. Join data and analytics teams delivering insights-led solutions across client engagements in a 7-week winter or summer placement. Roles across Sydney, Melbourne, and Brisbane; strong analytical and communication skills required.",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "AI Infra研发实习生（可转正）",
+      "company": "拼多多集团",
+      "location": "上海",
+      "category": "MLOps / AI Infra",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/446263",
+      "snippet": "拼多多2026届暑期实习，AI Infra研发方向，可转正。负责AI平台底层基础设施研发，含分布式训练系统、推理加速与服务调度；参与AI基础设施设计与性能优化。要求计算机/AI相关专业在读本硕，熟悉CUDA/C++及分布式系统。日薪500-600元。工作地点：上海。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法实习生（LLM Agent方向）",
+      "company": "算秩未来",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/m/",
+      "snippet": "算秩未来2026届实习招聘，大模型算法方向（LLM Agent）。参与RAG、Function Calling、多步推理等Agent核心技术研发，跟踪前沿LLM论文并推进工业场景落地。要求在读研究生或有项目经验本科生，熟悉Python及主流大模型框架（LangChain/LlamaIndex等）。工作地点：北京。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "深度学习研究员",
+      "company": "深度求索 (DeepSeek)",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "applyUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/",
+      "snippet": "深度求索（DeepSeek）2026年6月25日公告大规模扩招，深度学习研究员岗位开放实习与全职。参与大模型预训练、后训练及AGI核心研发，挑战深度学习前沿课题。全职薪资50-150W/年（14薪），实习500-1000元/天，外地实习生每月3000元住房补贴。工作地点：北京/杭州。",
+      "description": ""
+    }
+  ]
+}
