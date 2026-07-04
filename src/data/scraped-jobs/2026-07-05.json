@@ -1,108 +1,196 @@
 {
   "date": "2026-07-05",
-  "generatedAt": "2026-07-05T07:30:00+10:00",
+  "generatedAt": "2026-07-05T07:35:00+10:00",
   "auMode": "淡季",
   "cnMode": "暑假实习+提前批",
   "sources": [
+    "careers.xero.com",
     "au.gradconnection.com",
-    "aijobsaustralia.com.au",
-    "nowcoder.com",
-    "feishu.cn",
-    "app.mokahr.com"
+    "wisetechglobal.com",
+    "nowcoder.com"
   ],
   "stats": {
-    "total": 7,
-    "au": 4,
-    "cn": 3,
-    "by_category": {
-      "Data Scientist": 3,
-      "ML Engineer": 2,
-      "MLOps / AI Infra": 1,
-      "AI Engineer": 1
-    },
-    "by_level": {
-      "Graduate": 5,
-      "Senior": 1,
-      "Mid": 1
-    }
+    "auCandidates": 38,
+    "auLive": 6,
+    "cnCandidates": 28,
+    "cnLive": 10
   },
   "jobs": [
     {
       "market": "AU",
-      "title": "Data & Analytics Vacationer Program 2026/27",
-      "company": "Deloitte",
+      "title": "Senior Engineer - AI Workflows",
+      "company": "Xero",
       "location": "Sydney, NSW",
-      "category": "Data Scientist",
-      "level": "Graduate",
-      "applyUrl": "https://au.gradconnection.com/employers/deloitte/jobs/deloitte-data-analytics-vacateur-program-202627/",
-      "snippet": "Deloitte's Data & Analytics Vacationer Program 2026/27 opens 1–22 July. Work alongside the Analytics & Cognitive team on real client data and analytics projects; exposure spans data wrangling, visualisation, and AI-assisted insights delivery. Open to penultimate-year students in data, statistics, or computer science. Roles across Sydney and Melbourne.",
-      "description": ""
+      "category": "AI Engineer",
+      "level": "Senior",
+      "applyUrl": "https://careers.xero.com/jobs/3954a3b2-6f34-4b29-984c-77f5d5ca813e/senior-engineer-ai-workflows/",
+      "description": "As a Senior Engineer within the Internal AI Accelerator Squad, you will be at the forefront of Xero's transformation into an AI-native company, acting as a forward-deployed engineer, embedding yourself within various internal business teams to co-design and operationalise agentic AI workflows that remove manual toil and fundamentally reshape how our people work end-to-end. Key responsibilities include: Designing and iterating on AI agents and workflow orchestrations using tools like Claude, Gemini, and MCP; Integrating AI systems with core enterprise platforms including Salesforce, Workday, Slack, and NetSuite; Developing reusable automation patterns and shared templates to be used by the business and building evaluation and monitoring frameworks to measure performance and ensure the safety of AI-native workflows; Leading the delivery of high-stakes AI agents from discovery to production, while acting as a technical partner and evangelist. Requirements: You bring a wealth of experience in building and operating applications or automations within production environments, particularly involving APIs and cloud infrastructure. Hands-on delivery of AI-driven solutions such as agents, copilots, or RAG systems using LLMs like Claude or Gemini.",
+      "descriptionSource": "search-snippet"
     },
     {
       "market": "AU",
-      "title": "Technical Lead, Machine Learning Engineering",
-      "company": "carsales",
+      "title": "Machine Learning Engineer Intern, Data Trust & Safety (Australia) - 2026 Start",
+      "company": "TikTok",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/tiktok/jobs/tiktok-machine-learning-engineer-intern-data-trust-safety-australia-2026-start-5/",
+      "description": "The Trust & Safety (T&S) team at TikTok helps ensure that the global online community is safe and empowered to create and enjoy content across all applications, with heavy investment in human and machine-based moderation to remove harmful content quickly and often before it reaches the general community. Responsibilities include building industry-leading content safety systems for TikTok and developing highly-scalable classifiers, tools, models and algorithms leveraging cutting-edge machine learning, computer vision and data mining technologies. Minimum Qualifications: Currently pursuing a bachelor's degree or have completed one within 1 year in Computer Science or a related engineering field; solid knowledge in at least one of: machine learning, pattern recognition, NLP, data mining, or computer vision; firm understanding of data structures and algorithms.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Machine Learning Engineer Graduate, Trust and Safety Engineering - 2026 Start",
+      "company": "TikTok",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/tiktok/jobs/tiktok-machine-learning-engineer-graduate-trust-and-safety-engineering-2026-start-2/",
+      "description": "The Trust & Safety (T&S) team at TikTok helps ensure that the global online community is safe and empowered to create and enjoy content across TikTok's applications, having invested heavily in human and machine-based moderation to remove harmful content quickly. The role involves working with world-class engineers to build industry-leading trust and safety systems, developing and building highly-scalable classifiers, tools, models and algorithms leveraging cutting-edge machine learning, computer vision and data mining technologies, improving trust and safety strategy and working on model iterations. Minimum Qualifications: Currently pursuing your bachelor's or completed within 1 year in Computer Science or related engineering field; solid knowledge in at least one of: machine learning, pattern recognition, NLP, data mining, or computer vision; firm understanding of data structures and algorithms; great communication and teamwork skills.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "2026 DXC Technology Graduate Program - AI Engineer",
+      "company": "DXC Technology",
+      "location": "Melbourne / Sydney",
+      "category": "MLOps / AI Infra",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/dxc-technology/jobs/dxc-technology-2026-dxc-technology-graduate-program-ai-engineer/",
+      "description": "As a Graduate AI Engineer, you will be exposed to our leading experts around the globe and contribute directly to our product. You will have the opportunity to join a DXC team based in Melbourne and Sydney who are actively engineering the future of enterprise autonomy. The current focus areas are AIOps & AI Governance, where you will engineer the platforms and CI/CD pipelines for AI deployment, automated model monitoring, performance tracking, and governance. This is a critical component that ensures AI is scalable, reliable, secure, and deployed responsibly across the enterprise. Eligibility Requirements: You must have completed all course requirements for your degree no earlier than November 2023, and must be expecting to complete all course requirements for your degree no later than February 2026.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Graduate Data Scientist / Data Engineer",
+      "company": "Leidos",
+      "location": "Canberra, ACT",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/leidos/jobs/leidos-graduate-data-scientist-data-engineer/",
+      "description": "As a Graduate Data Scientist or Graduate Data Engineer, you'll join a collaborative analytics and data delivery team supporting mission-critical programs for our customers. You'll work on meaningful projects that turn data into insights, insights into action, and engineering into robust, secure data solutions. Depending on your background and interests, you may focus on analytics, data modelling or data engineering—or build experience across all three as part of your early career development. Requirements: You must be an Australian Citizen and able to obtain and maintain an active Top Secret AGSVA security clearance (TSPV). Leidos Australia delivers IT and airborne solutions that protect and advance the Australian way of life, with 2000 local experts backed by global experience.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "2026 Applied Science Intern (Machine Learning, Recommender Systems)",
+      "company": "Amazon",
       "location": "Melbourne, VIC",
       "category": "ML Engineer",
-      "level": "Senior",
-      "applyUrl": "https://www.aijobsaustralia.com.au/jobs/18b08256-4ceb-4aeb-97e4-e58d610e48d7",
-      "snippet": "Senior technical lead for carsales ML engineering function: act as reference point for MLEs and Data Scientists on distributed training, serving architectures, CI/CD, and model monitoring. Translate ML trade-offs into business language and ensure engineering choices are anchored in measurable product outcomes. Melbourne-based hybrid role.",
-      "description": ""
-    },
-    {
-      "market": "AU",
-      "title": "2026/27 EY Vacationer Program – Data Analytics",
-      "company": "EY",
-      "location": "Sydney, NSW",
-      "category": "Data Scientist",
       "level": "Graduate",
-      "applyUrl": "https://au.gradconnection.com/employers/ey/jobs/ey-202627-ey-vacationer-program-data-analytics/",
-      "snippet": "EY's 2026/27 Vacationer Program in Data Analytics gives penultimate-year students hands-on exposure to AI and Data teams on client engagements. Includes structured L&D sessions from EY's Campus Recruitment and service-line experts; outstanding vacationers may receive a graduate offer. Applications open July 2026.",
-      "description": ""
-    },
-    {
-      "market": "AU",
-      "title": "Analytics Vacationer Program",
-      "company": "PwC",
-      "location": "Sydney, NSW",
-      "category": "Data Scientist",
-      "level": "Graduate",
-      "applyUrl": "https://au.gradconnection.com/employers/pwc/jobs/pwc-analytics-vacationer-program-2/",
-      "snippet": "PwC's Analytics Vacationer Program for students graduating in 2027. Join data and analytics teams delivering insights-led solutions across client engagements in a 7-week winter or summer placement. Roles across Sydney, Melbourne, and Brisbane; strong analytical and communication skills required.",
-      "description": ""
+      "applyUrl": "https://au.gradconnection.com/employers/amazon/jobs/amazon-2026-applied-science-intern-machine-learning-recommender-systems/",
+      "description": "Key job responsibilities include developing novel solutions and building prototypes, working on complex problems in Machine Learning and Information Retrieval, contributing to research that could significantly impact Amazon operations, and collaborating with a diverse team of experts in a fast-paced environment. You will take on complex problems, work on solutions that leverage existing academic and industrial research, and utilize your own out-of-the-box pragmatic thinking. In addition to coming up with novel solutions and prototypes, you may even deliver these to production in customer facing products. The successful intern is required to be based in Melbourne; relocation allowance is provided if based outside Melbourne. Duration: 6 months full-time, starting Jan-March 2026.",
+      "descriptionSource": "search-snippet"
     },
     {
       "market": "CN",
-      "title": "AI Infra研发实习生（可转正）",
-      "company": "拼多多集团",
+      "title": "游戏AI算法实习生",
+      "company": "腾讯",
+      "location": "深圳",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/e6800b93d147401d8680e6963a1ddf81",
+      "description": "腾讯游戏AI算法招暑期实习生。机器学习、深度学习、自然语言、强化学习、大模型AIGC方向（base 深圳）。岗位职责：参与腾讯Game AI研发，探索解决AI在腾讯游戏业务中的技术挑战；开发AI智能决策系统，负责游戏业务中的强化学习AIGC等相关技术研发，推动智能NPC等场景的应用落地。岗位要求：1. 计算机相关专业硕士及以上学历 2. 具备C/C++，Python，Go语言等开发经验 3. 熟悉主流机器学习/深度学习强化学习相关算法及原理 4. 能够在TF、PyTorch等主流框架下开发算法 5. 专注解决问题，很强的执行力，self-motivation。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI后台开发实习生",
+      "company": "腾讯",
+      "location": "深圳",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/e321082b9646422b8df16cf43d793985",
+      "description": "AI后台开发实习｜暑期实习｜腾讯（深圳）。职位描述：1、参与AI前沿研究技术的工程落地开发工作；2、参与AI业务的后台服务功能研发、业务逻辑开发等工作；3、参与部分后台服务运维、运营开发工作。职位要求：1、掌握C/C++或Go，熟悉Python编程语言，熟悉Linux后台开发；2、熟悉数据结构、计算机体系结构、常见计算机算法；3、熟悉计算机网络编程，了解多线程、多进程和分布式系统架构设计及实现原理；4、了解软件开发流程，熟练使用Git等版本控制工具；5、有良好的协同开发能力，良好的沟通表达及团队合作精神者优先。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "Agent/RL大模型实习生",
+      "company": "字节跳动",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/0370465bebcc47e6a71576c1ed99f835",
+      "description": "字节跳动商业信任与安全算法团队招聘Agent/RL方向大模型实习生，面向2027届毕业生（2026年9月-2027年8月期间毕业），为符合岗位要求的同学提供转正机会，团队聚焦于通过大模型/Agent/多模态等AI技术识别治理问题广告内容与广告主。岗位base北京/上海。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大语言模型AI搜索Agent算法工程师实习生",
+      "company": "字节跳动",
+      "location": "上海",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/386085",
+      "description": "字节跳动豆包大模型团队招聘大语言模型AI搜索Agent算法工程师实习生，位置在上海，薪资300-1000元/天，要求2026届及以后本科及以上学历，需要熟悉PyTorch/TensorFlow框架、大规模语言模型训练、RAG、Agent架构、搜索算法等技术。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "PSIG大模型算法实习生",
+      "company": "百度",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/26801f7ed85c439290799bcebebeabbf",
+      "description": "岗位职责：1. 参与百度文库多模态内容理解和生成，参与文库的AIGC产品研发优化，负责图片理解、图片生成、视频化等策略优化，提升用户规模、体验和变现效率 2. 参与负责出海产品多模态需求落地 3. 参与负责多模态大模型SFT训练和效果评估 4. 参与负责Agent在业务上的效果迭代 5. 调研最新的AIGC相关技术在业务应用。职责要求：1. 熟练掌握自然语言处理、计算机视觉、强化学习、Agent等常用算法和架构，对大规模预训练模型和下游应用，有深入实践者优先 2. 有扎实的机器学习实践经验，熟悉一种主流的机器学习框架（PyTorch，Tensorflow，PaddlePaddle）。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "昇腾大模型技术实习生",
+      "company": "华为",
       "location": "上海",
       "category": "MLOps / AI Infra",
       "level": "Graduate",
-      "applyUrl": "https://www.nowcoder.com/jobs/detail/446263",
-      "snippet": "拼多多2026届暑期实习，AI Infra研发方向，可转正。负责AI平台底层基础设施研发，含分布式训练系统、推理加速与服务调度；参与AI基础设施设计与性能优化。要求计算机/AI相关专业在读本硕，熟悉CUDA/C++及分布式系统。日薪500-600元。工作地点：上海。",
-      "description": ""
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/8b8b09e131cf4c88be4d0dfb07e3e6ba",
+      "description": "华为计算产品线昇腾计算产品部大模型技术lab，业务面向LLM、多模态、AIGC等领域，27届及以上日常实习。岗位职责涉及大模型研发与优化、分布式训练与性能优化、AI技术落地与应用。任职要求包括计算机科学、人工智能、数学、统计学或相关领域的本科及以上学历，985、211、双一流优先；技术能力要求熟悉深度学习、自然语言处理、计算机视觉等基本理论和算法，具备大规模预训练模型的研发经验。工作Base地为上海或杭州。",
+      "descriptionSource": "search-snippet"
     },
     {
       "market": "CN",
-      "title": "大模型算法实习生（LLM Agent方向）",
-      "company": "算秩未来",
-      "location": "北京",
+      "title": "千问AI Agent算法实习生",
+      "company": "阿里巴巴",
+      "location": "杭州",
       "category": "AI Engineer",
       "level": "Graduate",
-      "applyUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/m/",
-      "snippet": "算秩未来2026届实习招聘，大模型算法方向（LLM Agent）。参与RAG、Function Calling、多步推理等Agent核心技术研发，跟踪前沿LLM论文并推进工业场景落地。要求在读研究生或有项目经验本科生，熟悉Python及主流大模型框架（LangChain/LlamaIndex等）。工作地点：北京。",
-      "description": ""
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/4c0cb52b39784d3dbaf097a504a4c054",
+      "description": "阿里巴巴千问C端事业群MOS实验室（杭州）团队专注于大模型技术在真实业务场景中的应用，主要包括通用AI Agent、千问事实核查Agent、网盘Agent等。岗位要求：计算机科学、人工智能、自然语言处理等相关领域硕士及以上学历，2026.11-2027.10毕业的海内外应届毕业生；具备大规模LLM训练与优化经验；熟悉检索增强生成、Agent架构、搜索算法等技术。工作地点为杭州。",
+      "descriptionSource": "search-snippet"
     },
     {
       "market": "CN",
-      "title": "深度学习研究员",
-      "company": "深度求索 (DeepSeek)",
+      "title": "NLP研究算法实习生",
+      "company": "科大讯飞",
+      "location": "合肥",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/157093",
+      "description": "科大讯飞-核心研发平台-NLP研究算法实习生（合肥）。岗位职责：负责大语言模型预训练、SFT相关数据优化工作；负责NLP领域其他子任务；岗位隶属于科大讯飞研究院讯飞星火认知大模型团队，工作base合肥。岗位要求：计算机、模式识别、数学、自然语言处理、人工智能、机器学习等相关专业硕士及以上学历；具备良好的编程能力，至少熟练掌握Python程序编写；熟悉Transformer基本架构、LLM相关训练流程概念；具有自然语言处理相关项目经验；实习时长至少3个月。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法工程师",
+      "company": "百川智能",
       "location": "北京",
       "category": "ML Engineer",
       "level": "Mid",
-      "applyUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/",
-      "snippet": "深度求索（DeepSeek）2026年6月25日公告大规模扩招，深度学习研究员岗位开放实习与全职。参与大模型预训练、后训练及AGI核心研发，挑战深度学习前沿课题。全职薪资50-150W/年（14薪），实习500-1000元/天，外地实习生每月3000元住房补贴。工作地点：北京/杭州。",
-      "description": ""
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/4957901cca274e78bbdcdeda6d71c0ff",
+      "description": "百川智能招聘大模型算法工程师（北京）。后训练岗位职责：负责后训练（Post-training）相关研发工作，提升模型在数理推理、Planning、RAG、指令跟随、工具调用等方面的能力；优化和迭代大模型的对齐训练策略和工具，包括SFT、RLHF、Self-play RL、Agent优化、模型融合、模型蒸馏等。任职要求：985高校计算机、电子、自动化等相关专业的硕士或博士学位，优秀本科生亦可；熟练掌握BERT、GPT、T5等预训练语言模型的微调方法，在机器学习/深度学习/自然语言处理/预训练模型等方向有扎实研究基础。北京线下办公。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法实习生",
+      "company": "智谱AI",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/7a516cb5441e4dec881f9733972827f5",
+      "description": "智谱AI招聘大模型算法实习生（北京）。多模态算法方向职责：深入理解常用多模态算法，熟练运用PyTorch、transformers、megatron等框架；后训练算法方向：深入理解常用大模型算法，熟悉强化学习、长程推理、Agent规划。任职要求：统招硕士及以上学历，计算机专业，可连续实习2个月及以上，每周到岗5天；算法岗要求985高校计算机、电子、自动化等相关专业的硕士或博士学位，优秀本科生亦可。CCF-A类会议论文、多模态大模型项目经验及开源项目贡献为加分项。所有岗位均为北京线下办公。",
+      "descriptionSource": "search-snippet"
     }
   ]
 }
