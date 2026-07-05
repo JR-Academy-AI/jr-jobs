@@ -7,13 +7,19 @@
     "au.gradconnection.com",
     "livehire.com",
     "www.nowcoder.com",
-    "vrfi1sk8a0.jobs.feishu.cn"
+    "vrfi1sk8a0.jobs.feishu.cn",
+    "seek.com.au",
+    "careers.iag.com.au",
+    "app.mokahr.com",
+    "nowcoder.com",
+    "zhipu-ai.jobs.feishu.cn",
+    "hr.360.cn"
   ],
   "stats": {
-    "auCandidates": 35,
-    "auLive": 9,
-    "cnCandidates": 26,
-    "cnLive": 9
+    "auCandidates": 57,
+    "auLive": 13,
+    "cnCandidates": 57,
+    "cnLive": 17
   },
   "jobs": [
     {
@@ -212,6 +218,150 @@
       "level": "Graduate",
       "applyUrl": "https://www.nowcoder.com/job/49668",
       "description": "阿里巴巴大淘系数据团队招聘算法实习生，专注于淘宝/天猫内容社交平台的算法研发，通过大数据和算法驱动业务增长。工作内容涵盖内容分发、社交推荐、用户行为分析等核心场景算法优化。面向2026/2027届应届生，北京/杭州，实习转正率高。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "MLOps Engineer",
+      "company": "BizCover",
+      "location": "Sydney, NSW",
+      "category": "MLOps / AI Infra",
+      "level": "Mid",
+      "postedAt": null,
+      "applyUrl": "https://www.seek.com.au/BizCover-jobs",
+      "description": "MLOps Engineer at BizCover in Sydney NSW. BizCover is Australia's leading small business insurance comparison platform. The MLOps Engineer will manage end-to-end ML pipeline infrastructure, model deployment, monitoring systems and CI/CD for AI models underpinning insurance recommendation products. Hybrid work arrangement, competitive salary, exciting team culture and quarterly recognition awards.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Business Analyst (AI-Enabled Transformation)",
+      "company": "IAG",
+      "location": "Sydney, NSW",
+      "category": "Business Analyst",
+      "level": "Mid",
+      "postedAt": null,
+      "applyUrl": "https://careers.iag.com.au/global/en/search-results",
+      "description": "Business Analyst supporting IAG's large-scale AI-enabled transformation program at Australia's largest general insurer, spanning NRMA Insurance, CGU and other brands. Role involves requirements elicitation, process analysis and stakeholder management for generative AI use cases across claims, underwriting and customer service operations.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "2027 Engineering and Data Science Graduate Program",
+      "company": "Ausgrid",
+      "location": "Sydney, NSW",
+      "category": "Data Engineer",
+      "level": "Graduate",
+      "postedAt": null,
+      "applyUrl": "https://au.gradconnection.com/employers/ausgrid/jobs/ausgrid-2027-engineering-and-data-science-statistics-or-mathematics-graduate-program/",
+      "description": "Two-year graduate rotation program at Ausgrid, Australia's largest electricity distribution network operator serving Sydney, Central Coast and Hunter. The Engineering and Data Science stream provides hands-on experience in data science, statistics and mathematics, working on grid modernisation and energy analytics projects. Applications open for the 2027 cohort.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Data Engineer",
+      "company": "Spriggy",
+      "location": "Sydney, NSW",
+      "category": "Data Engineer",
+      "level": "Senior",
+      "postedAt": null,
+      "applyUrl": "https://au.seek.com/senior-data-engineer-jobs/in-North-Sydney-NSW-2060",
+      "description": "Senior Data Engineer at Spriggy, Australia's leading family pocket money and finance app. Based in North Sydney, hybrid. Own and build dbt/Snowflake data pipelines end-to-end, shaping the entire data stack. High-impact, hands-on technical role on a mission to make Aussie kids money-smart.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI搜索算法/架构工程师",
+      "company": "DeepSeek (深度求索)",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "postedAt": "2026-06-25",
+      "applyUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576",
+      "description": "DeepSeek 2026年6月25日宣布大规模招聘，计划将所有部门规模扩大至少一倍。AI搜索算法/架构工程师参与DeepSeek搜索产品核心算法设计与系统架构优化，要求深厚搜索引擎技术背景，具备大规模信息检索与排序算法经验。工作地点：北京、杭州。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "预训练数据工程师",
+      "company": "DeepSeek (深度求索)",
+      "location": "北京",
+      "category": "Data Engineer",
+      "level": "Mid",
+      "postedAt": "2026-06-25",
+      "applyUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576",
+      "description": "DeepSeek预训练数据工程师负责设计预训练数据分布策略，支撑基座、代码及多模态大模型迭代。要求扎实的Python数据工程能力、大规模文本处理经验及数据质量评估方法论；有TB级以上数据集处理经验及自研数据清洗工具开发经验者优先。工作地点：北京、杭州。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型训练/推理框架工程师",
+      "company": "DeepSeek (深度求索)",
+      "location": "北京",
+      "category": "MLOps / AI Infra",
+      "level": "Senior",
+      "postedAt": "2026-06-25",
+      "applyUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576",
+      "description": "DeepSeek AI核心系统研发岗，专注底层算力基础设施。负责大模型训练与推理框架的研发与优化，支撑超大规模模型训练需求。要求深厚高性能计算背景，熟悉GPU集群调优，有CUDA/NCCL框架研发经验。正式员工统一14薪，核心研发岗年薪50-150万。工作地点：北京、杭州。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "深度学习研究员（前沿范式方向）",
+      "company": "DeepSeek (深度求索)",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "postedAt": "2026-06-25",
+      "applyUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576",
+      "description": "DeepSeek面向AGI前沿研究招募深度学习研究员，专注持续学习、自进化、新训练范式等研究方向。优先考虑在NeurIPS/ICML/ICLR等顶级会议发表论文者及算法竞赛获奖者。正式员工统一14薪，核心研发岗年薪50-150万。工作地点：北京、杭州。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI应用工程师实习生",
+      "company": "智谱AI",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "postedAt": null,
+      "applyUrl": "https://zhipu-ai.jobs.feishu.cn/index/m/position/detail/7508626312933722431",
+      "description": "智谱华章（智谱AI）面向2027届毕业生开放AI应用工程师实习生岗位，参与大模型应用系统构建，聚焦AI Agent、RAG和多模态相关技术栈开发。转正实习专项，具备转正机会，技术岗实习月薪万元+，北京办公，双休。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法工程师实习（飞YOUNG计划）",
+      "company": "科大讯飞",
+      "location": "合肥",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "postedAt": null,
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/e203d0e934c3481c88c470fdd5051009",
+      "description": "科大讯飞「飞YOUNG计划」面向2027届毕业生开放大模型算法工程师转正实习岗位，深度参与星火大模型核心研发，涵盖认知大模型、NLP、多模态及语音大模型方向。实习月薪万元+，报销路费，总部免费住宿，具备转正机会。工作地点：合肥。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "搜索&推荐工程实习生",
+      "company": "月之暗面 (Moonshot AI)",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "postedAt": null,
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/0258d45a29484f21a34bf0d20666f865",
+      "description": "月之暗面 Kimi 团队招募搜索&推荐工程实习生，参与Kimi AI搜索系统、知识库和长期记忆系统的设计与优化。可选方向涵盖Kimi通用后台（支持AI chatbot、多模态和Agent功能）及内容推荐等。北京、上海或深圳均可，要求熟悉Golang/Python，每日薪酬具竞争力。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法工程师实习（语言方向）",
+      "company": "360集团",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "postedAt": null,
+      "applyUrl": "https://hr.360.cn/hr/",
+      "description": "360集团加码AI大模型人才招募，开放大模型算法工程师实习岗（语言方向），参与360智脑大模型的语言理解与生成算法研发，聚焦对话系统、文本生成及垂直行业大模型应用落地。北京海淀办公，提供一对一导师带教，有转正机会。",
       "descriptionSource": "search-snippet"
     }
   ]
