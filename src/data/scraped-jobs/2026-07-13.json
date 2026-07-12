@@ -1,0 +1,203 @@
+{
+  "date": "2026-07-13",
+  "generatedAt": "2026-07-13T07:55:50+10:00",
+  "auMode": "淡季",
+  "cnMode": "暑假实习+提前批",
+  "sources": [
+    "recruitment.macquarie.com",
+    "wisetechglobal.com",
+    "atlassian.com",
+    "au.gradconnection.com",
+    "nowcoder.com",
+    "career.huawei.com",
+    "zhaopin.meituan.com"
+  ],
+  "stats": {
+    "auCandidates": 52,
+    "auLive": 9,
+    "cnCandidates": 24,
+    "cnLive": 6
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Data Scientist - Risk Management",
+      "company": "Macquarie Group",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "postedAt": "2026-07-13",
+      "applyUrl": "https://recruitment.macquarie.com/en_US/careers/JobDetail/Data-Scientist-Risk-Management/22116",
+      "snippet": "As a Data Scientist, you will play a key role in delivering and maintaining AI and data science solutions in production environments. The Risk Management Group AI Strategy team is responsible for driving the adoption and effective use of artificial intelligence across the division, identifying, assessing, and delivering AI initiatives that improve efficiency and effectiveness, ensuring solutions are practical, scalable, and aligned with risk and governance standards.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist | Model & AI Risk",
+      "company": "Macquarie Group",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "postedAt": "2026-07-13",
+      "applyUrl": "https://recruitment.macquarie.com/en_US/careers/JobDetail/Data-Scientist-Model-AI-Risk/22096",
+      "snippet": "As a Data Scientist within Model Risk Management, you will independently review, challenge and validate artificial intelligence use cases across the firm. Your work will assess whether AI systems are fit-for-purpose, operate as intended and ensure that the risks introduced are understood, appropriately controlled, and remain within Macquarie's risk appetite. You will design and execute proportionate validation approaches, assess data, methodology, assumptions, and outcomes, and clearly articulate findings to technical and non-technical stakeholders.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "Lead Data Scientist - Agentic AI",
+      "company": "Macquarie Group",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Senior",
+      "postedAt": "2026-07-13",
+      "applyUrl": "https://recruitment.macquarie.com/en_US/careers/JobDetail/Lead-Data-Scientist-Agentic-AI/18854",
+      "snippet": "A Lead Data Scientist position partners with business leaders and cross-functional teams to architect the future of AI and data science, pioneering production-grade agentic AI capabilities using advanced machine learning, NLP, and LLMs.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "Machine Learning Platforms Engineer",
+      "company": "Macquarie Group",
+      "location": "Sydney, NSW",
+      "category": "MLOps / AI Infra",
+      "level": "Mid",
+      "postedAt": "2026-07-13",
+      "applyUrl": "https://recruitment.macquarie.com/en_US/careers/JobDetail/Machine-Learning-Platforms-Engineer/14828",
+      "snippet": "Machine Learning Platforms Engineer positions require 5+ years of software engineering experience in agile DevOps environments, with proficiency in implementing MLOps best practices and cloud technologies like GCP Vertex AI, DataRobot, or AWS SageMaker.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist | Generative Artificial Intelligence",
+      "company": "Macquarie Group",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Senior",
+      "postedAt": "2026-07-13",
+      "applyUrl": "https://recruitment.macquarie.com/en_US/careers/JobDetail/COG-Senior-Data-Scientist/13030",
+      "snippet": "Senior Data Scientist positions require a Master's or PhD degree in Computer Science, Data Science, Machine Learning or related field with strong background in Generative AI, Large Language Models (LLM), and prompt engineering. Data Scientists leverage expertise in statistical modelling, machine learning, and analysis to develop large language models (LLMs) that address real-world challenges.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "Senior Machine Learning Engineer",
+      "company": "WiseTech Global",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "postedAt": "2026-07-13",
+      "applyUrl": "https://www.wisetechglobal.com/careers/current-openings/senior-machine-learning-engineer-in-sydney/ce7b71c7-ae29-4861-8b30-b76f9816f488",
+      "snippet": "Taking a leading role in designing and building innovative machine learning and other algorithmic solutions, API services and data pipelines. You will bring state-of-the-art machine learning models from ideas into production, taking ownership of complex projects and delivering well-structured, well-tested, production-ready solutions. Apply expertise to solve challenging logistics problems using innovative advanced approaches within WiseTech's Shipamax Data Science team, developing AI-based software to extract information from documents and structure critical logistics data that powers the seamless movement of goods worldwide.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "Machine Learning Software Engineer",
+      "company": "Atlassian",
+      "location": "Sydney, NSW",
+      "category": "MLOps / AI Infra",
+      "level": "Mid",
+      "postedAt": "2026-07-13",
+      "applyUrl": "https://www.atlassian.com/company/careers/details/22915",
+      "snippet": "As a Machine Learning Engineer on the AI & ML Platform team, you will work on the core infrastructure to allow software engineers, ML engineers & data scientists to develop, train, evaluate, deploy, and operate Machine Learning models and pipelines.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "Principal Machine Learning System Engineer",
+      "company": "Atlassian",
+      "location": "Sydney, NSW",
+      "category": "MLOps / AI Infra",
+      "level": "Senior",
+      "postedAt": "2026-07-13",
+      "applyUrl": "https://www.atlassian.com/company/careers/details/22598",
+      "snippet": "The Principal Machine Learning System Engineer role requires extensive experience in building Machine Learning and AI infra/platform/system (generally 5+ years), comprehensive ML lifecycle expertise, large-scale system design experience, and expert-level proficiency in Python and ML frameworks like PyTorch, TensorFlow, or JAX.",
+      "description": ""
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist, 2026 Graduate Australia & New Zealand",
+      "company": "Atlassian",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "postedAt": "2026-07-13",
+      "applyUrl": "https://www.atlassian.com/company/careers/details/18905",
+      "snippet": "You'll play with seriously large volumes of data to discover insightful trends and collaborate with other Atlassians to turn insights into actions, drive smarter product decisions and delight customers. Measure the impact of product strategy by designing and analysing experiments and product launches. Qualifications: graduating by January 2026 with a Bachelor, Masters, or PhD in a quantitative discipline (statistics, mathematics, physics, econometrics, engineering or computer science), with experience in SQL, R, or Python.",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "多模态大模型与Agent算法工程师（27届校招实习生招聘-深圳）",
+      "company": "腾讯游戏",
+      "location": "深圳",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-07-13",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/7b34a29c3e904cc996147974027409b8",
+      "snippet": "Responsible for multimodal content understanding and risk identification models (harassment, advertising, inappropriate information) for text, voice, images, and videos within games. Exploring application of large models (vision-language models and multimodal pre-training) in game content safety scenarios to improve complex semantic understanding. Building intelligent adversarial Agents based on LLM/multimodal large models to automatically identify, process, and trace violations. Requirements: Master's degree or above in Computer Science, Artificial Intelligence, or related fields; proficient in Python with Linux development experience; familiar with foundational models in deep learning, NLP, computer vision, or multimodal learning (BERT, ViT, CLIP).",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "AI工程师（校招）",
+      "company": "华为",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "postedAt": "2026-07-13",
+      "applyUrl": "https://career.huawei.com/reccampportal/portal5/campus-recruitment-detail.html?jobId=223581",
+      "snippet": "岗位职责：1、负责AI领域的软件工程化和产品开发；2、负责AI算法及系统的设计和实现，包括但不限于：神经网络与机器学习、计算机视觉、无人驾驶、路径规划、智能决策、推荐系统、大模型、生成式AI等；3、负责产品的集成和调测，以及各类工具链的开发；4、负责对外洞察AI领域最新趋势，包括但不限于：大模型、生成式AI、AI for coding等。岗位要求：1、计算机或人工智能相关专业，具备一个及以上大型实际软件项目经验；2、熟练运用至少一门编程语言（C++/Java/Python/Rust等）；3、熟悉主流深度学习框架，具备AI算法开发及应用经验者优先。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "多模态内容理解算法工程师",
+      "company": "快手",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "postedAt": "2026-07-13",
+      "applyUrl": "https://www.nowcoder.com/job/46599",
+      "snippet": "负责多媒体理解领域的服务端开发工作，跟计算机视觉、音频、NLP等相关算法同学深入合作共同完成算法模型的服务化；对后端服务进行各种维度的持续优化，推动机器资源使用率提升；与其他同学合作设计并推动部门AI云服务平台的搭建。要求本科及以上学历，计算机科学与技术、软件工程或图形图像相关专业；熟悉C/JAVA开发，熟悉Python，熟练掌握常用数据结构及算法；有深度学习和深度学习框架（PyTorch/TensorFlow/Caffe等）经验优先。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "推荐大模型算法工程师（快Star计划）",
+      "company": "快手",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-07-13",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/94630",
+      "snippet": "主要职责包括支撑国内海外短视频推荐系统优化，涉及大模型与推荐算法结合、多模态理解等方向。学历要求本科及以上学历，计算机、数学或统计学相关专业，强调对大规模数据挖掘、机器学习及分布式计算的熟悉程度；加分项包括在SIGKDD、ICML、NIPS等顶级会议有文献发表，或有ACM/Topcoder算法竞赛经历。",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "大模型与智能体算法工程师/专家（社招）",
+      "company": "美团",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Senior",
+      "postedAt": "2026-07-13",
+      "applyUrl": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=3093645365&highlightType=social",
+      "snippet": "Requirements: At least 3+ years of work experience, including data engineering experience using PySpark, Beam, or Flink to build large-scale data processing pipelines; experience with Elasticsearch and Postgres; proficiency in Python and SQL; familiarity with machine learning and NLP. You will gain cutting-edge large model knowledge and technical accumulation in scaling laws, MoE, RLHF, long context, and similar technologies, with abundant data and GPU resources.",
+      "description": ""
+    },
+    {
+      "market": "CN",
+      "title": "大模型/搜索/推荐/广告算法工程师（社招）",
+      "company": "拼多多",
+      "location": "上海",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "postedAt": "2026-07-13",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/352882",
+      "snippet": "任职要求：熟悉主流大模型的训练和微调流程、Prompt Engineering等，熟悉相关训练和部署工具如Transformers、DeepSpeed、Megatron-LM等；熟悉深度学习框架，如TensorFlow、PyTorch等；有在线广告/推荐/搜索的召回、模型、排序机制和产品策略等相关经验优先，有电商场景算法背景优先。",
+      "description": ""
+    }
+  ]
+}
