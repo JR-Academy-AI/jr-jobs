@@ -26,8 +26,8 @@
   "stats": {
     "auCandidates": 32,
     "auLive": 15,
-    "cnCandidates": 18,
-    "cnLive": 10
+    "cnCandidates": 19,
+    "cnLive": 11
   },
   "jobs": [
     {
@@ -328,6 +328,18 @@
       "postedAt": "2026-07-14",
       "applyUrl": "https://xiaopeng.jobs.feishu.cn/398875/m/position/7561269014438496521/detail",
       "description": "参与团队预训练大模型的研发，包括预训练、后训练、指令微调、对齐等方向；负责以大语言模型为核心的对话感知与交互，根据业务需求优化模型，提升业务效果；负责跟踪和探索大语言模型的前沿问题，结合实际场景，参与前沿算法和应用的研究和专利、论文撰写。任职要求：计算机相关专业硕士及以上学历，熟练掌握自然语言处理、深度学习、强化学习的基础理论和方法；具有扎实的编程能力，熟练掌握至少一门编程语言（C/C++/Python/Java），熟悉TensorFlow/Pytorch/Keras等深度学习框架；熟悉Transformer/GPT系列/LLaMA/GLM等预训练模型，对模型训练和应用有一定理解；了解DeepSpeed、Megatron等分布式训练框架",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "26届提前批-自动驾驶算法工程师（规控/感知/预测/端到端大模型）",
+      "company": "滴滴出行",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "postedAt": "2026-07-14",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/397993",
+      "description": "岗位职责：基于海量的路测和仿真数据，利用统计和机器学习技术，研究并制定自动驾驶系统评估方法；参与感知模型优化工作，如异常检测、目标检测、目标跟踪等相关模型的优化与落地；参与图像分类、目标检测/跟踪/分割、视频理解等算法开发与落地；与产品、研发、工具、测试等团队合作，开发评估指标与能力来指引模型开发者开发。任职要求：2026届毕业本科及以上学历，计算机、人工智能等相关专业硕士或博士学位优先；熟悉机器学习相关算法，熟利用流行的ML框架，比如JAX、PyTorch或TensorFlow；熟练掌握Python/C++，具有很强的代码开发与实践能力。",
       "descriptionSource": "search-snippet"
     }
   ]
