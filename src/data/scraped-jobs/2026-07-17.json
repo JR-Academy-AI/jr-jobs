@@ -1,0 +1,160 @@
+{
+  "date": "2026-07-17",
+  "generatedAt": "2026-07-17T07:30:00+10:00",
+  "auMode": "淡季",
+  "cnMode": "暑假实习+提前批",
+  "sources": [
+    "lifeatcanva.com",
+    "careers.nab.com.au",
+    "nowcoder.com",
+    "zhaopin.meituan.com"
+  ],
+  "stats": {
+    "auCandidates": 30,
+    "auLive": 2,
+    "cnCandidates": 25,
+    "cnLive": 12
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "company": "Canva",
+      "title": "Staff Machine Learning Engineer - User Voice",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "location": "Sydney, NSW",
+      "applyUrl": "https://www.lifeatcanva.com/en/jobs/743999992177275/staff-machine-learning-engineer-user-voice/",
+      "description": "leading the ML development of a natural language understanding/processing system that integrates seamlessly into the Canva Product. This is a remote-friendly work environment, allowing flexibility to work from anywhere in Australia."
+    },
+    {
+      "market": "AU",
+      "company": "NAB",
+      "title": "Data AI Scientist",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "location": "Sydney, NSW",
+      "applyUrl": "https://careers.nab.com.au/jobs/data-scientist-g3-nsw-sydney-cbd-nsw-australia-vic-melbourne-cbd-vic-australia-wide",
+      "description": "NAB is actively seeking AI Scientists and Data Scientists to partner with talented AI engineers, product leaders and domain experts to solve problems across the AI portfolio, delivering business outcomes using advanced AI capabilities like LLMs and agentic systems. The Data AI Scientist role involves developing core components of NAB's agentic AI products, implementing agent reasoning loops and other systems, translating architectural designs into robust production-grade implementations, and partnering with Product, Engineering, and Platform teams to translate AI capability into measurable business outcomes."
+    },
+    {
+      "market": "CN",
+      "company": "阿里巴巴",
+      "title": "MaaS大模型智能体算法研究实习生",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "location": "Beijing",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/439329",
+      "description": "MaaS大模型智能体算法研究-A Star, Alibaba 2027届实习生. This position involves research and development of core algorithms for Alibaba Cloud's MaaS platform, focusing on agent adaptation, large model optimization, and benchmarking development."
+    },
+    {
+      "market": "CN",
+      "company": "字节跳动",
+      "title": "AI安全研发实习生-Data AML",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "location": "Beijing",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/333812",
+      "description": "AI Security R&D Internship - Data AML position focusing on federated learning platform development, 300-350 yuan/day, Beijing, requires 4 days/week minimum"
+    },
+    {
+      "market": "CN",
+      "company": "字节跳动",
+      "title": "AI产品实习生-飞书",
+      "category": "AI Product / PM",
+      "level": "Graduate",
+      "location": "Beijing",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/390240",
+      "description": "This position is targeted at 2026 graduates (graduating between September 2025 and August 2026) and involves working on video conference AI features including product iteration, user feedback and research, and design verification."
+    },
+    {
+      "market": "CN",
+      "company": "阿里云",
+      "title": "AI Infra研发工程师",
+      "category": "MLOps / AI Infra",
+      "level": "Graduate",
+      "location": "Hangzhou",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/435209",
+      "description": "This position is part of the Serverless Agent Infra team working on next-generation infrastructure for AI agent systems. Located in Hangzhou."
+    },
+    {
+      "market": "CN",
+      "company": "阿里巴巴",
+      "title": "AI Infra工程师-容器方向",
+      "category": "MLOps / AI Infra",
+      "level": "Graduate",
+      "location": "Hangzhou",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/445822",
+      "description": "This role involves building containerized infrastructure to support large-scale AI clusters through optimization of scheduling, storage, and networking components. Locations: Hangzhou, Beijing, Shenzhen."
+    },
+    {
+      "market": "CN",
+      "company": "阿里巴巴",
+      "title": "AI平台研发工程师",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "location": "Hangzhou",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/446413",
+      "description": "Responsible for AI platform model integration, inference optimization and platform feature development, including architecture design and iterative improvements of AI infrastructure."
+    },
+    {
+      "market": "CN",
+      "company": "华为",
+      "title": "大模型算法/AI Infra/高性能计算工程师",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "location": "Beijing",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/419549",
+      "description": "华为云大模型与AI核心部门，薪资200-360k，地点北京。要求精通Python/C++等编程语言，熟悉深度学习框架如PyTorch、vLLM等。面向2026届毕业生，要求硕士以上学历"
+    },
+    {
+      "market": "CN",
+      "company": "百度",
+      "title": "文心一言大模型Agent算法实习生",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "location": "Beijing",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/341784",
+      "description": "Large Model Agent Algorithm Intern at Baidu in Beijing with a salary range of 250-400 RMB/day, where interns work on LLM-powered Agent technology and RLHF optimization."
+    },
+    {
+      "market": "CN",
+      "company": "美团",
+      "title": "大模型与智能体算法工程师/专家",
+      "category": "AI Engineer",
+      "level": "Senior",
+      "location": "Beijing",
+      "applyUrl": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=3093645365",
+      "description": "This position offers the opportunity to participate in core technology research and development of large models and intelligent agents, with access to abundant GPU computing power and quality technical atmosphere."
+    },
+    {
+      "market": "CN",
+      "company": "携程",
+      "title": "数据分析师（技术方向）（2026届秋招）",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "location": "Shanghai",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/411795",
+      "description": "数据分析师（技术方向）（2026届秋招）_携程校招, requires constructing multi-dimensional data analysis systems, building AB experiment analysis frameworks, designing data-driven solutions"
+    },
+    {
+      "market": "CN",
+      "company": "美团",
+      "title": "大模型应用和智能体技术",
+      "category": "AI Engineer",
+      "level": "Senior",
+      "location": "Beijing",
+      "applyUrl": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=3092657898",
+      "description": "LongCat is a global AI talent recruitment project with research directions covering AI Infra, large language models, multimodal understanding and generation, intelligent agent evolution and collaboration, and embodied intelligence."
+    },
+    {
+      "market": "CN",
+      "company": "华为",
+      "title": "AI应用工程师实习生",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "location": "Beijing",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/446465",
+      "description": "AI应用工程师华为HUAWEI实习. 要求计算机相关专业，熟练一门编程语言，掌握主流深度学习框架，有AI算法开发经验优先。"
+    }
+  ]
+}
