@@ -1,0 +1,134 @@
+{
+  "date": "2026-07-18",
+  "generatedAt": "2026-07-18T07:52:35+10:00",
+  "stats": {
+    "auCandidates": 25,
+    "auLive": 1,
+    "cnCandidates": 30,
+    "cnLive": 10
+  },
+  "sources": ["seek.com.au", "careers.anz.com", "nowcoder.com"],
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "2026/27 AU Technology Summer Intern program",
+      "company": "ANZ",
+      "location": "Melbourne, VIC",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://careers.anz.com/job/Melbourne-202627-AU-Technology-Summer-Intern-program/1362774566/",
+      "description": "using data, automation and emerging technologies like AI to solve real-world problems, developing modern cloud-based applications, and supporting cybersecurity and fraud prevention",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型/搜索/推荐/广告算法工程师",
+      "company": "拼多多",
+      "location": "上海",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/352882",
+      "description": "developing e-commerce domain large language models (LLMs), building and optimizing NLP/LLM/CV/multimodal model pretraining algorithms, and improving search and recommendation systems using techniques like RAG, Long Context, RLHF, and Chain-of-Thought",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法工程师（2026届校园招聘正式岗）",
+      "company": "拼多多",
+      "location": "上海",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/437030",
+      "description": "participating in building and optimizing multilingual, multimodal large model foundations for the e-commerce domain, covering data processing, sample annotation, model pretraining, supervised fine-tuning/reinforcement learning, and exploring frontier techniques like Long Context and Agent-RL",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "推荐大模型算法工程师（26届快Star）",
+      "company": "快手",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/94630",
+      "description": "For the class of 2026, this position at Kuaishou's Recommendation Model Department offers 400-500 salary in Beijing. The role requires proficiency in programming languages, strong algorithm fundamentals, and expertise in multimodal, NLP, CV, machine learning, and deep learning.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型压缩加速算法工程师（留用实习）",
+      "company": "快手",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/442124",
+      "description": "developing real-time lossless generation solutions and exploring efficient inference methods for LLM/MLLM, requiring a master's degree or higher with interest in generative models",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "算法工程师-VLM训练（2027届实习生）",
+      "company": "阿里巴巴",
+      "location": "杭州",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/439332",
+      "description": "multi-modal alignment and fusion strategies with large-scale GPU cluster operations across the full training pipeline",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "基础模型Infra研发工程师（训练/推理）",
+      "company": "阿里巴巴",
+      "location": "杭州",
+      "category": "MLOps / AI Infra",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/439618",
+      "description": "computer science background with skills in Python, distributed systems, and AI frameworks like PyTorch, vLLM, and TensorRT",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI计算系统协同设计研发（阿里星）",
+      "company": "阿里巴巴",
+      "location": "上海",
+      "category": "MLOps / AI Infra",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/446409",
+      "description": "AI Computing System Collaborative Design Engineer positions in Chengdu, Shanghai, Hangzhou, and Beijing focusing on algorithm-system-software-chip full-stack integration",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI算法工程师",
+      "company": "传音控股",
+      "location": "深圳",
+      "category": "AI Engineer",
+      "level": "Junior",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/446353",
+      "description": "AI Algorithm Engineer position requiring 1-3 years of algorithm development experience with completed landed projects",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI Agent 研发实习生（2026届）",
+      "company": "传音控股",
+      "location": "深圳",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/444729",
+      "description": "Transsion Holding's AI Agent R&D internship position with on-site office in Shenzhen, requiring at least 3 days per week for 6+ months",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "训练框架算法工程师（实习-北京）",
+      "company": "智元创新",
+      "location": "北京",
+      "category": "MLOps / AI Infra",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/417223",
+      "description": "智元创新 (Zhiyuan Innovation): Training Framework Algorithm Engineer internship position in Beijing, offering 200-400k salary",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
