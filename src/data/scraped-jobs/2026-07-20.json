@@ -1,0 +1,92 @@
+{
+  "date": "2026-07-20",
+  "generatedAt": "2026-07-20T07:30:00+10:00",
+  "auMode": "淡季",
+  "cnMode": "暑假实习+提前批",
+  "sources": ["au.gradconnection.com", "nowcoder.com"],
+  "stats": {
+    "auCandidates": 40,
+    "auLive": 2,
+    "cnCandidates": 25,
+    "cnLive": 5
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "2027 Graduate Program: Technology - Engineering",
+      "company": "Commonwealth Bank",
+      "location": "Sydney, NSW",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/commonwealth-bank/jobs/commbank-2027-commbank-graduate-program-technology-engineering/",
+      "description": "CBA's Data Science & AI Graduate Program has graduates working on quantitative and predictive models, large language models and chatbots with exposure to Decision Science, Artificial Intelligence, Gen AI and machine learning, with the opportunity to roll off the program as a Data Scientist.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "2025/2026 Suncorp Internship Program",
+      "company": "Suncorp",
+      "location": "Brisbane, QLD",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/suncorp/jobs/suncorp-20252026-suncorp-internship-program/",
+      "description": "Suncorp's two-year graduate program offers opportunities to work on projects involving building predictive models, unlocking insights, and advancing AI safety and governance, with data and AI at the heart of how the company makes decisions. Data Science (technical) involves diving into analytics and predictive modelling, turning data into actionable insights and supporting projects that help Suncorp make smarter, data-driven decisions.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "算法工程师-VLM训练（2027届实习生）",
+      "company": "阿里巴巴",
+      "location": "北京/杭州",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/439332",
+      "description": "Application period: July 14, 2026 - July 14, 2027. Responsibilities include designing multi-modal alignment and fusion training strategies for large-scale models and managing GPU clusters.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI Infra工程师-容器方向",
+      "company": "阿里巴巴",
+      "location": "杭州",
+      "category": "MLOps / AI Infra",
+      "level": "Mid",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/445822",
+      "description": "Requirements include proficiency in Go, Java, Python or C++, and deep understanding of Kubernetes architecture and container runtimes.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "基础模型Infra研发工程师（训练/推理）（2027届实习生）",
+      "company": "阿里巴巴",
+      "location": "杭州",
+      "category": "MLOps / AI Infra",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/439618",
+      "description": "Focus on model training optimization to improve MFU across different model sizes and RL training framework development.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "MaaS大模型智能体算法研究（A Star · 2027届实习生）",
+      "company": "阿里巴巴",
+      "location": "杭州/北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/439329",
+      "description": "Involves developing adaptive agent technology and large model optimization across text, speech, and multimodal domains for business scenarios.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI Infra工程师（校招）",
+      "company": "华为云",
+      "location": "深圳",
+      "category": "MLOps / AI Infra",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/420951",
+      "description": "AI Infra工程师 (Huawei Cloud) - Located in Shenzhen, with requirements including mastery of algorithm implementation, knowledge of large models, multimodal systems, and distributed systems optimization.",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
