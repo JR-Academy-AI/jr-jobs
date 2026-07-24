@@ -1,0 +1,267 @@
+{
+  "date": "2026-07-25",
+  "generatedAt": "2026-07-25T08:13:56+10:00",
+  "auMode": "淡季",
+  "cnMode": "暑假实习+提前批",
+  "sources": [
+    "au.gradconnection.com",
+    "careers.nab.com.au",
+    "recruitment.macquarie.com",
+    "aijobsaustralia.com.au",
+    "careers.bhp.com",
+    "careers.woolworthsgroup.com.au",
+    "careers.leidos.com",
+    "cba.wd3.myworkdayjobs.com",
+    "nowcoder.com"
+  ],
+  "stats": {
+    "auCandidates": 13,
+    "auLive": 13,
+    "cnCandidates": 9,
+    "cnLive": 9
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Machine Learning Intern, Summer 2026/2027, Australia",
+      "company": "Atlassian",
+      "location": "Sydney NSW",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/atlassian/jobs/atlassian-machine-learning-intern-summer-20262027-australia/",
+      "description": "Build machine learning and predictive models to solve product and growth problems, translate business problems into technical solutions, and collaborate with cross-functional partners to deploy models that create measurable value. Able to commit to a 12-week full-time (40hrs/week) program from November 2026 - February 2027, and currently enrolled full-time in a degree program (Master's preferred).",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "AI Research Intern, Summer 2026/2027, Australia",
+      "company": "Atlassian",
+      "location": "Sydney NSW",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/atlassian/jobs/atlassian-ai-research-intern-summer-20262027-australia/",
+      "description": "Conduct continued training, fine-tuning, and alignment of large language models for specialized applications such as conversational AI, summarization, generative search, and multimodal agents. Evaluate cutting-edge ML algorithms through rigorous experimentation and provide detailed analyses highlighting performance insights, failure modes, and opportunities for improvement. Contribute to publications and presentations at internal workshops or top-tier academic venues, helping to drive innovation in Enterprise AI and large-scale ML systems.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Machine Learning Intern (Software Engineering), Summer 2026/2027, Australia",
+      "company": "Atlassian",
+      "location": "Sydney NSW",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/atlassian/jobs/atlassian-machine-learning-intern-software-engineering-summer-20262027-australia/",
+      "description": "Build machine learning and predictive models to solve product and growth problems. Translate business problems into technical solutions and deliver reliable, low-bug software artifacts. Collaborate with cross-functional partners on feature engineering, experimentation, and data pipelines to create measurable product value.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "AI Data Scientist",
+      "company": "NAB",
+      "location": "Sydney NSW",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "applyUrl": "https://careers.nab.com.au/jobs/data-scientist-g3-nsw-sydney-cbd-nsw-australia-vic-melbourne-cbd-vic-australia-wide",
+      "description": "partnering with Product, Engineering, and Platform teams to translate AI capability into business outcomes, designing and implementing prompting strategies and retrieval pipelines, and embedding rigorous evaluation strategies",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Machine Learning Platform Engineer",
+      "company": "Macquarie Group",
+      "location": "Sydney NSW",
+      "category": "MLOps / AI Infra",
+      "level": "Mid",
+      "applyUrl": "https://recruitment.macquarie.com/en_US/careers/JobDetail/ML-Platform-Engineer-Sydney-BFS13157/10042",
+      "description": "you'll take end-to-end ownership of your product in a modern DevOps culture, with responsibility for architecture, design, development, testing and operations, delivering incrementally in iterative cycles. You will work in a multi-disciplinary team alongside data scientists to build ML powered solutions for clients as well as implement MLOps to streamline the model experimentation and ML tooling and workflows for Data Scientists.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Staff Software Engineer - Machine Learning",
+      "company": "REA Group",
+      "location": "Melbourne VIC",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.aijobsaustralia.com.au/jobs/0d8eadd0-69f6-490c-ad8a-014b4bd62ec9",
+      "description": "designing, planning and delivering high-value, reliable AI/ML products at REA. As a Staff Machine Learning Engineer, you'll design scalable AI solutions, utilize Generative AI, and mentor junior members while delivering impactful products.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Specialist Data Scientist",
+      "company": "BHP",
+      "location": "Brisbane QLD",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "applyUrl": "https://careers.bhp.com/job/Specialist-Data-Scientist-Brisbane/1368559500/",
+      "description": "BHP's Performance and Data Analytics team is responsible for undertaking analysis and providing insights to drive maintenance productivity and performance across their assets, with activities ranging from identifying maintenance performance gaps to implementing improvement projects.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Lead AI",
+      "company": "BHP",
+      "location": "Brisbane QLD",
+      "category": "AI Engineer",
+      "level": "Senior",
+      "applyUrl": "https://careers.bhp.com/job/Lead-AI/1316121400/",
+      "description": "Oversee the strategy and implementation of GenAI agents and solutions using agentic orchestration frameworks like LangGraph and Strands, and support the strategy, design and implementation of knowledge graphs and RAG models to enhance the capabilities of GenAI agents.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist (Talent Pooling)",
+      "company": "Woolworths Group",
+      "location": "Sydney NSW",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "applyUrl": "https://careers.woolworthsgroup.com.au/en_GB/apply/JobDetail/Data-Scientist-Talent-Pooling/50463",
+      "description": "Data science roles spanning customer loyalty, personalisation, eCommerce, store operations, supply chain, ranging, and pricing. Implementing end-to-end data science solutions with machine learning techniques such as GLMs, clustering, optimisation, XGBoost, and deep learning. Responsibilities include writing production-level code, conducting peer reviews, and collaborating with cross-functional teams including engineers, product managers, and business stakeholders.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Machine Learning Engineer Intern, Data Trust & Safety (Australia) - 2026 Start",
+      "company": "TikTok",
+      "location": "Sydney NSW",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/tiktok/jobs/tiktok-machine-learning-engineer-intern-data-trust-safety-australia-2026-start-5/",
+      "description": "Build industry-leading content safety systems for TikTok; Develop highly-scalable classifiers, tools, models and algorithms leveraging cutting-edge machine learning, computer vision and data mining technologies, plus understand product objectives and improve trust and safety strategy and model's performance; Work with cross-functional teams to protect TikTok globally.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Graduate Data Scientist / Data Engineer",
+      "company": "Leidos",
+      "location": "Melbourne VIC",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://careers.leidos.com/jobs/17428397-graduate-data-engineer-slash-data-scientist-scoresby",
+      "description": "As a Graduate Data Scientist or Graduate Data Engineer, you'll join a collaborative analytics and data delivery team supporting mission-critical programs for customers. You'll work on meaningful projects that turn data into insights, insights into action, and engineering into robust, secure data solutions. Depending on your background and interests, you may focus on analytics, data modelling or data engineering—or build experience across all three as part of your early career development.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "2026 Graduate Program: Data Scientist",
+      "company": "Sportsbet",
+      "location": "Melbourne VIC",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/sportsbet/jobs/sportsbet-sportsbet-2026-graduate-program-data-scientist/",
+      "description": "Join Sportsbet's Risk & Pricing Data Science team and kick-start your career in a collaborative, innovative environment. As a Graduate Data Scientist, you'll work on real-world projects that shape betting experiences and manage risk using tools like Python, Spark, R, and Databricks. You'll gain hands-on experience across the full data science lifecycle, from model design to deployment while exploring emerging technologies like AI.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist, People Analytics",
+      "company": "Commonwealth Bank",
+      "location": "Sydney NSW",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "applyUrl": "https://cba.wd3.myworkdayjobs.com/en-US/CommBank_Careers/job/Data-Scientist--People-Analytics_REQ259563",
+      "description": "Translate business problems into analytical problems and develop GenAI/ML models aimed at solving stakeholders' issues, ensuring they are evaluated with relevant metrics. Build AI systems that utilize state-of-the-art GenAI/ML solutions. Translate complex results into clear narratives, dashboards, and actionable insights for HR leaders, Centres of Excellence (COEs), and executives. Collaborate with other Data Scientists and mentor team members.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "推荐算法实习生（2026届，2027届）",
+      "company": "小红书",
+      "location": "杭州",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/378828",
+      "description": "协助负责推荐技术落地，完成个性化推荐模型、分发策略、用户理解、内容理解等方向突破；负责社区业务推进，将业务问题进行技术抽象，系统性优化海量用户体验；协助研发新的推荐策略和算法，并不断优化效果和性能。硕士在读，毕业时间2026年6月左右；能快速入职，每周保证4天以上的出勤，且能连续实习不少于6个月；具有基本的机器学习基础知识和coding能力（python, java）",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法实习生-2027届暑期实习",
+      "company": "拼多多",
+      "location": "上海",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/444765",
+      "description": "参与大模型相关算法研究，包括论文阅读、代码编写、理论实验、实验记录等；参与大模型相关算法的研究在现实场景的落地，包括代码框架的梳理和平台集成；计算机、人工智能、数学等相关专业在读本科生和研究生；有一定的数学基础和代码能力，熟悉Python和PyTorch框架",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "LLM算法工程师专家/工程师-搜索",
+      "company": "快手",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/316424",
+      "description": "岗位职责：1. LLM模型应用落地：参与LLM在搜索内部的应用，探索LLM的创新落地场景；2. RAG技术研究与落地：参与RAG技术在搜索内部的应用与创新，提升快手搜索智能问答效果；3. 技术优化与创新：持续优化现有的算法技术，推动算法创新；4. 跨团队合作：与产品团队、工程团队和业务团队紧密合作；5. 算法评估与改进：负责对算法模型进行评估和改进，提高算法的准确性、效率和可解释性。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "【27届留用实习生】-智能体基础框架开发-安全可信AI中心",
+      "company": "上海人工智能实验室",
+      "location": "上海",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/446140",
+      "description": "1、参与智能体基础框架搭建，包括智能体评测框架、交互沙箱框架、任务执行框架等。2、参与智能体系统所需大模型能力优化（数据处理，后训练，推理服务等）。3、参与智能体系统工作流程优化，包括工具调用、环境反馈、数据回流等。4、与团队合作优化智能体系统架构，提高系统在多种任务上的可靠性和可扩展性。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "实习-大模型-AI训练师",
+      "company": "度小满",
+      "location": "北京",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/284777",
+      "description": "参与金融大模型的AI训练数据工作，负责高质量的AI数据生产（大模型数据标注，标注结果分析、模型评估等），不断优化数据质量与效率，以及完成项目组要求的其他工作。对数据敏感、分析逻辑佳、性格细致、有耐心、积极主动、具备快速学习能力，有责任心，对数据质量在大模型训练中的重要性有清晰认识。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI Infra研发工程师（2027届）",
+      "company": "拼多多集团",
+      "location": "上海",
+      "category": "MLOps / AI Infra",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/452112",
+      "description": "参与构建和优化面向大规模分布式训练/推理的Infra平台，支持文本、图像、视频、语音等多模态大模型、扩散模型的训练与推理。涵盖集群资源调度、训练框架优化、高性能通信、混合精度训练、显存优化等关键环节，确保模型的训练效率与系统稳定性。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "北斗大模型算法工程师",
+      "company": "美团",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/395936",
+      "description": "研究方向一：大模型智能体Agent技术研究——研究多轮长对话中的上下文管理技术，探索智能体调用和使用多个外部工具的方法，通过端到端后训练的方式增强其解决实际问题的能力，设计针对特定任务场景的Auto-Eval能力。研究方向二：深度搜索（Deep Search/Research）技术研究——研究面向深度搜索场景的工具学习方法，基于SFT/RLHF后训练算法赋予搜索智能体高效的工具调用能力，深入研究不同工具调用环境下的大模型后训练能力边界。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大语言模型应用算法实习生-豆包大模型（Top Seed Intern）",
+      "company": "字节跳动",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/382426",
+      "description": "1. 优化与创新RLHF算法训练效率和模型泛化能力；2. Long CoT技术的实现与应用；3. 多模态大模型（文本、图像、语音）的后训练算法；4. 构建高质量、多领域的数据合成方法；5. 探索LLM在情感对话、创意写作等场景的应用。2026届及以后本科及以上学历在读，人工智能、计算机、自动化、数学相关专业优先；扎实的机器学习、NLP、RL基础和出色的探索能力",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型压缩加速算法工程师（快Star-X实习）",
+      "company": "快手",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/442122",
+      "description": "1、为实现类Sora模型实时化无损生成研究可行方案, 包括但不限于步数蒸馏，efficiency-attention计算，cache-reuse策略，QAT训练等；2、为LLM/MLLM的高效推理探索前沿解决方案, 包括但不限于efficiency architecture,sparse attention,fp8/4-tuning,data/model distillation,speculative decoding等；3、在指导下参与视频生成大模型/多模态大模型的全链路探索。",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
