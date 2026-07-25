@@ -1,0 +1,129 @@
+{
+  "date": "2026-07-26",
+  "generatedAt": "2026-07-26T09:42:00+10:00",
+  "auMode": "淡季",
+  "cnMode": "暑假实习+提前批",
+  "sources": [
+    { "name": "GradConnection (au.gradconnection.com)", "type": "AU-graduate-board" },
+    { "name": "Macquarie Careers (recruitment.macquarie.com)", "type": "AU-company-careers" },
+    { "name": "牛客网 (nowcoder.com)", "type": "CN-job-board" }
+  ],
+  "stats": {
+    "auCandidates": 9,
+    "auLive": 5,
+    "cnCandidates": 8,
+    "cnLive": 5
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "2026 DXC Technology Intern - AI Engineer",
+      "company": "DXC Technology",
+      "location": "Melbourne VIC",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/dxc-technology/jobs/dxc-technology-2026-dxc-technology-intern-ai-engineer-melbourne/",
+      "description": "DXC Technology is looking for a motivated and curious university student to join their AI & Innovation team as a Full Stack Engineer Intern. You will contribute to both frontend and backend work, help build and test prototypes, and get exposure to AI tools and cloud platforms. Collaborate with engineers, designers, and product owners to understand requirements and contribute ideas. Learn about and experiment with AI tools and technologies as part of the AI & Innovation workstream. Basic understanding of frontend development — some experience with HTML, CSS, or JavaScript, and some exposure to a backend language such as Python or Node.js. Familiarity with version control concepts — ideally you have used Git at least once. Some interest in or exposure to AI tools such as ChatGPT, GitHub Copilot, or similar.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Fullstack AI and Automation Engineer",
+      "company": "Macquarie Group",
+      "location": "Sydney NSW",
+      "category": "AI Engineer",
+      "level": "Senior",
+      "applyUrl": "https://recruitment.macquarie.com/en_US/careers/JobDetail/Senior-Fullstack-AI-and-Automation-Engineer/21229",
+      "description": "In the role of Senior Fullstack AI and Automation Engineer, you will take end-to-end ownership of internal products supporting application security, security architecture, and security assessment. You will be working within a modern DevOps culture and contributing across architecture, design, development, testing, and operations. Leveraging agentic AI concepts and tools where appropriate, you will solve complex cybersecurity challenges and build intelligent internal tooling. Requirements include proficiency in modern web frameworks and API servers (e.g., Flask, FastAPI) and experience integrating and deploying LLM-based solutions for domain-specific tasks. You'll thrive in a collaborative, agile environment, driven by a passion for applying AI to solve complex cybersecurity challenges.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Performance Strategy Business Analyst Graduate Program January 2027 Start",
+      "company": "Partners in Performance",
+      "location": "Sydney NSW",
+      "category": "Business Analyst",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/partners-in-performance/jobs/partners-in-performance-performance-strategy-business-analyst-graduate-program-january-2027-start/",
+      "description": "The Business Analyst role is an entry level role where you would be immediately exposed to being the frontline change agent for our clients. You are the primary source of reliable data and rock-solid analysis, providing the fact base the improvement team uses to make decisions in real time. You will join our team of established management consultants, developing smart solutions to complex operational challenges across a broad range of industries. Work includes varied projects such as coaching teams on continuous improvement at mine sites, and implementing AI to improve operations and team effectiveness with retailers. We're looking to hear from distinction average Bachelor, PhD or Masters graduates, as this role requires you to interpret and deliver a high level of analytical insights on large data sets.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Machine Learning Engineer Graduate (Trust and Safety Engineering) - 2027 Start (BS/MS)",
+      "company": "TikTok",
+      "location": "Sydney NSW",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/tiktok/jobs/tiktok-machine-learning-engineer-graduate-trust-and-safety-engineering-2027-start-bsms/",
+      "description": "The Trust & Safety team at TikTok helps ensure that our global online community is safe and empowered to create and enjoy content across all of our applications. As a Machine Learning Engineer, responsibilities include working with world-class engineers to build industry-leading trust and safety systems for TikTok, developing and building highly-scalable classifiers, tools, models and algorithms leveraging cutting-edge machine learning, computer vision and data mining technologies, improving trust and safety strategy and working on model iterations, and collaborating with cross-functional teams to protect TikTok globally. Candidates completing or having recently completed a Bachelor's or Master's degree in Software Development, Computer Science, Computer Engineering, or a related technical discipline, with solid knowledge in machine learning, pattern recognition, NLP, data mining, or computer vision.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Graduate Data Scientist - ANZ",
+      "company": "Canva",
+      "location": "Sydney NSW",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/canva/jobs/canva-graduate-data-scientist-anz/",
+      "description": "Canva's Launchpad Program is looking for Graduate Engineers to specialise in Data Science. You'll be working alongside other data scientists, software engineers, and product managers to build up your mental model of how the product works and how people are using it, building and maintaining data models in the data warehouse, analyzing A/B tests to uncover the best way forward for the product, and creating predictive models that can help understand where the company is headed. Key technical requirements include: Experience wrangling and analyzing data using Python or R, proven competency with SQL and experience with big data SQL, and strong communication skills to break down complex topics into simple solutions and ideas. You're early on in your career (think final-year student to two years experience in your chosen field) and based in Australia or New Zealand.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "【快Star-X实习】多模态大模型算法工程师-特效方向",
+      "company": "快手",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/437936",
+      "description": "负责特效方向多模态大模型的研发、调优和应用，包括但不限于文本/图像/视频理解和生成。岗位要求：硕士及以上学历，计算机和人工智能等相关专业；有扎实的计算机基础知识和编程功底；熟悉计算机视觉、多模态大模型领域的主流算法，包括但不限于DiT、GAN、VLM等；有视频/图像生成方向的研究或项目经验优先；有AIGC、特效生成或多模态大模型相关论文或项目经验者优先。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI全栈开发工程师",
+      "company": "上海瓴阅教育科技有限公司",
+      "location": "上海",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/453738",
+      "description": "独立负责 AI 教育产品具体功能模块的开发与交付，完成从需求理解、技术方案、编码实现、测试验证到上线迭代的完整流程；根据产品需求主动拆解任务，设计并实现后端接口、业务逻辑、数据库结构及相关前端页面。使用 Python、JavaScript、TypeScript 等语言，以及 Flask、Django、FastAPI、React、Next.js 等框架完成实际产品开发；熟练使用 Cursor、Claude Code、OpenAI Codex 等 Vibe Coding 工具。任职要求：2025、2026 或 2027 届本科及以上学历，计算机、软件工程、人工智能等相关专业优先；掌握 Python、JavaScript、TypeScript 中至少一种编程语言；使用过 AI 编程工具并能借助工具完成真实开发任务；对大语言模型及 AI 应用有较强好奇心，自学能力强。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型智能体（Agentic AI）实习生",
+      "company": "vivo（维沃移动通信）",
+      "location": "杭州",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/436869",
+      "description": "跟踪、阅读、复现Agentic AI、大模型、主动智能相关前沿论文；参与智能体架构、工具调用、规划与反思机制的调研与实现；动手完成实验、代码验证、效果评估与数据整理；协助团队将前沿算法落地到实际业务场景。任职要求：对Agentic AI / 智能体 / 大模型有强烈兴趣与学习热情；具备良好代码动手能力，能快速复现算法与实验；有论文阅读与总结能力，能持续跟踪顶会与前沿进展；认真严谨，责任心强，可保证稳定实习时间，每周实习天数不少于4天，实习周期不低于3个月。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型推理优化工程师",
+      "company": "百融云创",
+      "location": "北京",
+      "category": "MLOps / AI Infra",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/360352",
+      "description": "配合模型应用和模型训练同事，上线大模型推理服务，推动大模型相关算法的落地；持续跟进前沿技术，优化大模型推理性能，提升线上模型服务吞吐量，降低模型推理延迟，控制推理机器成本；开发和优化大模型推理系统，提升模型推理系统的性能、稳定性、可观测性、易用性等；使用GPU编程和系统优化手段实现高性能的推理优化算法，并将其落地于大模型推理系统中。任职要求：高性能计算、AI编译器、计算机科学相关教育背景，硕士及以上学历；熟练掌握Python，有工程开发经验，熟练掌握另一门系统级编程语言（如C++/Rust）者优先；熟悉常见的LLM推理加速框架和方法原理，如onnx/TensorRT/TensorRT-LLM/vllm/sglang，能够根据业务需求定制优化者优先。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "具身算法实习生",
+      "company": "智元创新",
+      "location": "上海",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/436302",
+      "description": "设计和开发创新性的模仿学习和强化学习算法，应用于人形机器人场景任务；研究并构建具备视觉、触觉、语言等多模态感知和决策能力的大模型；优化具身算法模型结构，与跨职能团队合作推动具身算法在实际场景中的应用；撰写技术文档和学术论文。岗位要求：计算机、人工智能、电子工程或相关专业硕士及以上学历，对机器人、具身智能、大模型有强烈兴趣；具备扎实的深度学习基础，熟悉强化学习、模仿学习基本原理，有相关项目经验优先；有顶级会议论文发表经验者优先；工作地点为上海/北京/深圳。",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
