@@ -1,0 +1,147 @@
+{
+  "date": "2026-07-30",
+  "generatedAt": "2026-07-30T07:30:00+10:00",
+  "auMode": "淡季",
+  "cnMode": "暑假实习+提前批",
+  "sources": ["au.prosple.com", "www.nowcoder.com"],
+  "stats": {
+    "auCandidates": 6,
+    "auLive": 1,
+    "cnCandidates": 12,
+    "cnLive": 11
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "AI Graduate Program",
+      "company": "Carsales",
+      "location": "Melbourne, VIC",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://au.prosple.com/graduate-employers/carsales/jobs-internships/ai-graduate-program",
+      "description": "Commencing in February 2027, you'll join the Technology team and start developing your digital career by growing your capabilities across both Artificial Intelligence and Software Development. You will have the chance to work on projects that really matter to the business, surrounded by a support crew of motivated and creative people. You'll get the opportunity to really understand the Software lifecycle and how Technology teams create and deliver products that make buying and selling a great experience for customers. Applicants should be final year students (to graduate by end of 2026) or recent graduates (no later than 2025) with IT, Computer Science, Software Development or similar degrees. A strong interest in AI demonstrated through learning beyond your course work such as side projects, hackathons or open-source contributions is required.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法工程师【北斗】",
+      "company": "美团",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/395936",
+      "description": "大模型相关技术前沿探索，包括但不限于原生多模态、Scaling Law、模型架构探索（MoE、MAMBA等）、训练范式探索、长序列技术探索、高效训推框架探索等。硕士及以上学历，博士优先，计算机、数学或统计学等相关专业。在Query理解，召回，相关性，排序，智能交互等方面有深入实践，具备大模型相关经验者优先。扎实的深度学习理论基础，精通主流深度学习框架(如Tensorflow、Pytorch)，拥有大模型SFT、RAG、DPO/PPO等大模型实操经验优先。具备较强的coding能力，熟练使用Python/C++等语言。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法工程师【2026届春招】",
+      "company": "贝壳找房",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/436929",
+      "description": "贝壳找房在牛客网招聘2026届大模型算法工程师（职位代码J70244），地点在北京，要求硕士学历。主要职责包括大语言模型研发的应用与算法研发工作（包括数据、训练、评测、推理部署等），探索前沿新兴的大模型技术，以及深度参与产品研发项目。贝壳找房2026届秋招于8月29日开始，招聘对象为2026届海内外应届生。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法工程师实习生【2026届】",
+      "company": "贝壳找房",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/387387",
+      "description": "贝壳找房在牛客网招聘2026届大模型算法工程师实习生(职位代码J67066)，地点在北京，要求硕士学历，每周5天工作，最少2个月实习期，有转正机会。该职位主要职责包括大语言模型研发的应用与算法研发工作（包括数据、训练、评测、推理部署等），探索前沿新兴的大模型技术，以及深度参与产品研发项目。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法实习生-2027届暑期实习",
+      "company": "拼多多",
+      "location": "上海",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/444765",
+      "description": "参与大模型基座研发与优化，包括参与构建及优化面向电商领域的多语言、多模态（图/视频/语音等）大模型基座，全流程深入数据处理、样本标注、模型预训练（Pretrain）、有监督微调（SFT）/强化学习（RL）等关键环节。要求2027届毕业生，本科及以上学历，喜爱计算机以及互联网技术。扎实的数据结构和算法能力，熟悉常用的数据库技术。精通至少一种开发语言，并能熟练应用解决具体问题。有较强的学习能力，有强烈的责任心和自我驱动力。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI应用研发工程师 2027届实习",
+      "company": "阿里巴巴",
+      "location": "北京/上海/杭州",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/c5ad94b24aee421991afd9d3287500c8",
+      "description": "使用Agent和其他前沿AI技术真正将大模型落地到业务场景中，包括业务场景分析、设计AI-native系统架构与Agent核心模块、构建RAG知识库、实现自动化评估机制，以及构建端到端AI应用流程。岗位要求：Cursor/Claude Code重度用户、理解LLM能力边界、具备Agent/RAG项目经验、Hacker精神。工作地点：北京/广州/杭州/南京/上海/深圳。2027届实习，毕业时间2026.11-2027.10。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "推荐大模型算法工程师 (26届快Star)",
+      "company": "快手",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/94630",
+      "description": "推荐大模型方向负责大模型与推荐算法结合的下一代推荐系统研发，研发方向包括多模态理解、端到端生成式推荐、模型ScalingLaw、混合专家、蒸馏剪枝等前沿技术探索。推荐模型部是快手核心算法部门，负责快手亿级用户的推荐模型开发，团队技术代表作包括oneRec、HoME、Kuaiformer等业界知名工作。面向26届毕业的硕博研究生，熟练使用C++、Java、Python等编程语言，多模态、NLP、CV、机器学习、深度学习基础知识扎实。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "多模态大模型算法工程师-特效方向 (快Star-X实习)",
+      "company": "快手",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/437936",
+      "description": "多模态大模型的研发、调优和应用，包括但不限于文本/图像/视频理解和生成。将大模型能力在公司核心业务场景中应用落地，如智能化特效、智能美颜、特效推荐等。算法所需训练数据、评测体系的建设，探索大模型应用前沿及新兴应用场景。包括但不限于人工智能、计算机、模式识别、自动化、数学、统计学等专业的优秀本科生、硕士生和博士生。熟悉Transformer、LLM、VLM、CLIP等技术原理。快手特效团队负责快手生产和直播等核心业务的特效技术能力研发，致力于通过多模态大模型与新技术结合，提升用户'美'和'有意思'的创作体验。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型压缩加速算法工程师 (快Star-X实习)",
+      "company": "快手",
+      "location": "北京",
+      "category": "MLOps / AI Infra",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/442122",
+      "description": "为实现类Sora模型实时化无损生成研究可行方案，包括但不限于步数蒸馏、efficiency-attention计算、cache-reuse策略、QAT训练等。为LLM/MLLM的高效推理探索前沿解决方案，包括但不限于efficiency architecture、sparse attention、fp8/4-tuning、data/model distillation、speculative decoding等。硕士及以上学历，数学、计算机、自动化、电子等专业优先。算法基础扎实，具有LLM、扩散模型等生成式模型的研究或使用经验。对生成式模型有强烈的兴趣。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "推荐算法实习生 (2026届, 2027届)",
+      "company": "小红书",
+      "location": "杭州",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/378828",
+      "description": "协助负责推荐技术落地，完成个性化推荐模型、分发策略、用户理解、内容理解等方向突破；负责社区业务推进，将业务问题进行技术抽象，系统性优化海量用户体验；协助研发新的推荐策略和算法，并不断优化效果和性能。硕士在读，毕业时间2026年6月左右；主动性高，学习速度快，吃苦耐劳；能快速入职，每周保证4天以上的出勤，且能连续实习不少于6个月；具有基本的机器学习基础知识和coding能力（Python、Java）。工作地点base杭州，文三路地铁站口。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "基础模型Infra研发工程师（训练/推理）2027届实习",
+      "company": "阿里巴巴",
+      "location": "北京/杭州",
+      "category": "MLOps / AI Infra",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/439618",
+      "description": "千问Qwen是由通义实验室自主研发的超大规模语言模型。团队致力于深度参与大模型训练系统优化与高性能推理服务构建，聚焦于算法与系统协同设计，推动大模型在效率、稳定性与成本上的持续突破。在不影响模型性能前提下提高各尺寸模型在大规模分布式预训练的MFU；持续进行RL训练框架的开发和优化。对深度学习框架有深入理解；熟悉GPU/CPU并行计算原理，具备分布式训练系统设计经验；熟悉Transformer架构以及大语言模型基础知识；熟悉常见的训练框架（例如Megatron-LM、Verl等）/推理框架（例如vLLM、SGlang等）。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "MaaS大模型智能体算法研究-A Star 2027届实习",
+      "company": "阿里巴巴",
+      "location": "北京/杭州",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/439329",
+      "description": "深度参与Alibaba Cloud MaaS平台核心算法研究，包括：Agent自适应与自演化技术研究，构建基于业务数据的Agentic RL训练和Agentic Infra优化，增强agent在任务规划、工具调用和多轮推理中的能力；领导大模型优化（文本、语音、多模态），理解垂直行业（电商、教育、金融）业务需求，实施全流程优化（数据-训练-评测）。计算机、AI、数学等相关背景，深度学习、NLP等扎实基础。精通PyTorch，具备分布式训练（如DeepSpeed、Megatron）和模型推理加速实践经验。在NeurIPS/ICML/ICLR/ACL等顶会发表论文优先。",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
