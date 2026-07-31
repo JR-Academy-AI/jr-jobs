@@ -1,0 +1,108 @@
+{
+  "date": "2026-08-01",
+  "generatedAt": "2026-08-01T08:13:13+1000",
+  "auMode": "主高峰",
+  "cnMode": "秋招",
+  "sources": [
+    "seek.com.au",
+    "careers.mediatek.com",
+    "intel.wd1.myworkdayjobs.com",
+    "optiver.com"
+  ],
+  "stats": {
+    "auCandidates": 18,
+    "auLive": 1,
+    "cnCandidates": 25,
+    "cnLive": 7
+  },
+  "jobs": [
+    {
+      "id": "56095591",
+      "title": "Senior Data Engineer",
+      "company": "Domain Group",
+      "location": "Sydney NSW",
+      "market": "AU",
+      "category": "Data Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.seek.com.au/job/56095591",
+      "description": "In 2025, Domain became part of CoStar Group (NASDAQ: CSGP), a global leader in commercial real estate information, analytics, online marketplaces and 3D digital twin technology. Together, Domain and CoStar Group is dedicated to digitising the world's real estate, empowering all people to discover properties, insights, and connections that improve their businesses and lives. Delivering high-quality, reliable data assets that form the foundation for analytics and business decisions; transforming complex, noisy data into well-structured, usable data products that unlock value; building strong relationships with stakeholders, ensuring data solutions solve real business problems"
+    },
+    {
+      "id": "MTK120260330007",
+      "title": "Machine Learning and Computer Vision Algorithm Engineer",
+      "company": "MediaTek",
+      "location": "Shenzhen, China",
+      "market": "CN",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "applyUrl": "https://careers.mediatek.com/en/jobs/MTK120260330007",
+      "description": "developing and deploying cutting-edge machine learning and deep learning algorithms, optimized for MediaTek's NPU; computer vision algorithm development, including image processing, deep learning, machine learning, and image recognition; 2+ years of experience in machine learning, deep learning, computer vision, signal processing; ML frameworks like Keras, Tensorflow, or PyTorch"
+    },
+    {
+      "id": "MTK120260330013",
+      "title": "Machine Learning - Architect/Researcher/Engineer",
+      "company": "MediaTek",
+      "location": "Shenzhen, China",
+      "market": "CN",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://careers.mediatek.com/en/jobs/MTK120260330013",
+      "description": "Machine Learning Architect, Researcher, or Engineer who is passionate about System Platform, Software Engineering, and Applied Machine Learning"
+    },
+    {
+      "id": "MTK120260408001",
+      "title": "Senior Engineer/Technical Manager for AI Application",
+      "company": "MediaTek",
+      "location": "Shenzhen, China",
+      "market": "CN",
+      "category": "AI Engineer",
+      "level": "Senior",
+      "applyUrl": "https://careers.mediatek.com/en/jobs/MTK120260408001",
+      "description": "with a mission to leverage Machine Learning and Generative AI to enhance MediaTek's R&D efficiency and engineering quality"
+    },
+    {
+      "id": "MTK120260506015",
+      "title": "Camera AI Algorithm Engineer",
+      "company": "MediaTek",
+      "location": "Shenzhen, China",
+      "market": "CN",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "applyUrl": "https://careers.mediatek.com/en/jobs/MTK120260506015",
+      "description": "responsible for computer vision algorithm development, including image processing, deep learning, machine learning, and image recognition"
+    },
+    {
+      "id": "JR0279454",
+      "title": "AI Software Engineering Intern",
+      "company": "Intel",
+      "location": "Shanghai, China",
+      "market": "CN",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/AI-Software-Engineering-Intern_JR0279454",
+      "description": "contributes to the design, development, and optimization of AI software solutions including algorithms, frameworks, and AI software architectures across domains such as computer vision, machine learning, and deep learning; implementing and tuning models for performance and accuracy, applied research, and hardware software integration"
+    },
+    {
+      "id": "JR0283715",
+      "title": "Firmware Validation AI Intern",
+      "company": "Intel",
+      "location": "Shanghai, China",
+      "market": "CN",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/Firmware-validation-AI-intern_JR0283715",
+      "description": "AI Agent Development (designing and implementing autonomous AI agents using frameworks like LangChain or custom agent architectures) and Tool Integration and Development (building and integrating AI tools, APIs, and plugins)"
+    },
+    {
+      "id": "8214335002",
+      "title": "2026 Shanghai Machine Learning PhD Internship",
+      "company": "Optiver",
+      "location": "Shanghai, China",
+      "market": "CN",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://optiver.com/working-at-optiver/career-opportunities/8214335002/",
+      "description": "leveraging AI and deep learning technologies; collaborating closely with researchers and traders on new experiments; PhD students graduating in or after 2027; advanced understanding of neural networks; experience with TensorFlow, PyTorch, Keras"
+    }
+  ]
+}
