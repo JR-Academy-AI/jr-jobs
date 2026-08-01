@@ -1,0 +1,145 @@
+{
+  "date": "2026-08-02",
+  "generatedAt": "2026-08-02T07:32:00+10:00",
+  "auMode": "主高峰",
+  "cnMode": "秋招",
+  "sources": [
+    "jobs.smartrecruiters.com",
+    "careers.bupa.com.au",
+    "apply.workable.com",
+    "jobs.lever.co",
+    "careers.telstra.com",
+    "au.prosple.com",
+    "www.nowcoder.com",
+    "jobs.bytedance.com"
+  ],
+  "stats": {
+    "auCandidates": 14,
+    "auLive": 9,
+    "cnCandidates": 8,
+    "cnLive": 2
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Senior AI Software Engineer",
+      "company": "Lendi Group",
+      "location": "Sydney NSW",
+      "category": "AI Engineer",
+      "level": "Senior",
+      "applyUrl": "https://jobs.smartrecruiters.com/LendiGroup1/744000076098126-senior-ai-software-engineer",
+      "description": "Lendi Group has a Senior AI Software Engineer role where you will work at the intersection of AI, data, software engineering, and financial services, building cutting-edge solutions that enhance operational efficiency and customer experiences, reporting to a newly formed team within Lendi Group that is focused on AI driven initiatives.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Data Engineer",
+      "company": "Lendi Group",
+      "location": "Sydney NSW",
+      "category": "Data Engineer",
+      "level": "Senior",
+      "applyUrl": "https://jobs.smartrecruiters.com/lendigroup1/744000137990368-senior-data-engineer",
+      "description": "Lendi Group is also seeking an experienced Senior Data Engineer as part of a multi-disciplinary engineering team that will be designing, developing, and deploying AI systems that drive agentic AI Automation within the property buying and owning, mortgage broking and financial services sector.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data Engineer",
+      "company": "Lendi Group",
+      "location": "Sydney NSW",
+      "category": "Data Engineer",
+      "level": "Mid",
+      "applyUrl": "https://jobs.smartrecruiters.com/LendiGroup1/744000049482122-data-engineer",
+      "description": "For the Data Engineer role, responsibilities include working closely with engineers, data scientists, analysts, and other key stakeholders to help shape the future of data at Lendi Group; requiring 3+ years experience with data engineering and understanding of data models, pipelines, and ETL processes; fluency in SQL scripting and strong command of Python; and experience with Snowflake, DBT, Fivetran, and MS Fabric (PowerBI).",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist – HP&CI",
+      "company": "Bupa Australia",
+      "location": "Melbourne VIC",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "applyUrl": "https://careers.bupa.com.au/job/melbourne/data-scientist-hp-and-ci/40796/35528371392",
+      "description": "Reporting to the Healthcare Intelligence Manager, the Data Scientist will play a key role in developing and deploying machine learning (ML) and statistical models to predict health, which drive strategic decision-making and improve operational efficiencies across Health Program, Hospital Funding, Claims Integrity and other Enterprise teams. Collaborate with the Data Office to develop scalable modelling frameworks on the Azure Databricks platform.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Machine Learning Engineer",
+      "company": "Rokt",
+      "location": "Sydney NSW",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://apply.workable.com/rokt/j/0ADB7BFD98",
+      "description": "translate cutting-edge academic insights into scalable ML products that shape user experiences across more than 7.5 billion transactions and 400 million customers globally",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Data Engineer – Data & AI",
+      "company": "MYOB",
+      "location": "Melbourne VIC",
+      "category": "Data Engineer",
+      "level": "Senior",
+      "applyUrl": "https://jobs.lever.co/myob-2/d10e5634-2d8f-4cdc-a894-06b526c6706e",
+      "description": "As a Senior Data Engineer at MYOB, you'll build and support reliable data flows, ensuring integrity, quality, accessibility, and visibility across the landscape. Key Responsibilities: Design, build, and maintain scalable, reliable, and observable data pipelines that meet evolving data standards and governance requirements; Develop and optimise structured datasets and metadata frameworks to support advanced analytics, AI, and business intelligence use cases; Collaborating with a team of data engineers to improve standard methodologies and drive smarter decisions throughout the organization",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior AI Engineer",
+      "company": "MYOB",
+      "location": "Melbourne VIC",
+      "category": "AI Engineer",
+      "level": "Senior",
+      "applyUrl": "https://jobs.lever.co/myob-2/ac143cf9-be7f-4919-9297-7dfefdabf150",
+      "description": "As a foundational member of the AI team, you'll shape the technical vision and build systems that directly impact our customers' success.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Emerging Technology Specialist – AI & Machine Learning",
+      "company": "Telstra",
+      "location": "Sydney NSW",
+      "category": "AI Engineer",
+      "level": "Senior",
+      "applyUrl": "https://careers.telstra.com/jobs/jr-10055293/emerging-technology-specialist-ai-machine-learning",
+      "description": "As the Emerging Technology Senior Specialist, you play a critical role incubating and commercialising new technologies that enhance Telstra's product strategies and competitive advantage. You partner with vendors to bring new technologies to market that deliver a great customer experience and build Telstra's reputation as a globally innovative Tech Company.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Graduate Data & AI Analyst",
+      "company": "Quantium",
+      "location": "Sydney NSW",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://au.prosple.com/graduate-employers/quantium/jobs-internships/graduate-data-ai-analyst-0",
+      "description": "The Graduate Academy offers intensive learning opportunities for the development of key analytical, technical, and commercial skills, as well as a comprehensive understanding of Quantium's business. The graduate programs are 12 to 18 months long with a dedicated program manager and targeted learning & development workshops.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法工程师（2026届正式岗）",
+      "company": "拼多多",
+      "location": "上海",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/437030",
+      "description": "参与构建及优化面向电商领域的多语言、多模态大模型基座，全流程深入数据处理、样本标注、模型预训练（Pretrain）、有监督微调（SFT）/强化学习（RL）等关键环节。博士/硕士优先，工作地点为上海",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大语言模型算法工程师-Top Seed",
+      "company": "字节跳动",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://jobs.bytedance.com/campus/position/7494095386640222472/detail",
+      "description": "Seed聚焦大模型核心技术与应用落地，涵盖：大模型基础研究（预训练、后训练、推理优化、多模态等），大模型工程架构（分布式训练、高性能推理、模型压缩与部署），大模型产品与应用（Agent、RAG、代码生成及各垂直场景落地），AI安全与对齐（可解释性、鲁棒性、价值对齐、内容安全）。2027届本科及以上学历应届毕业生（计算机、人工智能、数学、电子工程等相关专业优先）",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
