@@ -1,0 +1,120 @@
+{
+  "date": "2026-08-03",
+  "generatedAt": "2026-08-03T07:42:00+10:00",
+  "auMode": "主高峰",
+  "cnMode": "秋招",
+  "sources": [
+    "lifeatcanva.com",
+    "careers.airwallex.com",
+    "jobs.lever.co",
+    "careers.tencent.com",
+    "game.campus.163.com"
+  ],
+  "stats": {
+    "auCandidates": 12,
+    "auLive": 6,
+    "cnCandidates": 8,
+    "cnLive": 3
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Senior Machine Learning Engineer - Content ML",
+      "company": "Canva",
+      "location": "Melbourne VIC",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.lifeatcanva.com/en/jobs/6000000000970331/senior-machine-learning-engineer-content-ml-au-remote/",
+      "description": "The responsibilities include researching, developing and deploying AI-based solutions to automate content moderation and review of Canva's content; working with diverse stakeholders to guide the technical vision while being responsible for break-down and delivery of large projects; designing, developing and deploying solutions with hands-on software development; fostering an impactful and healthy team via code review culture, knowledge sharing, and process improvements; and staying updated on industry trends and best practices to innovate and improve the domain owned by the team. The Content Machine Learning team's vision is to empower all users with the safest and highest quality content at scale.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Machine Learning Engineer - AI Enablement",
+      "company": "Canva",
+      "location": "Sydney NSW",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.lifeatcanva.com/en/jobs/6000000001086387/senior-machine-learning-engineer-ai-enablement-au-remote/",
+      "description": "Canva's AI Platform Group serves as the foundation for AI innovation across the company, and the AI Enablement teams provide critical solution expertise to researchers and AI builders globally, helping them navigate platform capabilities, apply expert domain knowledge, optimise implementations, and accelerate the journey from experimentation to production. The senior MLE will context-switch between facilitating model evaluations, data pipeline, optimising inference performance and working directly with product teams building solutions. This role sits at the intersection of solution expertise and platform engineering, requiring deep technical expertise across ML domains combined with strong platform knowledge.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Machine Learning Engineer - Elements Platform",
+      "company": "Canva",
+      "location": "Melbourne VIC",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.lifeatcanva.com/en/jobs/6000000001246393/senior-machine-learning-engineer-elements-platform-au-remote/",
+      "description": "As a Senior Machine Learning Engineer on Elements Platform, you'll build the ML systems that power how style gets understood — and how that understanding gets reflected in the elements generated for people's designs. Design, build, and ship ML models that power content generation and quality eval scoring for Canva's generated element and template library. Help shape how templates and elements get generated at scale. Work closely with the Content Engine, Core Research, and AI Media teams to take projects from a strong idea to a dependable, scaled system.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Machine Learning Engineer - Inspire & Create",
+      "company": "Canva",
+      "location": "Perth WA",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.lifeatcanva.com/en/jobs/6000000000935008/senior-machine-learning-engineer-inspire-create-au-remote/",
+      "description": "The role involves deep technical expertise across the ML lifecycle - from data wrangling and model development to evaluation, deployment, and monitoring. Experience with Generative AI (GenAI) including LLMs, diffusion models, prompt engineering, RAG, or fine-tuning, along with familiarity with GenAI platforms like OpenAI, Hugging Face, and Anthropic. A strong product mindset prioritizing ML solutions that improve user experience, commitment to scalable and maintainable ML systems with clear metrics, and passion for ethical ML and responsible data usage.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Staff AI Engineer",
+      "company": "Airwallex",
+      "location": "Melbourne VIC",
+      "category": "AI Engineer",
+      "level": "Senior",
+      "applyUrl": "https://careers.airwallex.com/job/9ccb29da-56e0-48d7-8476-4c2b0b716598/staff-ai-engineer/",
+      "description": "As a Staff AI Engineer, you will design and deploy intelligent systems that automate complex, multi-step financial workflows. You'll leverage agentic frameworks, orchestration layers, and pragmatic model selection to turn ideas into reliable production systems at scale. The Agentic AI team designs intelligent, autonomous systems that eliminate financial operations for companies globally. They automate the core financial workflows that businesses rely on—turning slow, manual processes into something real-time, intelligent, and seamless, compressing hours of work into seconds.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data Engineer",
+      "company": "SafetyCulture",
+      "location": "Sydney NSW",
+      "category": "Data Engineer",
+      "level": "Mid",
+      "applyUrl": "https://jobs.lever.co/safetyculture-2/6d2a297a-ac4c-4f78-9f4f-0d874f038578",
+      "description": "As a Data Engineer at SafetyCulture, you collaborate with different stakeholders across the business (Finance/Marketing/Sales) to turn billions of rows of source data into highly valuable datasets and data products. SafetyCulture is expanding rapidly which requires the Data Engineer to integrate different systems and datasets from differing business contexts. Key responsibilities include: Deliver big data datasets on time and with quality using the most out of the infrastructure; Apply software engineering principles to data pipelines, providing reusable and efficient code in Python, Scala and SQL.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI Agent开发工程师",
+      "company": "腾讯",
+      "location": "北京 / 深圳 / 上海",
+      "category": "AI Engineer",
+      "level": "Senior",
+      "applyUrl": "https://careers.tencent.com/jobdesc.html?postId=2043637366815617024",
+      "description": "探索研究多模态理解、生成式、强化学习等前沿技术；负责Agent框架的设计与开发，及其在游戏场景搭建中的应用落地；探索Agent底座的后训练，包括但不限于推理规划、记忆管理、工具调用、多轮决策等能力的提升。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型推理引擎研发工程师",
+      "company": "腾讯",
+      "location": "深圳 / 北京 / 上海 / 杭州",
+      "category": "MLOps / AI Infra",
+      "level": "Senior",
+      "applyUrl": "https://careers.tencent.com/jobdesc.html?postId=2074414767455518720",
+      "description": "基于多种异构芯片（GPGPU/NPU/XPU等），协同算法和业务团队，主导分布式异构推理系统的开发设计与落地实现，聚焦低延时、高吞吐目标，主要工作内容包括：1.模型适配-针对业界主流和自研大模型进行多芯片适配；2.精度调优-解决适配过程中的模块和端到端精度异常问题；3.系统性能调优-进行性能Profiling剖析和系统工程优化；4.推理框架/引擎架构优化-针对多芯片架构进行专项优化；5.核心算子开发/调优-对推理关键算子进行针对性优化。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI Agent工程师（游戏研发方向）",
+      "company": "网易游戏",
+      "location": "广州 / 杭州 / 上海",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://game.campus.163.com/position-detail/1604",
+      "description": "核心要求熟悉大语言模型及AI Agent技术（如RAG、Tool Use、Multi-Agent协作），并熟练掌握PyTorch或TensorFlow框架。候选人需具备模型训练、微调及可控推理的实战能力，同时了解游戏引擎或3D内容生成技术将作为重要加分项。",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
