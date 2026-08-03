@@ -1,0 +1,264 @@
+{
+  "date": "2026-08-04",
+  "generatedAt": "2026-08-03T21:30:00.000Z",
+  "auMode": "主高峰",
+  "cnMode": "秋招",
+  "sources": [
+    "careers.woolworthsgroup.com.au",
+    "recruitment.macquarie.com",
+    "careers.anz.com",
+    "amazon.jobs",
+    "nowcoder.com",
+    "jobs.bytedance.com"
+  ],
+  "stats": {
+    "auSearched": 38,
+    "auPassed": 10,
+    "cnSearched": 32,
+    "cnPassed": 12
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Data Scientist",
+      "company": "Woolworths Group",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "applyUrl": "https://careers.woolworthsgroup.com.au/en_GB/apply/JobDetail/Data-scientist/94170",
+      "description": "Woolworths is looking for a passionate Data Scientist to join their dynamic team and drive innovation in advanced analytics and AI. As a Data Scientist, you'll apply advanced analytics and machine learning techniques to solve complex business problems across diverse domains including personalisation, loyalty, supply chain optimisation, and generative AI applications.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data and AI Engineer",
+      "company": "Woolworths Group",
+      "location": "Sydney, NSW",
+      "category": "Data Engineer",
+      "level": "Mid",
+      "applyUrl": "https://careers.woolworthsgroup.com.au/en_GB/apply/JobDetail/Data-and-AI-Engineer/99162",
+      "description": "This role involves contributing across data engineering, analytics, and applied AI - working directly with Finance business units to solve real problems with real commercial consequences, going beyond traditional data engineering with end-to-end work from business requirements through to governed, production solutions.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist - Ecom X",
+      "company": "Woolworths Group",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "applyUrl": "https://careers.woolworthsgroup.com.au/en_GB/apply/JobDetail/Data-Scientist-Ecom-X/76658",
+      "description": "As a Data Scientist, you will drive the enhancement of product data, personalization, and customer experience by building and optimizing data-driven solutions on the Woolworths supermarkets website and app.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist - Search Engine Marketing",
+      "company": "Woolworths Group",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "applyUrl": "https://careers.woolworthsgroup.com.au/en_GB/apply/JobDetail/Data-Scientist-Search-Engine-Marketing/55533",
+      "description": "This role involves applying advanced analytics, machine learning and GenAI techniques to solve complex business problems for search engine marketing, including shopping ads optimisation, experimentation and measurement.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist",
+      "company": "Macquarie Group",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Senior",
+      "applyUrl": "https://recruitment.macquarie.com/en_US/careers/JobDetail/Data-Scientist/13836",
+      "description": "One Data Scientist position involves leveraging expertise in statistical modelling, machine learning, and analysis to develop large language models (LLMs) that address real-world challenges. This role requires a relevant doctorate or master's degree in data science, Mathematics, Statistics, Computer Science or related field with 4+ years industry working experience, plus advanced SQL and 2+ years' programming experience in Python and Natural Language Processing.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Machine Learning Platform Engineer",
+      "company": "Macquarie Group",
+      "location": "Sydney, NSW",
+      "category": "MLOps / AI Infra",
+      "level": "Senior",
+      "applyUrl": "https://recruitment.macquarie.com/en_US/careers/JobDetail/Machine-Learning-Platform-Engineer/10042",
+      "description": "Machine Learning Platform Engineer positions involve working in a multi-disciplinary team alongside data scientists to build ML powered solutions for clients and implement MLOps to streamline the model experimentation and ML tooling and workflows. These roles require 5+ years experience as a software engineer in an agile DevOps environment using object-oriented development languages (Java, Python), with demonstrated proficiency in cloud technologies and ML services including GCP Vertex AI, DataRobot or AWS SageMaker.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist | Generative Artificial Intelligence",
+      "company": "Macquarie Group",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Senior",
+      "applyUrl": "https://recruitment.macquarie.com/en_US/careers/JobDetail/Data-Scientist-Generative-Artificial-Intelligence/13030",
+      "description": "A Senior Data Scientist position in the Digital team requires a Master's or PhD degree in Computer Science, Data Science, Machine Learning or related field with strong background in Generative AI, Large Language Model (LLM), and prompt engineering.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "AI Engineer",
+      "company": "ANZ Bank",
+      "location": "Melbourne, VIC",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "applyUrl": "https://careers.anz.com/job/Melbourne-AI-Engineer-12-Month-FTC-(Multi-level-positions-available)/1065750466/",
+      "description": "The role involves addressing complex business issues using large amounts of structured and unstructured data, understanding the application of Generative AI in a cloud data & analytics ecosystem, and developing analytical solutions that support transformation of the Complaints quality business processes. Responsibilities include designing, building, deploying, monitoring and assessing relevant models for implementation as AI Agents in the complaints management value chain, and designing best practices for Agentic AI solutions to operate effectively in an environment comprised of other heterogeneous agents with access to diverse sets of tools.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Machine Learning Engineer",
+      "company": "ANZ Bank",
+      "location": "Melbourne, VIC",
+      "category": "MLOps / AI Infra",
+      "level": "Mid",
+      "applyUrl": "https://careers.anz.com/job/Melbourne-Machine-Learning-Engineer-ANZ-Plus/1061140166/",
+      "description": "Design and implement scalable AI solutions that enables data engineers and ML scientists to train, build and maintain machine learning models effectively. Develop automated processes for continuous model training and evaluation pipelines specifically for ML applications. Be a part of building the ideal data and ML/AI ecosystem from scratch and spearhead the integration of the latest capabilities to enhance customer experiences and transform business operations.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Applied Science Intern (Computer Vision)",
+      "company": "Amazon",
+      "location": "Melbourne, VIC",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.amazon.jobs/en/jobs/10423323/2027-applied-science-intern-computer-vision-amazon-international-machine-learning",
+      "description": "Key job responsibilities include developing novel solutions and building prototypes, working on complex problems in Deep Learning and Generative AI, contributing to research that could significantly impact Amazon operations, collaborating with a diverse team of experts in a fast-paced environment, and presenting research findings to both technical and non-technical audiences. The role is based in the Melbourne office with requirements for Computer Vision or Machine Learning specialization and experience in Deep Learning.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型应用算法实习生-内容消费与非闭环电商",
+      "company": "ByteDance",
+      "location": "北京/上海",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://jobs.bytedance.com/campus/position/7605872328216283445/detail",
+      "description": "The internship involves working on major initiatives including building high-quality short drama and game content with multimodal inference and fine-grained datasets; post-training multimodal large language models for content consumption through various techniques; designing and building Agent architectures; and optimizing content understanding and generation capabilities for short dramas and games.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大语言模型应用算法实习生-豆包大模型（Top Seed Intern）",
+      "company": "ByteDance",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/382426",
+      "description": "The Top Seed Talent Program - Douyin Large Model Research Internship is specifically designed for doctoral candidates graduating in September 2025 and beyond. Interns can explore challenging long-term research topics in their preferred direction, form research groups with like-minded partners, and receive access to abundant computing power, data resources, and guidance from senior mentors. Research focus includes optimizing and innovating RLHF algorithm training efficiency and model generalization, implementing and applying Long CoT technology, post-training algorithms for multimodal large models (text, image, speech), building high-quality multi-domain data synthesis methods, and exploring LLM applications in emotional dialogue and creative scenarios.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大语言模型AI搜索Agent算法工程师实习生-豆包大模型",
+      "company": "ByteDance",
+      "location": "上海",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/386085",
+      "description": "The role involves AI search summary Agent development, including designing and implementing LLM-based search summary agents to improve understanding, reasoning, and structured summarization of search results; exploring LLM Reasoning technologies like chain-of-thought and multi-step reasoning to optimize complex queries; and building end-to-end systems covering intent recognition, knowledge retrieval, result generation, and preference alignment.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "算法工程师-VLM训练",
+      "company": "Alibaba",
+      "location": "北京/杭州",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/439332",
+      "description": "The role involves designing and implementing long-sequence training strategies for multi-modal alignment and fusion of text, images, and videos, operating massive GPU clusters at scale, coordinating full training pipelines (Pretrain/CPT/SFT/RLVR/RLHF), and performing efficient distributed optimization on large-scale foundation models. Additional focus areas include exploring MoE sparsification, training algorithm innovation, interpretability and quality monitoring, multi-modal reasoning, mRAG, million-token-level long context processing, and Agent & tool chain mechanisms.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "基础模型Infra研发工程师（训练/推理）",
+      "company": "Alibaba",
+      "location": "北京/杭州/广州",
+      "category": "MLOps / AI Infra",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/439618",
+      "description": "The position is part of Alibaba's Tongyi Laboratory, which has developed Qwen large-scale language models. The role involves two main directions: Model Training Optimization (improving MFU for models in large-scale distributed pretraining, supporting continuous scaling, developing and optimizing RL training frameworks) and Model Inference Optimization (developing efficient inference services for high-concurrency serving of Qwen Chat and API services).",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型压缩加速算法工程师",
+      "company": "Kuaishou",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/442122",
+      "description": "Responsibilities include researching feasible solutions for achieving real-time lossless generation of Sora-like models, including step distillation, efficiency-attention computation, cache-reuse strategies, and QAT training; exploring advanced solutions for efficient LLM/MLLM inference including efficiency architecture, sparse attention, fp8/4-tuning, data/model distillation, and speculative decoding; and participating in the full-chain exploration of video generation and multimodal large models under guidance.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "多模态大模型算法工程师-特效方向",
+      "company": "Kuaishou",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/437936",
+      "description": "Responsibilities include research and optimization of multimodal large models for text/image/video understanding and generation, and deploying large model capabilities in core business scenarios such as intelligent effects and AIGC creative generation. Additional responsibilities include building training data and evaluation systems for algorithms, and exploring cutting-edge applications of large models in the special effects domain.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "推荐大模型算法工程师",
+      "company": "Kuaishou",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/94630",
+      "description": "The core responsibilities include exploring the next-generation recommendation system technology that combines large models with recommendation algorithms, leveraging large models' domain knowledge and learning paradigms to inject new energy into recommendation systems, enabling them to understand and comprehend the world. Specific work includes but is not limited to generative recommendation, model scaling laws, and user ultra-long sequence processing.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "多模态大模型日常算法实习生",
+      "company": "Tencent",
+      "location": "上海",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/338558",
+      "description": "Multimodal large model algorithm construction in game scenarios, including image understanding in gaming contexts and multimodal large model capability building and engineering implementation. Requirements include graduate degree or above in computer science, mathematics, statistics, or related fields; foundation in multimodal large models, familiarity with mainstream multimodal models and algorithms; strong engineering implementation abilities, proficient in Python and PyTorch.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI LAB 多模态算法实习生",
+      "company": "Tencent",
+      "location": "深圳/上海",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/252812",
+      "description": "Responsibilities include AI-driven virtual human emotions, motion, and voice; research and development of multimodal LLM models in virtual human scenarios. Requirements include deep understanding of mainstream algorithm principles with model training experience; strong self-learning ability; algorithmic implementation skills with proficiency in Python, C/C++; preference for candidates with papers in relevant international conferences; master's degree or above with stable long-term internship availability.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法实习生",
+      "company": "拼多多集团",
+      "location": "上海",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/444765",
+      "description": "PDD Group is recruiting for 2027 summer internship large model algorithm positions, offering 1v1 mentorship and real business project experience with competitive summer scheduling (July-August, two months full-time). Requirements for applicants include 2027 graduate with bachelor's degree or higher, solid data structure and algorithm skills, proficiency in at least one programming language, strong learning ability, and good communication and teamwork skills.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "TGT专项-多模态大语言模型驱动的广告创意生成与分发优化",
+      "company": "JD.com",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/394979",
+      "description": "The role involves developing multimodal creative systems by researching multimodal large model frameworks to enable personalized generation and distribution of advertising creatives (image/video); exploring and pre-researching cutting-edge technologies combining multimodal large models with advertising scenarios, including creative mechanism coordination algorithms, multimodal user intent modeling, and optimization of generative model industrial deployment. Publications at top conferences such as ICML, NeurIPS, ICLR, CVPR, and ICCV are preferred.",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
