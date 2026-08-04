@@ -1,0 +1,181 @@
+{
+  "date": "2026-08-05",
+  "generatedAt": "2026-08-05T07:30:00+10:00",
+  "auMode": "主高峰",
+  "cnMode": "秋招",
+  "sources": [
+    "au.gradconnection.com",
+    "au.prosple.com",
+    "jobs.bytedance.com",
+    "www.nowcoder.com",
+    "join.qq.com"
+  ],
+  "stats": {
+    "auCandidates": 35,
+    "auLive": 10,
+    "cnCandidates": 20,
+    "cnLive": 6
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "company": "CommBank",
+      "title": "2027 Graduate Program: Technology - Engineering",
+      "category": "Data Engineer",
+      "level": "Graduate",
+      "location": "Sydney, NSW",
+      "applyUrl": "https://au.gradconnection.com/employers/commonwealth-bank/jobs/commbank-2027-commbank-graduate-program-technology-engineering/",
+      "description": "The program offers pathways across Data Engineering (ML/AI), Software Engineering (Web, Mobile, Full-Stack), Site Reliability Engineering, and Cyber Security. You'll use data to build and enhance quantitative and predictive models, large language models and chatbots and gain exposure in Decision Science, Artificial Intelligence (AI), Gen AI & machine learning (ML), Data Engineering, and more via structured rotations. You'll enhance your technical capability using analytical tools such as Python, AWS and Teradata, alongside vast datasets to develop and deliver actionable insights that shape the future of the business."
+    },
+    {
+      "market": "AU",
+      "company": "Westpac",
+      "title": "2027 Technology Engineering Graduate Program",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "location": "Sydney, NSW",
+      "applyUrl": "https://au.gradconnection.com/employers/westpac/jobs/westpac-group-2026-technology-engineering-graduate-program-sydney-gold-coast-3/",
+      "description": "Solve real engineering problems by writing code, launching solutions and seeing your work live in production, used by real customers. As an Engineering Graduate at Westpac, you'll build scalable, secure and intelligent technology - powering smarter customer experiences and shaping how millions of Australians interact with money. From cloud and automation to AI-driven solutions, we build and evolve the technology that keeps Westpac innovative, resilient and future-ready. Whether your strengths are in software development, automation, platforms, or something else entirely — you'll find your place here. You must be in your final year of study of a university degree, or you have completed an undergraduate or postgraduate degree, but it must be no more than three years ago."
+    },
+    {
+      "market": "AU",
+      "company": "Westpac",
+      "title": "2027 Technology Rotational Graduate Program",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "location": "Sydney, NSW",
+      "applyUrl": "https://au.gradconnection.com/employers/westpac/jobs/westpac-group-2026-technology-rotational-graduate-program-sydney-adelaide-melbourne-brisbane-gold-coast-perth-2/",
+      "description": "In the Technology Rotational Graduate program, you can expect to contribute to the development and design of software, applications, platforms, and networks at Westpac Group, with your creations deployed in production environments for use by customers. You'll gain insights into cloud capabilities, artificial intelligence, cybersecurity, data analytics, engineering, DevOps, and automation. Rotational opportunities include software engineering, AI, data, cyber security, cloud, automation, service management, digital delivery, project management, business analysis, experience design and more."
+    },
+    {
+      "market": "AU",
+      "company": "NAB",
+      "title": "2027 Graduate Program - Digital, Data and AI Sydney",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "location": "Sydney, NSW",
+      "applyUrl": "https://au.gradconnection.com/employers/nab/jobs/nab-2027-nab-graduate-program-digital-data-and-ai-sydney/",
+      "description": "During the graduate program, you will have the opportunity to rotate across specialist areas where you will work on a variety of meaningful projects depending on your team placement: Design Rotations, Digital Rotations, Data Analytics Rotations, AI Rotations, and Ecom Rotations. Apply analytics and modelling to solve business problems (Data Analytics), support AI experimentation and enablement (AI). You'll work on innovative projects, receive training and mentorship, complete meaningful work and have the chance to network with leaders across the NAB organisation."
+    },
+    {
+      "market": "AU",
+      "company": "NAB",
+      "title": "2027 Graduate Program - Digital, Data and AI Melbourne",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "location": "Melbourne, VIC",
+      "applyUrl": "https://au.gradconnection.com/employers/nab/jobs/nab-2027-nab-graduate-program-digital-data-and-ai-melbourne/",
+      "description": "During the graduate program, you will have the opportunity to rotate across specialist areas where you will work on a variety of meaningful projects depending on your team placement: Design Rotations, Digital Rotations, Data Analytics Rotations, AI Rotations, and Ecom Rotations. Apply analytics and modelling to solve business problems (Data Analytics), support AI experimentation and enablement (AI). You'll work on innovative projects, receive training and mentorship, complete meaningful work and have the chance to network with leaders across the NAB organisation."
+    },
+    {
+      "market": "AU",
+      "company": "Macquarie Group",
+      "title": "2027 Graduate Program - Engineering",
+      "category": "Data Engineer",
+      "level": "Graduate",
+      "location": "Sydney, NSW",
+      "applyUrl": "https://au.gradconnection.com/employers/macquarie-group/jobs/macquarie-group-2027-graduate-program-engineering/",
+      "description": "From designing to building and maintaining systems, as an Engineer you could write code, develop or specialise in architecture, UI design, testing, business analysis or production support. Specialise in data analysis and help identify opportunities for the business by automating processes and enabling growth. Development starts with a tailored orientation at Macquarie's global headquarters in Sydney, followed by a 12-month structured program with on-the-job training, access to senior leaders and a comprehensive range of internal and external learning opportunities."
+    },
+    {
+      "market": "AU",
+      "company": "EY",
+      "title": "2027 Graduate Program – Technology",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "location": "Sydney, NSW",
+      "applyUrl": "https://au.gradconnection.com/employers/ey/jobs/ey-2027-ey-graduate-program-technology/",
+      "description": "The program includes a Graduate, Technology Consulting - AI & Data role. By applying your technical, business, critical thinking and creative problem-solving skills, you will help organisations unlock the potential of their data, transform it into business-relevant insights, and embed solutions into everyday operations to improve ways of working and achieve sustainable, long-term value. You'll work collaboratively with high achieving, multi-disciplinary teams to help clients enhance their ability to adapt, manage regulatory change, leverage and deploy new technologies faster, and improve consumer, citizen, and stakeholder experiences."
+    },
+    {
+      "market": "AU",
+      "company": "KPMG",
+      "title": "2027 Graduate Program – Technology & Digital",
+      "category": "Business Analyst",
+      "level": "Graduate",
+      "location": "Sydney, NSW",
+      "applyUrl": "https://au.gradconnection.com/employers/kpmg/jobs/kpmg-2027-kpmg-graduate-program-technology-digital/",
+      "description": "Graduates in the Technology & Digital pathway might analyse data, explore new digital tools, support cyber initiatives or help implement tech solutions that drive meaningful change. Teams work across cyber security, cloud, data, AI, digital transformation, technology strategy, engineering and more — helping clients modernise systems, strengthen resilience, and create better experiences for their customers and communities. The program offers a one-year grow pathway with targeted coaching, support and development, with real client work from the start so graduates can make an impact and learn straightaway."
+    },
+    {
+      "market": "AU",
+      "company": "Accenture",
+      "title": "Technology Analyst Graduate Program 2027",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "location": "Sydney, NSW",
+      "applyUrl": "https://au.gradconnection.com/employers/accenture/jobs/accenture-technology-analystgraduate-program-2027-canberra-melbourne-sydney-ballarat/",
+      "description": "As a Technology Analyst, you'll work at the intersection of technology, people and real-world impact. From day one, you'll be part of project teams helping organisations rethink how they work, serve customers and use technology better. You could find yourself: Building or enhancing digital platforms, applications or cloud solutions; Helping teams use data, AI and automation to make smarter decisions; Supporting the design and delivery of secure, scalable technology solutions. Depending on your interests and strengths, your work could span areas such as software engineering, cloud, data & AI, cybersecurity, systems design or technology consulting."
+    },
+    {
+      "market": "AU",
+      "company": "BHP",
+      "title": "2027 Technology Graduate Program",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "location": "Perth, WA",
+      "applyUrl": "https://au.prosple.com/graduate-employers/bhp/jobs-internships/2027-technology-graduate-program",
+      "description": "Depending on your discipline, you could contribute to automation, operational technology, cloud engineering, data and analytics, or digital product development. You'll help deliver technology from designing smarter digital tools to supporting autonomous fleets and advanced data platforms, keeping operations safe, efficient and future-ready. Throughout the two year program, graduates will complete 4 x 6-month rotations in various teams in which they will develop the Technology skills necessary. The program accepts graduates in disciplines including Data Science, Analytics, Applied Statistics, Mathematics."
+    },
+    {
+      "market": "CN",
+      "company": "ByteDance",
+      "title": "AI搜索Agent算法工程师-Seed大模型",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "location": "北京/上海",
+      "applyUrl": "https://jobs.bytedance.com/campus/position/7622891560695793973/detail",
+      "description": "聚焦大模型核心技术与应用落地，涵盖大模型基础研究（预训练、后训练、推理优化、多模态等）、大模型工程架构（分布式训练、高性能推理、模型压缩与部署）、大模型产品与应用（智能体（Agent）、RAG、代码生成、教育/办公/创作等垂直场景）、AI安全与对齐（可解释性、鲁棒性、价值观对齐、内容安全）。招聘要求：2027届本科及以上学历应届毕业生，计算机、人工智能、数学、电子工程等相关专业优先。"
+    },
+    {
+      "market": "CN",
+      "company": "MiniMax",
+      "title": "大模型算法工程师-Co-Design",
+      "category": "MLOps / AI Infra",
+      "level": "Graduate",
+      "location": "北京/上海",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/429359",
+      "description": "深入理解大模型算法（架构、训练/推理技术），评估其工程可行性、性能瓶颈与成本；主导设计下一代训练/推理框架或核心组件，确保原生支持高效算法实现（如高效 Attention、通信优化）；系统性解决训练/推理工作负载的性能瓶颈（计算、通信、存储）。设计并实现高性能核心（如定制 Kernel）、优化通信与数据流水线。设计构建大规模分布式训练系统（DeepSpeed/Megatron-LM/FSDP）；设计构建高并发、低延迟的大模型推理服务平台。应聘要求：计算机/人工智能等相关领域本科及以上，或具备同等杰出实践经验。深刻理解 Transformer 架构及大模型训练/推理等相关核心技术。"
+    },
+    {
+      "market": "CN",
+      "company": "Tencent",
+      "title": "混元大语言模型后训练算法工程师",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "location": "深圳/北京/上海",
+      "applyUrl": "https://join.qq.com/post_detail.html?postid=1149822244424536064",
+      "description": "The position involves core technology R&D for the post-training phase of large language models, building and optimizing reward systems through Reward Modeling and reinforcement learning algorithms to improve model capabilities in instruction-following, logical reasoning, and value alignment. Additional responsibilities include: Researching and optimizing post-training algorithms like RLHF to improve training stability and results. Developing personalization and long-term memory mechanisms for models, building user modeling systems. The role requires a Master's degree or higher in Computer Science, Software Engineering, or Artificial Intelligence."
+    },
+    {
+      "market": "CN",
+      "company": "Huawei",
+      "title": "算法工程师-智驾",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "location": "上海",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/418724",
+      "description": "前沿智驾技术攻坚，基于海量真实数据参与大模型+多模态+端到端等技术落地与部署；负责数据闭环开发，覆盖数据采集、挖掘、标注、模型训练、评测与部署全流程；搭建高性能数据引擎与分布式系统；参与行业前沿技术探索；参与量产问题攻关与体验优化。"
+    },
+    {
+      "market": "CN",
+      "company": "Huawei",
+      "title": "AI工程师",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "location": "北京/上海/深圳",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/395729",
+      "description": "负责AI领域的软件工程化和产品开发；负责AI算法及系统的设计和实现，包括神经网络与机器学习、计算机视觉、无人驾驶、路径规划、智能决策、推荐系统、大模型等。岗位要求：计算机相关专业，具备一个及以上大型实际软件项目经验，独立承担过关键子模块的开发工作；熟练运用至少一门编程语言（C++ /Java /Python等）；熟悉Tensorflow/scikit-learn/xgboost/Caffe/MindSpore等主流深度学习框架的使用，具备AI算法开发及应用经验者优先。"
+    },
+    {
+      "market": "CN",
+      "company": "Baidu",
+      "title": "文心一言-大模型Agent算法实习生",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "location": "北京",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/341784",
+      "description": "参与文心一言核心技术建设，探索和改进现有的LLM-powered Agent技术，包括但不限于指令对齐、RLHF、模型评估、Agent机制研发等。职责要求：需要熟练掌握自然语言处理、计算机视觉、强化学习、Agent等常用算法和架构，对大规模预训练模型和下游应用有深入实践者优先；有扎实的机器学习实践经验，熟悉一种主流的机器学习框架（PyTorch、Tensorflow、PaddlePaddle）；具备良好的学习能力和自驱力。"
+    }
+  ]
+}
