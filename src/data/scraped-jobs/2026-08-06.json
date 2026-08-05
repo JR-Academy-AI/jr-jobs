@@ -1,0 +1,146 @@
+{
+  "date": "2026-08-06",
+  "generatedAt": "2026-08-06T00:32:00.000Z",
+  "auMode": "主高峰",
+  "cnMode": "秋招",
+  "sources": {
+    "AU": ["careers.xero.com", "au.prosple.com", "recruitment.macquarie.com", "au.gradconnection.com"],
+    "CN": ["nowcoder.com", "careers.tencent.com"]
+  },
+  "stats": {
+    "auCandidatesScraped": 32,
+    "auDroppedAlreadySeen": 23,
+    "auDroppedInvalidUrl": 3,
+    "auDroppedSnippetQuality": 1,
+    "auLive": 5,
+    "cnCandidatesScraped": 28,
+    "cnDroppedAlreadySeen": 18,
+    "cnDroppedInvalidUrl": 1,
+    "cnDroppedSnippetQuality": 3,
+    "cnLive": 6,
+    "totalLive": 11
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Senior Machine Learning Engineer",
+      "company": "Xero",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://careers.xero.com/jobs/80be1c3c-9f81-413e-9c80-028c2a7e8969/senior-machine-learning-ml-engineer/",
+      "description": "ML Engineers within the AI Products group design and develop infrastructure and services that power AI products, working closely with Applied Scientists to take models from research environments into reliable, scalable production systems. The roles require strong Python skills, SQL proficiency, familiarity with distributed processing frameworks (Spark, Dask), and experience with ML frameworks like TensorFlow or PyTorch. Hands-on experience with ML tooling and orchestration tools such as Airflow or Prefect is expected.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Graduate Data Scientist",
+      "company": "Xero",
+      "location": "Melbourne, VIC",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://au.prosple.com/graduate-employers/xero-australia/jobs-internships/graduate-data-scientist",
+      "description": "Graduate Data Scientist roles involve applying statistical and machine learning techniques, using dashboards and visualization tools to communicate findings, and presenting work to stakeholders.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Lead Software Engineer - AI Enablement",
+      "company": "Macquarie Group",
+      "location": "Sydney, NSW",
+      "category": "MLOps / AI Infra",
+      "level": "Senior",
+      "applyUrl": "https://recruitment.macquarie.com/en_US/careers/JobDetail/Lead-Software-Engineer-AI-Enablement/19632",
+      "description": "You will be at the forefront of designing and building robust, scalable backend systems that power AI-native solutions, writing production-grade code and automating complex workflows, taking end-to-end ownership of your products in a modern DevOps culture, and working in a multi-disciplinary team to implement LLMOps best practices and streamline the deployment and monitoring of cutting-edge AI models.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "2027 ATO Graduate Program - Data or STEM",
+      "company": "Australian Taxation Office",
+      "location": "Canberra, ACT",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/australian-taxation-office/jobs/australian-taxation-office-2027-ato-graduate-program-data-or-stem/",
+      "description": "With a qualification in science, technology, engineering or mathematics (STEM), the Data stream allows graduates to convert data into breakthrough insights, use data analysis modelling techniques to address problems, design and build systems to collect and manage large volumes of data, establish data and analytics governance, and implement new technologies.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "2027 CommBank Graduate Program: Technology - Data Science",
+      "company": "CommBank",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/commonwealth-bank/jobs/commbank-2027-commbank-graduate-program-technology-data-science/",
+      "description": "You'll use data to build and enhance quantitative and predictive models, large language models and chatbots and gain exposure in Decision Science, Artificial Intelligence (AI), Gen AI & machine learning (ML), Data Engineering, and after the program you can roll off as a Data Scientist.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "Agent/RL方向大模型实习生（2027届）",
+      "company": "字节跳动",
+      "location": "北京/上海",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/d28cf1fc8c044de7b86bacd77fb01808",
+      "description": "搭建风险感知、风险研判、审核策略优化等智能体能力；参与审核链路的完全自主进化体系构建；跟踪Agent前沿技术并进行可行性验证。职位要求：27届硕士或博士在读，计算机、电子信息或相关专业；有扎实的代码能力，熟练掌握C/C++或Python；熟悉机器学习和大模型基础原理。base北京/上海",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法实习生（质量智能）",
+      "company": "字节跳动",
+      "location": "北京/上海",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/378223",
+      "description": "Requirements: master's degree or higher in computer science, AI, automation, or mathematics; strong coding ability; machine learning research experience particularly in LLMs and generative AI; familiarity with data engineering, pre-training, SFT, RLHF processes in the large model field, based in Beijing or Shanghai",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "混元LLM大模型量化压缩高级算法工程师",
+      "company": "腾讯",
+      "location": "北京/深圳/上海",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://careers.tencent.com/jobdesc.html?postId=2008479663327956992",
+      "description": "The role involves deep participation in LLM large model compression and acceleration research, including speculative sampling, sparsification techniques (such as Sparse Attention and KV-Cache compression), quantization optimization for Transformer components with support for FP8/INT8/NVFP4 schemes, and research into new technologies like long context and multi-turn dialogue optimization.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "华为校招 - 盘古大模型多模态算法组",
+      "company": "华为",
+      "location": "上海/北京/杭州",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/5cbd924f41764698a2931e8f66584b06",
+      "description": "负责大规模预训练模型（如NLP、CV、多模态等）的算法设计与研发，包括模型架构创新、训练策略优化等，探索大模型的高效训练方法，解决数据并行、模型并行、流水线并行等技术难题，针对特定业务场景，进行模型剪枝、量化、蒸馏等优化，提升模型推理效率。对大模型经验无要求，但希望有AI竞赛或AI发表论文，留学生友好，hc充足。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "华为昇腾AI Infra实习生招聘",
+      "company": "华为",
+      "location": "上海",
+      "category": "MLOps / AI Infra",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/c32d9bfd467445e0b9963ef1e00d6eb2",
+      "description": "参与华为昇腾AI基础设施相关预研工作，聚焦AI推理、模型训练技术研发与落地实践；负责AI算子优化、性能调优相关研发，助力昇腾AI平台算力效率提升；参与开源项目开发，推进AI Infra技术生态建设与技术迭代。任职要求：计算机相关专业背景（计算机、软件工程、人工智能、电子信息等），本科及以上学历在读；了解AI大模型基础概念，对AI Infra方向有基本认知；具备基础编程能力，熟悉Python/C++任一语言，了解Linux优先。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "多模态大模型算法实习生",
+      "company": "快手",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/e927dfbf6a3346fc8fac3f4e469fdc68",
+      "description": "负责快手多模态大模型的结构设计、预训练任务、模型训练和推理等工作，包括但不限于多模态预训练、跨模态生成与检索、多模态对话等业务应用。跟踪多模态大模型方向前沿问题的研究，参与建设并持续保持部门多模态技术在业界的技术先进性，保持创新的同时将业界SOTA模型在快手场景进行产品化落地。任职要求：对CV、NLP、多模态等相关领域有一定的理解，在其中一个或多个方向有深入的研究经历。优秀的工程实践能力，熟悉pytorch/Tensorflow等深度学习框架，掌握大规模并行训练技术。",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
