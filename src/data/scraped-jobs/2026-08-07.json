@@ -1,0 +1,135 @@
+{
+  "date": "2026-08-07",
+  "generatedAt": "2026-08-07T08:13:39+10:00",
+  "auMode": "主高峰",
+  "cnMode": "秋招",
+  "sources": {
+    "AU": ["au.gradconnection.com", "au.prosple.com"],
+    "CN": ["nowcoder.com", "zhaopin.meituan.com", "career.honor.com"]
+  },
+  "stats": {
+    "auCandidatesScraped": 30,
+    "auDroppedAlreadySeen": 20,
+    "auDroppedInvalidUrl": 2,
+    "auDroppedSnippetQuality": 2,
+    "auLive": 6,
+    "cnCandidatesScraped": 20,
+    "cnDroppedAlreadySeen": 14,
+    "cnDroppedInvalidUrl": 0,
+    "cnDroppedSnippetQuality": 2,
+    "cnLive": 4,
+    "totalLive": 10
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "2027 KPMG Graduate Program – Technology & Digital",
+      "company": "KPMG",
+      "location": "Sydney, NSW / Melbourne, VIC, Australia",
+      "category": "Business Analyst",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/kpmg/jobs/kpmg-2027-kpmg-graduate-program-technology-digital/",
+      "description": "The teams work across cyber security, cloud, data, AI, digital transformation, technology strategy, engineering and more — helping clients harness emerging technologies to work smarter, move faster and solve complex problems.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "2027 KPMG Graduate Program – Technology & Digital - Rolling Intake",
+      "company": "KPMG",
+      "location": "Sydney, NSW / Melbourne, VIC, Australia",
+      "category": "Business Analyst",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/kpmg/jobs/kpmg-2027-kpmg-graduate-program-technology-digital-rolling-intake/",
+      "description": "The teams work across cyber security, cloud, data, AI, digital transformation, technology strategy, engineering and more — helping clients harness emerging technologies to work smarter, move faster and solve complex problems.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "2027 Defence Graduate Program - Research and Intelligence Pathway",
+      "company": "Department of Defence",
+      "location": "Canberra, ACT, Australia",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/department-of-defence/jobs/department-of-defence-2027-defence-graduate-program-research-and-intelligence-pathway/",
+      "description": "Artificial Intelligence and Machine Learning to drive automation and predictive capabilities, and Information Warfare and Computing Technologies including cyber defence and offence, computer science, high-performance computing, and IT innovation",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "2027 Defence Graduate Program - Research and Innovation Pathway",
+      "company": "Department of Defence",
+      "location": "Canberra, ACT, Australia",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/department-of-defence/jobs/department-of-defence-2027-defence-graduate-program-research-and-innovation-pathway/",
+      "description": "The Defence Graduate Program: Research and Innovation (R&I) pathway is the key pathway to kickstart your career as a recent graduate working with Defence Science and Technology Group (DSTG). The 12-month program provides the opportunity to apply the knowledge you've learnt through your University studies to real-life, cutting-edge Defence research programs.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data & Analytics Graduate Program | 2027",
+      "company": "Deloitte",
+      "location": "Sydney, NSW / Melbourne, VIC, Australia",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/deloitte/jobs/deloitte-data-analytics-graduate-program-2027/",
+      "description": "Building a career spanning analytics, artificial intelligence, machine learning and visualisation, with teams specializing in work across these areas.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Machine Learning Engineer Intern – Global Data Office",
+      "company": "Visa",
+      "location": "Sydney, NSW, Australia",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://au.prosple.com/graduate-employers/visa/jobs-internships/machine-learning-engineer-intern-global-data-office",
+      "description": "Pursuing a Bachelor's or Master's degree in Machine Learning Engineering, Computer Science, Data Science, or a related STEM/quantitative field, graduating December 2026 – August 2027. Experience in writing software with minimal bugs in Python or Java and basic experience or knowledge in database tools such as Hadoop, HIVE, SQL.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法工程师 Co-Design",
+      "company": "MiniMax",
+      "location": "上海",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/429357",
+      "description": "协同设计与优化：深入理解大模型算法（架构、训练/推理技术），评估其工程可行性、性能瓶颈与成本；主导设计下一代训练/推理框架或核心组件，确保原生支持高效算法实现（如高效Attention、通信优化）；系统性解决训练/推理工作负载的性能瓶颈（计算、通信、存储）",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "【北斗】大模型算法工程师",
+      "company": "美团",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "applyUrl": "https://zhaopin.meituan.com/web/beidouprogram",
+      "description": "该岗位涉及在Query理解、召回、相关性、排序、智能交互等方面进行深入实践，以及大模型相关的工作。岗位要求：硕士及以上学历，博士优先，计算机、数学或统计学等相关专业；扎实的深度学习理论基础，精通主流深度学习框架(如Tensorflow、Pytorch)，拥有大模型SFT、RAG、DPO/PPO等大模型实操经验优先",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法工程师实习生",
+      "company": "荣耀",
+      "location": "北京 / 深圳 / 南京 / 西安",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://career.honor.com/SU61b9b9992f9d24431f5050a5/pb/interns.html",
+      "description": "参与机器人具身智能方向的大模型算法研发、多模态数据构建与处理，支撑具身智能技术在终端产品中的落地验证；跟进大模型前沿进展（LLM/VLM/VLA/Speech LLM/Reasoning/Diffusion LLM/Agentic LLM等），结合场景落地与流程标准化；构建大模型、智能体、推理能力的自动评测体系与数据方法",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型自动化评测算法工程师（实习）",
+      "company": "阶跃星辰",
+      "location": "北京",
+      "category": "MLOps / AI Infra",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/e7394705eaba4a53b5598b7e9273fd3f",
+      "description": "参与大语言模型自动化评测框架的设计、开发与维护，持续提升评测流程的稳定性、可扩展性和执行效率；跟进学术界和工业界最新的大模型评测基准，负责快速、准确地将其接入到现有评测平台；负责评测数据集的清洗、处理与管理，对海量评测结果进行统计分析、深度挖掘和可视化，为模型优化提供数据洞察",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
