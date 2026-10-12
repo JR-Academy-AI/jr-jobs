@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-13",
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Senior Machine Learning Engineer - Image Design Generation",
+      "company": "Canva",
+      "location": "Sydney NSW",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.lifeatcanva.com/en/jobs/6000000001285168/senior-machine-learning-engineer-image-design-generation-au-remote/",
+      "description": "The team sits in Canva's Generative Experience group and focuses on the models and infrastructure behind image generation, from the underlying generation methods through to how those methods get applied and tiered for different users at scale. The current focus is launching and optimising tiered generation methods so different user tiers get the right generation experience. Expected experience is hands-on experience building and shipping ML models in production, not just training them in a notebook. The listing also asks for comfort across the stack, from model development to serving infrastructure, and an ability to take a scoped project from idea to shipped with minimal guidance.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Machine Learning Engineer - Research Optimisation",
+      "company": "Canva",
+      "location": "Sydney NSW",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.lifeatcanva.com/en/jobs/6000000001162285/senior-machine-learning-engineer-research-optimisation/",
+      "description": "A Research Optimisation role is Sydney-based and focuses on turning promising experiments into stable, scalable, user-facing capabilities, with distributed training experience listed as a requirement.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "AI Product Manager Intern (TikTok Live-Revenue) 2027 Start",
+      "company": "TikTok",
+      "location": "Sydney NSW",
+      "category": "AI Product / PM",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/tiktok/jobs/tiktok-ai-product-manager-intern-tiktok-live-revenue-2027-start/",
+      "description": "The duties shown are about helping plan and design TikTok LIVE features, tracking content trends and user behaviour, supporting data monitoring, and taking part in user research, A/B testing and behavioural data analysis. The AI Product Manager intern role is hybrid, based in Sydney NSW, and visa sponsorship is not offered. Applications are reviewed on a rolling basis and candidates can apply to a maximum of two positions across TikTok's affiliates.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Graduate Data Engineer",
+      "company": "NHVR",
+      "location": "Newstead QLD",
+      "category": "Data Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://au.prosple.com/graduate-employers/national-heavy-vehicle-regulator-nhvr/jobs-internships/graduate-data-engineer",
+      "description": "Based in Newstead the Graduate Data Engineer is responsible for assisting senior team members and stakeholders to improve regulatory processes and outcomes, covering data engineering, modelling, analysis and related areas. This is a 2-year fixed term contract, based in our Newstead office. Supportive hybrid work environment with flexible work arrangements from home.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Data Engineer",
+      "company": "Macquarie Group",
+      "location": "Sydney NSW",
+      "category": "Data Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.seek.com.au/job/58878785",
+      "description": "Senior Data Engineer at Macquarie Group, Sydney NSW, full-time, hybrid. The team is working toward full cloud adoption with a strategic focus on Google Cloud Platform and AWS. Responsibilities include building automation tools for Kubernetes platforms and delivering platform functionality on GCP. Requirements include 5+ years of enterprise Cloud/DevOps/Data Engineering experience.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "AI Tech Lead",
+      "company": "Zurich Financial Services",
+      "location": "North Sydney NSW",
+      "category": "AI Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.careers.zurich.com/job/North-Sydney-AI-Tech-Lead/1356572157/",
+      "description": "AI Tech Lead at Zurich Insurance Australia in North Sydney. Listed responsibilities include leading a cross-functional product team, building rapid prototypes, and driving end-to-end delivery. Zurich's Australian business describes itself as working towards becoming Australia's leading digital insurer.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI全栈开发工程师 (2027届实习)",
+      "company": "阿里巴巴集团",
+      "location": "杭州/北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/439563",
+      "description": "It emphasizes building AI-native systems rather than basic CRUD work, and its listed duties start with business modeling and architecture design. Part of Alibaba's 2027 campus hiring, launched March 2026, with AI-related roles making up over 80% of openings.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "机器学习系统研发实习生-Top Seed 人才计划",
+      "company": "字节跳动",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/380927",
+      "description": "薪资500-1000元/天，地点北京，每周5天，最少3个月。岗位要求：机器学习、NLP、RL基础，有顶会论文或竞赛获奖者优先",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "【27届校招】机器人VLA大模型算法工程师",
+      "company": "小鹏汽车",
+      "location": "广州",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/462409",
+      "description": "We are looking for a full-time Machine Learning Engineer / Research Scientist to drive the modeling and algorithmic development of XPENG's next-generation Vision-Language-Action (VLA) Foundation Model, which powers its end-to-end driving systems. Work includes designing, training, and deploying large multimodal models.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "Staff Researcher, Algorithm",
+      "company": "Lenovo",
+      "location": "北京",
+      "category": "Data Scientist",
+      "level": "Senior",
+      "applyUrl": "https://jobs.lenovo.com/en_US/careers/JobDetail/Staff-Researcher-Algorithm/79607",
+      "description": "The posting describes an AI algorithm researcher/engineer role. It covers data mining, time-series forecasting, causal analysis, operational optimization, reinforcement learning, LLM fine-tuning, agent development and knowledge base construction. Requirements include mainstream ML/DL frameworks such as scikit-learn, TensorFlow, and PyTorch, plus SQL and Python modeling. Beijing, China, full-time, posted July 23, 2026.",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
