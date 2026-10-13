@@ -1,0 +1,133 @@
+{
+  "date": "2026-10-14",
+  "generatedAt": "2026-10-14T09:07:05+11:00",
+  "auMode": "主高峰",
+  "cnMode": "秋招",
+  "sources": [
+    "livehire.com",
+    "au.prosple.com",
+    "careers.xero.com",
+    "careers.airwallex.com",
+    "dreamworkhq.com",
+    "nowcoder.com",
+    "zhaopin.jd.com"
+  ],
+  "stats": {
+    "auCandidates": 9,
+    "auLive": 6,
+    "cnCandidates": 6,
+    "cnLive": 4
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Senior AI Engineer, AI Accelerator",
+      "company": "Wesfarmers",
+      "location": "Melbourne, VIC",
+      "category": "AI Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.livehire.com/careers/wesfarmerscorporate/job/T3XDR",
+      "description": "The Senior AI Engineer is the hands-on technical lead for assigned AI and GenAI initiatives. The listing asks for 7+ years of software experience and LLM/GenAI delivery, with RAG, agents, and cloud-native services.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Graduate Program: Technology, Digital and Data",
+      "company": "Ampol",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://au.prosple.com/graduate-employers/ampol/jobs-internships/graduate-program-technology-digital-and-data",
+      "description": "Targets computer science, software engineering, cybersecurity and similar degrees, with rotations that include AI and analytics. Eligible candidates are final-year students who will have full working rights in Australia.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Engineer, ML Systems (AI Products)",
+      "company": "Xero",
+      "location": "Sydney, NSW",
+      "category": "MLOps / AI Infra",
+      "level": "Senior",
+      "applyUrl": "https://careers.xero.com/jobs/45663119-ef1a-43a3-ba10-86a5a9837556/senior-engineer-ml-systems-ai-products/",
+      "description": "Requires 5+ years of production Python or equivalent. The role is software-engineering first, with on-call experience and familiarity with AWS and Kubernetes. Research background is not required. Listing dated August 2026.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior AI Engineer, Data Analytics",
+      "company": "Airwallex",
+      "location": "Melbourne, VIC",
+      "category": "AI Engineer",
+      "level": "Senior",
+      "applyUrl": "https://careers.airwallex.com/job/908fde44-9678-4f84-9d40-2266cebcbdf5/senior-ai-engineer-data-analytics/",
+      "description": "Asks for 5+ years building production software, hands-on experience with agentic AI applications, and strong Python and SQL. Responsibilities include building agent capabilities such as retrieval-augmented generation and tool calling.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Principal AI Engineer, Business Accounts",
+      "company": "Airwallex",
+      "location": "Sydney, NSW",
+      "category": "AI Engineer",
+      "level": "Senior",
+      "applyUrl": "https://careers.airwallex.com/job/242cd512-a29d-4684-96f0-1930bf068743/principal-ai-engineer/",
+      "description": "The posting asks for 10+ years of backend development, Python or TypeScript/JavaScript skills, experience with vector databases, and a relevant degree. Responsibilities include leading AI solution creation and designing API and system architecture for AI applications. Preferred qualifications include experience in financial services, lending, payments, or credit products.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Staff AI & Data Engineer",
+      "company": "AirTrunk",
+      "location": "North Sydney, NSW",
+      "category": "Data Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.dreamworkhq.com/job/55beae50-5561-4cf4-aed4-9da7cbe4d60a",
+      "description": "Define and evolve platform architecture for data and AI workloads across Azure, Databricks, and related technologies. The role requires experience with large-scale data pipelines, medallion architecture, and real-time data integrations.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "27届秋招-算法工程师",
+      "company": "滴滴",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/460167",
+      "description": "参与公司核心算法的设计与开发，成果应用于滴滴各产品线；搭建高效的算法平台，改善司机和乘客的使用体验。计算机、电子工程、自动化、数学等相关专业的2027届本科及以上毕业生；编程基础扎实，至少熟悉一门语言（如C++、Java、Scala、Python）。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法实习生",
+      "company": "快手",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/9465691b980141919619d8ee78bcfc2f",
+      "description": "职位职责包括通过微调、结构设计和新的训练推理范式，将大模型能力落地到核心业务场景，并搭建包括Agents、RAG在内的LLM应用模块。任职要求中，要求为计算机或相关方向在读博士、硕士，并能保证6个月及以上的长期实习。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI模型工程师（2027届校招）",
+      "company": "华为",
+      "location": "北京/上海/杭州",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/462519",
+      "description": "职责偏向记忆管理、规划推理和工具调用，深耕Agent上下文管理核心能力，并进行大模型预训练与微调、RLHF/DPO等对齐算法研发。任职要求2027届本科及以上学历，计算机、AI或数学相关专业，大模型与强化学习的理解必备，顶会论文或开源经验者优先。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "算法开发岗",
+      "company": "京东",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "applyUrl": "https://zhaopin.jd.com/web/job-info-detail?requementId=222889",
+      "description": "职责包括设计大模型在智能交互和AI-Agent场景下的算法方案，任职要求为硕士及以上学历、熟悉Python和PyTorch或TensorFlow，并有LLM训练、SFT、强化学习和RAG的实战经验。发布时间2026-08-18，北京。",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
