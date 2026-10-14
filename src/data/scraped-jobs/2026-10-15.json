@@ -1,0 +1,153 @@
+{
+  "date": "2026-10-15",
+  "generatedAt": "2026-10-15T09:02:29+11:00",
+  "auMode": "主高峰",
+  "cnMode": "秋招",
+  "sources": [
+    "lifeatcanva.com",
+    "recruitment.macquarie.com",
+    "seek.com.au",
+    "careers.woolworthsgroup.com.au",
+    "www.nowcoder.com"
+  ],
+  "stats": {
+    "auCandidates": 18,
+    "auLive": 9,
+    "cnCandidates": 8,
+    "cnLive": 3
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Senior Machine Learning Engineer - AI Enablement",
+      "company": "Canva",
+      "location": "Sydney NSW",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.lifeatcanva.com/en/jobs/6000000001086387/senior-machine-learning-engineer-ai-enablement-au-remote/",
+      "description": "supports model evaluations, data pipelines, and inference optimisation for product teams, and is explicitly not a model-building role. This role is remote-friendly within Australia.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "AI Engineer",
+      "company": "Macquarie Group",
+      "location": "Sydney NSW",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "applyUrl": "https://recruitment.macquarie.com/en_US/careers/JobDetail/AI-Engineer/19902",
+      "description": "A junior role in the Core Supplier Governance Office. It centres on generative AI projects and full-stack development. The listing asks for 3-5 years of full-stack experience and familiarity with AI frameworks such as LangChain.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Software Engineer - AI Enablement",
+      "company": "Macquarie Group",
+      "location": "Sydney NSW",
+      "category": "AI Engineer",
+      "level": "Senior",
+      "applyUrl": "https://recruitment.macquarie.com/en_US/careers/JobDetail/Software-Engineer-AI-Enablement/19632",
+      "description": "A senior role building backend systems for Macquarie's agentic AI ecosystem, with a focus on LLMOps practices. Working alongside data scientists, the engineer applies LLMOps practices to streamline the deployment and monitoring of AI models.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Platform Engineer",
+      "company": "Macquarie Group",
+      "location": "Melbourne VIC",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "applyUrl": "https://recruitment.macquarie.com/en_US/careers/JobDetail/Platform-Engineer/22921",
+      "description": "Categorised under BFS - AI Engineer. It is a developer-tooling role that asks for Go, Java, or TypeScript back-end experience and an interest in applying large language models.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Automation & AI Engineer - Power Platform",
+      "company": "Macquarie Group",
+      "location": "Sydney NSW",
+      "category": "AI Engineer",
+      "level": "Senior",
+      "applyUrl": "https://recruitment.macquarie.com/en_US/careers/JobDetail/Senior-Automation-AI-Engineer-Power-Platform/22984",
+      "description": "A role centred on Microsoft Power Platform, Power Automate, and Copilot Studio rather than machine learning.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Machine Learning Engineer",
+      "company": "Elula",
+      "location": "Sydney NSW",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "applyUrl": "https://www.seek.com.au/job/55629414",
+      "description": "Machine Learning Engineer role at Elula, based in Sydney's CBD, Inner West and Eastern Suburbs. The role emphasises building data pipelines for AI products and experience with Python, SQL and cloud platforms such as AWS.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Data Engineer",
+      "company": "Flybuys",
+      "location": "Melbourne VIC",
+      "category": "Data Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.seek.com.au/job/58965873",
+      "description": "A Senior Data Engineer role at Flybuys focuses on Snowflake data models and CI/CD pipelines, and asks for AWS experience and Python.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist",
+      "company": "Australian Prudential Regulation Authority",
+      "location": "Melbourne VIC",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "applyUrl": "https://www.seek.com.au/job/57978307",
+      "description": "A Data Scientist role at the Australian Prudential Regulation Authority is a full-time government position that asks for Python or R, machine learning, and SQL.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist",
+      "company": "Woolworths Group",
+      "location": "Sydney NSW",
+      "category": "Data Scientist",
+      "level": "Senior",
+      "applyUrl": "https://careers.woolworthsgroup.com.au/en_GB/apply/JobDetail/Data-scientist/94170",
+      "description": "a permanent role ideally Sydney based, with Melbourne also considered. It focuses on agentic AI and retrieval-augmented generation, and it asks for 4+ years of experience.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "算法工程师-VLM训练",
+      "company": "阿里巴巴集团",
+      "location": "杭州/北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/439332",
+      "description": "工作地点为广州、杭州、北京，学历要求本科，投递时间为2026年7月14日至2027年7月14日。岗位聚焦多模态对齐训练、MoE等方向，要求熟悉PyTorch和分布式训练，并偏好有10B以上参数模型经验者。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法实习生（质量智能）",
+      "company": "字节跳动",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/378223",
+      "description": "工作地点为北京，日薪300–500元，实习期至少6个月。任职要求：岗位更看重计算机、人工智能等相关专业的硕士在读背景，以及大语言模型、预训练、SFT、RLHF等方面的项目经验。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法工程师-2026届",
+      "company": "MiniMax",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/429359",
+      "description": "工作地点标注为北京，公司主体为上海稀宇极智科技有限公司。岗位方向是大规模基础模型（LLM与多模态模型）的研发和系统优化。要求在国际顶会或期刊发表过高质量论文，有强化学习经验优先。",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
