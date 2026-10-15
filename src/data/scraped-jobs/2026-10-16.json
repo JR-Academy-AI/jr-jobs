@@ -1,0 +1,232 @@
+{
+  "date": "2026-10-16",
+  "generatedAt": "2026-10-16T08:54:40+11:00",
+  "auMode": "主高峰",
+  "cnMode": "秋招",
+  "sources": [
+    "seek.com.au",
+    "au.gradconnection.com",
+    "au.prosple.com",
+    "atlassian.com",
+    "jobs.smartrecruiters.com",
+    "nowcoder.com",
+    "lagou.com"
+  ],
+  "stats": {
+    "auCandidates": 28,
+    "auLive": 7,
+    "cnCandidates": 22,
+    "cnLive": 12
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Senior Data Scientist",
+      "company": "Toyota Finance Australia",
+      "location": "Sydney NSW",
+      "category": "Data Scientist",
+      "level": "Senior",
+      "applyUrl": "https://www.seek.com.au/job/55464951",
+      "description": "Senior Data Scientist role at Toyota Finance Australia in Sydney. Full-time, posted recently. The role focuses on modelling, pricing segmentation, and model deployment.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist",
+      "company": "Endeavour Group",
+      "location": "Sydney NSW",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "applyUrl": "https://www.seek.com.au/job/58380373",
+      "description": "Data Scientist role at Endeavour Group, a six-month fixed-term contract in Sydney. Hybrid working arrangement. Listed 2 hours ago on SEEK.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Data Engineer",
+      "company": "Cognizant",
+      "location": "Sydney NSW",
+      "category": "Data Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.seek.com.au/job/58878785",
+      "description": "Senior Data Engineer role at Cognizant in Sydney, listed October 2026. The role involves designing scalable cloud data solutions using Snowflake and Azure technologies.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "2027 CommBank Graduate Program: Technology - Engineering",
+      "company": "Commonwealth Bank",
+      "location": "Sydney NSW",
+      "category": "Data Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/commonwealth-bank/jobs/commbank-2027-commbank-graduate-program-technology-engineering/",
+      "description": "2027 CommBank Graduate Program in Technology – Engineering, open now on GradConnection. Streams include Data Engineering (ML/AI), Software Engineering, Site Reliability Engineering, and Cyber Security. Based in Sydney and Melbourne, starting February 2027.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Machine Learning Engineer Graduate",
+      "company": "Sage Global",
+      "location": "Sydney NSW",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://au.prosple.com/graduate-employers/sage-global/jobs-internships/machine-learning-engineer-graduate",
+      "description": "Machine Learning Engineer Graduate role at Sage Global. The position asks for a relevant STEM degree and some experience with statistical and machine learning techniques, SQL, and relational databases. Open to Bachelor-level applicants in AI and Data Science.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Machine Learning Engineer",
+      "company": "Atlassian",
+      "location": "Sydney NSW",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.atlassian.com/company/careers/details/26850",
+      "description": "Senior Machine Learning Engineer role at Atlassian, based in Sydney or remotely within Australia. The role requires 4+ years of ML industry experience, familiarity with SQL, distributed data processing, and cloud data environments. The AI Context team spans Sydney, Melbourne, and Brisbane.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Machine Learning Engineer - Elements Platform",
+      "company": "Canva",
+      "location": "Sydney NSW",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://jobs.smartrecruiters.com/Canva/6000000001209473-senior-machine-learning-engineer-elements-platform",
+      "description": "Senior Machine Learning Engineer – Elements Platform role at Canva, remote-friendly within Australia. The role focuses on ML systems for generated elements and templates. Team is Sydney-based.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "高级机器学习算法工程师（端云协同/推理框架/模型优化）",
+      "company": "OPPO",
+      "location": "深圳",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/258959",
+      "description": "OPPO校招博士岗位，高级机器学习算法工程师，聚焦端云协同、推理框架和模型优化方向，开放城市包括深圳、上海、北京、成都、西安等，面向博士学历应届毕业生。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法实习生",
+      "company": "京东",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/435274",
+      "description": "京东大模型算法实习岗，工作地点北京/上海，日薪200–400元，专注后训练方向（SFT、DPO、GRPO）和多模态模型研究与开发。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法工程师（北斗项目）",
+      "company": "美团",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/395936",
+      "description": "美团北斗项目大模型算法工程师，2026届校招/实习，工作地点覆盖北京、上海、深圳、厦门、成都等多城市，聚焦大模型预训练与工程优化方向。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "模型算法工程师（2027届校招）",
+      "company": "戴盟（深圳）机器人科技",
+      "location": "深圳",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/453069",
+      "description": "岗位定位：负责具身智能模型的工程实现、训练系统、评测流程和真机部署。2027届校招岗位，工作地点深圳，要求硕士及以上学历。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI推理工程师（2027届秋招）",
+      "company": "华为",
+      "location": "上海",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/456611",
+      "description": "华为2027届秋招，方向涵盖AI推理、智能体、数据及软件开发，工作城市包括西安、上海、杭州、东莞，投递时间2026年7月至2028年8月。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI数据工程师（校招）",
+      "company": "华为云",
+      "location": "上海",
+      "category": "Data Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/420551",
+      "description": "华为云校招AI数据工程师，地点：上海/北京/南京/深圳/成都，职责包括数据处理、数据集构建及模型训练支持。岗位要求具备机器学习和深度学习实践经验，熟悉Spark/Flink、SQL、Python，并了解Agent框架。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "MaaS大模型算法研究员-A Star（2027届实习）",
+      "company": "阿里巴巴集团",
+      "location": "杭州",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/439329",
+      "description": "阿里巴巴2027届实习生，MaaS大模型&智能体算法研究（A Star项目），工作地点杭州/北京，投递窗口2026年7月至2027年7月，聚焦大模型训练与智能体研究。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI产品经理",
+      "company": "财未来（北京）信息技术有限公司",
+      "location": "北京",
+      "category": "AI Product / PM",
+      "level": "Mid",
+      "applyUrl": "https://www.lagou.com/wn/jobs/12454769.html",
+      "description": "北京海淀区AI产品经理，15k-30k·13薪，负责前端对客场景的AI产品设计与落地，要求1-3年产品经验。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型/Agent评测工程师（飞书Aily）",
+      "company": "字节跳动",
+      "location": "上海",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/429487",
+      "description": "字节跳动飞书Aily团队大模型/Agent评测工程师，上海社招岗位，专注大语言模型和Agent系统的评测框架研发与优化。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大语言模型AI搜索Agent算法工程师实习生（豆包大模型）",
+      "company": "字节跳动",
+      "location": "上海",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/386085",
+      "description": "字节跳动豆包大模型团队大语言模型AI搜索Agent算法工程师实习生（Top Seed Intern项目），工作地点上海，聚焦大语言模型搜索与智能体方向。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法工程师（Commercial AI）",
+      "company": "字节跳动",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/380465",
+      "description": "字节跳动大模型算法工程师（Commercial AI方向），社招岗位，工作地点北京，专注商业化AI场景下的大模型算法研发。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "产品经理-AI原生飞行器方向（2027届）",
+      "company": "中国电子云",
+      "location": "北京",
+      "category": "AI Product / PM",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/463594",
+      "description": "中国电子云2027届校招产品经理，AI原生飞行器方向，工作地点北京，负责AI原生应用产品的规划与落地。",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
