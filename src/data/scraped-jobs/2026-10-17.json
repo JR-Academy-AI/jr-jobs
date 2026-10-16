@@ -1,0 +1,87 @@
+{
+  "date": "2026-10-17",
+  "generatedAt": "2026-10-17T07:30:00+10:00",
+  "auMode": "主高峰",
+  "cnMode": "秋招",
+  "sources": [
+    "seek.com.au",
+    "au.gradconnection.com",
+    "cba.wd3.myworkdayjobs.com",
+    "yingjiesheng.com"
+  ],
+  "stats": {
+    "auCandidates": 40,
+    "auLive": 5,
+    "cnCandidates": 25,
+    "cnLive": 1,
+    "note": "Large 14-day dedup pool (1635 entries) absorbed most candidates; 12 AU and 6 CN skipped as cross-day duplicates"
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Senior Data Engineer",
+      "company": "Roy Morgan Research",
+      "location": "Melbourne VIC",
+      "category": "Data Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.seek.com.au/job/58965873",
+      "description": "Roy Morgan Research has a full-time Data Engineer role in Melbourne, building an AWS data platform on SageMaker, Redshift, and cubes.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "2027 Data, Digital and AI Graduate Program",
+      "company": "Westpac",
+      "location": "Sydney NSW",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/westpac/jobs/westpac-group-2026-digital-graduate-program-sydney-2/",
+      "description": "Westpac runs a Data, Digital and AI graduate program with an AI Science stream focused on machine learning and generative AI models. For graduates in the AI Science stream, these technical skills are also highly valued: a strong grounding in statistics, probability and mathematics, and practical programming skills such as Python and SQL.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Machine Learning Engineer Graduate (Trust & Safety) 2027",
+      "company": "TikTok",
+      "location": "Sydney NSW",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/tiktok/jobs/tiktok-machine-learning-engineer-graduate-trust-and-safety-2027-start-phd/",
+      "description": "This is the one listing with a future deadline, 1 March 2027. It requires a current PhD or Master's in computer science or a related engineering field.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Data Scientist - Credit Risk",
+      "company": "Commonwealth Bank",
+      "location": "Sydney NSW",
+      "category": "Data Scientist",
+      "level": "Senior",
+      "applyUrl": "https://cba.wd3.myworkdayjobs.com/en-US/CommBank/job/Sydney-CBD-Area-NSW/Senior-Data-Scientist---Credit-Risk_REQ261985",
+      "description": "A Senior Data Scientist in Credit Risk for the Home Buying team, posted July 31, 2026, that focuses on machine learning for credit decisioning.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "2027 Macquarie Graduate Program – Technology and Data (Spring Intake)",
+      "company": "Macquarie Group",
+      "location": "Sydney NSW",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/macquarie-group/jobs/macquarie-group-2027-macquarie-graduate-program-technology-and-data-spring-intake/",
+      "description": "A Technology and data spring intake in Sydney where the data track involves using analytics and AI to solve business problems.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI研究算法工程师（2027届校招）",
+      "company": "科大讯飞",
+      "location": "合肥",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.yingjiesheng.com/job-008-004-539.html",
+      "description": "科大讯飞研究院「飞星计划」面向顶尖高校应届硕博的招聘专项，招聘人数约500人，学历要求为硕士或博士，专业不限。招聘方向包括智能语音、语音大模型、自然语言处理、认知大模型、计算机视觉、多模态大模型和深度学习框架。",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
