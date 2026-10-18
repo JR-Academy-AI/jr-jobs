@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-19",
+  "generatedAt": "2026-10-19T07:30:00+10:00",
+  "auMode": "主高峰",
+  "cnMode": "秋招",
+  "sources": [
+    "au.gradconnection.com",
+    "careers.airwallex.com",
+    "jobs.auspost.com.au",
+    "job-boards.greenhouse.io",
+    "nowcoder.com"
+  ],
+  "stats": {
+    "auCandidates": 28,
+    "auLive": 5,
+    "cnCandidates": 12,
+    "cnLive": 1,
+    "note": "Pool near-exhausted: 1685 already-seen market|company|title keys in 14-day window; most major AU and CN companies saturated. Applied 宁缺勿滥 — 6 high-quality jobs retained."
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Data Science Graduate Program 2027",
+      "company": "Suncorp Technology",
+      "location": "Brisbane QLD / Sydney NSW / Melbourne VIC",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/suncorp/jobs/suncorp-technology-data-science-graduate-program-2027/",
+      "description": "It is a permanent full-time role at $84,000 including super. Listed disciplines include Data Science, Software Engineering, Computer Science, IT, and Business Analysis. Applicants need full working rights in Australia, a bachelor's degree from an Australian university, and a graduation year of 2024, 2025 or 2026. Suncorp does not sponsor visas for entry-level roles. The program starts 28 January 2027 across Brisbane, Sydney and Melbourne.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Data Scientist (Growth Analytics)",
+      "company": "Airwallex",
+      "location": "Melbourne VIC",
+      "category": "Data Scientist",
+      "level": "Senior",
+      "applyUrl": "https://careers.airwallex.com/job/0c33f286-3f00-4b2b-8f8b-70e1fd7ff7ff/senior-data-scientist-growth-analytics/",
+      "description": "identifying and quantifying opportunities to drive product adoption, building predictive models, designing growth experiments, and developing LLM-powered systems, incentive optimization, and causal inference",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior MLOps Engineer",
+      "company": "Australia Post",
+      "location": "Melbourne VIC",
+      "category": "MLOps / AI Infra",
+      "level": "Senior",
+      "applyUrl": "https://jobs.auspost.com.au/en_GB/careers/JobDetail/Australia-Senior-MLOPS-Engineer/37281",
+      "description": "The role designs, builds and operates the systems and workflows required to deliver advanced analytics, AI and ML solutions reliably in production. It focuses on turning models into secure, scalable and maintainable services, and it covers the lifecycle from data preparation through to ongoing monitoring. The posting also says the role partners with data scientists, AI engineers, data engineers, platform/Cloud teams, and product and business stakeholders.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist",
+      "company": "Australia Post",
+      "location": "Melbourne VIC",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "applyUrl": "https://jobs.auspost.com.au/en_GB/careers/JobDetail/Australia-Data-Scientist/34466",
+      "description": "It describes a role that reports to the Data Science and AI Manager and partners with technical and business stakeholders to deliver data science and AI solutions, including GenAI and agentic AI, within a hyperscale environment. It covers areas such as network optimisation, pricing modelling, customer insights, forecasting, AI democratisation, marketing technology, and retail analytics. The listing also says the work follows end-to-end AI and data science processes (e.g. CRISP-DM).",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Data Scientist",
+      "company": "EasyGo",
+      "location": "Melbourne VIC",
+      "category": "Data Scientist",
+      "level": "Senior",
+      "applyUrl": "https://job-boards.greenhouse.io/easygo/jobs/4689206007",
+      "description": "It requires 5+ years of experience and covers leading ML model development, monitoring models in production, and mentoring junior staff. The role is based in Melbourne and is hybrid.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI算法工程师（2027届）",
+      "company": "广联达",
+      "location": "北京/上海/西安",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/466404",
+      "description": "岗位地点为西安、上海、北京，学历要求为硕士。工作内容覆盖模型预训练与微调、参数高效微调、模型量化与推理加速，以及CV和NLP相关算法迭代。任职要求面向2027届毕业生，专业范围包括计算机、人工智能、数学和统计学等。",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
