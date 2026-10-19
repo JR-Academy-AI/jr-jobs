@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-20",
+  "generatedAt": "2026-10-20T07:30:00+10:00",
+  "auMode": "主高峰",
+  "cnMode": "秋招",
+  "sources": ["seek.com.au", "gradconnection.com.au", "au.prosple.com", "nowcoder.com", "yingjiesheng.com"],
+  "stats": {
+    "auCandidates": 36,
+    "auLive": 5,
+    "cnCandidates": 22,
+    "cnLive": 4
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Data Engineer Intern, Summer 2026/2027",
+      "company": "Atlassian",
+      "location": "Sydney, NSW",
+      "category": "Data Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/atlassian/jobs/atlassian-data-engineer-intern-summer-202062027-australia/",
+      "description": "Requirements: Full-time enrolment in a Bachelor's or Master's in software engineering, computer science, or a related technical field, returning after the internship and finishing by January 2028. A 12-week full-time program running roughly November 2026 to February 2027. Python or another object-oriented language, knowledge of data structures, and SQL with relational database experience. Evidence of interest in data engineering, such as coursework, prior work, or personal projects.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Graduate Program: Technology - Data Science & AI",
+      "company": "Commonwealth Bank",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://au.prosple.com/graduate-employers/commonwealth-bank-of-australia/jobs-internships/graduate-program-technology-data-science-ai",
+      "description": "The Data Science & AI stream is listed for February 2027, with a salary of AUD 84,000 and a 65 WAM minimum. Achieving a minimum 70 WAM across your overall degree if you're applying for Engineering / Cyber Security and 65 WAM if you're applying for Data Science is the stated requirement. Its Engineering track lists pathways across Data Engineering (ML/AI), Software Engineering (Web, Mobile, Full‑Stack), Site Reliability Engineering, and Cyber Security. Applications were due on 8th September 2026.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Summer Intern Program: Technology & AI - Advanced Analytics",
+      "company": "Commonwealth Bank",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://au.prosple.com/graduate-employers/commonwealth-bank-of-australia/jobs-internships/summer-intern-program-technology-ai-advanced-analytics",
+      "description": "This role covers SQL, Python, AWS, and Teradata, and explores how AI powered data capabilities can drive smarter, more efficient ways of working. The listing shows applications closing 8 September 2026, which has also passed.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Summer Intern Program - Digital, Data and AI",
+      "company": "NAB",
+      "location": "Melbourne, VIC",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://au.prosple.com/graduate-employers/national-australia-bank/jobs-internships/summer-intern-program-digital-data-and-ai",
+      "description": "This is an 8-week paid program in Melbourne, with a salary listed at AUD 65,000 to 70,000 per year. It is open to Australian or New Zealand citizens and permanent residents in their second-last year of study, and the listing says applications closed 2 August 2026. Its role description covers data analytics and exposure to machine learning.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Pre Register - 2026/27 Summer Intern Program",
+      "company": "ANZ",
+      "location": "Melbourne, VIC",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://au.prosple.com/graduate-employers/anz/jobs-internships/pre-register-202627-summer-intern-program",
+      "description": "This is a paid eight-week program. Pre-registration was listed as closing 31 May 2026, and the listing covers data science and AI-related degrees.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "2027届校招-AI模型工程师",
+      "company": "华为",
+      "location": "上海",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/462519",
+      "description": "The listing covers several AI tracks, including AI Infra, AI application, and AI model engineering. Work locations include Beijing and Shanghai, and the posting says applications open from August 2026. The job is listed in Shanghai and falls under the Huawei 2027 campus recruitment category covering software development, cloud services, AI Infra, AI applications, and AI model engineering.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "混元大模型数据科学研究员",
+      "company": "腾讯",
+      "location": "北京",
+      "category": "Data Scientist",
+      "level": "Senior",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/347040",
+      "description": "The Hunyuan large-model data science research institute role is hosted under 深圳市腾讯计算机系统社招, with locations listed as Beijing and Shenzhen. It asks for 3-5 years of experience, so it's a experienced-hire position, not campus recruiting.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "算法工程师-大模型研究员",
+      "company": "腾云天下",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "applyUrl": "https://yingjiesheng.com/job-008-098-340.html",
+      "description": "招聘算法工程师和大模型研究员，工作地点标注为北京、上海，学历要求为硕士或博士，需求5人。页面列出的要求包括熟悉机器学习算法和有大模型应用项目经验（熟悉常用机器学习算法，如逻辑回归、XGBoost 等。）",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "多模态大模型算法工程师",
+      "company": "安克创新",
+      "location": "深圳",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/463084",
+      "description": "职责方面涉及探索具身智能领域的多模态大模型、世界模型、生成式模型和AIGC等前沿技术。另外，还包括研究理解与生成交织的基础模型，涉及数据建设、指令微调、偏好对齐、RLHF和模型优化。在要求方面，需要2027届毕业生，硕士及以上学历，计算机、电子、数学等相关专业。同时希望候选人在计算机视觉、多模态大模型等一个或多个领域有较深入的研究。",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
