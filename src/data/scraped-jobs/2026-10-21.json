@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-21",
+  "generatedAt": "2026-10-21T07:30:00+10:00",
+  "auMode": "主高峰",
+  "cnMode": "秋招",
+  "sources": [
+    "freehire.me",
+    "careers.equifax.com",
+    "jobs.alooba.com",
+    "nowcoder.com",
+    "wondercv.com",
+    "jobs.bilibili.com"
+  ],
+  "stats": {
+    "auCandidates": 18,
+    "auLive": 11,
+    "cnCandidates": 12,
+    "cnLive": 4
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Senior AI Engineer - AI Innovation Office",
+      "company": "Westpac Group",
+      "location": "Sydney NSW",
+      "category": "AI Engineer",
+      "level": "Senior",
+      "applyUrl": "https://freehire.me/jobs/senior-ai-engineer-ai-innovation-office-westpac-group-n5esaczc",
+      "description": "A Senior AI Engineer role in the AI Innovation Office was posted 13 October 2026, to move AI prototypes into secure, scalable, well-governed enterprise banking capability. Responsibilities include design, build, test, harden and operate AI capabilities that are safe, reliable and ready for enterprise use. The role requires production delivery experience with LLM, ML or AI systems. Requirements: Strong software engineering: Python, APIs, cloud, CI/CD and automated testing. Working knowledge of RAG, embeddings, agents, evaluation and orchestration. Responsible AI experience covering privacy, compliance and guardrails. Tertiary qualifications in a relevant discipline, or equivalent practical experience.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "AI Engineer - AI Services",
+      "company": "Westpac Group",
+      "location": "Sydney NSW / Melbourne VIC",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "applyUrl": "https://freehire.me/jobs/ai-engineer-ai-services-westpac-group-xnxgjevy",
+      "description": "An AI Engineer role at Westpac's AI Services team, posted 14 October 2026, Sydney or Melbourne based with hybrid working. Responsibilities: designing, building, testing, releasing and supporting defined AI service features and components. The role centres on building and supporting defined AI features from design through production, using approved AI tools with human review. Requirements: working knowledge of APIs, CI/CD, and LLM/RAG concepts, and the posting describes growing autonomy over time. Tertiary qualifications in a relevant discipline, or equivalent practical experience.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior AI Engineer - Agent Ops",
+      "company": "Westpac Group",
+      "location": "Sydney NSW",
+      "category": "AI Engineer",
+      "level": "Senior",
+      "applyUrl": "https://freehire.me/jobs/senior-ai-engineer-agent-ops-westpac-group-n2jo7ez4",
+      "description": "A Senior AI Engineer - Agent Ops role at Westpac, posted 17 October 2026, based in Sydney. Responsibilities: lead a team of 3 to 6 direct reports while designing, building and running AI agents, shared platforms, APIs and enterprise integrations. Requirements: Python, cloud experience with AWS or Azure, and Kubernetes. Experience with LLM, RAG, and agentic solutions required.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Data Scientist",
+      "company": "Equifax",
+      "location": "Melbourne VIC",
+      "category": "Data Scientist",
+      "level": "Senior",
+      "applyUrl": "https://careers.equifax.com/en/jobs/j00176170/senior-data-scientist",
+      "description": "A Senior Data Scientist role at Equifax in Melbourne, requiring 5-7 years of analytical experience and a proven record of building predictive models in production. Responsibilities include leading projects and reviewing junior data scientists' work. Evaluate the technical work of peer and junior data scientists, guiding them on deliverable quality and accuracy. Requirements: proven record of building predictive models in production, strong statistical and data analysis skills.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist (Insights)",
+      "company": "Equifax",
+      "location": "Melbourne VIC / Sydney NSW",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "applyUrl": "https://careers.equifax.com/en/jobs/j00178259/data-scientist-insights/",
+      "description": "A Data Scientist (Insights) role at Equifax covering Melbourne, Sydney and Brisbane on a hybrid basis. Responsibilities include data analysis, model development, and dashboard creation. Requirements: 2+ years of experience, SQL, Python/R or Spark, and dashboard tools such as Tableau or Spotfire. The role is more visualization- and BI-focused than pure ML engineering.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data Engineer",
+      "company": "REA Group",
+      "location": "Melbourne VIC",
+      "category": "Data Engineer",
+      "level": "Mid",
+      "applyUrl": "https://freehire.me/jobs/data-engineer-hybrid-modern-data-pipelines-ml-readiness-rea-group-2k7i7ytf",
+      "description": "A Data Engineer role at REA Group in Melbourne (hybrid) focusing on a customer data platform. Responsibilities: building and maintaining customer data pipelines, feeding a unified customer profile platform that supports AI-driven personalization. The Data Engineering role sits within the Modernisation tribe (CuPID). Requirements: strong data engineering skills, experience building and maintaining data pipelines, and knowledge of modern data stack technologies.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist / Machine Learning Engineer",
+      "company": "ANZ",
+      "location": "Melbourne VIC",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "applyUrl": "https://jobs.alooba.com/au/job/anz-data-scientist-machine-learning-engineer-852400/",
+      "description": "A Data Scientist/Machine Learning Engineer role at ANZ Banking Group in Melbourne, posted approximately 13 days ago. Responsibilities: building predictive models to support banking decisions, statistical analysis, and automating processes. ANZ is committed to using technology and data to support customers' financial wellbeing. Requirements: statistical methods, machine learning, SQL and Python, covering building predictive models. Experience in a Data Scientist role with strong Python, R, and SQL skills required.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data Engineer Analyst",
+      "company": "IAG",
+      "location": "Sydney NSW",
+      "category": "Data Engineer",
+      "level": "Mid",
+      "applyUrl": "https://jobs.alooba.com/au/job/iag-data-engineer-analyst-850358/",
+      "description": "A Data Engineer Analyst role at IAG in Sydney on a hybrid basis. Responsibilities include data engineering work supporting insurance analytics and AI initiatives. Requirements: 5 years of experience in software or data engineering, strong technical skills in data platforms. The role supports data-driven decision making at IAG.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Principal Data Scientist | GenAI, LLMs & AI Engineering",
+      "company": "Suncorp",
+      "location": "Sydney NSW / Melbourne VIC",
+      "category": "Data Scientist",
+      "level": "Senior",
+      "applyUrl": "https://freehire.me/jobs/principal-data-scientist-genai-llms-ai-engineering-suncorp-yofmqnz4",
+      "description": "A Principal Data Scientist role at Suncorp in Sydney, Melbourne or Brisbane, centred on generative AI and LLM systems. Responsibilities include building LLM and RAG applications, agentic AI and AI-enabled automation, and making architecture choices across deterministic workflows, single-agent and multi-agent designs. The role includes providing technical leadership, code review and mentoring while still writing code. Requirements: 8+ years across data science, ML, AI or software engineering. Recent experience shipping production AI/ML, strong Python and CI/CD skills, and practical GenAI/LLM application experience. Expertise in retrieval (embeddings, vector and hybrid search, reranking) and in evaluating LLM apps for quality, safety and cost is expected.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Data Engineer - Azure, Databricks & AI Platform Lead",
+      "company": "Anglicare Sydney",
+      "location": "Sydney NSW",
+      "category": "Data Engineer",
+      "level": "Senior",
+      "applyUrl": "https://freehire.me/jobs/senior-data-engineer-azure-databricks-ai-platform-lead-anglicare-sydney-o2pjrbpk",
+      "description": "A Senior Data Engineer role at Anglicare Sydney, based in Sydney. Responsibilities: designing and running enterprise data and AI platforms on Microsoft Azure and Databricks, developing scalable batch and streaming data pipelines using Azure Data Factory and Apache Spark, and establishing data quality, metadata management and governance standards. Requirements: extensive experience with cloud data platforms, strong skills in Azure, Databricks, and Apache Spark, ETL/ELT pipeline experience, and infrastructure-as-code tools such as Terraform or Bicep.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Data Scientist - ML, MLOps & Production",
+      "company": "Vanguard Group",
+      "location": "Melbourne VIC",
+      "category": "Data Scientist",
+      "level": "Senior",
+      "applyUrl": "https://freehire.me/jobs/senior-data-scientist-ml-mlops-production-vanguard-group-eey6jvsr",
+      "description": "A Senior Data Scientist role at Vanguard Group in Melbourne (hybrid), focused on end-to-end ML initiatives. Responsibilities include turning business problems into analytics, building and deploying scalable ML models, and working with Data Engineering and Governance teams to put solutions into production. Requirements: substantial ML and cloud experience, knowledge of MLOps practices including CI/CD, model validation, monitoring and drift detection, cloud ML platforms such as AWS SageMaker, Azure Machine Learning or MLflow, and a record of measurable business value in financial services.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法工程师（云弧计划）",
+      "company": "拼多多集团",
+      "location": "上海",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/e36479f168414a54a283ad1f74f6400f",
+      "description": "拼多多集团"云弧计划"面向2026年9月至2027年8月期间毕业的博士和硕士，大模型算法工程师岗位在上海。岗位职责：负责大模型算法研究，包括预训练、后训练、RL对齐、多模态训练优化等，还涉及电商场景下的偏好对齐、Agent系统构建和意图建模。任职要求：学历多为硕士及以上，专业偏向计算机、人工智能、数学、物理等，要求扎实的机器学习基础，熟悉预训练、SFT、RL或Agent等流程，在CCF-A类会议（如NeurIPS、ICML、CVPR、ACL等）发表过论文属于加分项。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "优才计划-算法工程师（具身智能方向）",
+      "company": "智元机器人",
+      "location": "上海 / 北京 / 深圳",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.wondercv.com/xiaozhao/agibot-elite-plan-2027-shanghai-beijing-shenzhen-ph-11529-df2566/",
+      "description": "智元机器人2027届"优才计划"面向顶尖应届人才，核心方向包括具身智能算法、大模型与机器人融合等，并列出了算法工程师岗位。招聘对象为2026年9月至2027年12月间毕业的应届博士及优秀硕士。该计划的工作地点包括上海、北京、深圳，竞争激烈，需在算法、系统或机器人方向有扎实成果，顶会论文或强项目背景优先，学历要求硕士及以上。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "语音大模型算法工程师（2027届校招）",
+      "company": "Bilibili",
+      "location": "上海",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://jobs.bilibili.com/campus/positions/28845?type=3",
+      "description": "哔哩哔哩2027届秋季校园招聘音频大模型岗位（上海），网申截止2027年6月30日。工作职责包括音频相关大模型研发，涵盖音频理解、对话模型和音频生成等技术，以及语音模型的后训练（SFT、RL等）工作。任职要求：计算机或人工智能相关背景，有语音大模型方向的研究与论文经验，ACL、ICASSP等顶会论文或竞赛经历为加分项。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "算法工程师 / 研究员（大模型方向）",
+      "company": "月之暗面 (Kimi)",
+      "location": "北京 / 上海 / 深圳",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/411192",
+      "description": "月之暗面（Kimi）校招算法工程师/研究员，招聘城市包括北京、上海、深圳。工作内容涵盖大模型训练、推理、对齐等核心算法研究，以及训练框架和数据处理系统的设计，将算法工程化落地。任职要求：985/211本科及以上学历，计算机、人工智能或机器学习相关专业，熟悉Python和PyTorch，有大模型实践经验；CUDA、分布式计算经验，顶会论文或竞赛获奖为加分项，强化学习方向优先。",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
