@@ -1,0 +1,165 @@
+{
+  "date": "2026-10-22",
+  "generatedAt": "2026-10-22T07:30:00+10:00",
+  "auMode": "主高峰",
+  "cnMode": "秋招",
+  "sources": [
+    "jobs.deloitte.com.au",
+    "freehire.me",
+    "jobs.alooba.com",
+    "nowcoder.com",
+    "m.yingjiesheng.com",
+    "careers.tencent.com"
+  ],
+  "stats": {
+    "auCandidates": 7,
+    "auLive": 7,
+    "cnCandidates": 6,
+    "cnLive": 6
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Data & AI Analyst",
+      "company": "Deloitte",
+      "location": "Sydney NSW",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "applyUrl": "https://jobs.deloitte.com.au/job/Sydney-Data-&-AI-Analyst-(Sydney-or-Melbourne)-NSW/1362802666/",
+      "description": "Work includes preparing and analysing large transactional datasets from multiple source systems, and automating data preparation workflows using SQL and Python. The listing asks for 1-3 years of relevant experience in data analytics or engineering, proficiency in Python and SQL, and experience with dashboard tools such as Power BI, Tableau, or Streamlit.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "AI & Data Consultant",
+      "company": "Deloitte",
+      "location": "Sydney NSW",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "applyUrl": "https://jobs.deloitte.com.au/job/Sydney-AI-&-Data-Consultant-Sydney-NSW/1214776066/",
+      "description": "An AI & Data Consultant role at Deloitte Sydney, posted early October 2026. Asks for 2+ years in Data and/or ML Engineering, hands-on experience in Python or SQL, advanced SQL and database skills, experience with data modelling, and hands-on development in AWS, Google Cloud, Microsoft Azure, Databricks or Snowflake. Prior consulting or client-facing experience is highly regarded.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Staff Data Engineer",
+      "company": "Commonwealth Bank",
+      "location": "Sydney NSW",
+      "category": "Data Engineer",
+      "level": "Senior",
+      "applyUrl": "https://freehire.me/jobs/staff-data-engineer-commonwealth-bank-wd3kr2px",
+      "description": "Senior role focused on data pipelines, data quality controls, and productionising machine learning at Commonwealth Bank. The core stack includes Python/R, SQL, GitHub Actions CI/CD, big data and distributed processing, MLOps and data quality tooling. Requirements: strong data engineering background with production ML experience.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Data Scientist - ML & GenAI",
+      "company": "Commonwealth Bank",
+      "location": "Sydney NSW",
+      "category": "Data Scientist",
+      "level": "Senior",
+      "applyUrl": "https://freehire.me/jobs/senior-data-scientist-ml-genai-commonwealth-bank-of-australia-ickgairs",
+      "description": "A Senior Data Scientist role at Commonwealth Bank building ML and agentic AI solutions for customer service, with hands-on Python, SQL, and MLOps work plus input on data governance. The role is on-site in Sydney and focuses on production ML systems and GenAI applications.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist",
+      "company": "Beforepay Group",
+      "location": "Sydney NSW",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "applyUrl": "https://jobs.alooba.com/au/job/beforepay-group-data-scientist-852408/",
+      "description": "A credit-risk modelling Data Scientist role at Beforepay Group in Sydney, in-person. It asks for strong Python and SQL, machine learning knowledge, and a salary range of AUD $80,000 - $150,000 per year.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Performance Data Scientist",
+      "company": "Cricket Australia",
+      "location": "Brisbane QLD",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "applyUrl": "https://jobs.alooba.com/au/job/cricket-australia-performance-data-scientist-854311/",
+      "description": "A performance-analysis Data Scientist role at Cricket Australia in Albion QLD (Brisbane), hybrid, posted approximately 4 days ago. It asks for R or Python, SQL, and experience querying data warehouses.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Lead Data Scientist",
+      "company": "Culture Amp",
+      "location": "Sydney NSW",
+      "category": "Data Scientist",
+      "level": "Senior",
+      "applyUrl": "https://jobs.alooba.com/au/job/culture-amp-lead-data-scientist-843337/",
+      "description": "A Lead Data Scientist role at Culture Amp in Sydney, hybrid. Asks for experience leading a team, deep SQL and Python skills, and enterprise database experience.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "软件算法工程师（AI/图形图像）",
+      "company": "联影医疗",
+      "location": "上海",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/412527",
+      "description": "参与联影产品的AI算法开发工作或图形算法开发工作。要求方面，学历为硕士及以上、博士优先，专业包括数学、物理、生物医学工程、电子、计算机等；需熟悉至少一种医学图像后处理算法（如重建、分割、配准、深度学习等），有CUDA、OpenGL等并行或图形开发经验者优先。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "软件算法工程师（大模型方向）",
+      "company": "联影医疗",
+      "location": "上海",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "applyUrl": "https://m.yingjiesheng.com/jobdetail/167175867",
+      "description": "负责大语言模型方面的算法开发、优化、应用落地。任职要求包括硕士及以上学历、人工智能相关背景，有预训练大模型或GPT类研发经验者优先，并要求能熟练使用英语。薪资1.5-3万，岗位编号J17489。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI Agent 算法工程师",
+      "company": "腾讯",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "applyUrl": "https://careers.tencent.com/jobdesc.html?postId=2082710396749393920",
+      "description": "需要计算机或数学相关本科及以上学历、熟悉Python，理解Transformer和Agent架构范式，并熟悉任务规划、工具调用、多步推理等机制；了解Agent RL训练（过程奖励建模、轨迹优化等）者优先。岗位覆盖北京、深圳、上海。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "混元VLM预训练数据算法工程师",
+      "company": "腾讯",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "applyUrl": "https://careers.tencent.com/jobdesc.html?postId=2068941069860646912",
+      "description": "岗位要求：计算机科学、人工智能、自动化等相关专业硕士及以上学历，1年以上多模态大模型或计算机视觉领域研发经验；工作内容涉及多模态数据的处理流水线与数据配比设计。岗位在北京/深圳/上海。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "混元vlm算法研究员-后训练/基座能力提升方向",
+      "company": "腾讯",
+      "location": "深圳",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://careers.tencent.com/jobdesc.html?postId=2074683054592536576",
+      "description": "岗位职责包括个性化与长期记忆机制的算法研发，以及后训练阶段的数据合成与用户反馈闭环建模。混元大语言模型后训练算法工程师-Memory方向，要求三年以上研发经验，岗位在深圳/北京/上海。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "27届秋招-算法工程师",
+      "company": "滴滴",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/460167",
+      "description": "要求2027届本科及以上学历毕业生，计算机、电子工程、自动化、数学等相关专业，并要求具备机器学习、数据挖掘、NLP等至少一个方向的基础，以及Hadoop等海量数据处理经验。岗位覆盖北京、上海、杭州、广州。",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
