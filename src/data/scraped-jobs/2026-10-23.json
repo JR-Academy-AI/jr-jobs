@@ -1,0 +1,200 @@
+{
+  "date": "2026-10-23",
+  "generatedAt": "2026-10-23T08:50:00+11:00",
+  "auMode": "主高峰",
+  "cnMode": "秋招",
+  "sources": [
+    "lifeatcanva.com",
+    "careers.nab.com.au",
+    "recruitment.macquarie.com",
+    "au.gradconnection.com",
+    "job-boards.anz.greenhouse.io",
+    "careers.sportsbet.com.au",
+    "careers.tencent.com",
+    "nowcoder.com"
+  ],
+  "stats": {
+    "auCandidates": 38,
+    "auLive": 10,
+    "cnCandidates": 24,
+    "cnLive": 6
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Senior Machine Learning Engineer - Smart Content AI",
+      "company": "Canva",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.lifeatcanva.com/en/jobs/6000000000521646/senior-machine-learning-engineer-smart-content-ai-remote-across-anz/",
+      "description": "This role centres on multimodal content understanding and similarity search. The listing asks for 5+ years of experience running large-scale ML or recommender systems. The role is remote across ANZ with Sydney as the flagship campus.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Machine Learning Engineer - Growth",
+      "company": "Canva",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.lifeatcanva.com/en/jobs/6000000000519733/senior-machine-learning-engineer-growth/",
+      "description": "The role centres on fraud detection models that protect Canva's monetisation channels. Per the listing, the work includes collaborating with backend engineers, data scientists and product managers to build and iterate on fraud prevention strategies and architecting, building, and maintaining ML systems that underpin fraud detection and response. It also involves mentoring engineers and data scientists on the team. The listing asks for experience building and deploying machine learning models in production environments, preferably for fraud, abuse, or anomaly detection. Python fluency and familiarity with PyTorch, TensorFlow, or scikit-learn are listed, and experience in fintech and business process automation is a plus.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "AI Scientist",
+      "company": "NAB",
+      "location": "Sydney, NSW / Melbourne, VIC",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "applyUrl": "https://careers.nab.com.au/jobs/data-scientist-g3-nsw-sydney-cbd-nsw-australia-vic-melbourne-cbd-vic-australia-wide",
+      "description": "This is a permanent full-time role based in Sydney CBD and Melbourne CBD, and the listing closes 13 November 2026. The job's core work is building agentic AI components, such as reasoning loops, tool use, and memory systems. It also covers prompt and retrieval design, evaluation pipelines, and monitoring for drift and anomalies. The required profile is applied AI/ML experience with production systems, with LLM and agent experience preferred, plus cloud-native and statistics skills. This is a delivery-focused role for practitioners who thrive beyond experimentation, per the posting.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior AI Scientist",
+      "company": "NAB",
+      "location": "Sydney, NSW / Melbourne, VIC",
+      "category": "Data Scientist",
+      "level": "Senior",
+      "applyUrl": "https://careers.nab.com.au/jobs/senior-ai-data-scientist-nsw-sydney-cbd-nsw-australia-vic-melbourne-cbd-vic-australia-wide",
+      "description": "This is a more senior version of the AI Scientist role, also in Sydney and Melbourne, with an Australia-wide option. It asks the holder to lead design across several squads and to coach other data scientists. Partner with Principal AI Scientists to shape solution design and evaluation approaches is one of its listed duties. The role is permanent full-time.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist - Risk Management",
+      "company": "Macquarie Group",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "applyUrl": "https://recruitment.macquarie.com/en_US/careers/JobDetail/Data-Scientist-Risk-Management/22116",
+      "description": "This role focuses on delivering and maintaining AI and data science solutions in production environments, with Python, SQL, and deployment experience required. The Data Scientist in Risk Management works on delivering machine learning and AI-driven insights and solutions across risk functions within Macquarie Group.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist - Model & AI Risk",
+      "company": "Macquarie Group",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "applyUrl": "https://recruitment.macquarie.com/en_US/careers/JobDetail/Data-Scientist-Model-AI-Risk/22096",
+      "description": "This role validates AI use cases across the firm. Candidates need Python, R, or SQL skills and experience validating AI or statistical models. A separate Associate Director version asks for hands-on work with RAG and multi-agent systems, plus leadership of validation teams.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Machine Learning Intern, Summer 2026/2027",
+      "company": "Atlassian",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/atlassian/jobs/atlassian-machine-learning-intern-summer-20262027-australia/",
+      "description": "The paid internship program runs for 12 weeks between November 2026 and February 2027. Requirements include current full-time enrolment in a Bachelor's or Master's in software engineering, computer science, or a related technical field, with graduation by January 2028 and intent to return to studies post-internship. Proficiency in an object-oriented language such as Java, Python, C, or C++, plus an understanding of data structures and algorithms. Applications accepted from Australian and New Zealand Citizens and Australian Permanent Residents.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist, Technical AI Solutions",
+      "company": "Quantium",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "applyUrl": "https://job-boards.anz.greenhouse.io/quantium/jobs/4003654201",
+      "description": "This role contributes to the design and delivery of GenAI solutions for some of Australia's largest organisations. It asks for 2–4 years of experience, Python, SQL, some exposure to LLM frameworks, and cloud and Docker familiarity.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Graduate Data & AI Analyst",
+      "company": "Quantium",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/quantium/jobs/quantium-graduate-data-and-ai-analyst/",
+      "description": "Graduate Data & AI Analyst postings target final-year students or recent graduates. Work rights are restricted to Australian citizens, permanent residents, and eligible visa holders. The role involves applying data science and analytics to commercial problems across multiple client verticals.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist",
+      "company": "Sportsbet",
+      "location": "Melbourne, VIC",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "applyUrl": "https://careers.sportsbet.com.au/jobs/data-scientist-melbourne-vic-australia-e515600e-8788-490b-ac9e-8afa3cf51446",
+      "description": "The Risk & Pricing Data Science team applies quantitative and data science techniques to deliver innovative betting products. Responsibilities include building models for the Risk & Pricing roadmap and documenting project progress in JIRA. The role involves building, quality-checking and iterating on models, and working with technology teams on deployment and MLOps practices. Desired experience includes R, Python, SQL, AWS and Databricks, and low-level gambling knowledge is listed as a plus.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法工程师（2027届秋招）",
+      "company": "虎牙直播",
+      "location": "广州, 广东",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/463662",
+      "description": "地点：广州，薪资：400-550（元/天），属于实习岗位。职责涉及大模型后训练，包括CPT、SFT、RL等环节，还涉及训练数据的挖掘与合成，以及大模型在直播、游戏、陪伴等场景的应用。要求2027届硕士及以上学历，相关专业包括计算机、人工智能、统计学等。需要熟悉Transformer架构和PyTorch，了解vLLM等训练推理框架者优先。有大厂实习经历或大模型产品落地经验者优先。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AIGC算法工程师",
+      "company": "腾讯",
+      "location": "深圳, 广东 / 北京",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "applyUrl": "https://careers.tencent.com/jobdesc.html?postId=2052396002803105792",
+      "description": "A Tencent Video Account AIGC role. Its duties cover deploying image and video model post-training, improving image-generation realism and instruction-following, and building online training pipelines for GPU throughput. It asks for a master's degree or higher, PyTorch or TensorFlow experience, and an existing project record. The listing includes a recruitment-scam warning noting that official offers come only through Tencent's own channels.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "算法工程师/研究员",
+      "company": "月之暗面",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/411192",
+      "description": "负责大模型相关算法研究与工程化实现，方向包括训练框架优化、强化学习、多模态模型开发和系统架构设计。具体工作涵盖训练、推理和对齐算法的优化，搭建训练框架和数据处理系统，并跟进前沿论文并复现改进。要求985/211本科及以上，专业为计算机科学、人工智能或机器学习等相关方向。需要扎实的机器学习/深度学习基础和大模型实践经验，熟练使用Python，熟悉PyTorch等框架。CUDA、分布式计算和HPC经验为优先项。加分项：顶会论文、编程竞赛名次、知名开源项目贡献，以及大模型infra或Agent方面的研发经验。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "NLP算法工程师-AI-Lab",
+      "company": "字节跳动",
+      "location": "北京 / 上海 / 深圳",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "applyUrl": "https://www.nowcoder.com/job/25133",
+      "description": "职责主要包括为产品应用提出AI解决方案和模型、推进AI技术的工程化，以及开发新技术的原型系统。强调数学与算法基础，例如概率统计和数值优化；能快速读懂并评估前沿论文；有较强的动手能力，竞赛获奖者优先；并要求在机器学习、文本摘要、对话系统、机器翻译、信息抽取、信息检索等NLP方向有研发经验。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法实习生（PSIG）",
+      "company": "百度",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/26801f7ed85c439290799bcebebeabbf",
+      "description": "百度PSIG 2027届大模型算法实习生招聘。工作内容包括文库多模态内容理解与生成、AIGC产品优化、多模态大模型SFT训练与效果评估，以及Agent业务效果迭代。要求方面，需熟悉NLP、CV、强化学习和Agent等算法，并掌握PyTorch、TensorFlow或PaddlePaddle之一。主要研究方向是检索增强生成（RAG），业务场景是百度搜索。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "算法工程师（2027届秋招）",
+      "company": "招银网络科技",
+      "location": "深圳, 广东 / 杭州, 浙江 / 成都, 四川",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/feed/main/detail/0ef6fddd94a84dca9395db1971e48822",
+      "description": "招聘岗位为算法工程师，工作地点为深圳市、杭州市、成都市。招聘对象：本科及以上学历，STEM类专业（科学、技术、工程、数学），境内院校2026年11月1日至2027年7月31日毕业。流程为在线网申-在线测评-视频面试-资料评审-录用签约。薪资约40万总包，算法工程师深圳成都杭州任选。",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
