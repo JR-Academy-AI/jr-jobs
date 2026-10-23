@@ -1,0 +1,131 @@
+{
+  "date": "2026-10-24",
+  "generatedAt": "2026-10-24T08:30:00+11:00",
+  "auMode": "主高峰",
+  "cnMode": "秋招",
+  "sources": [
+    "lifeatcanva.com",
+    "livehire.com",
+    "reagroup.wd3.myworkdayjobs.com",
+    "nowcoder.com",
+    "vrfi1sk8a0.jobs.feishu.cn"
+  ],
+  "stats": {
+    "auCandidates": 35,
+    "auLive": 4,
+    "cnCandidates": 22,
+    "cnLive": 6
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Staff Machine Learning Engineer - Visual Suite Platform",
+      "company": "Canva",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.lifeatcanva.com/en/jobs/6000000001268114/staff-machine-learning-engineer-visual-suite-platform-au-remote/",
+      "description": "This is a senior, AI-strategy-focused role in the Productivity group. Its current focus includes toolifying existing Productivity functionality, wrapping it so LLMs and agents can use it. The role works at the intersection of ML platform development and the Visual Suite's AI-powered features, helping other ML teams build more effectively.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior AI Solutions Engineer",
+      "company": "Wesfarmers",
+      "location": "Perth, WA",
+      "category": "AI Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.livehire.com/careers/wesfarmerscorporate/job/H6JY8/IYN3M1ULXQ/senior-ai-solutions-engineer",
+      "description": "Design, build and deploy AI agents, skills, knowledge assistants and automations for Corporate Office functions. The role leads solution architecture for assigned AI initiatives and works with the AI Enablement and Governance team to meet governance and compliance requirements for production AI systems.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Software Engineer - Machine Learning",
+      "company": "REA Group",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "applyUrl": "https://reagroup.wd3.myworkdayjobs.com/reacareers/job/Sydney-NSW/Software-Engineer---Machine-Learning_R0015496",
+      "description": "Responsibilities include designing, coding, testing, and deploying ML pipelines with Python, SQL, IaC, AWS, and GCP. You will develop generative AI and LLM products. The team builds and runs statistical, ML, and AI models for internal and customer-facing use. Experience with XGBoost, LightGBM, PyTorch, HF Transformers required.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Software Engineer - Machine Learning",
+      "company": "REA Group",
+      "location": "Melbourne, VIC",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://reagroup.wd3.myworkdayjobs.com/reacareers/job/Richmond-Melbourne-VIC/Senior-Software-Engineer---Machine-Learning_R0015648",
+      "description": "Responsibilities include owning the model lifecycle, implementing and optimising ranking, relevance and retrieval models using embeddings, transformers and LLMs, and building monitoring systems. The role sits in the AI Enrichment squad working with audience segmentation, LLMs and multimodal vision-language models.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型应用算法工程师",
+      "company": "上海算法创新研究院",
+      "location": "上海",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/388100",
+      "description": "要求研究生学历、2年以上多模态或NLP经验，并熟悉思维链生成、数据合成、RAG和推理模型等技术。薪资30-50K，地点为上海，学历要求为硕士，经验要求3-5年。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "算法工程师-运筹优化方向",
+      "company": "杉数科技",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/52263",
+      "description": "职责：应用运筹方法处理大规模数据集，构建优化模型，设计求解算法。要求熟悉网络流、TSP、VRP、选址及生产调度等经典优化模型，能熟练调用CPLEX、Gurobi、SCIP等求解器，精通Python/Java，运筹学、工业工程等专业优先。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型应用全栈开发（Agent+RAG 后端与算法）",
+      "company": "小狗汪汪",
+      "location": "深圳",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/418379",
+      "description": "职责：Agent系统构建（必须）需要理解工具调用、反思机制以及对话历史上下文的构建方式。RAG构建（必须）掌握流水线驱动型和智能体型RAG的策略，并能评估RAG质量。要求熟悉Python，了解Agent设计范式和主流RAG策略；有论文或开源项目贡献者优先。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法工程师-2027届",
+      "company": "MiniMax",
+      "location": "上海",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/7573984779819010313/detail",
+      "description": "职责：探索研究大型语言模型(LLM)和多模态大模型(MLLM)的前沿技术，并优化其背后的系统架构。要求：2027届毕业生，硕士或博士学历；在国际顶会或期刊发表过高质量论文者优先。地点：北京/上海。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "27届校招-AI算法工程师",
+      "company": "广联达",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/466404",
+      "description": "职责：覆盖CV、NLP、LLM及VLM等方向，包括模型微调（LoRA/QLoRA）、量化压缩与推理加速。要求：2027届硕士及以上学历，熟悉PyTorch或TensorFlow深度学习框架，了解RAG和Agent技术。投递窗口自2026年9月1日起。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "算法工程师-LLM强化学习",
+      "company": "京东",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Junior",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/370184",
+      "description": "职责：负责大语言模型后训练全链路，包括PPO、DPO和GRPO等强化学习方法的研究与落地。要求：硕士学历，1-3年相关工作经验，熟悉强化学习或大模型训练技术。地点：北京。",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
