@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-25T07:30:00+10:00",
+  "auMode": "主高峰",
+  "cnMode": "秋招",
+  "sources": [
+    "careers.mantelgroup.com.au",
+    "au.prosple.com",
+    "campus.niuqizp.com",
+    "jobs.niuqizp.com"
+  ],
+  "stats": {
+    "auCandidates": 14,
+    "auLive": 3,
+    "cnCandidates": 9,
+    "cnLive": 2
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Machine Learning Engineer",
+      "company": "Mantel Group",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "applyUrl": "https://careers.mantelgroup.com.au/jobs/8214170-machine-learning-engineer",
+      "description": "Developing AI solutions from pilots to enterprise applications, Playing a technical advisory role as an AI consultant to clients. Applying MLOps/LLM Ops best practice principles to create responsible, reusable pipelines, Standing up cloud services to run AI workloads.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data Analytics Graduate Program (Feb 2027)",
+      "company": "RSM Australia",
+      "location": "Multiple Locations, AU",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://au.prosple.com/graduate-employers/rsm-australia/jobs-internships/data-analytics-graduate-program-2",
+      "description": "You will be responsible for collecting, analysing, and interpreting complex data to create predictive models and make data-driven decisions.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "RISE Graduate Program – Data and AI (Feb 2027)",
+      "company": "Bega Cheese",
+      "location": "Melbourne, VIC",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://au.prosple.com/graduate-employers/bega-cheese/jobs-internships/rise-graduate-program-data-and-ai",
+      "description": "Support data products by checking data quality, investigating pipeline issues, and monitoring data and model performance.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法工程师（2027届校招）",
+      "company": "美团",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://campus.niuqizp.com/job-vUr5tnnZM.html",
+      "description": "岗位职责包括研究预训练、指令微调和强化学习等对齐技术，负责大模型高效分布式训练和性能优化，并研究模型压缩和推理优化。任职要求中，学历要求为硕士及以上，计算机、数学、统计学或相关专业，并需熟悉PyTorch等深度学习分布式框架及Transformer等基础模型。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "基础模型算法工程师-VLM Post-training（2027届校招）",
+      "company": "小红书",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "applyUrl": "https://jobs.niuqizp.com/job-vks55Zz55.html",
+      "description": "本岗位侧重于构建大模型的“视觉与感知”能力。VLM 方向的工作包括：负责 SFT、RL 等后训练流程，提升图文、视频与文本之间的语义对齐和指令遵循；构建视觉推理能力，覆盖复杂图文理解、视频时序理解、多图推理和空间关系推理。",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
