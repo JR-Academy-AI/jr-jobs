@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-26",
+  "generatedAt": "2026-10-26T09:01:49+11:00",
+  "auMode": "主高峰",
+  "cnMode": "秋招",
+  "sources": [
+    "greenhouse.io",
+    "job-boards.anz.greenhouse.io",
+    "recruitment.macquarie.com",
+    "campus.niuqizp.com"
+  ],
+  "stats": {
+    "auCandidates": 22,
+    "auLive": 3,
+    "cnCandidates": 14,
+    "cnLive": 3
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Associate Data Scientist",
+      "company": "Culture Amp",
+      "location": "Melbourne, VIC",
+      "category": "Data Scientist",
+      "level": "Junior",
+      "applyUrl": "https://job-boards.greenhouse.io/cultureamp/jobs/8054867",
+      "description": "Work with engineers and other data scientists to develop, test and deploy AI powered features. Develop robust data pipelines, LLM based enrichment processes, and evaluation systems. Stay up to date with current research, literature and provider offerings. Experience with classical data science, statistics, model training, and data exploration. Experience working with LLMs, especially evaluation, metrics, and agentic workflows.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist, Quantium Telstra",
+      "company": "Quantium",
+      "location": "Melbourne, VIC",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "applyUrl": "https://job-boards.anz.greenhouse.io/quantium/jobs/4005753201",
+      "description": "Transformation AI builds the analytics, models and AI solutions that run inside Telstra's operational systems. Data and feature engineering using Python and SQL to analyse data and support model development. Working in a team to build, test and improve predictive models used in live decisioning systems. Design and build data science solutions and help shape how they're used across both technical and non-technical partners.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "AI Engineer - Capital Markets",
+      "company": "Macquarie Group",
+      "location": "Sydney, NSW",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "applyUrl": "https://recruitment.macquarie.com/en_US/careers/JobDetail/AI-Engineer-Capital-Markets/22831",
+      "description": "Working within an agile team building global applications for our capital markets business, you'll help apply AI tools to improve code quality, testing, security scanning, bug detection and developer productivity. Adopting AI coding assistants, agentic workflows and modern automation safely and effectively, ensuring all production changes remain subject to human review.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "社区推荐算法工程师（2027届校招）",
+      "company": "小红书",
+      "location": "北京 / 上海",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://campus.niuqizp.com/job-vkU5C5Nzn.html",
+      "description": "把推荐技术落地到社区场景,涉及个性化推荐、分发策略、用户与内容理解等方向,并把机器学习和大模型用于图文、视频、直播的推荐。另外需要与产品、基础技术等部门协作,持续迭代信息流推荐产品。本科及以上学历,专业偏向计算机、人工智能、电子信息、自动化、软件或数学。机器学习、数据挖掘、统计学或最优化等领域基础扎实,编程能力过硬,熟练使用Java、C++或Python中的至少一种。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "国际化搜索、推荐算法工程师（2027届校招）",
+      "company": "小红书",
+      "location": "北京 / 上海",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://campus.niuqizp.com/job-vU85nZNCL.html",
+      "description": "负责搜索技术在 rednote 的落地,方向包括 AI 搜索、生成式召回、基于 LLM 的新相关性范式、大规模个性化预估等。推荐算法方向在个性化推荐、分发策略、用户理解、内容理解等方向实现技术突破,重点攻克冷启动、多语言和跨域理解。机器学习基础扎实,擅长 Java / C++ / Python 中至少一门语言,有大模型、搜索或推荐相关经历者优先。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "Agent/大模型算法工程师（REDstar 2027届校招）",
+      "company": "小红书",
+      "location": "北京 / 上海",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://campus.niuqizp.com/job-vrm5aNt5L.html",
+      "description": "多语言、多模态大模型后训练,推荐中的 AI Agent 应用(如用户记忆、生成式召回),以及搜索中的 AI 搜索和基于 LLM 的新相关性范式。本科及以上学历,计算机、人工智能等相关专业;机器学习基础扎实;擅长 Java / C++ / Python 中至少一门语言。熟悉主流 Agent 架构,了解 MCP、A2A、Function Call 等交互协议者优先。",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
