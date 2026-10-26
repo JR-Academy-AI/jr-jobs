@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-27",
+  "generatedAt": "2026-10-27T07:32:15+10:00",
+  "auMode": "主高峰",
+  "cnMode": "秋招",
+  "sources": [
+    "careers.zurich.com",
+    "au.prosple.com",
+    "job-boards.anz.greenhouse.io",
+    "careers.tencent.com"
+  ],
+  "stats": {
+    "auCandidates": 38,
+    "auLive": 4,
+    "cnCandidates": 20,
+    "cnLive": 2,
+    "note": "已见池（14天）覆盖1729条记录；新增候选受限，宁缺勿滥"
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Lead AI Engineer",
+      "company": "Zurich Financial Services Australia",
+      "location": "North Sydney, NSW",
+      "category": "AI Engineer",
+      "level": "Senior",
+      "url": "https://www.careers.zurich.com/job/North-Sydney-Lead-AI-Engineer/1370522657/",
+      "description": "leads agent-based AI work in Zurich's ZX initiative, focused on production systems and evaluation frameworks. The listing names Python, TypeScript, and AWS as core requirements.",
+      "descriptionSource": "search-snippet",
+      "techStack": ["Python", "TypeScript", "AWS"]
+    },
+    {
+      "market": "AU",
+      "title": "Senior AI Engineer",
+      "company": "Zurich Financial Services Australia",
+      "location": "North Sydney, NSW",
+      "category": "AI Engineer",
+      "level": "Senior",
+      "url": "https://www.careers.zurich.com/job/North-Sydney-Senior-AI-Engineer/1370419457/",
+      "description": "building agentic AI services on the ML/AI Engineering chapter at Zurich. It asks for experience with agent frameworks such as LangGraph and AWS Strands, plus deep AWS skills.",
+      "descriptionSource": "search-snippet",
+      "techStack": ["LangGraph", "AWS Strands", "AWS"]
+    },
+    {
+      "market": "AU",
+      "title": "2027 Graduate Program - NSW - Data Analytics / Data Science",
+      "company": "Scyne Australia",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "url": "https://au.prosple.com/graduate-employers/scyne-australia/jobs-internships/2027-graduate-program-nsw-data-analytics-data-science",
+      "description": "The role involves building analytics solutions in Python, SQL, and cloud services, and it is open to graduates completing or completed a Bachelor's degree focused on Data Science or Data Analytics in 2025 or 2026. It also requires Australian citizens or permanent residents.",
+      "descriptionSource": "search-snippet",
+      "techStack": ["Python", "SQL"]
+    },
+    {
+      "market": "AU",
+      "title": "Senior Software Engineer (AI)",
+      "company": "Quantium",
+      "location": "Sydney, NSW",
+      "category": "AI Engineer",
+      "level": "Senior",
+      "url": "https://job-boards.anz.greenhouse.io/quantium/jobs/4000767201",
+      "description": "A senior engineer who builds products across retail, health, government and financial services at Quantium. The role sits at the intersection of platform, product, and data, and involves working across the full stack on production-grade systems that use AI where it fits.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "混元VLM算法研究员-后训练/基座能力提升方向",
+      "company": "腾讯",
+      "location": "深圳/北京/上海",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "url": "https://careers.tencent.com/jobdesc.html?postId=2074683054592536576",
+      "description": "负责多模态大语言模型（VLM）的后训练（Post-training）全流程算法研发，深入探索 SFT 及强化学习对齐算法；计算机科学/软件工程/人工智能等相关专业硕士及以上学历。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "混元VLM预训练数据算法工程师",
+      "company": "腾讯",
+      "location": "北京/深圳/上海",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "url": "https://careers.tencent.com/jobdesc.html?postId=2068941069860646912",
+      "description": "设计并实现VLM预训练数据的采集、清洗、标注全链路方案，涵盖通用图文对、OCR数据、Visual Grounding数据等，计算机科学/人工智能等相关专业硕士及以上学历，并有一年以上多模态大模型或计算机视觉研发经验，熟练使用Python和PyTorch。",
+      "descriptionSource": "search-snippet",
+      "techStack": ["Python", "PyTorch"]
+    }
+  ]
+}
