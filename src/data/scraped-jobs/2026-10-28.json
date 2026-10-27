@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-28",
+  "generatedAt": "2026-10-28T07:56:32+10:00",
+  "auMode": "主高峰",
+  "cnMode": "秋招",
+  "sources": [
+    "lifeatcanva.com",
+    "atlassian.com",
+    "nowcoder.com"
+  ],
+  "stats": {
+    "auCandidates": 22,
+    "auLive": 4,
+    "cnCandidates": 10,
+    "cnLive": 2,
+    "note": "已见池（14天）覆盖1735条记录；SEEK个人岗位页被屏蔽索引，主要来源lifeatcanva.com与atlassian.com；宁缺勿滥"
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Senior Machine Learning Engineer - Revenue Fraud Prevention",
+      "company": "Canva",
+      "location": "Melbourne, VIC",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "url": "https://www.lifeatcanva.com/en/jobs/6000000000513665/senior-machine-learning-engineer-revenue-fraud-prevention/",
+      "description": "The team is a platform group that works across Canva to model emerging fraud patterns and build automated systems to catch and stop fraud. Its work includes consulting on new product launches, modelling known and emerging fraud vectors, and engineering automated systems to identify, prevent, and remediate fraud at scale. Preferred experience is building and deploying machine learning models in production, preferably for fraud, abuse, or anomaly detection.",
+      "descriptionSource": "search-snippet",
+      "techStack": [
+        "Python",
+        "PyTorch",
+        "TensorFlow",
+        "scikit-learn"
+      ]
+    },
+    {
+      "market": "AU",
+      "title": "Staff Machine Learning Engineer - Recommendations",
+      "company": "Canva",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "url": "https://www.lifeatcanva.com/en/jobs/6000000001268891/staff-machine-learning-engineer-recommendations-au-remote/",
+      "description": "A Sydney-based, remote-within-Australia position on Canva's Recommendations team. The Staff Machine Learning Engineer sets the technical direction for recommendation systems and leads high-impact bets on how Canva anticipates user intent. Canva's recommendations reach over two hundred million users every month. The posting asks for significant experience developing, shipping, and operating production-scale recommendation systems, plus Python and tools such as PyTorch and scikit-learn.",
+      "descriptionSource": "search-snippet",
+      "techStack": [
+        "Python",
+        "PyTorch",
+        "scikit-learn"
+      ]
+    },
+    {
+      "market": "AU",
+      "title": "Senior Research Scientist - Generative AI",
+      "company": "Canva",
+      "location": "Adelaide, SA",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "url": "https://www.lifeatcanva.com/en/jobs/6000000000515560/senior-research-scientist-generative-ai/",
+      "description": "The role is full-time, hybrid, and sits in Canva's Engineering team. Duties include running experiments to test hypotheses and check real-world performance, and turning academic papers into production-ready code. The scientist also helps refine model architectures and training methods, and works with ML Engineers to scale models into Canva's products.",
+      "descriptionSource": "search-snippet",
+      "techStack": []
+    },
+    {
+      "market": "AU",
+      "title": "Senior Machine Learning Engineer, AI-Native Evaluation & Search",
+      "company": "Atlassian",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "url": "https://www.atlassian.com/company/careers/details/26789",
+      "description": "Part of Search & Intelligence at Atlassian. Requires at least 4 years of experience developing and deploying machine learning or AI systems in production, focused on AI-native evaluation and search.",
+      "descriptionSource": "search-snippet",
+      "techStack": []
+    },
+    {
+      "market": "CN",
+      "title": "大模型应用开发工程师",
+      "company": "阿里巴巴集团",
+      "location": "上海/杭州/北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "url": "https://www.nowcoder.com/jobs/detail/439325",
+      "description": "岗位侧重把大模型能力落地到业务场景，涉及AI Agent系统及RAG全链路优化。需要了解大模型应用开发原理，熟悉Prompt Engineering、RAG、LangChain、LlamaIndex或Dify等主流开发框架，并了解Agent架构。工作地点：广州、上海、杭州、北京，面向2027届本科及以上毕业生。",
+      "descriptionSource": "search-snippet",
+      "techStack": [
+        "Python",
+        "LangChain",
+        "LlamaIndex"
+      ]
+    },
+    {
+      "market": "CN",
+      "title": "AI数据工程师",
+      "company": "华为云",
+      "location": "上海/北京/深圳",
+      "category": "Data Engineer",
+      "level": "Graduate",
+      "url": "https://www.nowcoder.com/jobs/detail/420551",
+      "description": "招聘对象为2026届本科生，投递截止到2027年10月26日。工作内容偏向数据处理、数据集构建和模型训练配合，要求熟悉大模型、Spark/Flink，以及SQL和Python。招聘地包括南京、深圳、成都、北京、上海。",
+      "descriptionSource": "search-snippet",
+      "techStack": [
+        "Python",
+        "Spark",
+        "Flink",
+        "SQL"
+      ]
+    }
+  ]
+}
