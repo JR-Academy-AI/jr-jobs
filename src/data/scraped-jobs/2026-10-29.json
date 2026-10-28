@@ -1,0 +1,151 @@
+{
+  "date": "2026-10-29",
+  "generatedAt": "2026-10-29T07:30:00+10:00",
+  "auMode": "主高峰",
+  "cnMode": "秋招",
+  "sources": [
+    "seek.com.au",
+    "recruitment.macquarie.com",
+    "lifeatcanva.com",
+    "atlassian.com",
+    "nowcoder.com"
+  ],
+  "stats": {
+    "auCandidates": 30,
+    "auLive": 9,
+    "cnCandidates": 18,
+    "cnLive": 2,
+    "note": "已见池（14天）覆盖1749条记录；SEEK个人岗位页被屏蔽索引，来源较分散；宁缺勿滥，低于主高峰目标25/20"
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "AI Engineer",
+      "company": "Macquarie Group",
+      "location": "Sydney, NSW",
+      "category": "AI Engineer",
+      "level": "Senior",
+      "url": "https://recruitment.macquarie.com/en_US/careers/JobDetail/AI-Engineer/22923",
+      "description": "A mid-to-senior role that asks for 5+ years of software engineering in Java, Go, or Python, plus experience with ML pipelines, model monitoring, and AWS or Azure.",
+      "descriptionSource": "search-snippet",
+      "techStack": ["Java", "Go", "Python", "AWS", "Azure"]
+    },
+    {
+      "market": "AU",
+      "title": "Model & AI Risk Data Scientist, Associate Director",
+      "company": "Macquarie Group",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Senior",
+      "url": "https://recruitment.macquarie.com/en_US/careers/JobDetail/Model-AI-Risk-Data-Scientist-Associate-Director/23557",
+      "description": "A senior role leading independent validation of AI systems, including generative and agentic AI. Candidates should have advanced Python and CI/CD experience, plus familiarity with tools such as Claude Code and Codex.",
+      "descriptionSource": "search-snippet",
+      "techStack": ["Python", "CI/CD"]
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist, Risk Management",
+      "company": "Macquarie Group",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "url": "https://recruitment.macquarie.com/en_US/careers/JobDetail/Data-Scientist-Risk-Management/22116",
+      "description": "As a Data Scientist, you will play a key role in delivering and maintaining AI and data science solutions in production environments. Experience with Python and SQL on large, complex datasets is required.",
+      "descriptionSource": "search-snippet",
+      "techStack": ["Python", "SQL"]
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist, Model AI Risk",
+      "company": "Macquarie Group",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Senior",
+      "url": "https://recruitment.macquarie.com/en_US/careers/JobDetail/Data-Scientist-Model-AI-Risk/22096",
+      "description": "The role independently reviews, challenges and validates artificial intelligence use cases across the firm. As a Data Scientist within Model Risk Management, you will independently review, challenge and validate AI use cases.",
+      "descriptionSource": "search-snippet",
+      "techStack": ["Python", "SQL"]
+    },
+    {
+      "market": "AU",
+      "title": "Machine Learning Engineer",
+      "company": "Elula",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "url": "https://www.seek.com.au/job/55629414",
+      "description": "Experience with large, disconnected datasets, SQL and relational databases, a programming language such as Python, R, Scala or Java, and building data pipelines on cloud platforms, preferably AWS with Spark or Glue. Financial services experience and familiarity with DevOps and CI/CD are listed as optional.",
+      "descriptionSource": "search-snippet",
+      "techStack": ["Python", "R", "Scala", "Java", "SQL", "AWS", "Spark"]
+    },
+    {
+      "market": "AU",
+      "title": "Senior Data Engineer",
+      "company": "Macquarie Group",
+      "location": "Sydney, NSW",
+      "category": "Data Engineer",
+      "level": "Senior",
+      "url": "https://www.seek.com.au/job/58878785",
+      "description": "A full-time role in a cloud-based data and analytics team. It asks for Spark (ideally with Python), Presto or Trino, AWS, and CI/CD experience.",
+      "descriptionSource": "search-snippet",
+      "techStack": ["Spark", "Python", "Presto", "Trino", "AWS"]
+    },
+    {
+      "market": "AU",
+      "title": "Senior Data Engineer",
+      "company": "Flybuys",
+      "location": "Melbourne, VIC",
+      "category": "Data Engineer",
+      "level": "Senior",
+      "url": "https://www.seek.com.au/job/58965873",
+      "description": "A full-time role building CI/CD pipelines and data models in Snowflake. It asks for 5+ years in a similar role on AWS, Airflow experience, and Python.",
+      "descriptionSource": "search-snippet",
+      "techStack": ["Snowflake", "AWS", "Airflow", "Python"]
+    },
+    {
+      "market": "AU",
+      "title": "Senior Machine Learning Systems Engineer",
+      "company": "Atlassian",
+      "location": "Melbourne, VIC",
+      "category": "MLOps / AI Infra",
+      "level": "Senior",
+      "url": "https://www.atlassian.com/company/careers/details/27455",
+      "description": "The listing asks for 6+ years of general software engineering experience with 2+ years in building Machine Learning and AI infra/Platform/Systems. The team is based in Sydney and Melbourne, with the role available as remote across Australia.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Machine Learning Engineer - Research Optimisation",
+      "company": "Canva",
+      "location": "Sydney, NSW",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "url": "https://www.lifeatcanva.com/en/jobs/6000000001162285/senior-machine-learning-engineer-research-optimisation/",
+      "description": "The role asks for hands-on experience optimising PyTorch training or inference, profiling workloads, and reasoning about GPU memory, compute, and throughput. Centers on profiling and speeding up PyTorch training and inference, including distributed training and GPU efficiency.",
+      "descriptionSource": "search-snippet",
+      "techStack": ["PyTorch"]
+    },
+    {
+      "market": "CN",
+      "title": "AI模型工程师",
+      "company": "华为",
+      "location": "北京/上海",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "url": "https://www.nowcoder.com/jobs/detail/462519",
+      "description": "参与千亿参数级语言模型或多模态模型的预训练与微调，并研究RLHF、DPO等对齐算法，方向包括MoE、长上下文、多模态融合。工作城市为北京、上海、西安、东莞，薪资标注为20K-50K·16薪，要求2027届本科及以上毕业生。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI算法工程师",
+      "company": "广联达",
+      "location": "北京/上海",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "url": "https://www.nowcoder.com/jobs/detail/466404",
+      "description": "参与AI核心算法模型的研发与迭代，技术方向涵盖CV、NLP、LLM、VLM和强化学习等算法研发与落地。负责模型的全流程工作，包括数据处理、数据集构建、预训练、微调、模型压缩和推理加速等环节。学历要求硕士，2027届毕业生，专业涵盖计算机、人工智能、数学、统计学等。",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
