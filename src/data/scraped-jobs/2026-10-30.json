@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-30",
+  "generatedAt": "2026-10-30T07:30:00+10:00",
+  "auMode": "主高峰",
+  "cnMode": "秋招",
+  "sources": [
+    "careers.woolworthsgroup.com.au",
+    "yingjiesheng.com"
+  ],
+  "stats": {
+    "auCandidates": 40,
+    "auLive": 1,
+    "cnCandidates": 35,
+    "cnLive": 3,
+    "note": "已见池（14天）覆盖1749条记录；AU大量主要公司岗位均已见，仅发现1个新鲜岗位；CN秋招新岗来自非头部公司；宁缺勿滥，低于主高峰目标25/20"
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "EOI – AI Data Scientists (All Levels)",
+      "company": "Woolworths Group",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "url": "https://careers.woolworthsgroup.com.au/en_GB/apply/JobDetail/EOI-AI-Data-Scientists/99379",
+      "description": "Its scope covers building ML and generative AI systems, such as LLM apps and RAG pipelines, and owning projects from data discovery through to production monitoring. The stated requirements are at least 2 years of hands-on experience, a quantitative degree, and strong Python and SQL skills. It also asks for experience with ML frameworks, vector databases, and AI governance.",
+      "descriptionSource": "search-snippet",
+      "techStack": ["Python", "SQL"]
+    },
+    {
+      "market": "CN",
+      "title": "AI算法工程师（2027届）",
+      "company": "天空智算互联网科技（上海）有限责任公司",
+      "location": "上海",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "url": "https://www.yingjiesheng.com/job-008-082-614.html",
+      "description": "职责：主要面向卫星互联网与空间数字孪生场景开展AI算法研发，方向包括星座网络优化、通信链路预测和态势感知；负责模型方案设计、训练调优和工程化落地；还需跟进大模型、强化学习等前沿方向并做预研验证。要求：硕士及以上学历，专业涵盖计算机、人工智能、数学、通信工程等；需掌握机器学习和深度学习基础，熟悉PyTorch或TensorFlow；熟练使用Python，具备C++工程能力；能独立完成算法调研和实验分析。发布时间：2026-09-16。",
+      "descriptionSource": "search-snippet",
+      "techStack": ["Python", "C++", "PyTorch", "TensorFlow"]
+    },
+    {
+      "market": "CN",
+      "title": "AI大模型算法工程师",
+      "company": "北京长亭未来科技有限公司",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "url": "https://www.yingjiesheng.com/job-008-075-460.html",
+      "description": "招聘页面显示工作地点为北京、杭州，学历要求硕士及以上，薪资30K-50K/月。围绕漏洞挖掘、代码审计、安全风险识别和安全运营，负责pre-train、mid-train、post-train各阶段的训练方案。设计训练目标、奖励机制和对照、消融实验，分析模型错误并持续改进。",
+      "descriptionSource": "search-snippet",
+      "techStack": ["Python", "PyTorch", "TRL", "LLaMA-Factory", "verl"]
+    },
+    {
+      "market": "CN",
+      "title": "人工智能工程师（2027届）",
+      "company": "卓望数码技术（深圳）有限公司（中国移动控股子公司）",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "url": "https://www.yingjiesheng.com/job-008-057-335.html",
+      "description": "岗位涉及AI核心算法研发、大语言模型和多模态模型的训练与优化，以及模型在业务场景中的工程化落地。任职要求：偏好计算机、人工智能、数学或统计学专业；要求掌握机器学习和深度学习基础，熟悉Python以及PyTorch或TensorFlow等框架；有模型训练调优经验者更受青睐，并优先考虑熟悉RAG、LangChain等AI应用开发技术栈的人选。发布时间：2026年9月4日，计划招聘15人。",
+      "descriptionSource": "search-snippet",
+      "techStack": ["Python", "PyTorch", "TensorFlow", "RAG", "LangChain"]
+    }
+  ]
+}
