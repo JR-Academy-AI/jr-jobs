@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-31",
+  "generatedAt": "2026-10-31T08:56:16+11:00",
+  "auMode": "主高峰",
+  "cnMode": "秋招",
+  "sources": ["seek.com.au", "careers.virginaustralia.com", "nowcoder.com"],
+  "stats": {
+    "auCandidates": 2,
+    "auLive": 2,
+    "cnCandidates": 2,
+    "cnLive": 2
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Senior Data Scientist - Credit Risk Modelling",
+      "company": "Toyota Finance Australia",
+      "location": "Sydney - North Shore & Northern Beaches NSW",
+      "category": "Data Scientist",
+      "level": "Senior",
+      "applyUrl": "https://www.seek.com.au/job/57780799",
+      "description": "Manage and maintain the current credit risk model including PD/LGD/EAD, IFRS9 models, acquisition scorecards, collection models. Lead the model development projects on credit scoring, IFRS9 models, loss prediction. ECL reporting, IFRS9 model annual review, other independent model validation initiatives. Contribute to the Financial planning processes e.g. loss & IFRS9 compliant reserve forecasting, recovery forecasting, capacity planning. A degree in quantitative disciplines such as statistics, actuarial science, etc. Extensive experience in risk modelling, quantitative reporting, or risk analytics. Strong experience in statistical model building and scorecard development is preferred. Strong analytical skills, experience in business use of statistics is a pre-requisite as is strong working knowledge of SAS, SQL, Excel. (R and Python are advantageous)",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist, AI",
+      "company": "Virgin Australia",
+      "location": "Brisbane QLD",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "applyUrl": "https://careers.virginaustralia.com/jobs/data-scientist-ai-brisbane-qld-australia",
+      "description": "Newly created, permanent role based out of the Brisbane office, hybrid. Working closely with Revenue Management, Commercial and other business teams to find where machine learning, optimisation and AI can help. 2+ years experience developing and deploying machine learning models or decision-support solutions. Strong Python skills, plus tools such as LightGBM, pandas and scikit-learn. Solid grounding in forecasting, optimisation and model evaluation. Strong stakeholder communication. A quantitative degree or equivalent applied experience. Generative AI, NLP or LLM experience and pricing or revenue analytics are desirable.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "Agent开发工程师（2027届秋招）",
+      "company": "携程",
+      "location": "上海",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/463573",
+      "description": "该岗位主要涉及Agent应用工程开发和AI产品上线、Agent基础开发框架建设、Agent记忆系统设计，以及评测和观测能力建设。还包括Agent注册、管理与发现的架构和系统开发。任职要求：本科及以上、计算机相关专业；熟悉Python或Java等至少一门语言；熟悉LangChain、LlamaIndex、CrewAI等至少一种Agent框架；会用Cursor、Claude等AI编程工具；有较好的沟通和团队协作能力。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI Agent开发工程师（2027届）",
+      "company": "神州信息",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/462005",
+      "description": "设计并开发面向金融场景的智能Agent方案，如智能客服、智能风控辅助和运营助手（参与公司智能Agent产品的设计与开发）。负责任务规划、工具调用、记忆管理和多轮对话编排等核心模块（负责Agent的核心能力开发）。参与LangChain/LangGraph、AutoGen、CrewAI等框架选型，并沉淀公司级组件库；同时涉及Prompt优化、RAG构建和评测体系搭建（参与Agent框架的选型与搭建）。任职要求：2027届应届硕士，计算机、人工智能、软件工程或数学等相关专业。熟练使用Python，并熟悉至少一个AI应用开发框架，如LangChain、LlamaIndex或AutoGen。理解Function Calling、ReAct/Plan-and-Execute、RAG和向量数据库等LLM Agent技术栈。加分项包括Agent/LLM项目经验、金融业务理解，以及大模型微调或评测经验。",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
