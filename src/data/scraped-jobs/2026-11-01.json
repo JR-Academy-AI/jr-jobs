@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-01",
+  "generatedAt": "2026-11-01T07:30:00+11:00",
+  "auMode": "主高峰",
+  "cnMode": "秋招",
+  "sources": ["nowcoder.com"],
+  "stats": {
+    "auCandidates": 0,
+    "auLive": 0,
+    "cnCandidates": 8,
+    "cnLive": 1
+  },
+  "jobs": [
+    {
+      "market": "CN",
+      "title": "AI Infra工程师（2027届）",
+      "company": "UCloud（优刻得）",
+      "location": "上海",
+      "category": "MLOps / AI Infra",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/468650",
+      "description": "岗位方向:聚焦于GPU相关的故障定位、性能调优与系统优化,具体包括GPU故障监测体系、NCCL通信链路优化,以及GPU池化与虚拟化等。任职要求:需要熟悉GPU架构和CUDA编程模型,有NCCL使用经验,了解主流训练框架,会用Nsight等profiling工具,并熟练掌握C/C++或Python。有RDMA、NVLink、PCIe等高速互联协议经验者优先。投递时间:2026年9月21日至2029年9月21日。",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
