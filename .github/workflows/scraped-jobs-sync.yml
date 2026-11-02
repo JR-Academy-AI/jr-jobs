@@ -1,7 +1,7 @@
 name: Scraped Jobs Sync
 
 # 由 graduate-jobs routine 写 src/data/scraped-jobs/{DATE}.json + push 触发
-# Push 5 个校招岗位到 jr-academy 后端（/admin-cms/jobs/scraped-jobs/bulk）
+# 当天文件导入求职匠机会目录（唯一存放处）；未配置求职匠密钥时暂沿用旧后端同步
 
 on:
   push:
@@ -20,6 +20,9 @@ permissions:
 jobs:
   sync:
     runs-on: ubuntu-latest
+    env:
+      # job 级别才能在 step 的 if 里判断是否已配置
+      JH_GRADUATE_INGEST_KEY: ${{ secrets.JH_GRADUATE_INGEST_KEY }}
     steps:
       - uses: actions/checkout@v4
 
@@ -27,18 +30,34 @@ jobs:
         with:
           bun-version: latest
 
-      - name: Sync (push trigger — today's file)
-        if: github.event_name == 'push'
-        env:
-          JR_SERVICE_API_KEY: ${{ secrets.JR_SERVICE_API_KEY }}
-          JR_ADMIN_TOKEN: ${{ secrets.ADMIN_TOKEN }}
-          JR_API: ${{ secrets.API_URL || 'https://api.jiangren.com.au' }}
-        run: bun run scripts/sync-scraped-jobs.ts
+      # 求职匠机会目录是在招岗位的唯一存放处：配置 JH_GRADUATE_INGEST_KEY 后，每日文件直接导入求职匠
+      # （/api/internal/graduate/daily-jobs）。未配置时沿用旧的匠人后端同步，仅作上线前过渡。
+      - name: Pick the day file
+        id: day
+        run: |
+          DATE="${{ inputs.date }}"
+          [ -n "$DATE" ] || DATE=$(TZ='Australia/Sydney' date +%Y-%m-%d)
+          echo "date=$DATE" >> "$GITHUB_OUTPUT"
+          echo "file=src/data/scraped-jobs/$DATE.json" >> "$GITHUB_OUTPUT"
 
-      - name: Sync (manual dispatch — specific date)
-        if: github.event_name == 'workflow_dispatch'
+      - name: Import into JobHunter catalog
+        if: env.JH_GRADUATE_INGEST_KEY != ''
+        env:
+          JH_WEB_ORIGIN: ${{ secrets.JH_WEB_ORIGIN || 'https://jobhunter.jracademy.ai' }}
+        run: |
+          FILE="${{ steps.day.outputs.file }}"
+          [ -f "$FILE" ] || { echo "::error::$FILE 不存在"; exit 1; }
+          jq -n --slurpfile f "$FILE" '{file: $f[0], apply: true}' > /tmp/body.json
+          STATUS=$(curl -sS -o /tmp/resp.json -w '%{http_code}' -X POST "$JH_WEB_ORIGIN/api/internal/graduate/daily-jobs" \
+            -H "Authorization: Bearer $JH_GRADUATE_INGEST_KEY" -H 'Content-Type: application/json' --data-binary @/tmp/body.json)
+          cat /tmp/resp.json; echo
+          [ "$STATUS" = "200" ] || { echo "::error::求职匠导入失败 HTTP $STATUS"; exit 1; }
+          jq -e '.skipped | length == 0' /tmp/resp.json >/dev/null || echo "::warning::有岗位缺少 applyUrl / market 等必填字段被跳过"
+
+      - name: Legacy backend sync (until JobHunter key is configured)
+        if: env.JH_GRADUATE_INGEST_KEY == ''
         env:
           JR_SERVICE_API_KEY: ${{ secrets.JR_SERVICE_API_KEY }}
           JR_ADMIN_TOKEN: ${{ secrets.ADMIN_TOKEN }}
           JR_API: ${{ secrets.API_URL || 'https://api.jiangren.com.au' }}
-        run: bun run scripts/sync-scraped-jobs.ts ${{ inputs.date }}
+        run: bun run scripts/sync-scraped-jobs.ts ${{ steps.day.outputs.date }}
