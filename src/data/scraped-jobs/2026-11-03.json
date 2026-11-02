@@ -1,0 +1,142 @@
+{
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-03T07:30:00+11:00",
+  "auMode": "主高峰",
+  "cnMode": "秋招",
+  "sources": [
+    "seek.com.au",
+    "lifeatcanva.com",
+    "au.prosple.com",
+    "nowcoder.com",
+    "careers.tencent.com",
+    "jobs.bytedance.com"
+  ],
+  "stats": {
+    "auCandidates": 18,
+    "auLive": 4,
+    "cnCandidates": 20,
+    "cnLive": 6
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Staff Security Engineer - AI Security",
+      "company": "Canva",
+      "location": "Sydney, NSW",
+      "category": "AI Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.lifeatcanva.com/en/jobs/6000000001250795/staff-security-engineer-ai-security-remote-across-australia/",
+      "description": "Staff Security Engineer, AI Security (remote across Australia): Focuses on controls for AI systems, including threats such as prompt injection and model poisoning.",
+      "snippet": "Staff Security Engineer, AI Security (remote across Australia): Focuses on controls for AI systems, including threats such as prompt injection and model poisoning.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Data Engineer",
+      "company": "Precision Sourcing",
+      "location": "Sydney, NSW",
+      "category": "Data Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.seek.com.au/job/58961055",
+      "description": "Senior Data Engineer at Precision Sourcing (Sydney NSW): Requires permanent residency or citizenship, and asks for Minimum 7+ years across Data Engineering or Business Intelligence development, with Snowflake and cloud experience.",
+      "snippet": "Senior Data Engineer at Precision Sourcing (Sydney NSW): Requires permanent residency or citizenship, and asks for Minimum 7+ years across Data Engineering or Business Intelligence development, with Snowflake and cloud experience.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Data Engineer",
+      "company": "empire group",
+      "location": "Brisbane, QLD",
+      "category": "Data Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.seek.com.au/job/55694462",
+      "description": "DH4114 Senior Data Engineer (empire group, listed as Brisbane): A federal government role that can be based out of their Brisbane, Sydney, or their Canberra office. It is not a Sydney or Melbourne role.",
+      "snippet": "DH4114 Senior Data Engineer (empire group, listed as Brisbane): A federal government role that can be based out of their Brisbane, Sydney, or their Canberra office. It is not a Sydney or Melbourne role.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Graduate Program - Data Analytics",
+      "company": "Allianz Australia",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://au.prosple.com/graduate-employers/allianz-australia/jobs-internships/graduate-program-data-analytics",
+      "description": "A two-year Data Analytics graduate program starting 10 February 2027, with a salary range of AUD 75,000 - 85,000 / Year. Applications closed 6 July 2026.",
+      "snippet": "A two-year Data Analytics graduate program starting 10 February 2027, with a salary range of AUD 75,000 - 85,000 / Year. Applications closed 6 July 2026.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI模型工程师（华为2027届校招）",
+      "company": "华为",
+      "location": "北京, 上海",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/462519",
+      "description": "华为2027届校招，涵盖软件开发、云服务、AI Infra、AI应用、AI模型工程师等方向，工作城市包括北京、上海、西安、东莞。其中AI模型工程师岗位涉及大模型预训练与微调、RLHF/DPO等对齐算法。",
+      "snippet": "华为2027届校招，涵盖软件开发、云服务、AI Infra、AI应用、AI模型工程师等方向，工作城市包括北京、上海、西安、东莞。其中AI模型工程师岗位涉及大模型预训练与微调、RLHF/DPO等对齐算法。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI应用开发工程师（Agent方向）",
+      "company": "腾讯",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://careers.tencent.com/jobdesc.html?postId=2084242179768893440",
+      "description": "腾讯2027校招AI技术岗，Agent开发岗位的JD涉及多Agent协作、任务规划、记忆机制与评测体系，并要求熟悉LangGraph、AutoGen等开源框架，面向本科及以上，工作城市包括深圳、北京、广州、成都、上海。",
+      "snippet": "腾讯2027校招AI技术岗，Agent开发岗位的JD涉及多Agent协作、任务规划、记忆机制与评测体系，并要求熟悉LangGraph、AutoGen等开源框架，面向本科及以上，工作城市包括深圳、北京、广州、成都、上海。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法研究员（豆包大模型 Top Seed）",
+      "company": "字节跳动",
+      "location": "北京, 上海",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://jobs.bytedance.com/campus/position/7369481421675923738/detail",
+      "description": "字节跳动校招重点加码AI岗位，Seed大模型人才方向包括基础大模型、机器学习系统、视觉智能、语音智能等。面向2026年9月至2027年8月毕业的应届生，全年共4次投递机会，截止时间为2027年5月31日。",
+      "snippet": "字节跳动校招重点加码AI岗位，Seed大模型人才方向包括基础大模型、机器学习系统、视觉智能、语音智能等。面向2026年9月至2027年8月毕业的应届生，全年共4次投递机会，截止时间为2027年5月31日。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI算法工程师（2027届校招）",
+      "company": "广联达",
+      "location": "上海, 北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/466404",
+      "description": "广联达 (27届 AI 算法工程师, 西安/上海/北京): 西安/上海/北京, for 2027 graduates with a master's or above. It covers LLM, VLM, and Agent-related work.",
+      "snippet": "广联达 (27届 AI 算法工程师, 西安/上海/北京): 西安/上海/北京, for 2027 graduates with a master's or above. It covers LLM, VLM, and Agent-related work.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "高级算法工程师（AIGC多模态方向）",
+      "company": "OPPO",
+      "location": "深圳, 上海",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/258962",
+      "description": "OPPO（博士校招）：有AIGC、大模型及轻量化、NLP等算法岗位，开放城市包括深圳、上海、北京、成都、西安，页面提示需通过OPPO官网投递 (目前开放岗位包括AIGC算法工程师、NLP算法工程师、大模型及轻量化算法工程师等)。",
+      "snippet": "OPPO（博士校招）：有AIGC、大模型及轻量化、NLP等算法岗位，开放城市包括深圳、上海、北京、成都、西安，页面提示需通过OPPO官网投递 (目前开放岗位包括AIGC算法工程师、NLP算法工程师、大模型及轻量化算法工程师等)。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "算法工程师（27届秋招）",
+      "company": "滴滴",
+      "location": "北京, 上海",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/460167",
+      "description": "有一个明确面向2027届的算法岗位，标题为\"27届秋招-算法工程师\"，地点为北京、上海、杭州、广州等，投递时间标注为2026年8月至2027年8月。任职要求中写明需为2027届本科及以上学历毕业生，专业包括计算机、电子工程、自动化、数学等。该页面还提到了机器学习、NLP等方向的基础要求。",
+      "snippet": "有一个明确面向2027届的算法岗位，标题为\"27届秋招-算法工程师\"，地点为北京、上海、杭州、广州等，投递时间标注为2026年8月至2027年8月。任职要求中写明需为2027届本科及以上学历毕业生，专业包括计算机、电子工程、自动化、数学等。该页面还提到了机器学习、NLP等方向的基础要求。",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
