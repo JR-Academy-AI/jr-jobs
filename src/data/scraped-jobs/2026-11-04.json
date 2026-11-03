@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-04",
+  "generatedAt": "2026-11-04T07:30:00+11:00",
+  "auMode": "主高峰",
+  "cnMode": "秋招",
+  "sources": ["yingjiesheng.com"],
+  "stats": {
+    "auCandidates": 0,
+    "auLive": 0,
+    "cnCandidates": 1,
+    "cnLive": 1
+  },
+  "jobs": [
+    {
+      "market": "CN",
+      "title": "具身智能算法工程师（2027届）",
+      "company": "北京人形机器人创新中心",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.yingjiesheng.com/job-008-052-160.html",
+      "description": "北京人形机器人创新中心2027届招聘具身智能算法工程师。岗位职责：模仿学习、强化学习等算法研发，构建机械臂通用技能库，与大模型、运控、本体团队协作。任职要求：硕士及以上学历，掌握C++/Python/ROS2，了解Isaac Lab/MuJoCo等仿真环境及DDS。工作城市北京，薪资25-50k×14薪，招聘20人。",
+      "snippet": "北京人形机器人创新中心2027届招聘具身智能算法工程师。岗位职责：模仿学习、强化学习等算法研发，构建机械臂通用技能库，与大模型、运控、本体团队协作。任职要求：硕士及以上学历，掌握C++/Python/ROS2，了解Isaac Lab/MuJoCo等仿真环境及DDS。工作城市北京，薪资25-50k×14薪，招聘20人。",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
