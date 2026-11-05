@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-06",
+  "generatedAt": "2026-11-06T07:30:00+10:00",
+  "auMode": "主高峰",
+  "cnMode": "秋招",
+  "sources": ["careers.cognizant.com", "nowcoder.com", "xiaomi.jobs.f.mioffice.cn"],
+  "stats": {
+    "auCandidates": 15,
+    "auLive": 1,
+    "cnCandidates": 20,
+    "cnLive": 2
+  },
+  "jobs": [
+    {
+      "id": "AU-20261106-001",
+      "market": "AU",
+      "company": "Cognizant",
+      "title": "Lead Data Engineer",
+      "category": "Data Engineer",
+      "level": "Senior",
+      "location": "Sydney NSW",
+      "applyUrl": "https://careers.cognizant.com/global-en/jobs/00071175931/lead-data-engineer/",
+      "description": "Lead Data Engineer in Sydney, New South Wales, Australia at Cognizant. The role centres on Amazon Redshift, Fivetran, Databricks, and dbt. Posted November 3, 2026.",
+      "snippet": "Lead Data Engineer in Sydney, New South Wales, Australia at Cognizant. The role centres on Amazon Redshift, Fivetran, Databricks, and dbt. Posted November 3, 2026.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "id": "CN-20261106-001",
+      "market": "CN",
+      "company": "百度",
+      "title": "百度商业研发部-机器学习",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "location": "上海/北京",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/298992",
+      "description": "百度商业研发部-机器学习_百度社招_牛客网. 上海/北京. 2026 machine-learning role in commercial R&D, ad search and recommendation.",
+      "snippet": "百度商业研发部-机器学习_百度社招_牛客网. 上海/北京. 2026 machine-learning role in commercial R&D, ad search and recommendation.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "id": "CN-20261106-002",
+      "market": "CN",
+      "company": "小米",
+      "title": "大语言模型算法工程师",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "location": "武汉/北京",
+      "applyUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670924160037751082/detail",
+      "description": "大语言模型算法工程师 - 小米校园招聘. 2027届校园招聘计划. 工作地点武汉、北京.",
+      "snippet": "大语言模型算法工程师 - 小米校园招聘. 2027届校园招聘计划. 工作地点武汉、北京.",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
