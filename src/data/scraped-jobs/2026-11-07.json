@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-07",
+  "generatedAt": "2026-11-06T22:06:31+10:00",
+  "auMode": "主高峰",
+  "cnMode": "秋招",
+  "sources": [
+    "au.gradconnection.com",
+    "join.qq.com"
+  ],
+  "stats": {
+    "auCandidates": 6,
+    "auLive": 1,
+    "cnCandidates": 4,
+    "cnLive": 1
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "AI Engineer Graduate",
+      "company": "NTT DATA",
+      "location": "Sydney / Melbourne / Canberra",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/ntt/jobs/ntt-ai-engineer-graduate-ntt-data/",
+      "description": "As an AI Engineer graduate, you will build strong AI and data capabilities while contributing to the development and delivery of practical, real-world AI/ML solutions. You will support tasks such as data preparation, model development, evaluation, and optimisation",
+      "snippet": "As an AI Engineer graduate, you will build strong AI and data capabilities while contributing to the development and delivery of practical, real-world AI/ML solutions. You will support tasks such as data preparation, model development, evaluation, and optimisation",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "Agent开发工程师（2027届校招）",
+      "company": "腾讯",
+      "location": "深圳/北京/上海",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://join.qq.com/post_detail.html?postid=1282707398326592512",
+      "description": "职责包括搭建多Agent协作框架、任务规划与工具调用模块，设计记忆与决策机制，以及建设评测体系. 要求包括Python、TypeScript或Go等语言基础，熟悉Planning、Memory、Tool Use、Reflection等机制，并了解LangGraph、AutoGen等框架",
+      "snippet": "职责包括搭建多Agent协作框架、任务规划与工具调用模块，设计记忆与决策机制，以及建设评测体系. 要求包括Python、TypeScript或Go等语言基础，熟悉Planning、Memory、Tool Use、Reflection等机制，并了解LangGraph、AutoGen等框架",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
