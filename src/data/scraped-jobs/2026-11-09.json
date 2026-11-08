@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T07:30:00+10:00",
+  "auMode": "主高峰",
+  "cnMode": "秋招",
+  "sources": ["seek.com.au", "freehire.me", "nowcoder.com", "yingjiesheng.com"],
+  "stats": {
+    "auCandidates": 35,
+    "auLive": 6,
+    "cnCandidates": 25,
+    "cnLive": 3
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Graduate AI Engineer",
+      "company": "Earth AI",
+      "location": "Alexandria, Sydney NSW",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://freehire.me/jobs/graduate-ai-engineer-earth-ai-7pv427h5",
+      "description": "Graduate AI Engineer at Earth AI, Alexandria Sydney NSW (on-site). Responsibilities include building modular AI components, running experiments and validating outputs, writing clean maintainable Python code. Develop and evaluate machine learning models and AI agents using multimodal geological and operational datasets. Requirements: degree in AI, data science, computer science/IT with an AI/ML/data focus, or a related science or engineering field with a strong AI emphasis; knowledge of ML fundamentals, LLMs, and retrieval-augmented generation; proficiency in Python including NumPy, Pandas, scikit-learn, and PyTorch. Up to 2 years professional experience. Salary: $120,000–$130,000 per year. Early-stage critical metals exploration company, founded 2019, 12 employees.",
+      "snippet": "Graduate AI Engineer at Earth AI, Alexandria Sydney NSW (on-site). Responsibilities include building modular AI components, running experiments and validating outputs, writing clean maintainable Python code. Develop and evaluate machine learning models and AI agents using multimodal geological and operational datasets. Requirements: degree in AI, data science, computer science/IT with an AI/ML/data focus, or a related science or engineering field with a strong AI emphasis; knowledge of ML fundamentals, LLMs, and retrieval-augmented generation; proficiency in Python including NumPy, Pandas, scikit-learn, and PyTorch. Up to 2 years professional experience. Salary: $120,000–$130,000 per year. Early-stage critical metals exploration company, founded 2019, 12 employees.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "MLOps Engineer",
+      "company": "7-Eleven Australia",
+      "location": "Richmond, Melbourne VIC",
+      "category": "MLOps / AI Infra",
+      "level": "Mid",
+      "applyUrl": "https://freehire.me/jobs/mlops-engineer-7eleven-6mshlqdg",
+      "description": "MLOps Engineer at 7-Eleven Australia, reporting to the Head of Research, Analytics & Data Science. The MLOps Engineer will play a key role in helping our Data Science team deploy, operate and maintain machine learning and AI solutions in production. Initially, the focus is the operationalising and ongoing support of our strategic machine learning engine hosted in Databricks. Responsibilities: taking models from experimentation to production, building CI/CD pipelines, maintaining data and feature pipelines, diagnosing production issues, and supporting Generative AI and LLM applications; access controls and governance within Databricks. Requirements: strong Python and SQL skills, Azure Databricks experience (MLflow, Delta Lake, Unity Catalog, Workflows), experience monitoring models in production including drift detection; CI/CD experience preferred, ideally Azure DevOps. Agentic AI and LLM deployment experience is a bonus. Location: Richmond, Melbourne VIC (Hybrid, 3 days in office). Base & super & bonus.",
+      "snippet": "MLOps Engineer at 7-Eleven Australia, reporting to the Head of Research, Analytics & Data Science. The MLOps Engineer will play a key role in helping our Data Science team deploy, operate and maintain machine learning and AI solutions in production. Initially, the focus is the operationalising and ongoing support of our strategic machine learning engine hosted in Databricks. Responsibilities: taking models from experimentation to production, building CI/CD pipelines, maintaining data and feature pipelines, diagnosing production issues, and supporting Generative AI and LLM applications; access controls and governance within Databricks. Requirements: strong Python and SQL skills, Azure Databricks experience (MLflow, Delta Lake, Unity Catalog, Workflows), experience monitoring models in production including drift detection; CI/CD experience preferred, ideally Azure DevOps. Agentic AI and LLM deployment experience is a bonus. Location: Richmond, Melbourne VIC (Hybrid, 3 days in office). Base & super & bonus.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Lead Machine Learning Engineer (ML/AI)",
+      "company": "Additive Assurance",
+      "location": "Oakleigh South, Melbourne VIC",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://freehire.me/jobs/lead-machine-learning-engineer-ml-ai-additive-assurance-ulmsjurb",
+      "description": "Lead Machine Learning Engineer (ML/AI) at Additive Assurance, Oakleigh South Melbourne VIC. About the role: primary ML lead who takes end-to-end ownership of classification and 3D segmentation pipelines, with models deployed onto machines in the field. This is not a clean-data competition or academic research gig, since industrial sensor data is messy and edge hardware has real compute limits. Responsibilities: designing, training, and deploying deep learning models for classification, anomaly detection, and segmentation on image and 3D datasets; building preprocessing, filtering, and augmentation pipelines for sensor streams; working with the software team to put models into production and optimize inference for edge and cloud; benchmarking new architectures for real-time defect detection; root-causing model problems across hardware logs, raw sensor data, and pipeline code. Requirements: practical deep learning experience in PyTorch and computer vision, segmentation, or 3D data; strong Python and scientific-stack skills, plus Git, Docker, Linux, and CI/CD; valid working rights in Australia. Salary: $150,000 + super + equity. Hybrid, Oakleigh South Melbourne VIC. Posted September 2026.",
+      "snippet": "Lead Machine Learning Engineer (ML/AI) at Additive Assurance, Oakleigh South Melbourne VIC. About the role: primary ML lead who takes end-to-end ownership of classification and 3D segmentation pipelines, with models deployed onto machines in the field. This is not a clean-data competition or academic research gig, since industrial sensor data is messy and edge hardware has real compute limits. Responsibilities: designing, training, and deploying deep learning models for classification, anomaly detection, and segmentation on image and 3D datasets; building preprocessing, filtering, and augmentation pipelines for sensor streams; working with the software team to put models into production and optimize inference for edge and cloud; benchmarking new architectures for real-time defect detection; root-causing model problems across hardware logs, raw sensor data, and pipeline code. Requirements: practical deep learning experience in PyTorch and computer vision, segmentation, or 3D data; strong Python and scientific-stack skills, plus Git, Docker, Linux, and CI/CD; valid working rights in Australia. Salary: $150,000 + super + equity. Hybrid, Oakleigh South Melbourne VIC. Posted September 2026.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior AI Engineer",
+      "company": "FinXL IT Professional Services",
+      "location": "Sydney CBD, NSW",
+      "category": "AI Engineer",
+      "level": "Senior",
+      "applyUrl": "https://freehire.me/jobs/senior-ai-engineer-finxl-it-professional-services-ch27gsmv",
+      "description": "Senior AI Engineer at FinXL IT Professional Services — deployed with a leading banking client on a 6-12 months contract in Sydney CBD. You will design, build, and deploy enterprise-grade Agentic AI and Graph-RAG systems; build knowledge graphs, multi-step agent frameworks, and evaluation guardrails; work with risk and governance teams. Requirements: production LLM experience, advanced expertise in Neo4j and Cypher, LangGraph or AutoGen, Python, and AWS; graph database modeling and knowledge graph integration using Neo4j is a key requirement. Exposure to APRA and Basel frameworks is highly regarded. Hybrid working model, 3 days/week in Sydney CBD. Up to $160k inc super p.a. or day-rate option. Posted November 2026.",
+      "snippet": "Senior AI Engineer at FinXL IT Professional Services — deployed with a leading banking client on a 6-12 months contract in Sydney CBD. You will design, build, and deploy enterprise-grade Agentic AI and Graph-RAG systems; build knowledge graphs, multi-step agent frameworks, and evaluation guardrails; work with risk and governance teams. Requirements: production LLM experience, advanced expertise in Neo4j and Cypher, LangGraph or AutoGen, Python, and AWS; graph database modeling and knowledge graph integration using Neo4j is a key requirement. Exposure to APRA and Basel frameworks is highly regarded. Hybrid working model, 3 days/week in Sydney CBD. Up to $160k inc super p.a. or day-rate option. Posted November 2026.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "AI Engineer, AI Innovation Office",
+      "company": "Westpac Group",
+      "location": "Sydney or Melbourne",
+      "category": "AI Engineer",
+      "level": "Mid",
+      "applyUrl": "https://freehire.me/jobs/ai-engineer-ai-innovation-office-westpac-group-ebnjbkli",
+      "description": "AI Engineer, AI Innovation Office at Westpac Group. About the role: requires hands-on AI engineering experience in regulated banking environments, plus practical experience with RAG, embeddings, vector databases, and model evaluation. Responsibilities include building and deploying AI solutions within Westpac's AI Innovation Office to serve customers across the bank's product lines. Senior and lead versions of this role are also listed. Location: Sydney or Melbourne (Hybrid).",
+      "snippet": "AI Engineer, AI Innovation Office at Westpac Group. About the role: requires hands-on AI engineering experience in regulated banking environments, plus practical experience with RAG, embeddings, vector databases, and model evaluation. Responsibilities include building and deploying AI solutions within Westpac's AI Innovation Office to serve customers across the bank's product lines. Senior and lead versions of this role are also listed. Location: Sydney or Melbourne (Hybrid).",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Data Engineer – AI/ML DataOps",
+      "company": "Sonitec",
+      "location": "Sydney CBD, NSW",
+      "category": "Data Engineer",
+      "level": "Senior",
+      "applyUrl": "https://freehire.me/jobs/senior-data-engineer-ai-ml-dataops-sonitec-znlajvs5",
+      "description": "Senior Data Engineer – AI/ML DataOps at Sonitec, Sydney CBD. Requirements: 5+ years of experience, CI/CD and MLOps pipeline work, Python or Java. The role also asks for C++, CUDA, or sensor-fusion knowledge, suggesting involvement with embedded and edge AI systems alongside cloud ML infrastructure. Responsibilities include building and maintaining AI/ML DataOps pipelines in a production environment. Location: Sydney CBD (Hybrid).",
+      "snippet": "Senior Data Engineer – AI/ML DataOps at Sonitec, Sydney CBD. Requirements: 5+ years of experience, CI/CD and MLOps pipeline work, Python or Java. The role also asks for C++, CUDA, or sensor-fusion knowledge, suggesting involvement with embedded and edge AI systems alongside cloud ML infrastructure. Responsibilities include building and maintaining AI/ML DataOps pipelines in a production environment. Location: Sydney CBD (Hybrid).",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "多模态大模型算法工程师",
+      "company": "安克创新",
+      "location": "深圳",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/463084",
+      "description": "多模态大模型算法工程师 — 安克创新校招，深圳，2027届。岗位方向包括多模态大模型、世界模型和具身智能。任职要求：2027届硕士及以上毕业生，计算机、电子、数学等相关专业，具备深度学习相关基础。",
+      "snippet": "多模态大模型算法工程师 — 安克创新校招，深圳，2027届。岗位方向包括多模态大模型、世界模型和具身智能。任职要求：2027届硕士及以上毕业生，计算机、电子、数学等相关专业，具备深度学习相关基础。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "算法工程师（2027届秋招）",
+      "company": "滴滴出行",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/460167",
+      "description": "27届秋招-算法工程师 — 滴滴出行，北京。岗位职责：参与公司核心算法的设计与开发，成果应用于各产品线，并构建高效的算法平台。面向2027届应届毕业生，投递时间：2026年8月13日至2027年8月31日。",
+      "snippet": "27届秋招-算法工程师 — 滴滴出行，北京。岗位职责：参与公司核心算法的设计与开发，成果应用于各产品线，并构建高效的算法平台。面向2027届应届毕业生，投递时间：2026年8月13日至2027年8月31日。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "AI算法与大模型工程师（2027届秋招）",
+      "company": "国家数据集团",
+      "location": "北京",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.yingjiesheng.com/job-008-142-816.html",
+      "description": "AI算法与大模型工程师（2027届秋招）— 国家数据集团有限公司，北京。国家数据集团首次对外招聘，面向2027届应届毕业生（含2025、2026年未落实去向者）。岗位方向包括AI算法与大模型工程师、智能体研发工程师、人工智能研究员、数据科学算法研究员等。专业要求：计算机类、软件工程类、数学类、人工智能、数据科学与大数据技术等相关专业，本科及以上学历。报名截止日期：2026年11月30日。",
+      "snippet": "AI算法与大模型工程师（2027届秋招）— 国家数据集团有限公司，北京。国家数据集团首次对外招聘，面向2027届应届毕业生（含2025、2026年未落实去向者）。岗位方向包括AI算法与大模型工程师、智能体研发工程师、人工智能研究员、数据科学算法研究员等。专业要求：计算机类、软件工程类、数学类、人工智能、数据科学与大数据技术等相关专业，本科及以上学历。报名截止日期：2026年11月30日。",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
