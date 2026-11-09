@@ -1,0 +1,118 @@
+{
+  "date": "2026-11-10",
+  "generatedAt": "2026-11-10T08:59:56+11:00",
+  "auMode": "主高峰",
+  "cnMode": "秋招",
+  "sources": [
+    "prosple.com",
+    "gradconnection.com",
+    "nowcoder.com"
+  ],
+  "stats": {
+    "auCandidates": 10,
+    "auLive": 4,
+    "cnCandidates": 8,
+    "cnLive": 5
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "company": "Bega Group",
+      "title": "RISE Graduate Program – Data and AI",
+      "category": "Data Engineer",
+      "level": "Graduate",
+      "location": "Melbourne, VIC",
+      "applyUrl": "https://au.prosple.com/graduate-employers/bega-cheese/jobs-internships/rise-graduate-program-data-and-ai",
+      "description": "Duties include checking data quality, investigating pipeline issues, and monitoring data and model performance. The role also covers writing dataset documentation, preparing evidence for AI governance reviews, and working with Supply Chain, Finance, Manufacturing, and Commercial teams. Tools include Snowflake, dbt, ETL, and Power BI. Requirements: a recent Bachelor or postgraduate degree from the last three years, Australian or New Zealand citizenship or permanent residency, available to start full-time in February 2027.",
+      "snippet": "Duties include checking data quality, investigating pipeline issues, and monitoring data and model performance. The role also covers writing dataset documentation, preparing evidence for AI governance reviews, and working with Supply Chain, Finance, Manufacturing, and Commercial teams. Tools include Snowflake, dbt, ETL, and Power BI. Requirements: a recent Bachelor or postgraduate degree from the last three years, Australian or New Zealand citizenship or permanent residency, available to start full-time in February 2027."
+    },
+    {
+      "market": "AU",
+      "company": "Allianz Australia",
+      "title": "Graduate Program – Data Analytics (Feb 2027)",
+      "category": "Business Analyst",
+      "level": "Graduate",
+      "location": "Sydney, NSW",
+      "applyUrl": "https://au.prosple.com/graduate-employers/allianz-australia/jobs-internships/graduate-program-data-analytics",
+      "description": "A 2-year rotational program across data manipulation, insight communication and stakeholder teams at Allianz Australia. Fully funded study leave for data analytics qualifications. Candidates need a completed tertiary degree in a data-related discipline and must have Australian or NZ citizenship or permanent residency. 2 to 3 vacancies. AUD 75,000 to 85,000. Start date February 2027.",
+      "snippet": "A 2-year rotational program across data manipulation, insight communication and stakeholder teams at Allianz Australia. Fully funded study leave for data analytics qualifications. Candidates need a completed tertiary degree in a data-related discipline and must have Australian or NZ citizenship or permanent residency. 2 to 3 vacancies. AUD 75,000 to 85,000. Start date February 2027."
+    },
+    {
+      "market": "AU",
+      "company": "RSM Australia",
+      "title": "Data Analytics Graduate Program (Feb 2027)",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "location": "Melbourne, VIC",
+      "applyUrl": "https://au.prosple.com/graduate-employers/rsm-australia/jobs-internships/data-analytics-graduate-program-2",
+      "description": "Duties include collecting, analysing, and interpreting complex data to create predictive models and make data-driven decisions, building business insights through visualisation, using analysis to improve efficiency, helping develop data governance and strategy, and writing scripts to clean and extract data. Requirements: Applicants should be studying or have completed a Masters or Doctorate in a quantitative discipline such as statistics, computer science, or economics, or have equivalent practical experience. AUD 67,000 to 70,000. Start date 1 Feb 2027.",
+      "snippet": "Duties include collecting, analysing, and interpreting complex data to create predictive models and make data-driven decisions, building business insights through visualisation, using analysis to improve efficiency, helping develop data governance and strategy, and writing scripts to clean and extract data. Requirements: Applicants should be studying or have completed a Masters or Doctorate in a quantitative discipline such as statistics, computer science, or economics, or have equivalent practical experience. AUD 67,000 to 70,000. Start date 1 Feb 2027."
+    },
+    {
+      "market": "AU",
+      "company": "Ingrity Australia",
+      "title": "Graduate Program – Data and Analytics",
+      "category": "Data Engineer",
+      "level": "Graduate",
+      "location": "Sydney, NSW",
+      "applyUrl": "https://au.prosple.com/graduate-employers/ingrity-australia/jobs-internships/graduate-program-data-and-analytics",
+      "description": "Key responsibilities include designing data systems, building pipelines, developing models and dashboards, and setting up data governance. Ideal applicants are expected to bring experience in data architecture and solution design, data strategy, and data engineering, along with testing and platform work. The posting says no experience required. Eligibility: IT and Computer Science degrees including Data Science and Software Engineering. Work rights: Australian Citizen or Australian Permanent Resident. Location: Sydney.",
+      "snippet": "Key responsibilities include designing data systems, building pipelines, developing models and dashboards, and setting up data governance. Ideal applicants are expected to bring experience in data architecture and solution design, data strategy, and data engineering, along with testing and platform work. The posting says no experience required. Eligibility: IT and Computer Science degrees including Data Science and Software Engineering. Work rights: Australian Citizen or Australian Permanent Resident. Location: Sydney."
+    },
+    {
+      "market": "CN",
+      "company": "广联达",
+      "title": "AI算法工程师（27届校招）",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "location": "西安/上海/北京",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/466404",
+      "description": "该岗位面向模型研发与落地，涵盖CV、NLP、LLM等方向，包括数据集构建、微调和推理加速等工作。任职要求：2027届硕士及以上学历，熟悉PyTorch或TensorFlow。投递时间为2026年9月1日至2029年9月8日。",
+      "snippet": "该岗位面向模型研发与落地，涵盖CV、NLP、LLM等方向，包括数据集构建、微调和推理加速等工作。任职要求：2027届硕士及以上学历，熟悉PyTorch或TensorFlow。投递时间为2026年9月1日至2029年9月8日。"
+    },
+    {
+      "market": "CN",
+      "company": "戴盟（深圳）机器人科技",
+      "title": "模型算法工程师（27届校招）",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "location": "深圳",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/453069",
+      "description": "岗位核心为具身智能模型的工程落地。岗位职责涵盖模型工程化开发（数据读取、分布式训练、推理部署）、搭建训练流水线（如imitation learning、VLA/VTLA），以及离线、仿真和真机评测之间的结果对齐；与规控、系统软件团队协作完成真机部署，并负责文档维护。任职要求：计算机、机器人、自动化、人工智能或电子工程相关本科及以上学历，硕博优先；熟练掌握Python和PyTorch；熟悉Linux、Git、Docker；有模型训练或推理部署经验；了解diffusion policy、Transformer、VLA/VLM等概念。薪资30–60K，2027届。",
+      "snippet": "岗位核心为具身智能模型的工程落地。岗位职责涵盖模型工程化开发（数据读取、分布式训练、推理部署）、搭建训练流水线（如imitation learning、VLA/VTLA），以及离线、仿真和真机评测之间的结果对齐；与规控、系统软件团队协作完成真机部署，并负责文档维护。任职要求：计算机、机器人、自动化、人工智能或电子工程相关本科及以上学历，硕博优先；熟练掌握Python和PyTorch；熟悉Linux、Git、Docker；有模型训练或推理部署经验；了解diffusion policy、Transformer、VLA/VLM等概念。薪资30–60K，2027届。"
+    },
+    {
+      "market": "CN",
+      "company": "虎牙直播",
+      "title": "大模型算法工程师（2027届秋招）",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "location": "广州",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/463662",
+      "description": "岗位主要做大语言模型的后训练，覆盖CPT、SFT、RL等环节，面向内容生产、多轮对话、角色扮演等垂直场景。岗位职责还包括训练数据的挖掘、清洗、合成与质量优化，以及探索大模型在直播、游戏、陪伴等场景的应用。任职要求：2027届硕士及以上，计算机、人工智能、数学等相关专业；扎实的深度学习基础，熟悉Transformer；熟练掌握Python，熟悉PyTorch等框架；LlamaFactory、ms-swift、verl、vLLM等为加分项；有大厂实习经历及大模型产品落地经验者优先。",
+      "snippet": "岗位主要做大语言模型的后训练，覆盖CPT、SFT、RL等环节，面向内容生产、多轮对话、角色扮演等垂直场景。岗位职责还包括训练数据的挖掘、清洗、合成与质量优化，以及探索大模型在直播、游戏、陪伴等场景的应用。任职要求：2027届硕士及以上，计算机、人工智能、数学等相关专业；扎实的深度学习基础，熟悉Transformer；熟练掌握Python，熟悉PyTorch等框架；LlamaFactory、ms-swift、verl、vLLM等为加分项；有大厂实习经历及大模型产品落地经验者优先。"
+    },
+    {
+      "market": "CN",
+      "company": "安克创新",
+      "title": "多模态大模型算法工程师（27届校招）",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "location": "深圳",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/463084",
+      "description": "工作内容偏具身智能方向，涉及多模态大模型、世界模型、生成式模型和端到端VLA，包括数据建设、指令微调、偏好对齐与RLHF。任职要求：在计算机视觉或多模态大模型方向有较深研究，熟悉CV、NLP、RL等领域，能用C/C++或Python编程。在顶会发表论文、竞赛获奖或主导大型项目者优先。2027届硕士及以上，深圳，投递时间2026年8月26日至2029年10月15日。",
+      "snippet": "工作内容偏具身智能方向，涉及多模态大模型、世界模型、生成式模型和端到端VLA，包括数据建设、指令微调、偏好对齐与RLHF。任职要求：在计算机视觉或多模态大模型方向有较深研究，熟悉CV、NLP、RL等领域，能用C/C++或Python编程。在顶会发表论文、竞赛获奖或主导大型项目者优先。2027届硕士及以上，深圳，投递时间2026年8月26日至2029年10月15日。"
+    },
+    {
+      "market": "CN",
+      "company": "中国电子云",
+      "title": "产品经理-AI原生飞行器方向（2027届校招）",
+      "category": "AI Product / PM",
+      "level": "Graduate",
+      "location": "北京",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/463594",
+      "description": "岗位职责包括产品预研、以大模型和智能体为核心的功能定义等，面向AI原生飞行器方向。要求2027届硕士应届毕业生，投递时间为2026年8月26日至2026年12月1日。",
+      "snippet": "岗位职责包括产品预研、以大模型和智能体为核心的功能定义等，面向AI原生飞行器方向。要求2027届硕士应届毕业生，投递时间为2026年8月26日至2026年12月1日。"
+    }
+  ]
+}
