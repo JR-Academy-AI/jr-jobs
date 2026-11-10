@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-11",
+  "generatedAt": "2026-11-11T09:10:00+11:00",
+  "auMode": "主高峰",
+  "cnMode": "秋招",
+  "sources": [
+    "jobs.slalom.com",
+    "careers.nab.com.au",
+    "nowcoder.com"
+  ],
+  "stats": {
+    "auCandidates": 2,
+    "auLive": 2,
+    "cnCandidates": 4,
+    "cnLive": 4
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "company": "NAB",
+      "title": "AI Scientist",
+      "category": "AI Engineer",
+      "level": "Senior",
+      "location": "Sydney CBD, NSW / Melbourne CBD, VIC",
+      "applyUrl": "https://careers.nab.com.au/jobs/ai-scientist-vic-melbourne-cbd-vic-australia-nsw-sydney-cbd-nsw",
+      "description": "developing the core components of NAB's agentic AI products, such as agent reasoning, tool use, memory and orchestration. The role asks for experience putting applied AI/ML systems into production, with LLM and agentic experience preferred. Familiarity with prompt and context engineering, retrieval-augmented generation (RAG), tool use and agent orchestration is listed, with direct hands-on experience strongly preferred.",
+      "snippet": "developing the core components of NAB's agentic AI products, such as agent reasoning, tool use, memory and orchestration. The role asks for experience putting applied AI/ML systems into production, with LLM and agentic experience preferred. Familiarity with prompt and context engineering, retrieval-augmented generation (RAG), tool use and agent orchestration is listed, with direct hands-on experience strongly preferred."
+    },
+    {
+      "market": "AU",
+      "company": "Slalom",
+      "title": "Senior Engineer - Data and AI",
+      "category": "Data Engineer",
+      "level": "Senior",
+      "location": "Sydney, NSW / Canberra, ACT / Melbourne, VIC",
+      "applyUrl": "https://jobs.slalom.com/en_US/careersmarketplace/JobDetail/Senior-Engineer-Data-and-AI-Sydney-Canberra-Melbourne/1797",
+      "description": "builds client data platforms across AWS, Azure, and GCP. The engineer works within teams with limited supervision, and takes design direction from a Solution Architect. The core ask is 4+ years of hands-on data engineering, with SQL and Python as main languages. Cloud data warehousing, Spark/Databricks-style processing, and ELT/ETL tooling are listed, along with Git-based CI/CD and Agile experience.",
+      "snippet": "builds client data platforms across AWS, Azure, and GCP. The engineer works within teams with limited supervision, and takes design direction from a Solution Architect. The core ask is 4+ years of hands-on data engineering, with SQL and Python as main languages. Cloud data warehousing, Spark/Databricks-style processing, and ELT/ETL tooling are listed, along with Git-based CI/CD and Agile experience."
+    },
+    {
+      "market": "CN",
+      "company": "昆仑芯",
+      "title": "AI推理框架研发工程师",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "location": "北京 / 上海 / 杭州 / 深圳",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/30300000146097",
+      "description": "职责包括让AI模型适配昆仑芯芯片并做性能优化,为其芯片提供推理软件栈(框架、图编译器等),以及支持主流框架的模型对接和算子开发。岗位要求包括计算机相关专业硕士及以上学历,并要求熟悉Python/C/C++和深度学习知识,有vLLM、PyTorch等框架经验者优先。北京市,上海市,浙江省·杭州市,广东省·深圳市是其工作地点。",
+      "snippet": "职责包括让AI模型适配昆仑芯芯片并做性能优化,为其芯片提供推理软件栈(框架、图编译器等),以及支持主流框架的模型对接和算子开发。岗位要求包括计算机相关专业硕士及以上学历,并要求熟悉Python/C/C++和深度学习知识,有vLLM、PyTorch等框架经验者优先。北京市,上海市,浙江省·杭州市,广东省·深圳市是其工作地点。"
+    },
+    {
+      "market": "CN",
+      "company": "Shopee",
+      "title": "算法工程师-AIGC基模方向",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "location": "深圳",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/462200",
+      "description": "岗位聚焦图像/视频生成基础大模型的研发，涉及架构设计、预训练、后训练和算法优化。还包括训练体系建设，如数据管道、数据质量优化和评测体系，以及大规模生成模型预训练infra的建设与推理效率优化。有扎实的机器学习、深度学习基础，并熟悉Transformer、Diffusion、Flow Matching、Autoregressive等架构。Python和PyTorch等深度学习框架是必备技能。投递时间为2026年8月20日至2026年12月31日。",
+      "snippet": "岗位聚焦图像/视频生成基础大模型的研发，涉及架构设计、预训练、后训练和算法优化。还包括训练体系建设，如数据管道、数据质量优化和评测体系，以及大规模生成模型预训练infra的建设与推理效率优化。有扎实的机器学习、深度学习基础，并熟悉Transformer、Diffusion、Flow Matching、Autoregressive等架构。Python和PyTorch等深度学习框架是必备技能。投递时间为2026年8月20日至2026年12月31日。"
+    },
+    {
+      "market": "CN",
+      "company": "拼多多",
+      "title": "AI Infra研发工程师(2027届)",
+      "category": "MLOps / AI Infra",
+      "level": "Graduate",
+      "location": "上海",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/452112",
+      "description": "大模型训练与推理基础设施研发：参与构建和优化面向大规模分布式训练/推理的Infra平台。教育背景：2026.9-2027.8期间已获得或即将获得博士/硕士学位的同学，计算机科学、软件工程、电子信息、自动化等相关专业优先。要求熟练掌握C/C++和Python，Go或Rust为加分项。需要熟悉至少一种主流大模型训练或推理框架，如PyTorch、Megatron、DeepSpeed、vLLM、TVM。有GPU/异构集群相关经验者优先。",
+      "snippet": "大模型训练与推理基础设施研发：参与构建和优化面向大规模分布式训练/推理的Infra平台。教育背景：2026.9-2027.8期间已获得或即将获得博士/硕士学位的同学，计算机科学、软件工程、电子信息、自动化等相关专业优先。要求熟练掌握C/C++和Python，Go或Rust为加分项。需要熟悉至少一种主流大模型训练或推理框架，如PyTorch、Megatron、DeepSpeed、vLLM、TVM。有GPU/异构集群相关经验者优先。"
+    },
+    {
+      "market": "CN",
+      "company": "小鹏汽车",
+      "title": "机器人VLA大模型算法工程师（27届校招）",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "location": "广州",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/462409",
+      "description": "研究和优化机器人学习算法,覆盖VLA大模型、具身感知、任务规划、运动控制和端到端机器人学习等方向。处理机器人多模态数据,包括真机数据、仿真数据和3DGS数据的采集、清洗、标注与配比。负责VLA模型的训练、微调与评测,并推动算法在真实机器人上验证落地。要求2027届应届生,计算机、人工智能、机器人、电子、自动化等相关专业,熟练掌握Python,并会使用PyTorch或TensorFlow中至少一种。",
+      "snippet": "研究和优化机器人学习算法,覆盖VLA大模型、具身感知、任务规划、运动控制和端到端机器人学习等方向。处理机器人多模态数据,包括真机数据、仿真数据和3DGS数据的采集、清洗、标注与配比。负责VLA模型的训练、微调与评测,并推动算法在真实机器人上验证落地。要求2027届应届生,计算机、人工智能、机器人、电子、自动化等相关专业,熟练掌握Python,并会使用PyTorch或TensorFlow中至少一种。"
+    }
+  ]
+}
