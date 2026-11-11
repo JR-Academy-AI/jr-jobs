@@ -1,0 +1,87 @@
+{
+  "date": "2026-11-12",
+  "generatedAt": "2026-11-12T07:30:00+10:00",
+  "auMode": "主高峰",
+  "cnMode": "秋招",
+  "sources": [
+    "au.gradconnection.com",
+    "jobs.smartrecruiters.com",
+    "nowcoder.com",
+    "join.qq.com",
+    "campus-talent.alibaba.com"
+  ],
+  "stats": {
+    "auCandidates": 6,
+    "auLive": 2,
+    "cnCandidates": 12,
+    "cnLive": 4
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "company": "NAB",
+      "title": "2027 NAB Graduate Program - Digital, Data and AI",
+      "level": "Graduate",
+      "category": "Data Scientist",
+      "location": "Sydney NSW",
+      "applyUrl": "https://au.gradconnection.com/employers/nab/jobs/nab-2027-nab-graduate-program-digital-data-and-ai-sydney/",
+      "description": "Graduates rotate across Design, Digital, Data & Analytics, AI, and ECOM (onboarding) rotations, depending on placement. The roles are primarily based in Melbourne and Sydney. NAB's own page describes tasks such as building user flows and prototypes in design, capturing business requirements in digital, applying analytics and modelling in data, and supporting AI experimentation in AI rotations. It also lists what the company looks for, including curiosity about how data and AI create value and adaptability. Applicants need Australian or New Zealand citizenship or Australian permanent residency. They also need a degree completed within the past three years, or one due by the start date.",
+      "snippet": "Graduates rotate across Design, Digital, Data & Analytics, AI, and ECOM (onboarding) rotations, depending on placement. The roles are primarily based in Melbourne and Sydney. NAB's own page describes tasks such as building user flows and prototypes in design, capturing business requirements in digital, applying analytics and modelling in data, and supporting AI experimentation in AI rotations. It also lists what the company looks for, including curiosity about how data and AI create value and adaptability. Applicants need Australian or New Zealand citizenship or Australian permanent residency. They also need a degree completed within the past three years, or one due by the start date."
+    },
+    {
+      "market": "AU",
+      "company": "Nine",
+      "title": "Senior Data Engineer",
+      "level": "Senior",
+      "category": "Data Engineer",
+      "location": "North Sydney NSW",
+      "applyUrl": "https://jobs.smartrecruiters.com/Nine/744000106436195-senior-data-engineer",
+      "description": "The listed requirements include fluency in Python and proficiency in SQL, expertise in workflow automation and managing task dependencies using Apache Airflow, and experience deploying cloud infrastructure as code using Terraform or similar tools.",
+      "snippet": "The listed requirements include fluency in Python and proficiency in SQL, expertise in workflow automation and managing task dependencies using Apache Airflow, and experience deploying cloud infrastructure as code using Terraform or similar tools."
+    },
+    {
+      "market": "CN",
+      "company": "华为",
+      "title": "AI应用工程师 2027届",
+      "level": "Graduate",
+      "category": "AI Engineer",
+      "location": "北京/上海/西安/东莞",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/462519",
+      "description": "职责主要包括：参与AI大模型在业务场景中的应用开发、集成与迭代优化；参与需求分析、模型微调和RAG检索相关工作；以及与产品、数据、业务团队协作，做效果评估与持续优化。该帖的要求包括熟悉主流大模型应用开发框架，了解Transformer、微调、向量数据库等原理，并有GPT、DeepSeek、Qwen等模型的应用经验优先。薪资范围：20K-50K·16薪，工作城市：北京/上海/西安/东莞",
+      "snippet": "职责主要包括：参与AI大模型在业务场景中的应用开发、集成与迭代优化；参与需求分析、模型微调和RAG检索相关工作；以及与产品、数据、业务团队协作，做效果评估与持续优化。该帖的要求包括熟悉主流大模型应用开发框架，了解Transformer、微调、向量数据库等原理，并有GPT、DeepSeek、Qwen等模型的应用经验优先。薪资范围：20K-50K·16薪，工作城市：北京/上海/西安/东莞"
+    },
+    {
+      "market": "CN",
+      "company": "腾讯",
+      "title": "AI算法工程师",
+      "level": "Mid",
+      "category": "AI Engineer",
+      "location": "深圳",
+      "applyUrl": "https://join.qq.com/post_detail.html?postId=1292202515139771392",
+      "description": "职责包括设计并优化AI算法方案（如微调、检索增强），以及负责从实验到生产的工程化落地。要求包括扎实的机器学习和深度学习基础、熟悉Transformer与预训练微调范式，并能熟练使用Python和PyTorch等框架",
+      "snippet": "职责包括设计并优化AI算法方案（如微调、检索增强），以及负责从实验到生产的工程化落地。要求包括扎实的机器学习和深度学习基础、熟悉Transformer与预训练微调范式，并能熟练使用Python和PyTorch等框架"
+    },
+    {
+      "market": "CN",
+      "company": "阿里巴巴",
+      "title": "算法工程师-VLM训练",
+      "level": "Graduate",
+      "category": "ML Engineer",
+      "location": "广州/杭州/北京",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/439332",
+      "description": "职责方面，岗位要求在万卡级GPU集群上训练多模态对齐模型，覆盖预训练、SFT、RLHF等全流程。要求方面，岗位强调Python/C++与PyTorch经验，以及10B参数以上模型训练或推理优化的经历。发表过ACL、CVPR、NeurIPS、ICLR等顶会论文者会被优先考虑。工作地点为广州、杭州、北京，投递时间标注为2026年7月14日至2027年7月14日。",
+      "snippet": "职责方面，岗位要求在万卡级GPU集群上训练多模态对齐模型，覆盖预训练、SFT、RLHF等全流程。要求方面，岗位强调Python/C++与PyTorch经验，以及10B参数以上模型训练或推理优化的经历。发表过ACL、CVPR、NeurIPS、ICLR等顶会论文者会被优先考虑。工作地点为广州、杭州、北京，投递时间标注为2026年7月14日至2027年7月14日。"
+    },
+    {
+      "market": "CN",
+      "company": "阿里巴巴",
+      "title": "MaaS大模型智能体算法研究",
+      "level": "Graduate",
+      "category": "AI Engineer",
+      "location": "杭州/北京",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/439329",
+      "description": "职责方面，岗位负责阿里云MaaS平台的核心算法，重点是智能体自演进、Agentic RL训练，以及大模型后训练全链路优化。要求方面，岗位需要机器学习或NLP等领域的理论基础，熟悉PyTorch以及DeepSpeed、Megatron等分布式训练工具，并有顶会论文或竞赛成绩者优先。工作地点为杭州、北京。",
+      "snippet": "职责方面，岗位负责阿里云MaaS平台的核心算法，重点是智能体自演进、Agentic RL训练，以及大模型后训练全链路优化。要求方面，岗位需要机器学习或NLP等领域的理论基础，熟悉PyTorch以及DeepSpeed、Megatron等分布式训练工具，并有顶会论文或竞赛成绩者优先。工作地点为杭州、北京。"
+    }
+  ]
+}
