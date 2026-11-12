@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-13T07:30:00+11:00",
+  "auMode": "主高峰",
+  "cnMode": "秋招",
+  "sources": [
+    "seek.com.au",
+    "nowcoder.com"
+  ],
+  "stats": {
+    "auCandidates": 14,
+    "auLive": 2,
+    "cnCandidates": 18,
+    "cnLive": 7
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "company": "PM-Partners Group",
+      "title": "Data Business Analyst x 3 (Banking & Finance)",
+      "level": "Senior",
+      "category": "Business Analyst",
+      "location": "Sydney CBD, NSW",
+      "applyUrl": "https://www.seek.com.au/job/55479726",
+      "description": "Data Business Analyst x 3 – Banking & Finance, PM-Partners Group, Sydney CBD (Contract/Temp). PM-Partners Group is seeking three Business Analysts with data management experience for a large banking group in a global markets division. 6 month Contracts + Extensions available. Flexible remote work or Sydney CBD. The role requires at least five years of BA experience in banking and finance, proficiency with SQL, and skills with enterprise data principles and big data platform tools. Applications to Paul Micallef at PM-Partners via SEEK or by email.",
+      "snippet": "Data Business Analyst x 3 – Banking & Finance, PM-Partners Group, Sydney CBD (Contract/Temp). PM-Partners Group is seeking three Business Analysts with data management experience for a large banking group in a global markets division. 6 month Contracts + Extensions available. Flexible remote work or Sydney CBD. The role requires at least five years of BA experience in banking and finance, proficiency with SQL, and skills with enterprise data principles and big data platform tools. Applications to Paul Micallef at PM-Partners via SEEK or by email.",
+      "descriptionSource": "seek.com.au"
+    },
+    {
+      "market": "AU",
+      "company": "Elula",
+      "title": "Machine Learning Engineer",
+      "level": "Mid",
+      "category": "ML Engineer",
+      "location": "Sydney CBD, NSW",
+      "applyUrl": "https://www.seek.com.au/job/55629414",
+      "description": "Machine Learning Engineer at Elula, Sydney CBD and Inner West. Full-time with flexible work arrangements, posted 22 days ago. Requires strong programming in at least one language such as Python, R, Scala or Java; commercial experience building and automating big data pipelines on cloud platforms, preferably AWS, using tools like Spark or Glue; expertise with SQL and relational databases; and experience producing production-grade data models. Experience in financial services or retail banking, and familiarity with CI/CD and DevOps, are listed as optional extras. Applicants must submit a CV and a cover letter explaining what draws them to Elula and the job.",
+      "snippet": "Machine Learning Engineer at Elula, Sydney CBD and Inner West. Full-time with flexible work arrangements, posted 22 days ago. Requires strong programming in at least one language such as Python, R, Scala or Java; commercial experience building and automating big data pipelines on cloud platforms, preferably AWS, using tools like Spark or Glue; expertise with SQL and relational databases; and experience producing production-grade data models. Experience in financial services or retail banking, and familiarity with CI/CD and DevOps, are listed as optional extras. Applicants must submit a CV and a cover letter explaining what draws them to Elula and the job.",
+      "descriptionSource": "seek.com.au"
+    },
+    {
+      "market": "CN",
+      "company": "中国电信天翼云",
+      "title": "算法工程师（向量存储与记忆体系方向）",
+      "level": "Graduate",
+      "category": "ML Engineer",
+      "location": "北京",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/451978",
+      "description": "算法工程师（向量存储与记忆体系方向）—中国电信天翼云，北京，2027届校招。职责：研发向量网关、SDK及底层引擎，优化向量索引与IO链路；搭建AI智能体长期记忆框架。技术要求：理解分布式存储原理和一致性协议，在高并发存储、索引及IO优化方面有较深经验；有智能体记忆算法研发经验者优先。招聘2027届硕士，工作地点北京，投递时间2026年7月2日至2028年8月2日。",
+      "snippet": "算法工程师（向量存储与记忆体系方向）—中国电信天翼云，北京，2027届校招。职责：研发向量网关、SDK及底层引擎，优化向量索引与IO链路；搭建AI智能体长期记忆框架。技术要求：理解分布式存储原理和一致性协议，在高并发存储、索引及IO优化方面有较深经验；有智能体记忆算法研发经验者优先。招聘2027届硕士，工作地点北京，投递时间2026年7月2日至2028年8月2日。",
+      "descriptionSource": "nowcoder.com"
+    },
+    {
+      "market": "CN",
+      "company": "虾皮(Shopee)",
+      "title": "算法工程师-AIGC基模方向",
+      "level": "Graduate",
+      "category": "ML Engineer",
+      "location": "深圳",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/462200",
+      "description": "算法工程师-AIGC基模方向（27届秋招），深圳虾皮信息科技有限公司。职责：图像/视频生成基础大模型研发，涵盖架构设计、预训练、后训练及算法优化，以及训练基础设施（数据管道、数据质量、评估系统）构建。要求：2027届毕业生，计算机、人工智能、数学等相关专业，硕士及以上学历；熟悉Transformer、Diffusion、Flow Matching及自回归模型架构；具备Python和PyTorch技能。加分项：视频tokenizer、长视频建模、强化学习、LoRA、模型蒸馏及Agent经验。薪资25-50K×15薪，投递时间：2026年8月20日至2026年12月31日。",
+      "snippet": "算法工程师-AIGC基模方向（27届秋招），深圳虾皮信息科技有限公司。职责：图像/视频生成基础大模型研发，涵盖架构设计、预训练、后训练及算法优化，以及训练基础设施（数据管道、数据质量、评估系统）构建。要求：2027届毕业生，计算机、人工智能、数学等相关专业，硕士及以上学历；熟悉Transformer、Diffusion、Flow Matching及自回归模型架构；具备Python和PyTorch技能。加分项：视频tokenizer、长视频建模、强化学习、LoRA、模型蒸馏及Agent经验。薪资25-50K×15薪，投递时间：2026年8月20日至2026年12月31日。",
+      "descriptionSource": "nowcoder.com"
+    },
+    {
+      "market": "CN",
+      "company": "虾皮(Shopee)",
+      "title": "MPID-AIGC算法工程师",
+      "level": "Graduate",
+      "category": "AI Engineer",
+      "location": "深圳",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/461351",
+      "description": "MPID-AIGC算法工程师（27届ASP），深圳虾皮信息科技有限公司，深圳。职责：参与图像/视频生成基础大模型研发，涵盖架构设计、预训练、后训练及训练数据和评估管道构建。要求：2027届应届毕业生，计算机、人工智能、数学等相关专业，硕士及以上学历；熟悉Transformer、Diffusion、Flow Matching架构；具备PyTorch技能。薪资40-50K×15薪，投递时间：2026年8月17日至2026年12月31日。",
+      "snippet": "MPID-AIGC算法工程师（27届ASP），深圳虾皮信息科技有限公司，深圳。职责：参与图像/视频生成基础大模型研发，涵盖架构设计、预训练、后训练及训练数据和评估管道构建。要求：2027届应届毕业生，计算机、人工智能、数学等相关专业，硕士及以上学历；熟悉Transformer、Diffusion、Flow Matching架构；具备PyTorch技能。薪资40-50K×15薪，投递时间：2026年8月17日至2026年12月31日。",
+      "descriptionSource": "nowcoder.com"
+    },
+    {
+      "market": "CN",
+      "company": "阿里巴巴",
+      "title": "大模型推理KV Cache研发工程师",
+      "level": "Graduate",
+      "category": "MLOps / AI Infra",
+      "location": "杭州/北京",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/446421",
+      "description": "大模型推理KV Cache系统：从存储架构到软硬协同的全栈演进——阿里巴巴集团校招，阿里星2027届实习生，杭州/北京。职责：设计和实现面向大规模推理的存储系统，构建显存、本地内存到分布式冷存储的多级存储池；基于特征识别实现数据的智能调度与分布管理，推动计算存储分离、弹性资源池等核心能力落地；定义存储与推理引擎之间的统一数据访问抽象层，采用零侵入式接口设计；跟踪KV Cache前沿进展，推动量化、压缩、调度等技术在生产环境落地。投递时间：2026年4月24日至2027年4月24日。",
+      "snippet": "大模型推理KV Cache系统：从存储架构到软硬协同的全栈演进——阿里巴巴集团校招，阿里星2027届实习生，杭州/北京。职责：设计和实现面向大规模推理的存储系统，构建显存、本地内存到分布式冷存储的多级存储池；基于特征识别实现数据的智能调度与分布管理，推动计算存储分离、弹性资源池等核心能力落地；定义存储与推理引擎之间的统一数据访问抽象层，采用零侵入式接口设计；跟踪KV Cache前沿进展，推动量化、压缩、调度等技术在生产环境落地。投递时间：2026年4月24日至2027年4月24日。",
+      "descriptionSource": "nowcoder.com"
+    },
+    {
+      "market": "CN",
+      "company": "小鹏汽车",
+      "title": "AI产品经理",
+      "level": "Graduate",
+      "category": "AI Product / PM",
+      "location": "广州",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/462323",
+      "description": "27届校招 AI产品经理，广州小鹏汽车科技有限公司，广州。职责：挖掘AI可带来增量价值的业务机会，参与AI产品与Agent类产品的规划和设计，基于用户反馈持续优化AI效果，跨团队推进产品上线。要求：2027届本科及以上应届生，计算机、人工智能、软件工程、自动化、数学等相关专业优先；具备产品感、用户同理心，以及对大模型、Agent、RAG等技术的理解；有产品实习或Agent项目经验者优先。薪资面议，投递时间：2026年8月22日至2029年8月21日。",
+      "snippet": "27届校招 AI产品经理，广州小鹏汽车科技有限公司，广州。职责：挖掘AI可带来增量价值的业务机会，参与AI产品与Agent类产品的规划和设计，基于用户反馈持续优化AI效果，跨团队推进产品上线。要求：2027届本科及以上应届生，计算机、人工智能、软件工程、自动化、数学等相关专业优先；具备产品感、用户同理心，以及对大模型、Agent、RAG等技术的理解；有产品实习或Agent项目经验者优先。薪资面议，投递时间：2026年8月22日至2029年8月21日。",
+      "descriptionSource": "nowcoder.com"
+    },
+    {
+      "market": "CN",
+      "company": "Klook客路",
+      "title": "产品经理（2027届校招实习生）",
+      "level": "Graduate",
+      "category": "AI Product / PM",
+      "location": "深圳",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/464579",
+      "description": "2027届校招实习生产品经理——Klook客路，深圳。职责：负责Klook旗下某一产品线的策划、设计和运营，有机会获得转正名额；工作环境为AI Native，日常借助大模型、AI Agent等前沿工具完成产品经理工作，并参与探索AI能力在旅游电商场景下的产品化落地。要求：2027届本科及以上应届生，可在2026年实习至少2个月；了解主流AI产品与大模型的能力边界，有用AI工具解决实际问题的经历。薪资18-25K×14薪，投递时间：2026年9月1日至2026年12月31日。",
+      "snippet": "2027届校招实习生产品经理——Klook客路，深圳。职责：负责Klook旗下某一产品线的策划、设计和运营，有机会获得转正名额；工作环境为AI Native，日常借助大模型、AI Agent等前沿工具完成产品经理工作，并参与探索AI能力在旅游电商场景下的产品化落地。要求：2027届本科及以上应届生，可在2026年实习至少2个月；了解主流AI产品与大模型的能力边界，有用AI工具解决实际问题的经历。薪资18-25K×14薪，投递时间：2026年9月1日至2026年12月31日。",
+      "descriptionSource": "nowcoder.com"
+    },
+    {
+      "market": "CN",
+      "company": "昆仑芯",
+      "title": "AI推理框架研发工程师",
+      "level": "Graduate",
+      "category": "MLOps / AI Infra",
+      "location": "北京/上海/杭州/深圳",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/30300000146097",
+      "description": "2027届AI推理框架研发工程师——昆仑芯校招，北京/上海/杭州/深圳。职责：将AI模型适配到昆仑芯芯片并优化性能，构建推理软件栈（框架和图编译器），以及开发算子和部署。要求：硕士及以上学历，计算机科学或相关专业；熟悉Python、C/C++和Linux；具备深度学习框架经验（vLLM、SGLang、PyTorch或TVM为加分项）；有模型推理和性能调优经验优先。薪资面议，发布日期：2026年5月25日，投递地点：北京、上海、杭州、深圳。",
+      "snippet": "2027届AI推理框架研发工程师——昆仑芯校招，北京/上海/杭州/深圳。职责：将AI模型适配到昆仑芯芯片并优化性能，构建推理软件栈（框架和图编译器），以及开发算子和部署。要求：硕士及以上学历，计算机科学或相关专业；熟悉Python、C/C++和Linux；具备深度学习框架经验（vLLM、SGLang、PyTorch或TVM为加分项）；有模型推理和性能调优经验优先。薪资面议，发布日期：2026年5月25日，投递地点：北京、上海、杭州、深圳。",
+      "descriptionSource": "nowcoder.com"
+    }
+  ]
+}
