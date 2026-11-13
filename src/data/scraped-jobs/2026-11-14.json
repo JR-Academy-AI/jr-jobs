@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T08:30:00+11:00",
+  "auMode": "主高峰",
+  "cnMode": "秋招",
+  "sources": [
+    "seek.com.au",
+    "lever.co",
+    "pageuppeople.com",
+    "nowcoder.com",
+    "campus.niuqizp.com",
+    "wondercv.com"
+  ],
+  "stats": {
+    "auTotal": 6,
+    "cnTotal": 6,
+    "totalJobs": 12
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Data Analyst, Construction",
+      "company": "Mirvac",
+      "location": "Sydney, NSW",
+      "category": "Business Analyst",
+      "level": "Mid",
+      "applyUrl": "https://www.seek.com.au/job/37065643",
+      "description": "Data Analyst for Mirvac's Construction function in Sydney, using SQL and Power BI to uncover trends, improve operational efficiency, and drive data-led decision-making.",
+      "snippet": "Data Analyst for Mirvac's Construction function in Sydney, using SQL and Power BI to uncover trends, improve operational efficiency, and drive data-led decision-making.",
+      "descriptionSource": "seek"
+    },
+    {
+      "market": "AU",
+      "title": "Graduate Data Engineer",
+      "company": "Macquarie Technology Group",
+      "location": "Sydney, NSW",
+      "category": "Data Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://jobs.lever.co/macquarietechnologygroup/7f07ee9d-b313-4745-a244-0c33cc31cd0f",
+      "description": "The role will be based in Sydney with a blended working arrangement in our CBD offices, with the rest of the time working from home. Part of a structured two-year Graduate Program focused on building data platforms for reporting, analytics and AI, with mentoring, certifications and business rotations.",
+      "snippet": "The role will be based in Sydney with a blended working arrangement in our CBD offices, with the rest of the time working from home. Part of a structured two-year Graduate Program focused on building data platforms for reporting, analytics and AI, with mentoring, certifications and business rotations.",
+      "descriptionSource": "lever"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Data Engineer",
+      "company": "Coates Group",
+      "location": "Sydney, NSW",
+      "category": "Data Engineer",
+      "level": "Senior",
+      "applyUrl": "https://jobs.lever.co/coatesgroup/13bd2acf-ef02-46c9-9618-dc76a7967a1d",
+      "description": "Sydney, Finance & Business Technology Systems, Full-time, Hybrid. Work with tools such as Snowflake, Airflow, Airbyte, Athena, Glue, DBT, S3 and Azure Blob on cloud platforms such as AWS and Azure, with GCP as a bonus.",
+      "snippet": "Sydney, Finance & Business Technology Systems, Full-time, Hybrid. Work with tools such as Snowflake, Airflow, Airbyte, Athena, Glue, DBT, S3 and Azure Blob on cloud platforms such as AWS and Azure, with GCP as a bonus.",
+      "descriptionSource": "lever"
+    },
+    {
+      "market": "AU",
+      "title": "Lead Data Engineer",
+      "company": "Immutable",
+      "location": "Sydney, NSW",
+      "category": "Data Engineer",
+      "level": "Senior",
+      "applyUrl": "https://jobs.lever.co/immutable/a3e009ba-350d-499c-b923-9e90c057df08",
+      "description": "Lead Data Engineer at Immutable, Sydney – Full Time Permanent / Hybrid role in Platform Engineering. Drive the data lifecycle for the Immutable Audience platform, focusing on data ingestion, transformation, modeling, and delivery to both internal and external customers. Hybrid 3 days a week in Sydney head office.",
+      "snippet": "Lead Data Engineer at Immutable, Sydney – Full Time Permanent / Hybrid role in Platform Engineering. Drive the data lifecycle for the Immutable Audience platform, focusing on data ingestion, transformation, modeling, and delivery to both internal and external customers. Hybrid 3 days a week in Sydney head office.",
+      "descriptionSource": "lever"
+    },
+    {
+      "market": "AU",
+      "title": "Analytics Engineer, Strategic Analytics",
+      "company": "Scentre Group",
+      "location": "Sydney, NSW",
+      "category": "Data Engineer",
+      "level": "Mid",
+      "applyUrl": "https://8y4demmdqh.1afc143c70b83ffdeb7f8619cc925cc4.careersite.pageuppeople.com/en/job/498373/analytics-engineer-strategic-analytics-team",
+      "description": "Analytics Engineer, Strategic Analytics Team at Scentre Group, Sydney – Permanent Full Time. Degree in Analytics, Information Systems, or Computer/Data Science, with 2+ years of experience in analytics enablement, data transformation, or BI development. Experience with Git, version control, and CI/CD workflows for analytics code.",
+      "snippet": "Analytics Engineer, Strategic Analytics Team at Scentre Group, Sydney – Permanent Full Time. Degree in Analytics, Information Systems, or Computer/Data Science, with 2+ years of experience in analytics enablement, data transformation, or BI development. Experience with Git, version control, and CI/CD workflows for analytics code.",
+      "descriptionSource": "pageuppeople"
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist, Strategic Analytics",
+      "company": "Scentre Group",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "applyUrl": "https://8y4demmdqh.1afc143c70b83ffdeb7f8619cc925cc4.careersite.pageuppeople.com/en/job/498370/data-scientist-strategic-analytics-team",
+      "description": "Data Scientist, Strategic Analytics Team at Scentre Group, Sydney – Permanent Full Time. Work within the Data & Insights team. Able to translate business problems into analytical frameworks with measurable outcomes.",
+      "snippet": "Data Scientist, Strategic Analytics Team at Scentre Group, Sydney – Permanent Full Time. Work within the Data & Insights team. Able to translate business problems into analytical frameworks with measurable outcomes.",
+      "descriptionSource": "pageuppeople"
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法工程师",
+      "company": "中科闻歌",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Mid",
+      "applyUrl": "https://www.nowcoder.com/jobs/detail/324071",
+      "description": "职责包括雅意大模型的领域微调、指令微调数据构建，以及 Prompt 设计与评测。任职要求为硕士及以上学历，并偏好有大模型预训练、微调或强化学习经验的人。薪资标注为25-35K×15薪。",
+      "snippet": "职责包括雅意大模型的领域微调、指令微调数据构建，以及 Prompt 设计与评测。任职要求为硕士及以上学历，并偏好有大模型预训练、微调或强化学习经验的人。薪资标注为25-35K×15薪。",
+      "descriptionSource": "nowcoder"
+    },
+    {
+      "market": "CN",
+      "title": "AI算法工程师（2027届校招）",
+      "company": "南方基金",
+      "location": "上海",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://campus.niuqizp.com/job-v8s5ZzzNt.html",
+      "description": "南方基金2027届校园招聘全球启动，AI专项岗位包括：AI算法工程师、AI应用开发工程师、AI数据工程师、AI产品经理，工作城市：上海、深圳、北京",
+      "snippet": "南方基金2027届校园招聘全球启动，AI专项岗位包括：AI算法工程师、AI应用开发工程师、AI数据工程师、AI产品经理，工作城市：上海、深圳、北京",
+      "descriptionSource": "niuqizp"
+    },
+    {
+      "market": "CN",
+      "title": "AI数据工程师（2027届校招）",
+      "company": "广发基金",
+      "location": "广州",
+      "category": "Data Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://campus.niuqizp.com/job-vwlN5nzaM.html",
+      "description": "广发基金2026校园招聘聚焦AI领域，AI数据工程师：为AI项目搭建高质量数据底座，工作地广州，要求掌握SQL和Python，网申时间:2026-10-16 ~ 2026-12-15",
+      "snippet": "广发基金2026校园招聘聚焦AI领域，AI数据工程师：为AI项目搭建高质量数据底座，工作地广州，要求掌握SQL和Python，网申时间:2026-10-16 ~ 2026-12-15",
+      "descriptionSource": "niuqizp"
+    },
+    {
+      "market": "CN",
+      "title": "AI数据工程师（2027届）",
+      "company": "易方达基金",
+      "location": "上海",
+      "category": "Data Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.wondercv.com/xiaozhao/efunds-ai-talent-campus-2027-12623-48cf3a/",
+      "description": "易方达基金2027届AI人才专项招聘，共21个职位在招，包括大模型算法工程师、AI全栈工程师、AI数据工程师和AI安全工程师。",
+      "snippet": "易方达基金2027届AI人才专项招聘，共21个职位在招，包括大模型算法工程师、AI全栈工程师、AI数据工程师和AI安全工程师。",
+      "descriptionSource": "wondercv"
+    },
+    {
+      "market": "CN",
+      "title": "AI量化分析师（2027届校招）",
+      "company": "嘉实基金",
+      "location": "北京",
+      "category": "Data Scientist",
+      "level": "Graduate",
+      "applyUrl": "https://www.wondercv.com/xiaozhao/harvest-fund-2027-campus-beijing-shanghai-13978-6e3280/",
+      "description": "嘉实基金2027届校园招聘全面开启，招聘岗位包括量化研究、交易和AI分析师岗位，面向金融、计算机、数学统计等专业",
+      "snippet": "嘉实基金2027届校园招聘全面开启，招聘岗位包括量化研究、交易和AI分析师岗位，面向金融、计算机、数学统计等专业",
+      "descriptionSource": "wondercv"
+    },
+    {
+      "market": "CN",
+      "title": "AI大模型算法工程师（2027届）",
+      "company": "中国移动",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://www.wondercv.com/xiaozhao/china-mobile-2027-campus-recruitment-13968-7ba7d1/",
+      "description": "中国移动2027届校园招聘全面启动！AI大模型算法工程师、云计算工程师、大数据工程师等岗位专区开启，笔试10月24日，面试10月至12月",
+      "snippet": "中国移动2027届校园招聘全面启动！AI大模型算法工程师、云计算工程师、大数据工程师等岗位专区开启，笔试10月24日，面试10月至12月",
+      "descriptionSource": "wondercv"
+    }
+  ]
+}
