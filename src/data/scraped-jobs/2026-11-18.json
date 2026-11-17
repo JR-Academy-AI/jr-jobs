@@ -1,0 +1,158 @@
+{
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-18T07:30:00+10:00",
+  "auMode": "主高峰",
+  "cnMode": "秋招",
+  "sources": [
+    "seek.com.au",
+    "au.gradconnection.com",
+    "eml.wd105.myworkdayjobs.com",
+    "jobs.slalom.com",
+    "jobs.workable.com",
+    "nowcoder.com",
+    "careers.tencent.com",
+    "talent.baidu.com",
+    "vrfi1sk8a0.jobs.feishu.cn",
+    "seed.bytedance.com"
+  ],
+  "stats": {
+    "auCandidates": 18,
+    "auLive": 6,
+    "cnCandidates": 15,
+    "cnLive": 5
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Principal AI Engineer",
+      "company": "MCS Consulting",
+      "location": "Sydney, NSW",
+      "category": "AI Engineer",
+      "level": "Senior",
+      "applyUrl": "https://www.seek.com.au/job/56720638",
+      "description": "MCS Consulting is hiring a Principal AI Engineer in Sydney, NSW, full-time. The role has a computer vision focus and requires hands-on experience building production AI systems. Candidates should have a strong background in computer vision model development, deployment and optimisation, with experience leading technical AI engagements for enterprise clients. The position involves architecting end-to-end AI solutions and working closely with stakeholders to deliver AI-powered products. The role is permanent and advertised on SEEK.",
+      "snippet": "MCS Consulting is hiring a Principal AI Engineer in Sydney, NSW, full-time. The role has a computer vision focus and requires hands-on experience building production AI systems. Candidates should have a strong background in computer vision model development, deployment and optimisation, with experience leading technical AI engagements for enterprise clients. The position involves architecting end-to-end AI solutions and working closely with stakeholders to deliver AI-powered products. The role is permanent and advertised on SEEK.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "MLOps Engineer",
+      "company": "EML Group",
+      "location": "Sydney, NSW",
+      "category": "MLOps / AI Infra",
+      "level": "Mid",
+      "applyUrl": "https://eml.wd105.myworkdayjobs.com/en-US/EML/job/MLOps-Engineer_JR6455",
+      "description": "EML Group is hiring a full-time MLOps Engineer in Sydney on a 12-month fixed-term contract. The role is hybrid with flexibility to work from home after probation. Requirements include 2+ years of experience as an MLOps engineer or Software Engineer with Australian working rights, and experience with FastAPI, GitHub Actions CI/CD, Kubernetes, and Linux/Bash. Responsibilities include deploying and optimising Large Language Model (LLM) inference workloads in production using technologies such as vLLM and Ray. EML is a purpose-driven workers compensation organisation headquartered in Sydney.",
+      "snippet": "EML Group is hiring a full-time MLOps Engineer in Sydney on a 12-month fixed-term contract. The role is hybrid with flexibility to work from home after probation. Requirements include 2+ years of experience as an MLOps engineer or Software Engineer with Australian working rights, and experience with FastAPI, GitHub Actions CI/CD, Kubernetes, and Linux/Bash. Responsibilities include deploying and optimising Large Language Model (LLM) inference workloads in production using technologies such as vLLM and Ray. EML is a purpose-driven workers compensation organisation headquartered in Sydney.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Graduate Engineer - Digital",
+      "company": "Hatch",
+      "location": "Perth, WA",
+      "category": "Data Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/hatch/jobs/hatch-graduate-engineer-digital-perth-2027/",
+      "description": "Hatch is offering a Graduate Engineer - Digital program for a 2027 start, based in Perth, Western Australia. The program is open to candidates completing or recently completing a degree in engineering, computer science or data science. Graduates work within Hatch's digital engineering practice, which builds AI and data-driven solutions for the mining and infrastructure sectors. The role offers exposure to digital twins, data analytics, and technology implementation on major resource projects across Australia.",
+      "snippet": "Hatch is offering a Graduate Engineer - Digital program for a 2027 start, based in Perth, Western Australia. The program is open to candidates completing or recently completing a degree in engineering, computer science or data science. Graduates work within Hatch's digital engineering practice, which builds AI and data-driven solutions for the mining and infrastructure sectors. The role offers exposure to digital twins, data analytics, and technology implementation on major resource projects across Australia.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "2026/2027 Macquarie Summer Internship - Technology",
+      "company": "Macquarie Group",
+      "location": "Sydney, NSW",
+      "category": "Data Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://au.gradconnection.com/employers/macquarie-group/jobs/macquarie-group-20262027-macquarie-summer-internship-technology-program-sydney-and-brisbane-technology-it/",
+      "description": "Macquarie Group is running a 2026/2027 Summer Internship Technology Program, a 12-week paid internship running from December 2026 to January 2027 in Sydney and Brisbane. The program covers technology areas including data engineering, software engineering, and enterprise technology. Completion can fast-track candidates into Macquarie's graduate program. Applicants should be in their penultimate or final year of a technology-related degree and have strong analytical and problem-solving skills.",
+      "snippet": "Macquarie Group is running a 2026/2027 Summer Internship Technology Program, a 12-week paid internship running from December 2026 to January 2027 in Sydney and Brisbane. The program covers technology areas including data engineering, software engineering, and enterprise technology. Completion can fast-track candidates into Macquarie's graduate program. Applicants should be in their penultimate or final year of a technology-related degree and have strong analytical and problem-solving skills.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Engineer - Data and AI",
+      "company": "Slalom",
+      "location": "Sydney, NSW",
+      "category": "Data Engineer",
+      "level": "Senior",
+      "applyUrl": "https://jobs.slalom.com/en_US/careersmarketplace/JobDetail/Senior-Engineer-Data-and-AI-Sydney-Canberra-Melbourne/1797",
+      "description": "Slalom is recruiting a Senior Engineer in Data and AI for offices in Sydney, Canberra, or Melbourne, full-time. The role involves designing and delivering data and AI solutions for enterprise clients across multiple industries. Candidates need a strong background in modern data platforms and cloud technologies. Slalom is a global consulting firm focused on strategy, technology, and business transformation, with offices across Australia.",
+      "snippet": "Slalom is recruiting a Senior Engineer in Data and AI for offices in Sydney, Canberra, or Melbourne, full-time. The role involves designing and delivering data and AI solutions for enterprise clients across multiple industries. Candidates need a strong background in modern data platforms and cloud technologies. Slalom is a global consulting firm focused on strategy, technology, and business transformation, with offices across Australia.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Data Scientist",
+      "company": "CreditorWatch",
+      "location": "Sydney, NSW",
+      "category": "Data Scientist",
+      "level": "Mid",
+      "applyUrl": "https://jobs.workable.com/view/341VB156ehL3rytCHeGGYd/hybrid-data-scientist-in-sydney-at-creditorwatch",
+      "description": "CreditorWatch is hiring a Data Scientist in Sydney CBD, hybrid. The role focuses on building and deploying commercial credit risk models to support CreditorWatch's data-driven business credit reporting platform. Candidates should have experience in machine learning, statistical modelling, and Python, with an interest in applying data science to financial risk problems. CreditorWatch is an Australian fintech company providing business credit information and risk management tools.",
+      "snippet": "CreditorWatch is hiring a Data Scientist in Sydney CBD, hybrid. The role focuses on building and deploying commercial credit risk models to support CreditorWatch's data-driven business credit reporting platform. Candidates should have experience in machine learning, statistical modelling, and Python, with an interest in applying data science to financial risk problems. CreditorWatch is an Australian fintech company providing business credit information and risk management tools.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "混元LLM大模型量化压缩算法工程师",
+      "company": "腾讯",
+      "location": "北京/深圳/上海",
+      "category": "ML Engineer",
+      "level": "Senior",
+      "applyUrl": "https://careers.tencent.com/jobdesc.html?postId=2008479663327956992",
+      "description": "腾讯混元大模型团队招聘混元LLM大模型量化压缩高级算法工程师，工作地点为北京、深圳或上海。岗位职责包括负责LLM量化压缩算法研究与工程落地，涵盖模型量化、剪枝、蒸馏等推理优化技术。要求硕士及以上学历，三年以上相关工作经验，熟悉大模型推理框架，具备扎实的深度学习基础和算法工程化能力。",
+      "snippet": "腾讯混元大模型团队招聘混元LLM大模型量化压缩高级算法工程师，工作地点为北京、深圳或上海。岗位职责包括负责LLM量化压缩算法研究与工程落地，涵盖模型量化、剪枝、蒸馏等推理优化技术。要求硕士及以上学历，三年以上相关工作经验，熟悉大模型推理框架，具备扎实的深度学习基础和算法工程化能力。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法工程师",
+      "company": "百度",
+      "location": "北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://talent.baidu.com/jobs/detail/GRADUATE/ccfdea4e-4ae4-4954-9062-fd94960a2861",
+      "description": "百度2027届校园招聘大模型算法工程师，职位编号J100728，工作地点北京，共76个开放名额，于2026年7月21日发布。岗位职责涵盖LLM预训练、后训练（SFT/RLHF）及推理优化、RAG系统研究与工程落地。要求计算机、人工智能或数学相关专业本科及以上学历，熟练掌握Python、PyTorch等主流框架，对大模型技术有较深理解。",
+      "snippet": "百度2027届校园招聘大模型算法工程师，职位编号J100728，工作地点北京，共76个开放名额，于2026年7月21日发布。岗位职责涵盖LLM预训练、后训练（SFT/RLHF）及推理优化、RAG系统研究与工程落地。要求计算机、人工智能或数学相关专业本科及以上学历，熟练掌握Python、PyTorch等主流框架，对大模型技术有较深理解。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法工程师-2027届",
+      "company": "MiniMax",
+      "location": "上海/北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/7573984779819010313/detail",
+      "description": "MiniMax招聘2027届大模型算法工程师，工作地点上海或北京。岗位聚焦研发超大规模基础模型（LLM&MLLM），负责模型能力迭代和系统优化。要求候选人有扎实的深度学习基础，熟悉大模型训练与评估流程，具备PyTorch开发经验，有顶级学术会议论文或开源项目经历者优先。MiniMax是国内头部大模型创业公司，主力产品包括通用大模型和多模态模型。",
+      "snippet": "MiniMax招聘2027届大模型算法工程师，工作地点上海或北京。岗位聚焦研发超大规模基础模型（LLM&MLLM），负责模型能力迭代和系统优化。要求候选人有扎实的深度学习基础，熟悉大模型训练与评估流程，具备PyTorch开发经验，有顶级学术会议论文或开源项目经历者优先。MiniMax是国内头部大模型创业公司，主力产品包括通用大模型和多模态模型。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "大模型算法工程师-预训练-2027届校招",
+      "company": "MiniMax",
+      "location": "上海/北京",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/7681599148466571566/detail",
+      "description": "MiniMax招聘2027届大模型算法工程师（预训练方向），工作地点上海或北京。岗位职责聚焦参与MiniMax通用大模型的预训练体系建设，包括数据工程、训练效率优化和模型质量提升。要求有深度学习和分布式训练实践经验，熟悉预训练流程中的数据处理、训练稳定性和scaling law等问题。有大模型预训练项目经验或相关论文发表者优先。",
+      "snippet": "MiniMax招聘2027届大模型算法工程师（预训练方向），工作地点上海或北京。岗位职责聚焦参与MiniMax通用大模型的预训练体系建设，包括数据工程、训练效率优化和模型质量提升。要求有深度学习和分布式训练实践经验，熟悉预训练流程中的数据处理、训练稳定性和scaling law等问题。有大模型预训练项目经验或相关论文发表者优先。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "Seed大模型算法工程师-2027届校招",
+      "company": "字节跳动",
+      "location": "北京/上海",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://seed.bytedance.com/zh/seedearlycareer",
+      "description": "字节跳动Seed大模型团队招聘2027届校招算法工程师，工作地点北京或上海。Seed项目面向2026年9月至2027年8月毕业的应届生，每人每年有四次投递机会。岗位涵盖基础研究方向（预训练、后训练、推理优化、多模态）和工程架构方向（分布式训练、高性能推理、模型压缩与部署），计划全球招募约100位大模型领域人才。要求计算机、人工智能等相关专业，熟练掌握Python/C++/CUDA，有顶会论文或开源项目经历者优先。",
+      "snippet": "字节跳动Seed大模型团队招聘2027届校招算法工程师，工作地点北京或上海。Seed项目面向2026年9月至2027年8月毕业的应届生，每人每年有四次投递机会。岗位涵盖基础研究方向（预训练、后训练、推理优化、多模态）和工程架构方向（分布式训练、高性能推理、模型压缩与部署），计划全球招募约100位大模型领域人才。要求计算机、人工智能等相关专业，熟练掌握Python/C++/CUDA，有顶会论文或开源项目经历者优先。",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
