@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-21",
+  "generatedAt": "2026-11-21T07:30:00+10:00",
+  "auMode": "主高峰",
+  "cnMode": "秋招",
+  "sources": [
+    "harveynormansupportcareers.com.au",
+    "jobs.smartrecruiters.com",
+    "jobs.bilibili.com"
+  ],
+  "stats": {
+    "auCandidates": 5,
+    "auLive": 2,
+    "cnCandidates": 6,
+    "cnLive": 3
+  },
+  "jobs": [
+    {
+      "market": "AU",
+      "title": "Data Engineer",
+      "company": "Harvey Norman",
+      "location": "Homebush West, Sydney NSW",
+      "category": "Data Engineer",
+      "level": "Mid",
+      "applyUrl": "https://www.harveynormansupportcareers.com.au/en/job/577489/data-engineer",
+      "description": "Design, build and maintain reliable data pipelines, datasets and integration solutions. Integrate data pipelines with applications, APIs, Power Platform and automation services. Maintain technical documentation, operational procedures, alerts and support runbooks. Practical experience with Microsoft Azure data services, SQL, databases, APIs and programming or scripting. Understanding of ETL/ELT concepts, automated testing, source control, CI/CD and DevOps practices.",
+      "snippet": "Design, build and maintain reliable data pipelines, datasets and integration solutions. Integrate data pipelines with applications, APIs, Power Platform and automation services. Maintain technical documentation, operational procedures, alerts and support runbooks. Practical experience with Microsoft Azure data services, SQL, databases, APIs and programming or scripting. Understanding of ETL/ELT concepts, automated testing, source control, CI/CD and DevOps practices.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "AU",
+      "title": "Senior Data Engineer",
+      "company": "carsales",
+      "location": "Melbourne VIC",
+      "category": "Data Engineer",
+      "level": "Senior",
+      "applyUrl": "https://jobs.smartrecruiters.com/carsales/744000147096609-senior-data-engineer-data-platform-engineering",
+      "description": "Owns a large part of the data platform built on Snowflake, dbt Cloud, RabbitMQ, Postgres and GitHub Actions. Responsibilities: Snowflake performance and cost management (query profiling, clustering, warehouse configuration), dbt model architecture and testing standards, fault-tolerant pipeline design, incident escalation, and AI tooling evaluation. Requirements: deep Snowflake expertise (clustering, pruning, warehouse sizing, Snowpipe, Streams, Tasks), expert-level dbt Cloud with MetricFlow, strong Python, event-driven messaging (RabbitMQ), production Postgres, data governance. Full-time Australian working rights required.",
+      "snippet": "Owns a large part of the data platform built on Snowflake, dbt Cloud, RabbitMQ, Postgres and GitHub Actions. Responsibilities: Snowflake performance and cost management (query profiling, clustering, warehouse configuration), dbt model architecture and testing standards, fault-tolerant pipeline design, incident escalation, and AI tooling evaluation. Requirements: deep Snowflake expertise (clustering, pruning, warehouse sizing, Snowpipe, Streams, Tasks), expert-level dbt Cloud with MetricFlow, strong Python, event-driven messaging (RabbitMQ), production Postgres, data governance. Full-time Australian working rights required.",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "语音算法工程师（校招）",
+      "company": "哔哩哔哩",
+      "location": "上海",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://jobs.bilibili.com/campus/positions/28845",
+      "description": "音频相关大模型研发，包括语音识别、对话模型和语音合成等，还有数据生成与清洗、以及SFT、RL等后训练优化，应用于Bilibili视频理解、字幕和搜索场景。偏好InterSpeech、ICASSP、ACL等顶会发表经历。面向2026年9月至2027年8月毕业的海内外本硕博。",
+      "snippet": "音频相关大模型研发，包括语音识别、对话模型和语音合成等，还有数据生成与清洗、以及SFT、RL等后训练优化，应用于Bilibili视频理解、字幕和搜索场景。偏好InterSpeech、ICASSP、ACL等顶会发表经历。面向2026年9月至2027年8月毕业的海内外本硕博。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "强化学习训练算法工程师（校招）",
+      "company": "哔哩哔哩",
+      "location": "北京 / 上海",
+      "category": "ML Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://jobs.bilibili.com/campus/positions/29586",
+      "description": "RL算法（PPO、DPO、GRPO等）应用于扩散模型去噪，构建RL训练框架、奖励模型、偏好数据集。要求熟悉至少两种RL算法族，PyTorch熟练，可复现顶会RL论文。面向2025年9月-2027年8月毕业生。",
+      "snippet": "RL算法（PPO、DPO、GRPO等）应用于扩散模型去噪，构建RL训练框架、奖励模型、偏好数据集。要求熟悉至少两种RL算法族，PyTorch熟练，可复现顶会RL论文。面向2025年9月-2027年8月毕业生。",
+      "descriptionSource": "search-snippet"
+    },
+    {
+      "market": "CN",
+      "title": "多模态Agent工程师【2027届】",
+      "company": "哔哩哔哩",
+      "location": "上海",
+      "category": "AI Engineer",
+      "level": "Graduate",
+      "applyUrl": "https://jobs.bilibili.com/campus/positions/29913",
+      "description": "设计和开发视频生成 Agent，建设可复用的 Skill、MCP 服务、工具接口及任务工作流；接入Seedance、Kling等模型，沉淀Agent开发框架和技术文档。熟悉ReAct、Multi-Agent、RAG、MCP、Function Calling等Agent相关范式与技术，熟悉主流大模型API和Prompt Engineering。面向2026年9月至2027年8月毕业的海内外本科及以上。",
+      "snippet": "设计和开发视频生成 Agent，建设可复用的 Skill、MCP 服务、工具接口及任务工作流；接入Seedance、Kling等模型，沉淀Agent开发框架和技术文档。熟悉ReAct、Multi-Agent、RAG、MCP、Function Calling等Agent相关范式与技术，熟悉主流大模型API和Prompt Engineering。面向2026年9月至2027年8月毕业的海内外本科及以上。",
+      "descriptionSource": "search-snippet"
+    }
+  ]
+}
